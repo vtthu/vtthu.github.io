@@ -1,0 +1,143 @@
+{
+  "chapters": [
+    {
+      "number": 449,
+      "title": "Tầng tầng thận ảnh",
+      "pages": [
+        {
+          "file": "chapter-449/trang-01.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3292843,
+          "sha256": "2b5aecdb5b6a0ef8f5093b88ee43623ffa1cb11cddde63fa5313fa4353aa9eaf"
+        },
+        {
+          "file": "chapter-449/trang-02.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3226300,
+          "sha256": "ca27cbddbfdc8c6f4b0fc4b0badabe4419db384c5afd71ebe5eca43fa8983be1"
+        },
+        {
+          "file": "chapter-449/trang-03.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3380595,
+          "sha256": "0bf02009630e0bb53e5c6047b6aac2ec6789ab766e9197bedc8e38985ba171b4"
+        },
+        {
+          "file": "chapter-449/trang-04.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3384710,
+          "sha256": "2d2287e1b10d1ac5fccfa1da4836dedc9aa2e3de5016845845498812f418da82"
+        }
+      ]
+    },
+    {
+      "number": 450,
+      "title": "Đã chậm một bước",
+      "pages": [
+        {
+          "file": "chapter-450/trang-01.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3189200,
+          "sha256": "134f19968188522dfd9cf0b5ad6d3a8dcd873113065477d135e3f9dbfdce5de1"
+        },
+        {
+          "file": "chapter-450/trang-02.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3267148,
+          "sha256": "3a0843d8bc9644a434eeee87c7a82723c8bceea11eb4b1e7710ea1a797199f30"
+        },
+        {
+          "file": "chapter-450/trang-03.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3326437,
+          "sha256": "68ed099b6d71ab44785317bd824e79bbe5a24875d6353e9a2388bc8855a7b3d1"
+        },
+        {
+          "file": "chapter-450/trang-04.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3720211,
+          "sha256": "867bc387ca155d862ff9fa7bdc652a2a4dab33cea5cf72442b8e3f89e8364e95"
+        }
+      ]
+    },
+    {
+      "number": 451,
+      "title": "Cung điện",
+      "pages": [
+        {
+          "file": "chapter-451/trang-01.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3396595,
+          "sha256": "2d77d7d11339cfc8b0242475cf85c17aa99f865dd31736e45787a87820d4ac98"
+        },
+        {
+          "file": "chapter-451/trang-02.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3768591,
+          "sha256": "15f8b92c13953f6a6c326560109c949d686e4431256320b4c8b77e0018a96aca"
+        },
+        {
+          "file": "chapter-451/trang-03.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3245257,
+          "sha256": "943f2dabbf4ec1d96999880d9bf41234d6fc3c11a874d23070e124dde22ecc7b"
+        },
+        {
+          "file": "chapter-451/trang-04.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3082445,
+          "sha256": "cc2c036363943e06cfa893d707c053731fb2c98803789433e6fb530ee407026f"
+        }
+      ]
+    },
+    {
+      "number": 452,
+      "title": "Giam cầm",
+      "pages": [
+        {
+          "file": "chapter-452/trang-01.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3414470,
+          "sha256": "a854ff08b42b9c994fbc6a7ec9f00e2e5bf0882b1307038855c0d7798ee71269"
+        },
+        {
+          "file": "chapter-452/trang-02.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3638055,
+          "sha256": "702fbcbc769c386266d1fddad6be26f18e650a81bafe68c6aafd4a5b1994fd04"
+        },
+        {
+          "file": "chapter-452/trang-03.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3689980,
+          "sha256": "4ec2411607a3e1d567ff95faa0b70f1349e649b1f9f47d5f0d40ad6457810985"
+        },
+        {
+          "file": "chapter-452/trang-04.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3893091,
+          "sha256": "8f2829607eeed40addf87be280a3e956c04aeb30e8756d69d635356654c166f4"
+        }
+      ]
+    }
+  ],
+  "format": "Mỗi PNG là một trang dọc tỷ lệ A4; 4 trang/chương; 8 khung cơ bản/trang.",
+  "models": "models/",
+  "memory": "CHARACTER_MEMORY.md"
+}

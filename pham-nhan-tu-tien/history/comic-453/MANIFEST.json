@@ -1,0 +1,30 @@
+{
+  "chapter": 453,
+  "title": "Trở giáo",
+  "pages": [
+    {
+      "file": "pages/trang-01.png",
+      "width": 1055,
+      "height": 1491,
+      "sha256": "4a30fbc9f05f306dc9cfadd210bcffa84a702c2648b4e0efdf375db21d02afe5"
+    },
+    {
+      "file": "pages/trang-02.png",
+      "width": 1055,
+      "height": 1491,
+      "sha256": "976fbb88b3ae567a4c178072ced3bc0b4d1f5a64b552726a18f4d16e8f813624"
+    },
+    {
+      "file": "pages/trang-03.png",
+      "width": 1055,
+      "height": 1491,
+      "sha256": "d83c0953b3a69c48d667e83e570baba54b0e3583ebd5cce611c5abeb0aecf1ae"
+    },
+    {
+      "file": "pages/trang-04.png",
+      "width": 1054,
+      "height": 1492,
+      "sha256": "281ca5f606ee4cd10e7a3bdb2a8cc5f9651943165d1e5ec0c50093f2495fd099"
+    }
+  ]
+}
