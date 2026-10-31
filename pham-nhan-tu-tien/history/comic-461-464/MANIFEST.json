@@ -1,0 +1,141 @@
+{
+  "chapters": [
+    {
+      "chapter": 461,
+      "title": "Pháp tắc chi áo",
+      "pages": [
+        {
+          "file": "chapter-461/trang-01.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3233508,
+          "sha256": "9ca1e8ba8ac7d00881a2551fa81a36a47e272b2dce007de8bf780239afaad650"
+        },
+        {
+          "file": "chapter-461/trang-02.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3411355,
+          "sha256": "a68a2a46178d1b8c7154ab2a12b6e15db0ddd77034c3b15ea3457c623aeee8b3"
+        },
+        {
+          "file": "chapter-461/trang-03.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3459705,
+          "sha256": "8b9c76fd33923296cc94c45cf7851dd4edf804b159b072f5c6b12de2a85f1b2b"
+        },
+        {
+          "file": "chapter-461/trang-04.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3653400,
+          "sha256": "8d460a8d81077b8b7c9b86113be4d19d44c0aff00abfe4a13cfb619a6c56bb5b"
+        }
+      ]
+    },
+    {
+      "chapter": 462,
+      "title": "Rung động",
+      "pages": [
+        {
+          "file": "chapter-462/trang-01.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3643522,
+          "sha256": "1934c3b461472b136cccef48dc83ab112978a94ff921e19b2d463cfdf95ae30f"
+        },
+        {
+          "file": "chapter-462/trang-02.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3468367,
+          "sha256": "b8814a5f1a099aa8a7c6f067b77746f3ca18fdf7ea860ec65d6dd5b636f28692"
+        },
+        {
+          "file": "chapter-462/trang-03.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3507867,
+          "sha256": "2977045488369cab152952328607bcfb5b5e2b86c9f3ec9c226575f9771a14c3"
+        },
+        {
+          "file": "chapter-462/trang-04.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3532894,
+          "sha256": "f50ed38cd9db1d84a26b540ac76b30cd71dd6a317b1ac1c8e32ad04a67a22f29"
+        }
+      ]
+    },
+    {
+      "chapter": 463,
+      "title": "Có càn khôn khác",
+      "pages": [
+        {
+          "file": "chapter-463/trang-01.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3190695,
+          "sha256": "90c424a6b4b768325849a8b2dad7abec712bf424930d802dcb314d095d0f6e11"
+        },
+        {
+          "file": "chapter-463/trang-02.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3138275,
+          "sha256": "995babbfcfb913c22a899326c29a19bdec7d2eed1231c64ed8b35bea3de4f711"
+        },
+        {
+          "file": "chapter-463/trang-03.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3351576,
+          "sha256": "46ec35df1ebb6135a86054498760b00fbd41b1752ea30a5cef30af3a006d1941"
+        },
+        {
+          "file": "chapter-463/trang-04.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3413248,
+          "sha256": "231ea3960b1f96190f44c90f255dd53696b8c4c94b9732a6743f18b9e073f7dd"
+        }
+      ]
+    },
+    {
+      "chapter": 464,
+      "title": "Kỳ tài ngút trời",
+      "pages": [
+        {
+          "file": "chapter-464/trang-01.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3341658,
+          "sha256": "4e86acdda7f186592983e66145402642d5ab6c66ec96a056d9b24818e83d8187"
+        },
+        {
+          "file": "chapter-464/trang-02.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3080383,
+          "sha256": "b44b2ddebaac36712a36737d2e812f107c8266a885acb21924f1133b27c19863"
+        },
+        {
+          "file": "chapter-464/trang-03.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3132446,
+          "sha256": "72b65a08b56884204f255c34722ab330e5fbe541ce1ecd361444a330a5e7d95d"
+        },
+        {
+          "file": "chapter-464/trang-04.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3264846,
+          "sha256": "0ed487a3a7cc9c9148275081f188b4ca8a27442d9944eab5d926a8855e52eaa4"
+        }
+      ]
+    }
+  ],
+  "format": "Mỗi PNG một trang A4 dọc; nhiều thoại, suy nghĩ và lời dẫn."
+}

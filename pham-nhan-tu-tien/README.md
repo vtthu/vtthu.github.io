@@ -1,6 +1,6 @@
 # Phàm Nhân Tu Tiên — Kho truyện và bộ nhớ dự án
 
-Đã lưu các chương441–460, model tham chiếu và hướng dẫn nối truyện.
+Đã lưu các chương441–464, model tham chiếu và hướng dẫn nối truyện.
 
 - [Bộ nhớ dự án](PROJECT_MEMORY.md)
 - [Nhân vật và diễn biến liên tục](CHARACTER_MEMORY.md)
@@ -28,3 +28,7 @@
 - [Chương 458](chapters/458/): 4 trang
 - [Chương 459](chapters/459/): 4 trang
 - [Chương 460](chapters/460/): 4 trang
+- [Chương 461](chapters/461/): 4 trang
+- [Chương 462](chapters/462/): 4 trang
+- [Chương 463](chapters/463/): 4 trang
+- [Chương 464](chapters/464/): 4 trang
