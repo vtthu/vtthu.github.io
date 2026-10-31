@@ -11,7 +11,7 @@
 
 ## Nơi lưu và cách tiếp tục
 Người dùng đã chỉ định repo vtthu/vtthu.github.io để lưu toàn bộ thông tin dự án. Thư mục pham-nhan-tu-tien chứa ảnh hoàn chỉnh, model, lịch sử và ghi chú. Giữ nguyên website gốc ở root repo.
-Đọc CHARACTER_MEMORY.md trước khi tạo chương tiếp, rồi ảnh model liên quan và trang cuối chương453. Điểm nối hiện tại: Hàn Lập vẫn ở linh vực xám, giáp trùng vàng vừa trở giáo diệt cự tằm; chưa thoát, chưa có cảnh Lu trở lại.
+Đọc CHARACTER_MEMORY.md trước khi tạo chương tiếp, rồi ảnh model liên quan và trang cuối chương454. Điểm nối hiện tại: Han còn là Sơn Nhạc Cự Viên vàng, đã tỉnh nhờ Tịch Tà Thần Lôi/Luyện Thần Thuật; vừa tự bạo chuông bạc, quái kiếm đen và đại phiên đen vào vách mây xám, chưa xác nhận thoát. Kim Đồng (giáp trùng KGT-01) đang cầm chân Cừ Linh. Ba tiên khí đã hủy không dùng lại. Dạng Cự Viên có ảnh riêng trong models/, không thay mẫu ngườiV2. Chưa có cảnh Lu trở lại. Các chương tiếp tục được lưu vào repo này theo yêu cầu của người dùng.
 
 ## Nguồn
 Link gốc có dạng https://phamnhantutien.org/truyen/pham-nhan-tu-tien-phan-2-chi-tien-gioi-thien/chuong-NNN-ten-chuong/ . Khi link gốc lỗi đã dùng bản đối chiếu https://vietnamthuquan.eu/TacPham/pham-nhan-tu-tien-2-22891/chuong-NNN . Không chép nguyên văn dài; thoại rút gọn viết lại. Các URL và diễn biến cụ thể trong history/ và CHARACTER_MEMORY.md.

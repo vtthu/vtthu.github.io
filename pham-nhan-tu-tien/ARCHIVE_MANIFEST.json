@@ -64,23 +64,28 @@
       "chapter": 453,
       "pages": 4,
       "directory": "chapters/453"
+    },
+    {
+      "chapter": 454,
+      "pages": 4,
+      "directory": "chapters/454"
     }
   ],
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 28317,
-      "sha256": "1ff39c7b9eebf5b4cb238f30dae5a04a5974029bd02b2e771c1386857b9c9b15"
+      "bytes": 30960,
+      "sha256": "ade456f07dba61c76cc4220de833bf150868ec4e2a117773b4f548d9b881afad"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 2544,
-      "sha256": "0a140d1b13f3d95c599245bb9fb093e26d2ed268e12ac6528076bdfa737ada19"
+      "bytes": 2947,
+      "sha256": "812d4fbc3675e11d65d9a3ca52b528339123a6066320e63166d4798e3fbe4259"
     },
     {
       "path": "README.md",
-      "bytes": 841,
-      "sha256": "5aa63f561f09c1cb173a4f027fb7b5268d7365496910652e67643606f3a28391"
+      "bytes": 882,
+      "sha256": "485890805b6538e2ef6fe49a6dd295a7b540d76e76f8473918390ded16faab32"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -348,6 +353,26 @@
       "sha256": "281ca5f606ee4cd10e7a3bdb2a8cc5f9651943165d1e5ec0c50093f2495fd099"
     },
     {
+      "path": "chapters/454/trang-01.png",
+      "bytes": 3619974,
+      "sha256": "ea1c2f1b6947270159af0cccaa0ce87ec35be4919f6022e0142257b7e65bd456"
+    },
+    {
+      "path": "chapters/454/trang-02.png",
+      "bytes": 3805569,
+      "sha256": "4412109d4db40a6e45f5e9ae61ec27a6206629f6637d892fde1e7c3b82af04d2"
+    },
+    {
+      "path": "chapters/454/trang-03.png",
+      "bytes": 3968590,
+      "sha256": "9e3c7bc0b93e58cd6e59ab8d4407fab5a504a6c7ae2216409771d637af73258e"
+    },
+    {
+      "path": "chapters/454/trang-04.png",
+      "bytes": 3908351,
+      "sha256": "96eda034cc12e8c26f66e421e33997c0e63ea8a4052b256468b896869dc9f3fd"
+    },
+    {
       "path": "history/comic-441/CHARACTER_MEMORY.md",
       "bytes": 5841,
       "sha256": "42bd32c66290947c7a72d4b8dbe50b2fe38c78421b052d3dff6ea2b01be1aff8"
@@ -413,6 +438,21 @@
       "sha256": "e52e191f462929051ec0425372cd661f19bfd3dbb04ab6501a7983bc771df2be"
     },
     {
+      "path": "history/comic-454/CHARACTER_MEMORY.md",
+      "bytes": 30960,
+      "sha256": "ade456f07dba61c76cc4220de833bf150868ec4e2a117773b4f548d9b881afad"
+    },
+    {
+      "path": "history/comic-454/MANIFEST.json",
+      "bytes": 861,
+      "sha256": "5f28943fadd82395603573f280e3fd8487705f3e3b98a48aaa8d23f59a3d61f0"
+    },
+    {
+      "path": "history/comic-454/README.md",
+      "bytes": 912,
+      "sha256": "5dd5994cd0594e923196ebba36e4cff57a42eda5c8b829aa3b44e35d4dbb2717"
+    },
+    {
       "path": "models/cot-diem-tan-nhan-v1.png",
       "bytes": 2351840,
       "sha256": "e2588614d536bef3ce21ab9bc6a6d5fe4af219e55115178f0d8f8be888048b7a"
@@ -426,6 +466,11 @@
       "path": "models/giai-dao-nhan-gdn01.png",
       "bytes": 3013939,
       "sha256": "348771c713cbd9abf89d364798a9d20396e398cc4c8816d5db45cae1e6d4a2df"
+    },
+    {
+      "path": "models/han-lap-son-nhac-cu-vien.png",
+      "bytes": 2842732,
+      "sha256": "d6ece4a1eb2183407a0aa6258f94376686afe0ac37c2e06deb7fc13319124f84"
     },
     {
       "path": "models/han-lap-v2.png",
