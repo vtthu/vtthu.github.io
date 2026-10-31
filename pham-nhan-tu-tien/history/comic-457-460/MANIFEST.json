@@ -1,0 +1,141 @@
+{
+  "chapters": [
+    {
+      "chapter": 457,
+      "title": "Lo lắng",
+      "pages": [
+        {
+          "file": "chapter-457/trang-01.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3689895,
+          "sha256": "0eeddb0babc5d61abb9c7da5f4e390482d1a9a8771cdfc996b48461e5b2f98b1"
+        },
+        {
+          "file": "chapter-457/trang-02.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3868059,
+          "sha256": "b1054f9bae1be18f4c443f10f4e32467b480c9e55a51feaf713146c0de45bc4f"
+        },
+        {
+          "file": "chapter-457/trang-03.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3559626,
+          "sha256": "e95acf3497c00d3659faa996cf2810cfdaa2d34700148c1df08f25ac5de1f2e8"
+        },
+        {
+          "file": "chapter-457/trang-04.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3545905,
+          "sha256": "a9636ac045b92091e46b1309c12813cebd3c54023868a5937eeff6e21f7c37e5"
+        }
+      ]
+    },
+    {
+      "chapter": 458,
+      "title": "Năm trăm năm",
+      "pages": [
+        {
+          "file": "chapter-458/trang-01.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3493324,
+          "sha256": "5f2310709619bcf7e5cee7f87902d2846c67c894373b4a7336596b91dcce93ce"
+        },
+        {
+          "file": "chapter-458/trang-02.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3637973,
+          "sha256": "1234aa940ce5dcd4f031d0b4c96d63892b67f5a3ef6a1ddb7cdfbfa2b1437508"
+        },
+        {
+          "file": "chapter-458/trang-03.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3637226,
+          "sha256": "4345fa3ad8f3f5eee6af54878a003c8509b52b563a5eb8edb5475ca0a96313ec"
+        },
+        {
+          "file": "chapter-458/trang-04.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3432561,
+          "sha256": "24d13c9e582835e12bf781c8387b3e8ddff91fbdb724328f3874f899ccc11cd9"
+        }
+      ]
+    },
+    {
+      "chapter": 459,
+      "title": "Đệ Tam Suy",
+      "pages": [
+        {
+          "file": "chapter-459/trang-01.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3379992,
+          "sha256": "0cae44a46e4f847d86870745dada11ae031a7d3be37b1b515d9ba48a6511ed11"
+        },
+        {
+          "file": "chapter-459/trang-02.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3611688,
+          "sha256": "5588a6b4e5ac7394e7023a41c76e8d302112b485c825f501fbbfbdf20746d60b"
+        },
+        {
+          "file": "chapter-459/trang-03.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3809398,
+          "sha256": "678ef9fbefd27dc8f4980d7a2cc03a3a8876b869fe0b609547f5e92cff117e70"
+        },
+        {
+          "file": "chapter-459/trang-04.png",
+          "width": 1054,
+          "height": 1492,
+          "bytes": 3366125,
+          "sha256": "1b87c72034216f67e9cd3fa03025777f17139d5bba7a07cfa992b3fbd06e8409"
+        }
+      ]
+    },
+    {
+      "chapter": 460,
+      "title": "Lôi trì tẩy anh",
+      "pages": [
+        {
+          "file": "chapter-460/trang-01.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3624394,
+          "sha256": "3fbe4918ffd1e6708c4637d0894f7f6ee235ba52d9e3302d1d54fa99cd7f54b0"
+        },
+        {
+          "file": "chapter-460/trang-02.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3459019,
+          "sha256": "d31462471a00cca2f108f445f6e7c8cf8bc06f4ed4707e769e3b0abd8f4d05e1"
+        },
+        {
+          "file": "chapter-460/trang-03.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3216638,
+          "sha256": "f66fb052e6338551702ecd49874cfae35c738cdfc290dfc82235949e6cebcd3f"
+        },
+        {
+          "file": "chapter-460/trang-04.png",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3613502,
+          "sha256": "5e34612a7650da64690bcff996558b9a9b361ffce0ad86fde98fd71044a71e60"
+        }
+      ]
+    }
+  ],
+  "format": "Mỗi PNG một trang A4 dọc; tăng bóng thoại, suy nghĩ và lời dẫn."
+}
