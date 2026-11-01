@@ -49,3 +49,7 @@ Mỗi chương một trang A4 dọc, sáu khung, lời dẫn và thoại ngắn 
 - [Chương 468 — Linh vực](summaries/468/): 1 trang tóm lược
 - [Chương 469 — Chớp mắt](summaries/469/): 1 trang tóm lược
 - [Chương 470 — Xuất thủ](summaries/470/): 1 trang tóm lược
+
+## Bản nháp cần kiểm tra model
+
+- [Chương 468 — Linh vực](drafts/468/): 5 trang từ văn bản người dùng cung cấp. Chưa xác nhận đạt quy tắc dùng trực tiếp ảnh model gốc; không dùng làm model chuẩn.

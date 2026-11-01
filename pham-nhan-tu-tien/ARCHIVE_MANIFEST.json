@@ -1032,24 +1032,62 @@
       "git_blob_sha": "826e8ca76114be31dc33ccc3ce09da74dbce502d"
     },
     {
+      "path": "chapters/467/README.md",
+      "bytes": 525,
+      "verification": "UTF-8 text saved in same Git commit"
+    },
+    {
+      "path": "drafts/468/trang-01.png",
+      "bytes": 3045441,
+      "git_blob_sha": "63e42167dcec6e2426c3b86612b825f2e6d66387"
+    },
+    {
+      "path": "drafts/468/trang-02.png",
+      "bytes": 2738771,
+      "git_blob_sha": "4decc88c53fb5631c6a7e17b21b0cc8639066a41"
+    },
+    {
+      "path": "drafts/468/trang-03.png",
+      "bytes": 2786479,
+      "git_blob_sha": "d390c9234528a69a0a82112338f06d2de7d56f88"
+    },
+    {
+      "path": "drafts/468/trang-04.png",
+      "bytes": 2940456,
+      "git_blob_sha": "8e87ed0d42303cd4d26593f9eb92f395f05281a0"
+    },
+    {
+      "path": "drafts/468/trang-05.png",
+      "bytes": 2947489,
+      "git_blob_sha": "9d9d238916e938dcfba15c621edbf72e14f8cf36"
+    },
+    {
       "path": "README.md",
-      "bytes": 2314,
+      "bytes": 2558,
       "verification": "UTF-8 text saved in same Git commit"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 14206,
+      "bytes": 16700,
       "verification": "UTF-8 text saved in same Git commit"
     },
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 54249,
+      "bytes": 56743,
       "verification": "UTF-8 text saved in same Git commit"
     },
     {
-      "path": "chapters/467/README.md",
-      "bytes": 525,
+      "path": "drafts/468/README.md",
+      "bytes": 844,
       "verification": "UTF-8 text saved in same Git commit"
+    }
+  ],
+  "drafts": [
+    {
+      "chapter": 468,
+      "pages": 5,
+      "directory": "drafts/468",
+      "status": "pending-original-model-reference-review"
     }
   ]
 }
