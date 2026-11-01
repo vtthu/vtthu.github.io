@@ -173,9 +173,31 @@
       "pages": 5,
       "directory": "chapters/467",
       "edition": "user-provided-text-adaptation"
+    },
+    {
+      "chapter": 469,
+      "pages": 5,
+      "directory": "chapters/469",
+      "edition": "user-provided-text-adaptation",
+      "original_model_reference": true
     }
   ],
   "files": [
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 60697,
+      "sha256": "f5169b3d9e66312cbd6ce9584ace4a49fd28ffcb24ce88b4adc70f40ad598813"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 20654,
+      "sha256": "5eb96cb71e6fb187704dc6bf442dbb2a6eb68986361a69be035f011d16e45b2c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2670,
+      "sha256": "e4df9b32e8c9468e4a274767017ffe84476f8a3ac90ee021f2358fa78518e56b"
+    },
     {
       "path": "chapters/441/trang-01.png",
       "bytes": 3334073,
@@ -662,6 +684,156 @@
       "sha256": "0ed487a3a7cc9c9148275081f188b4ca8a27442d9944eab5d926a8855e52eaa4"
     },
     {
+      "path": "chapters/465/README.md",
+      "bytes": 428,
+      "sha256": "00a5421d94b3ae57b28680c8ca0c24df4bba9788f4d83060750c531730a4e160"
+    },
+    {
+      "path": "chapters/465/trang-01.png",
+      "bytes": 3199953,
+      "sha256": "ab0fd630a714ed0061b859cb65e9c8ca4d75e150bf5be7b944613c8344da99ab"
+    },
+    {
+      "path": "chapters/465/trang-02.png",
+      "bytes": 3152484,
+      "sha256": "bd640f638e9f57101f054d6e5fada3680f38d93a0f99c57b84aaf24373d66977"
+    },
+    {
+      "path": "chapters/465/trang-03.png",
+      "bytes": 3107525,
+      "sha256": "0384fa428c456ec101bec6e4bf328f1473b5155dec8a2b687ba35f551611f4bf"
+    },
+    {
+      "path": "chapters/465/trang-04.png",
+      "bytes": 2858403,
+      "sha256": "c7a99ac7981bbedf1f29606a9a035a8defdabdef83216468c1068c70fd7a6438"
+    },
+    {
+      "path": "chapters/465/trang-05.png",
+      "bytes": 3061177,
+      "sha256": "0bc6371ab9bb329d6bb512b54a19f60bdbfdf7481dd457e14f937aebb6cdbd63"
+    },
+    {
+      "path": "chapters/466/README.md",
+      "bytes": 444,
+      "sha256": "bf2b7a0c7a1763644f0094443beb08f7b039d222e39fcaf514f9ce4b0e6674f5"
+    },
+    {
+      "path": "chapters/466/trang-01.png",
+      "bytes": 3119865,
+      "sha256": "db2131efc87e55094f1171b66ed6620391bb3b50e1e98dad9031614cec7e89a2"
+    },
+    {
+      "path": "chapters/466/trang-02.png",
+      "bytes": 3186689,
+      "sha256": "8ee5cea275daf61238774d94c27c4e93b5d2c387b072216982e410e0acf6b88d"
+    },
+    {
+      "path": "chapters/466/trang-03.png",
+      "bytes": 3060317,
+      "sha256": "b7908cccf191516d63c2fbf88ff0a907748f422be02935f034e29dafba8e9692"
+    },
+    {
+      "path": "chapters/466/trang-04.png",
+      "bytes": 3103299,
+      "sha256": "c92ca54e15e14b72741ff2e2e5b0257e432cf7205e61c1348dccbbf3fee2aa42"
+    },
+    {
+      "path": "chapters/466/trang-05.png",
+      "bytes": 3044910,
+      "sha256": "871a7d98f6cd533b298926784b47859f504adf99b34f199ffd073a1f96963136"
+    },
+    {
+      "path": "chapters/467/README.md",
+      "bytes": 525,
+      "sha256": "face584abdc7dd28e842cc1e4c06c0d4eb17b7aaa3e11302a5deda91156de4fa"
+    },
+    {
+      "path": "chapters/467/trang-01.png",
+      "bytes": 2482280,
+      "sha256": "f7bc4fc2b72eb125b86672a2498d30ac54425d7ff47b632574d500aeccbc56dd"
+    },
+    {
+      "path": "chapters/467/trang-02.png",
+      "bytes": 2864059,
+      "sha256": "345e67e16aa6c6051ecc64bf574ad42ee2fd0946a861f4f19973017d79070bdf"
+    },
+    {
+      "path": "chapters/467/trang-03.png",
+      "bytes": 2677280,
+      "sha256": "b94b8ee6df28a5dfc2959de23c5dbb13907ec46828b3ff920981780b0d798420"
+    },
+    {
+      "path": "chapters/467/trang-04.png",
+      "bytes": 2991790,
+      "sha256": "2d52e6184afc30cf34fb660ee5de172558622a057d20ded903889dfa50f18ee2"
+    },
+    {
+      "path": "chapters/467/trang-05.png",
+      "bytes": 2999022,
+      "sha256": "440769c620a00cf341e8a0be2bd3d3bfcc8248ce5e9cccde084d380ae3f6234e"
+    },
+    {
+      "path": "chapters/469/README.md",
+      "bytes": 862,
+      "sha256": "58e56f950d570fecef7ad3c707d907c7f02b5de3c98d63a3ff4d0423af2376ff"
+    },
+    {
+      "path": "chapters/469/trang-01.png",
+      "bytes": 3023523,
+      "sha256": "84e6acce43880d2c2b4ae4f31aaea17234b794190b036e708c43a95ff3dc896b"
+    },
+    {
+      "path": "chapters/469/trang-02.png",
+      "bytes": 2921211,
+      "sha256": "574da6dda2f79f13a12f038a0b18fbd72e22049b68fcf85a42db0d5a59a3b383"
+    },
+    {
+      "path": "chapters/469/trang-03.png",
+      "bytes": 3070416,
+      "sha256": "accc37c96ec853c94569e6639bb827611dd8927dcc473c539f689ba7f6628889"
+    },
+    {
+      "path": "chapters/469/trang-04.png",
+      "bytes": 3072488,
+      "sha256": "89f9857d8381e1e4e3f9af4df25f52e93d327775f8e719f2be7fe8b245d1f589"
+    },
+    {
+      "path": "chapters/469/trang-05.png",
+      "bytes": 3316259,
+      "sha256": "6e28da0ac2182337aae8724b335e730f8d10c1d56cc07717fa416faf12638528"
+    },
+    {
+      "path": "drafts/468/README.md",
+      "bytes": 844,
+      "sha256": "ec62133989ea1c23b6d2d938d8724bded7fcb5238871fe86b25f6132cb2c74c7"
+    },
+    {
+      "path": "drafts/468/trang-01.png",
+      "bytes": 3045441,
+      "sha256": "72da26d2ebd122fb084a59bd57350d4fc58896f42bfcbdf6f4bb70acc0b6add0"
+    },
+    {
+      "path": "drafts/468/trang-02.png",
+      "bytes": 2738771,
+      "sha256": "ce42cd24bba0977ba332222ae35d9f291c52e7300c8459af3c767624d89975e8"
+    },
+    {
+      "path": "drafts/468/trang-03.png",
+      "bytes": 2786479,
+      "sha256": "bfee408ca28e65639994bd104a449e9fce69c7617e74c0ee12552e7772fdc743"
+    },
+    {
+      "path": "drafts/468/trang-04.png",
+      "bytes": 2940456,
+      "sha256": "e0c8ed755f06aff2965899870adaef8c51d02d6e73ea8853749bccfc854dba4b"
+    },
+    {
+      "path": "drafts/468/trang-05.png",
+      "bytes": 2947489,
+      "sha256": "b2b857b9fcdbf6df4e9a621daa30fc898c03683b3d83e2deb34336e297f92cfa"
+    },
+    {
       "path": "history/comic-441/CHARACTER_MEMORY.md",
       "bytes": 5841,
       "sha256": "42bd32c66290947c7a72d4b8dbe50b2fe38c78421b052d3dff6ea2b01be1aff8"
@@ -785,6 +957,26 @@
       "path": "history/comic-461-464/README.md",
       "bytes": 1049,
       "sha256": "6d6d9ddbf097b5cdfa1e7df35dcee02de9ccda2cd5786ff2571fcbb0769af23c"
+    },
+    {
+      "path": "history/comic-469/CHARACTER_MEMORY.md",
+      "bytes": 60697,
+      "sha256": "f5169b3d9e66312cbd6ce9584ace4a49fd28ffcb24ce88b4adc70f40ad598813"
+    },
+    {
+      "path": "history/comic-469/MANIFEST.json",
+      "bytes": 2622,
+      "sha256": "f31c41919e988d6ac3a70de709cc77aeebaaa5ad716ed0657f0b5b89a0036bd6"
+    },
+    {
+      "path": "history/comic-469/PROJECT_MEMORY.md",
+      "bytes": 20654,
+      "sha256": "5eb96cb71e6fb187704dc6bf442dbb2a6eb68986361a69be035f011d16e45b2c"
+    },
+    {
+      "path": "history/comic-469/README.md",
+      "bytes": 945,
+      "sha256": "500ebce3cbf8bf962a5490bae5b2b53e1cb7681f62af658b759f77d6760b9b2b"
     },
     {
       "path": "history/comic-summary-465-470/CHARACTER_MEMORY.md",
@@ -945,141 +1137,6 @@
       "path": "summaries/README.md",
       "bytes": 1732,
       "sha256": "cc7355c45c8be8ff8c8a4306e2ff5d7444725c59feb168ef3d4742e9a6a2d837"
-    },
-    {
-      "path": "chapters/465/trang-01.png",
-      "bytes": 3199953,
-      "git_blob_sha": "43ecc2389fe8eea518c08e2198625846e8285e76"
-    },
-    {
-      "path": "chapters/465/trang-02.png",
-      "bytes": 3152484,
-      "git_blob_sha": "816815e98a1d29855b5dcfdfa03e5546720e40e3"
-    },
-    {
-      "path": "chapters/465/trang-03.png",
-      "bytes": 3107525,
-      "git_blob_sha": "99df10b2261a3cda692c0d6513ea06f05b2f0a33"
-    },
-    {
-      "path": "chapters/465/trang-04.png",
-      "bytes": 2858403,
-      "git_blob_sha": "a266ebf536c1f4f1cbea5e6e80e49af30f0042bd"
-    },
-    {
-      "path": "chapters/465/trang-05.png",
-      "bytes": 3061177,
-      "git_blob_sha": "19c767d1c1b38a9e5384237ee9c5abb2ce899736"
-    },
-    {
-      "path": "chapters/465/README.md",
-      "bytes": 428,
-      "verification": "UTF-8 text saved in same Git commit"
-    },
-    {
-      "path": "chapters/466/trang-01.png",
-      "bytes": 3119865,
-      "git_blob_sha": "201d43d3e4e0a775d92fa85d3ff26a7a19e30eb1"
-    },
-    {
-      "path": "chapters/466/trang-02.png",
-      "bytes": 3186689,
-      "git_blob_sha": "fa3f6c3816b39c5879f0d4ec915e1dbb387aa937"
-    },
-    {
-      "path": "chapters/466/trang-03.png",
-      "bytes": 3060317,
-      "git_blob_sha": "d9e423e297af25e9e9883bd47ae52e014623e774"
-    },
-    {
-      "path": "chapters/466/trang-04.png",
-      "bytes": 3103299,
-      "git_blob_sha": "25b01b67bf9c3ceef271c3f1bbfebc432e74dd53"
-    },
-    {
-      "path": "chapters/466/trang-05.png",
-      "bytes": 3044910,
-      "git_blob_sha": "c6800fdc5f28c315884bd78a30af93f318748ff4"
-    },
-    {
-      "path": "chapters/466/README.md",
-      "bytes": 444,
-      "verification": "UTF-8 text saved in same Git commit"
-    },
-    {
-      "path": "chapters/467/trang-01.png",
-      "bytes": 2482280,
-      "git_blob_sha": "dd0a617f97473b6d4e5b02ccb8f38f65b4a9dddf"
-    },
-    {
-      "path": "chapters/467/trang-02.png",
-      "bytes": 2864059,
-      "git_blob_sha": "b395db3f65c0f3093287ae81f70d4e567b143645"
-    },
-    {
-      "path": "chapters/467/trang-03.png",
-      "bytes": 2677280,
-      "git_blob_sha": "c8883f69b6e9d9f4f4c05a2b3c5b3025819c2f96"
-    },
-    {
-      "path": "chapters/467/trang-04.png",
-      "bytes": 2991790,
-      "git_blob_sha": "2ceed455cc6f90943bb7681df21f516808e3a198"
-    },
-    {
-      "path": "chapters/467/trang-05.png",
-      "bytes": 2999022,
-      "git_blob_sha": "826e8ca76114be31dc33ccc3ce09da74dbce502d"
-    },
-    {
-      "path": "chapters/467/README.md",
-      "bytes": 525,
-      "verification": "UTF-8 text saved in same Git commit"
-    },
-    {
-      "path": "drafts/468/trang-01.png",
-      "bytes": 3045441,
-      "git_blob_sha": "63e42167dcec6e2426c3b86612b825f2e6d66387"
-    },
-    {
-      "path": "drafts/468/trang-02.png",
-      "bytes": 2738771,
-      "git_blob_sha": "4decc88c53fb5631c6a7e17b21b0cc8639066a41"
-    },
-    {
-      "path": "drafts/468/trang-03.png",
-      "bytes": 2786479,
-      "git_blob_sha": "d390c9234528a69a0a82112338f06d2de7d56f88"
-    },
-    {
-      "path": "drafts/468/trang-04.png",
-      "bytes": 2940456,
-      "git_blob_sha": "8e87ed0d42303cd4d26593f9eb92f395f05281a0"
-    },
-    {
-      "path": "drafts/468/trang-05.png",
-      "bytes": 2947489,
-      "git_blob_sha": "9d9d238916e938dcfba15c621edbf72e14f8cf36"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2558,
-      "verification": "UTF-8 text saved in same Git commit"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 16700,
-      "verification": "UTF-8 text saved in same Git commit"
-    },
-    {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 56743,
-      "verification": "UTF-8 text saved in same Git commit"
-    },
-    {
-      "path": "drafts/468/README.md",
-      "bytes": 844,
-      "verification": "UTF-8 text saved in same Git commit"
     }
   ],
   "drafts": [
