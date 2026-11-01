@@ -8,6 +8,8 @@
 
 ## Các chương
 
+- [Chương 483: Vực linh](chapters/483/): 5 trang, hoàn thành; [PDF A4](chapters/483/chuong-483.pdf)
+
 - [Chương 482: Xem tiếp đi](chapters/482/): 5 trang, hoàn thành; [PDF A4](chapters/482/chuong-482.pdf)
 
 - [Chương 441](chapters/441/): 4 trang
