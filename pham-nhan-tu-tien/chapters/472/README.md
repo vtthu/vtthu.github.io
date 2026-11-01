@@ -1,0 +1,14 @@
+# Chương 472 — Trảm linh
+
+Bộ 5 trang PNG dọc và bản PDF A4 (chuong-472.pdf). Trang 2 PNG1055×1491; trang1/3/4/5 PNG1024×1536. PDF đặt nguyên tranh giữa trang A4, không cắt hoặc kéo méo ảnh.
+
+Chuyển thể từ văn bản người dùng cung cấp. Mỗi lần tạo gắn trực tiếp model PNG gốc phù hợp. Hàn Lập HL-01 V2, Kim Đồng KD-ND-01; không tạo model thay thế.
+
+## Hoàn thành chương472 — Trảm linh, 5 trang
+Ngày 01/11/2026. Nguồn toàn bộ văn bản người dùng dán trực tiếp. Năm PNG dọc, kèm PDF 5 trang A4; trang2 PNG1055×1491, trang1/3/4/5 PNG1024×1536 giữ nguyên tỷ lệ, PDF đặt giữa trang A4 trong chapters/472; khoảng9–10khung/trang, thoại/suy nghĩ/ô dẫn tiếng Việt viết lại. Mỗi lần tạo đều gắn trực tiếp PNG model gốc phù hợp. Model người HL-01V2/KD-ND-01 không thay đổi; ảnh chương471 chỉ dùng nối phong cách, không thay model.
+- Trang1: bảo luân NGỪNG NGHỊCH CHUYỂN rồi bay tới, gợn vàng ngàn trượng đóng băng HôiLong;3kiếmXANH chém trong thời gian đình trệ, không máu/táchthân cận;1sợi time kéo NguyênAnh rắnXÁM chữVƯƠNG BẠC và giam. Cừ chưa chết hoàn toàn.
+- Trang2: thu linhvực/ripple, thấy hơn10đạovăn ảmđạm; thầnniệm hỏi VS-01 trong DHL, lão giải thích tiêuhao pháptắc. VS chỉ ở ô liênlạc thầnniệm, không ra đứngbênHan; lư vẫn phong2phù trongtayáo.3sợithờigian từ3kiếm trởvề,kiếmthu nhỏthuvàoáo.HanKIMTIÊNTRUNGKỲ hơi tái, dùngđanĐỎTHẪM; phânbiệt linhvựcrộng/uyhữu hạn với bảoluânphạmvinhỏ/uycao.
+- Trang3: NguyênAnhgiãy,Han siếttime; phồng4–5lần,tựbạo thànhquầngxám; THẦNHỒNCỪLINH LONGẢNHxámviềnTRẮNG chạyTHOÁT, không tuyênbốhồnphipháchtán.Han thu1sợitimetróivề. LinhvựcCừ tan,thểxácHôiLong rơi; BBX-01BÌNHBÁTXANH phónglớn thuđủ và cấti; thu cảVT-01ngaitrống3gương.Không hồi sinhrồnghayvẽthêmCừngười.
+- Trang4: KimĐồng đến, trách đểmấtNguyênAnh; HanmởHNT-01HỘPNGỌCTRẮNG chứa2NguyênAnhthú đãthutừ471, linhthểRẮNTRẮNG/CÁĐENnguyênvẹn, khôngngười/trẻ. ChoKimĐồng đểhồi nguyênkhí; hấp thubằngkimquang khônggore.2taytronggiápkín dầnngưngthật.
+- Trang5: 2taygầnkhôiphụchoàntoàn,KimĐồng cònmuốnthêm1NguyênAnh; Han nhắcKimTiênkháctrongTiênPhủ.Hỏi kýứcsauphi thăng vàbịđánhrớthạgiới; nghiênmựcđãhủy KHÔNGphụchồi. KimĐồngcũngkhôngnhớ đoạntrướcPhươngBàn; giết1linhsủnghắn rồi khôngtìmthấyHan,bịCừbắt,đượcnuôithăngcấpnênlá mặt látrái. Chỉđốithoại, khôngvẽhồitưởngngườimới,khôngtựthêmhungthủ.
+- ĐIỂMNỐI473: HanNGƯỜIV2 TEAL/trâmxanh,mặttrưởngthành,tổng10sợithờigianđãthuvề(cả3sợikiếmvà1sợitrói);hơn10đạovănảmđạm chưaxácnhậnhồiđủ,tiênlinhlựchao,dùngđanđỏ.3kiếmđãthu. KimĐồngKD-ND-01tócVÀNG1búigiápGOLDkín,2taygầnkhôiphục chưahoàntoàn.2NguyênAnhthúđãbịhấpthụ khôngxuấtlạitronghộp.CừchỉcònTHẦNHỒNđãthoát,NguyênAnhđãtựbạo,thểxáctrongbìnhbátHanthu,ngaiVT-01đãthu.LuđãvàođiệnVÀNGtừ471,khôngtựtrởra.VS-01trongDHLphong2phùởtayáo;Giải/MaQuangkhôngra.BốicảnhtànthànhĐỎXÁM trướcđiệnVÀNG,linhvựcđịchđãtan.KếtkhiKimĐồnggiảithíchbịCừbắtnuôi,khôngbịađãkhôiphụckýức.
