@@ -362,6 +362,36 @@
           1491
         ]
       }
+    },
+    {
+      "chapter": 478,
+      "pages": 5,
+      "directory": "chapters/478",
+      "edition": "user-provided-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/478/chuong-478.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1054,
+          1492
+        ],
+        "trang-02.png": [
+          1055,
+          1491
+        ],
+        "trang-03.png": [
+          1055,
+          1491
+        ],
+        "trang-04.png": [
+          1055,
+          1491
+        ],
+        "trang-05.png": [
+          1055,
+          1491
+        ]
+      }
     }
   ],
   "files": [
@@ -1656,16 +1686,6 @@
       "sha256": "70091cf5c26d3f024d00e75a560507b6b4e094d9cb68aab314043c1013f78087"
     },
     {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 106832,
-      "sha256": "be577e58f2ec6dd78d205427a134f350b37fdd16d4c25f4f5ecec332b70408c4"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 64722,
-      "sha256": "0d3b2561f0b92e57e0e3b401e7801d48cce595f07d4af83e6a5b4e154bdbba39"
-    },
-    {
       "path": "models/thanh-dien-truyen-tin-ngoc-gian-477.png",
       "bytes": 2761179,
       "sha256": "3a0e5cb839d77ad1a72a4121811dde6d59d9bc9e92dc0623c959c18f5a1677ed"
@@ -1709,6 +1729,66 @@
       "path": "chapters/477/trang-02.png",
       "bytes": 2724728,
       "sha256": "5eba756d0bd7558dae637da470b8ad04a97311a03180b463f9aa10b6df9e763e"
+    },
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 113330,
+      "sha256": "8e71de5a7239943cae455832f5e25d91134caaded44af588bafae7f636f90cf6"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 71220,
+      "sha256": "378111d28adefb63b86aa988e0a94ed2d867a3c7e5cd0bc12e930a8087765406"
+    },
+    {
+      "path": "models/lo-viet-thuong-luu-kim-tien-478.png",
+      "bytes": 2865862,
+      "sha256": "a598a15a772fb901ee5375a52863a8374da90029705a54b82db7b1100a033586"
+    },
+    {
+      "path": "models/phuc-lang-kim-tien-nam-le-lao-ba-478.png",
+      "bytes": 3050263,
+      "sha256": "02f6ecefd7e2c4c42228ead17a37d601c6e27f5a06144af2896e65b1aa807719"
+    },
+    {
+      "path": "models/cua-thai-at-lang-mo-truyen-tin-phi-yen-478.png",
+      "bytes": 2949218,
+      "sha256": "e5580ca611a1c1297e034af13c31c26cdaa67badba4835961b5026079c4f91b3"
+    },
+    {
+      "path": "chapters/478/trang-04.png",
+      "bytes": 2708926,
+      "sha256": "3cd6a83efbd886844109e2cfbf4566c3afa8677df4f17fb6e33b921e79ce771b"
+    },
+    {
+      "path": "chapters/478/chuong-478.pdf",
+      "bytes": 4947213,
+      "sha256": "bbf645764c9d3f4950a85474c495a49ad567acb6c78700d9d7f1c192ffe92e4f"
+    },
+    {
+      "path": "chapters/478/README.md",
+      "bytes": 374,
+      "sha256": "83eb4308db8ef656924985555625c131cc77d5d5d169bdd0b63eb1e89cb305cf"
+    },
+    {
+      "path": "chapters/478/trang-03.png",
+      "bytes": 3008403,
+      "sha256": "44fd4ced31a17e5dfeff4f0eeb93004ef86ebaa8d2d27249f1cc12ed4c2222a4"
+    },
+    {
+      "path": "chapters/478/trang-01.png",
+      "bytes": 2858482,
+      "sha256": "1f711ebb861a5f021f6ce007dc11097676d9115b82c59b1146e0a5cc0337b750"
+    },
+    {
+      "path": "chapters/478/trang-05.png",
+      "bytes": 3153284,
+      "sha256": "54261f615c9631a6597b4598a66b2ef8bab4a0de6f258d6c772ac2c5f8e1e42b"
+    },
+    {
+      "path": "chapters/478/trang-02.png",
+      "bytes": 2926323,
+      "sha256": "dd4f038900e185792ba92055b8899453a0bdcf0252fc4b552fcc05aab751772c"
     }
   ],
   "drafts": [
