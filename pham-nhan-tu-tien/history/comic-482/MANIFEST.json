@@ -1,0 +1,61 @@
+{
+  "chapter": 482,
+  "title": "Xem tiếp đi",
+  "source": "Toàn văn do người dùng cung cấp trong cuộc trò chuyện",
+  "pages": [
+    {
+      "file": "pages/trang-01.png",
+      "size": [
+        1055,
+        1491
+      ],
+      "generated_source": "exec-4f674fa3-e829-499b-b9cc-25ef64adc9bf.png"
+    },
+    {
+      "file": "pages/trang-02.png",
+      "size": [
+        1055,
+        1491
+      ],
+      "generated_source": "exec-eb2dfc30-1e87-4b1b-a308-1c8301618862.png"
+    },
+    {
+      "file": "pages/trang-03.png",
+      "size": [
+        1055,
+        1491
+      ],
+      "generated_source": "exec-1f310245-bcdf-476d-82f4-7d4a417221a7.png"
+    },
+    {
+      "file": "pages/trang-04.png",
+      "size": [
+        1055,
+        1490
+      ],
+      "generated_source": "exec-37380897-8c62-4ff8-ae97-0ca08d04386d.png"
+    },
+    {
+      "file": "pages/trang-05.png",
+      "size": [
+        1055,
+        1491
+      ],
+      "generated_source": "exec-adfb2497-00fb-4279-982b-9d78ef97d2b1.png"
+    }
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "kim-dong-giai-dao-nhan-bien-the.png",
+    "lanh-dao-cac-phe-models.png",
+    "tieu-tan-han-chuong-an-phong-suong-481.png",
+    "te-thien-tieu-au-duong-tuyet-oanh-lien-lac-476.png",
+    "ho-ngon-van-nghe-nam-le-models.png",
+    "phuc-lang-kim-tien-nam-le-lao-ba-478.png",
+    "tien-khi-pha-cam-479.png",
+    "ngoc-bat-cach-nguyen-hac-kiem-bang-cau-481.png"
+  ],
+  "pdf": "chuong-482.pdf",
+  "status": "complete",
+  "new_character_models": false
+}

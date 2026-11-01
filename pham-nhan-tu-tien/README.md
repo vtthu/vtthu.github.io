@@ -8,6 +8,8 @@
 
 ## Các chương
 
+- [Chương 482: Xem tiếp đi](chapters/482/): 5 trang, hoàn thành; [PDF A4](chapters/482/chuong-482.pdf)
+
 - [Chương 441](chapters/441/): 4 trang
 - [Chương 442](chapters/442/): 4 trang
 - [Chương 443](chapters/443/): 5 trang
