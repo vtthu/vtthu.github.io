@@ -1,0 +1,83 @@
+{
+  "chapter": 470,
+  "edition": "user-provided-text-adaptation",
+  "pages": 5,
+  "model_references": [
+    "han-lap-v2.png",
+    "kim-dong-giai-dao-nhan-bien-the.png",
+    "cu-linh-chan-diem-models.png",
+    "linh-thu-models.png",
+    "cu-linh-mong-yem-hac-quai-ngu.png"
+  ],
+  "new_models_saved_before_use": [
+    "CL-MY-01",
+    "HQN-01"
+  ],
+  "files": [
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 65625,
+      "sha256": "5d2ee4700384ad8960c505e121843d44453e834e36ca1f2921cc528f924ae98d"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 24475,
+      "sha256": "08eb0e1908c22851c975d51d9f64caa42ef4b21092beed42d9bd59f1a720ca96"
+    },
+    {
+      "path": "README.md",
+      "bytes": 856,
+      "sha256": "9df8bbaef4ae6c61f4376ebc42a7587d399cb015030c1db85e02695c5a728fd0"
+    },
+    {
+      "path": "models/cu-linh-chan-diem-models.png",
+      "bytes": 2895771,
+      "sha256": "1e70c18c583f15aad53f61ce2541857f3c6c7548472146c65864634628cbb285"
+    },
+    {
+      "path": "models/cu-linh-mong-yem-hac-quai-ngu.png",
+      "bytes": 2877473,
+      "sha256": "bcff7bb14b6d5a0b1740b50b68fc36a5f6e6282ac48e9855a77fa203fa560815"
+    },
+    {
+      "path": "models/han-lap-v2.png",
+      "bytes": 2474122,
+      "sha256": "9cb6f7e3aa9f61451c3625e5e4a3d373b9e93e507e4dba97921362b52143bbbf"
+    },
+    {
+      "path": "models/kim-dong-giai-dao-nhan-bien-the.png",
+      "bytes": 3020450,
+      "sha256": "d334cb8b3a6e77e6cf1b16fed41c49cfcbe0d2a75965bbeaca6be6a76a32d7fd"
+    },
+    {
+      "path": "models/linh-thu-models.png",
+      "bytes": 2904740,
+      "sha256": "4922ee71a45a8932cd97f994fb1551b9ea2ecffa821133ba3a9b1cff3c5f1a3e"
+    },
+    {
+      "path": "pages/trang-01.png",
+      "bytes": 3503245,
+      "sha256": "702c0b17e8dd63dab2e9146a775ee66f587458e45b6419ce3ffaf401e33ad93b"
+    },
+    {
+      "path": "pages/trang-02.png",
+      "bytes": 3267778,
+      "sha256": "d4cadfc5e9857246fd8691d9c7ab3a92dc1785b170ec8676994dbed9b0198c28"
+    },
+    {
+      "path": "pages/trang-03.png",
+      "bytes": 3387257,
+      "sha256": "9c0bdabb6987ad3e7756695ce6e55a47323b091475ba43562c28c5461cbec2a3"
+    },
+    {
+      "path": "pages/trang-04.png",
+      "bytes": 3390280,
+      "sha256": "65c35d579267b92b7e8d78430e5d16638a1d2827d71f41f6775128f14968f4ee"
+    },
+    {
+      "path": "pages/trang-05.png",
+      "bytes": 3689910,
+      "sha256": "c68ed37a6b16e803047a0004a4a06ff0bbcec386f2177f4443fc6d6645382cb5"
+    }
+  ]
+}
