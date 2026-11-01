@@ -170,3 +170,17 @@ ChưacóKimHải/VôSinh/TháiẤtHôiTiêntrongkhocũ. Đãtạo/lưu models/ki
 Điểm nối465: HANTEALV2tócđen/trâmngọcxanh cầmmộtTHANHTRÚCPHONGVÂNKIẾMXANH,vẫntrongĐẠIĐIỆNNGẦMĐÁXÁM tốiđèntường. VS-01tànhồnXANHĐOMĐÓM lãoGẦYtóc/râuTRẮNGtrâmgỗáoxámnâu đangkểquákhứ, xáccũlàBỘXƯƠNGđãvỡ,KHÔNGhồisinh. Lãođãtựnhận3tênchung1người; Hannộitâmkinhngạcnhưngchưatinhoàntoàn. Chưakểxongbiếncốđạichiến/HôiGiớitừ465trởđi,khôngtựthêmlờigiảithíchtrước. Nữcungtrangtượngcao2.2mXÁMTRẮNGmặtrắnrỏi vẫnBẤTĐỘNG,VS-01nóilàTHÁIẤTHÔITIÊNtừHôiGiới; khôngđổithànhCừLinhhaynữnàokhác,khôngchotượngthànhngườisống. TượngoldVS-01cùngmặttànhồnvẫnnằmtrongđiện. GiảiđãthuvàotayáoHan,khôngđứngngoàitừ463giữa.
 ThânHangiữTEAL/trâmxanhV2dùvănbản462nhắctrâmbạchngọc,ưu tiênyêucầumodelV2đãchốt. KimHảiNguyênAnhmặtKH-01áoCHÀM/TRÂMĐỒNGchỉxuấthiệnQUÁKHỨ461–462; khôngcùngđiHanngầm. VòngXANHchứabảnđồ/kiếmđiểnNẰMLẠIQUÁKHỨ khôngvẽHanđangcầmởhiệntại. ChưởngThiênBìnhXANHhoaLÁkhôngnhầmhồlô2bầuCừ.3sợithờigianhiệntạikhôngtựchođãhủy. TINHBÍCHđãtiêutánchuyếnđiđãxong.
 Nguồn gốc phamnhantutien.org cácchuong461-phap-tac-chi-ao,462-rung-dong,463-co-can-khon-khac,464-ky-tai-ngut-troi khôngmởđược. Đọcđối chiếuđủtừngchươngtại https://vietnamthuquan.eu/TacPham/pham-nhan-tu-tien-2-22891/chuong-461 (đổisố462–464).
+
+
+## Cập nhật bản tóm lược 465–470
+- Sáu chương được trình bày dưới dạng sáu trang tóm lược minh họa, mỗi chương một trang A4 dọc. Thoại ngắn được viết mới; không phải chuyển thể đầy đủ.
+- Hàn Lập v2 và Lục Vũ Tình v2 tiếp tục là model chuẩn; không khôi phục v1.
+- Model mới MQ-01 Ma Quang: nam trưởng thành, diện mạo gần Hàn Lập, da đen mực, tóc đen dài, áo đen, ma khí đen. Ảnh: models/ma-quang-nhat-quy-duong-hon-lo.png. Đã tạo trước trang 467.
+- Cùng ảnh tham chiếu: DHL-01 Dưỡng Hồn Lô, lư gỗ tím đen nhỏ bằng lòng bàn tay, ba chân, nắp chạm, khói hồn xanh; TANQ-01 Thái Âm Nhật Quỹ, mặt đá TRẮNG tròn nghiêng, 12 khắc giờ, kim sắt ĐEN, đặt trên bệ đá vuông. Nội dung nhãn trang trí tự sinh trên model không được coi là dữ kiện truyện.
+- 465: Tàn hồn giải thích biến cố Minh Hàn Tiên Cung và hạch tâm bí cảnh. Pho tượng nữ là tác phẩm điêu khắc, không phải người sống hóa đá.
+- 466: Thoát bí cảnh cần Kim Tiên trung kỳ và ít nhất sáu sợi tơ thời gian. Hàn Lập nhận Huyền Sát Minh Linh Công, biết nguy cơ sát khí.
+- 467: Hỏi Ma Quang, chấp nhận dùng sát khí khai khiếu sau bế quan lâu.
+- 468: Hơn nghìn năm, đạt Kim Tiên trung kỳ, sáu sợi tơ thời gian; sát khí còn bám tiên khiếu. Đổi việc đưa tàn hồn ra ngoài lấy phương pháp linh vực.
+- 469: Nhật quỹ giúp tăng lên mười sợi tơ thời gian. Hạch tâm bị phá; trở lại cửa cung vàng, ngoài giới chỉ qua chớp mắt. Lục Vũ Tình, Kim Đồng và Cừ Linh vẫn ở trận chiến.
+- 470: Hàn Lập cứu viện Kim Đồng, đối đầu Cừ Linh. Cừ Linh hiện bản thể Mộng Yểm ngũ trảo hôi long; bạch mãng và hắc quái ngư phục kích bằng băng và lôi. Trang tóm lược chỉ thể hiện các luồng năng lượng, không vẽ ba linh thú này. Nếu vẽ ở phần sau phải tạo model tham chiếu trước: hôi long không vảy, gai ngược, năm móng, chữ Vương bạc trên trán. Cuối chương Hàn Lập đang bị giáp công, chưa có kết quả.
+- Không phục hồi pháp bảo đã hỏng từ các chương trước.

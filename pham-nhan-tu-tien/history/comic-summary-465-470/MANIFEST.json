@@ -1,0 +1,163 @@
+{
+  "edition": "concise-illustrated-summary",
+  "chapters": [
+    {
+      "chapter": 465,
+      "title": "Hạch tâm",
+      "pages": 1,
+      "directory": "chapter-465"
+    },
+    {
+      "chapter": 466,
+      "title": "Chênh lệch",
+      "pages": 1,
+      "directory": "chapter-466"
+    },
+    {
+      "chapter": 467,
+      "title": "Ngưng sát phá cảnh",
+      "pages": 1,
+      "directory": "chapter-467"
+    },
+    {
+      "chapter": 468,
+      "title": "Linh vực",
+      "pages": 1,
+      "directory": "chapter-468"
+    },
+    {
+      "chapter": 469,
+      "title": "Chớp mắt",
+      "pages": 1,
+      "directory": "chapter-469"
+    },
+    {
+      "chapter": 470,
+      "title": "Xuất thủ",
+      "pages": 1,
+      "directory": "chapter-470"
+    }
+  ],
+  "files": [
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 45781,
+      "sha256": "79205f469e487ab72667d25ae1746c9e1bd990aed72046842aa6e81c970e951f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1780,
+      "sha256": "98cec72ef9af66e29e1ce11fb87c372b2967a00d7bc1e03a8cf52e249fee5cb5"
+    },
+    {
+      "path": "chapter-465/trang-tom-luoc.png",
+      "bytes": 3059379,
+      "sha256": "7311aac764faa3f9f3c9b1b8d9232325193b588ec40f5288ed96a4dc8da6f709"
+    },
+    {
+      "path": "chapter-466/trang-tom-luoc.png",
+      "bytes": 3132244,
+      "sha256": "1c275fb7b702f9f21b36d5b45af28ccac8683177c656576789903f6faa43e0d5"
+    },
+    {
+      "path": "chapter-467/trang-tom-luoc.png",
+      "bytes": 3162854,
+      "sha256": "6c346a96b9c00b96808abeee4a7375f4b97d0c2768e4d08edc01a611ae81429c"
+    },
+    {
+      "path": "chapter-468/trang-tom-luoc.png",
+      "bytes": 3234677,
+      "sha256": "946b5e0be9a03d775391faf85c0c5b6c5d2af64de6f06649eda0044785f81631"
+    },
+    {
+      "path": "chapter-469/trang-tom-luoc.png",
+      "bytes": 3402359,
+      "sha256": "b3504a07091f937f2b66166f145973aad6ca67373612ea6a02ce33f5fedf3f9b"
+    },
+    {
+      "path": "chapter-470/trang-tom-luoc.png",
+      "bytes": 3673805,
+      "sha256": "e2a64a913ff58574cee41414bc14e5d869a4880535951b271cea6c38743b9131"
+    },
+    {
+      "path": "models/cot-diem-tan-nhan-v1.png",
+      "bytes": 2351840,
+      "sha256": "e2588614d536bef3ce21ab9bc6a6d5fe4af219e55115178f0d8f8be888048b7a"
+    },
+    {
+      "path": "models/cu-linh-chan-diem-models.png",
+      "bytes": 2895771,
+      "sha256": "1e70c18c583f15aad53f61ce2541857f3c6c7548472146c65864634628cbb285"
+    },
+    {
+      "path": "models/giai-dao-nhan-gdn01.png",
+      "bytes": 3013939,
+      "sha256": "348771c713cbd9abf89d364798a9d20396e398cc4c8816d5db45cae1e6d4a2df"
+    },
+    {
+      "path": "models/han-lap-son-nhac-cu-vien.png",
+      "bytes": 2842732,
+      "sha256": "d6ece4a1eb2183407a0aa6258f94376686afe0ac37c2e06deb7fc13319124f84"
+    },
+    {
+      "path": "models/han-lap-tinh-quang-nguyen-anh-dao-cu.png",
+      "bytes": 2556864,
+      "sha256": "bc6071bfa8cb65dc35e556d5850872e76c6fee29dd8cf1c0c34b86886ab9420f"
+    },
+    {
+      "path": "models/han-lap-v2.png",
+      "bytes": 2474122,
+      "sha256": "9cb6f7e3aa9f61451c3625e5e4a3d373b9e93e507e4dba97921362b52143bbbf"
+    },
+    {
+      "path": "models/ho-ngon-van-nghe-nam-le-models.png",
+      "bytes": 2624506,
+      "sha256": "91bb0b0a6298d4960b57efb39f151bd00f947a6eb495d361abb279718a98b840"
+    },
+    {
+      "path": "models/hung-gia-models.png",
+      "bytes": 3001748,
+      "sha256": "fbfa8a397d512e6bc8872bd7a6fa57e76ece12ed0160051a3b892d23ac7ffc09"
+    },
+    {
+      "path": "models/huyet-han-v1.png",
+      "bytes": 2446397,
+      "sha256": "33a12ccdb8262adf1a7dba127ca1a91b2d02b251bdec0a464e8c0acb627954f9"
+    },
+    {
+      "path": "models/kim-dong-giai-dao-nhan-bien-the.png",
+      "bytes": 3020450,
+      "sha256": "d334cb8b3a6e77e6cf1b16fed41c49cfcbe0d2a75965bbeaca6be6a76a32d7fd"
+    },
+    {
+      "path": "models/kim-hai-vo-sinh-hoi-tien-dao-cu.png",
+      "bytes": 2965430,
+      "sha256": "3e2caad93fd6a097f5cce25453b085eaf21e0187bdf35677dc95df72a2829eae"
+    },
+    {
+      "path": "models/lanh-dao-cac-phe-models.png",
+      "bytes": 2626630,
+      "sha256": "cf489c0b5cb07456259adf05d7e8b17ff4cb9dc9910e2e1ff6efe8d6718c4086"
+    },
+    {
+      "path": "models/linh-thu-models.png",
+      "bytes": 2904740,
+      "sha256": "4922ee71a45a8932cd97f994fb1551b9ea2ecffa821133ba3a9b1cff3c5f1a3e"
+    },
+    {
+      "path": "models/luc-vu-tinh-v2.png",
+      "bytes": 2520466,
+      "sha256": "a2384c7d9e8dcb1ee056af196328774f133e7051cf1ab36a9032f5e5b6db9a10"
+    },
+    {
+      "path": "models/ma-quang-nhat-quy-duong-hon-lo.png",
+      "bytes": 2606031,
+      "sha256": "bfbcf0ff17ffe2b652557fc3e9a0ac410b530db3f88550cf21b90f95ed2d4263"
+    },
+    {
+      "path": "models/nhan-vat-linh-thu-moi.png",
+      "bytes": 2937486,
+      "sha256": "9f3477b5fefb37b5c94a14ccae67b758a6e2cb7ba33ae4cbcdde6d3e87833390"
+    }
+  ]
+}
