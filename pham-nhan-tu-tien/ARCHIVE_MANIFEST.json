@@ -332,6 +332,36 @@
           1491
         ]
       }
+    },
+    {
+      "chapter": 477,
+      "pages": 5,
+      "directory": "chapters/477",
+      "edition": "user-provided-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/477/chuong-477.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1491
+        ],
+        "trang-02.png": [
+          1055,
+          1491
+        ],
+        "trang-03.png": [
+          1055,
+          1490
+        ],
+        "trang-04.png": [
+          1054,
+          1492
+        ],
+        "trang-05.png": [
+          1055,
+          1491
+        ]
+      }
     }
   ],
   "files": [
@@ -1576,16 +1606,6 @@
       "sha256": "976af49ea73e79175c272749f2f24b5a36a65831bd66967c6580a19486665891"
     },
     {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 100526,
-      "sha256": "2ed0119ee8132ce743c10c99d74b641d931f4ff6a570529b0c2d6118c2b58f21"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 58416,
-      "sha256": "8a9fcef2745a8e558a5169bd0ea96b64056cb35a75981e8bd52cf715a3ffe65e"
-    },
-    {
       "path": "models/te-thien-tieu-au-duong-tuyet-oanh-lien-lac-476.png",
       "bytes": 2679997,
       "sha256": "eae3c46cd4d34e7e4bf1fc9d8936092b609e2ecf42a01e790458d806fffee982"
@@ -1634,6 +1654,61 @@
       "path": "chapters/476/trang-02.png",
       "bytes": 2954763,
       "sha256": "70091cf5c26d3f024d00e75a560507b6b4e094d9cb68aab314043c1013f78087"
+    },
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 106832,
+      "sha256": "be577e58f2ec6dd78d205427a134f350b37fdd16d4c25f4f5ecec332b70408c4"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 64722,
+      "sha256": "0d3b2561f0b92e57e0e3b401e7801d48cce595f07d4af83e6a5b4e154bdbba39"
+    },
+    {
+      "path": "models/thanh-dien-truyen-tin-ngoc-gian-477.png",
+      "bytes": 2761179,
+      "sha256": "3a0e5cb839d77ad1a72a4121811dde6d59d9bc9e92dc0623c959c18f5a1677ed"
+    },
+    {
+      "path": "models/bac-han-dong-mon-bong-den-477.png",
+      "bytes": 2533634,
+      "sha256": "e49e91cb2ffbe11ae3c09b29d8f1161b6f2977c201bf742e7d7f7e65c5e6a0d1"
+    },
+    {
+      "path": "chapters/477/trang-04.png",
+      "bytes": 2805446,
+      "sha256": "c2b3822e7b64f6033fefe84b158b0f0654d22c1048223ec9b6fb84e3405d5f8d"
+    },
+    {
+      "path": "chapters/477/README.md",
+      "bytes": 646,
+      "sha256": "77960b4c52ccb8ce24620889c34c3ec8981f714b08d7da595933de60b1224fa3"
+    },
+    {
+      "path": "chapters/477/trang-03.png",
+      "bytes": 2940300,
+      "sha256": "d8ef01644ab733e52531b41a987915c602e4cf890a0a9556839430c681b0ce2c"
+    },
+    {
+      "path": "chapters/477/trang-01.png",
+      "bytes": 2914641,
+      "sha256": "af51825fddf7a2aa3163451d6482c786a6c056edad9c8e49027511d866ad1bdc"
+    },
+    {
+      "path": "chapters/477/trang-05.png",
+      "bytes": 2922293,
+      "sha256": "1302289a8e119494b3b89508c863b48f4a5f7e73441d3eaa4d4a44396fccc79f"
+    },
+    {
+      "path": "chapters/477/chuong-477.pdf",
+      "bytes": 4952217,
+      "sha256": "d5871f89f46199d7be0f812b14a1b45b8d98fa2b9799cd21298af4a69c3d10c6"
+    },
+    {
+      "path": "chapters/477/trang-02.png",
+      "bytes": 2724728,
+      "sha256": "5eba756d0bd7558dae637da470b8ad04a97311a03180b463f9aa10b6df9e763e"
     }
   ],
   "drafts": [
