@@ -8,6 +8,8 @@
 
 ## Các chương
 
+- [Chương 484: Liên thủ ngự Linh](chapters/484/): 4 trang, hoàn thành; [PDF A4](chapters/484/chuong-484.pdf)
+
 - [Chương 483: Vực linh](chapters/483/): 5 trang, hoàn thành; [PDF A4](chapters/483/chuong-483.pdf)
 
 - [Chương 482: Xem tiếp đi](chapters/482/): 5 trang, hoàn thành; [PDF A4](chapters/482/chuong-482.pdf)

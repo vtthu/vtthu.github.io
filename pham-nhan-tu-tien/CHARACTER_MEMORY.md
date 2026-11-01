@@ -473,3 +473,17 @@ Nguồn: file CHUONG 483.txt do người dùng đính kèm. Mỗi PNG một tran
 - Trang4: trên ngũ trụ bạch quang hợp thành VL-483 Vực Linh, nửa trên người/nửa dưới sương; Phong nhận Hóa Linh cảnh tầng ba. Hàn triều tới; các phe chấn thoát băng rồi hợp lực chống. Chưa có kết quả va chạm (thuộc484).
 - Trang5: Han/KD đóng băng trong hang, Han cảm tiên lực chậm mười lần, dùng pháp tắc thời gian cùng cự lực thoát; KD tự phá băng. Kim Đồng giận lao khỏi hang, Han gọi không kịp và đuổi theo. Chưa vẽ Kim Đồng thành bọ cánh cứng hoặc phá cột.
 - ĐIỂM NỐI484: Tiêu còn sống tái nhợt bên trong quang tráo năm cột trắng nguyên vẹn; chưởng ấn vai trái chưa xác nhận lành. Vực Linh đã thành, đang dùng hàn triều đối hồng lưu tiên khí; trận chưa phân thắng bại. Phong/QTT/HN/NLB và đồng minh còn sống; vài Chân Tiên đã chết. Âu Dương/2 Chúc Long đã xuống hội quân. Han/KD đang từ hang lao đến, chưa ra tay. Vách trắng Sơn Hà còn đóng, toàn sơn cốc đóng băng. Không tự cho Lạc/Tuyết Oanh/Công Thâu đến sớm.
+
+
+## Model mới trước chương484
+models/nhan-truong-lao-phap-bao-484.png: PLK-NHAN-484 Nhan trưởng lão mập tròn, tóc đen xám, ria/râu dê ngắn xám, áo brocade XÁM của Phục Lăng. Là nhân vật mới khác ba mẫu PLK-478A/B/C, không thay thế họ. Biến thể sau thương: mất tay TRÁI, tay PHẢI còn, tay áo trái rỗng/thu gọn, phù XANH trên áo, không cận vết thương. Đạo cụ đao ĐỎ khắc phượng, ấn TRẮNG, hoàn ngọc XANH, châu ĐỎ; như ý XÁM của QTT sinh pháp tướng rắn XÁM có bướu/không sừng chân; hỏa điểu ĐỎ của HN và cặp vòng ĐỎ Nam Lê. Tạo hình chuyển thể; pháp tướng không phải thú sống mới.
+
+
+## Chương 484 — Liên thủ ngự Linh: hoàn thành 4 trang
+Nguồn: file CHUONG 484.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/484/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Trang1: Hồng lưu đối hàn triều, sơn cốc băng nứt nhưng chưa sụp. Vực Linh áp sát Nhan, chộp đóng băng đao phượng, phát năm hàn quang. QTT đại thủ xám chặn bốn; một đạo làm Nhan mất tay TRÁI. Phù XANH hãm băng. Thương tích kể bằng lời dẫn/ánh sáng, không cận chi thể; tay trái không tự phục hồi.
+- Trang2: Đại thủ xám giữ Vực Linh; ba PLK khác dùng ấn trắng/hoàn xanh/như ý xám theo nguồn484 phá nó, nhưng nó ngưng tụ lại. QTT dùng phù ĐỎ trợ Nhan và cảnh báo. Phong dựng núi ĐEN từ hắc khí/xích, trói một Vực Linh để đồng minh đánh cột.
+- Trang3: Lưới TRẮNG ngăn các phe; QTT dùng 4–5 tơ xám nhập như ý sinh mãng XÁM có bướu, ăn mòn lưới rồi hợp nhất đánh dome. Dome còn nguyên. Ba Chúc Long OYKS/CLDA/CLDB hợp ba kiếm VÀNG thành một cự kiếm ba mặt.
+- Trang4: Hai Nam Lê NL03/NLB478 dùng hai trượng VÀNG đầu cong thành hai kim long; bà lão thêm hai vòng ĐỎ thành hai hỏa long. HN dùng hỏa điểu ĐỎ có mào lửa, VN phi luân TRÒN LAM ngưng băng trùy; không quạt ở đoạn này. Đây đều pháp tướng, không linh thú sống mới.
+- Model mới Nhan PLK-NHAN-484 đã lưu trước xuất hiện, giữ ba PLK cũ riêng. HN áo ĐEN tóc/râu xám, VN váy VÀNG, hai Nam Lê NÂU ĐỎ viền vàng; QTT mắt trái hỏng; Phong hai mắt lành áo xám than. Không có Han/KD xuất hiện trực tiếp trong chương484.
+- ĐIỂM NỐI485: Năm cột trắng và quang tráo còn nguyên đang chịu hợp kích. Tiêu còn sống ở giữa; Vực Linh bị Phong trói, chưa diệt vĩnh viễn. Nhan sống nhưng mất tay trái, mới được hai loại phù xanh/đỏ trị thương. Han/KD đang đến từ hang theo483, chưa vẽ xuất hiện/đánh cột. Vách trắng Sơn Hà còn đóng, valley phủ băng; không cho quang tráo vỡ sớm.
