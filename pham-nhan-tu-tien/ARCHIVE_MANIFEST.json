@@ -187,19 +187,16 @@
       "directory": "chapters/470",
       "edition": "user-provided-text-adaptation",
       "original_model_reference": true
+    },
+    {
+      "chapter": 471,
+      "pages": 5,
+      "directory": "chapters/471",
+      "edition": "user-provided-text-adaptation",
+      "original_model_reference": true
     }
   ],
   "files": [
-    {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 69575,
-      "sha256": "85e937b548e3f37c361413a975a8343b624b9467b970d3c01f0cd1f516c3c43b"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 27465,
-      "sha256": "4ae0dc6cf6219a6dce3ef7dce00cdeb1b84cdad841405b1165c93f3e00da1caf"
-    },
     {
       "path": "README.md",
       "bytes": 3016,
@@ -1244,6 +1241,46 @@
       "path": "summaries/README.md",
       "bytes": 1732,
       "sha256": "cc7355c45c8be8ff8c8a4306e2ff5d7444725c59feb168ef3d4742e9a6a2d837"
+    },
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 71318,
+      "sha256": "b5ecbd40a62732dc259a3e94e7c6f158804df2320532ed76be95ec879c2ac212"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 29208,
+      "sha256": "4a2ae5f96596169ec55377c68545c2f50815454a302f03b600e2f8e3a008ff76"
+    },
+    {
+      "path": "chapters/471/trang-04.png",
+      "bytes": 3733598,
+      "sha256": "ddadce40d633cc1080bbce0044b38953f8701637c1cf78f158044e7f8f6a99d7"
+    },
+    {
+      "path": "chapters/471/README.md",
+      "bytes": 977,
+      "sha256": "309f6848128b9c4a83d3099d07eca9046c65e8ab2057cd48f68b6b7ecc749af2"
+    },
+    {
+      "path": "chapters/471/trang-03.png",
+      "bytes": 3612696,
+      "sha256": "4366dcd945321f87e26da5b05aee33f88743573bb1dbece3bc61e97e2e7ffbf5"
+    },
+    {
+      "path": "chapters/471/trang-01.png",
+      "bytes": 3432380,
+      "sha256": "672a488f9a73d755849fdc5bd84656ee7eede6ead5b2d4edd150007874fc7225"
+    },
+    {
+      "path": "chapters/471/trang-05.png",
+      "bytes": 3632012,
+      "sha256": "ae2a2a460888680232f80bc37297b9c83b078d9dca7f4f114b52c4ecb8d3f8da"
+    },
+    {
+      "path": "chapters/471/trang-02.png",
+      "bytes": 3402415,
+      "sha256": "fedb21c076067b3a4fb99602818d928b52fcbca8ad1c4208b4a030c87796e710"
     }
   ],
   "drafts": [
@@ -1252,13 +1289,6 @@
       "pages": 5,
       "directory": "drafts/468",
       "status": "pending-original-model-reference-review"
-    },
-    {
-      "chapter": 471,
-      "pages_created": 3,
-      "pages_planned": 5,
-      "directory": "drafts/471",
-      "status": "incomplete-image-generation-limit"
     }
   ]
 }
