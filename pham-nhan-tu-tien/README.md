@@ -57,3 +57,7 @@ Mỗi chương một trang A4 dọc, sáu khung, lời dẫn và thoại ngắn 
 ## Bản nháp cần kiểm tra model
 
 - [Chương 468 — Linh vực](drafts/468/): 5 trang từ văn bản người dùng cung cấp. Chưa xác nhận đạt quy tắc dùng trực tiếp ảnh model gốc; không dùng làm model chuẩn.
+
+## Chương đang thực hiện
+
+- [Chương471 — Vực đấu](drafts/471/): đã có3/5trang ảnh, còn2trang kịch bản; công cụ tạo ảnh chạm hạn mức. Chưa phải bản hoàn chỉnh.

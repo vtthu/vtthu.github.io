@@ -192,18 +192,18 @@
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 65625,
-      "sha256": "5d2ee4700384ad8960c505e121843d44453e834e36ca1f2921cc528f924ae98d"
+      "bytes": 69575,
+      "sha256": "85e937b548e3f37c361413a975a8343b624b9467b970d3c01f0cd1f516c3c43b"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 24475,
-      "sha256": "08eb0e1908c22851c975d51d9f64caa42ef4b21092beed42d9bd59f1a720ca96"
+      "bytes": 27465,
+      "sha256": "4ae0dc6cf6219a6dce3ef7dce00cdeb1b84cdad841405b1165c93f3e00da1caf"
     },
     {
       "path": "README.md",
-      "bytes": 2809,
-      "sha256": "013bad25193f3fd0fed4b10b6749c12a13372b634a541bc04c2aa4cb783fd62e"
+      "bytes": 3016,
+      "sha256": "741d9decbaa9c51e8672ac3110d2db1538bb261c90fc7ae0d4057b5652ed383c"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -871,6 +871,31 @@
       "sha256": "b2b857b9fcdbf6df4e9a621daa30fc898c03683b3d83e2deb34336e297f92cfa"
     },
     {
+      "path": "drafts/471/README.md",
+      "bytes": 575,
+      "sha256": "72ae23135808a86429f5ef5b0e892760b69fabf24e4cd37a24a773b1935e4098"
+    },
+    {
+      "path": "drafts/471/STORYBOARD_TRANG_04_05.md",
+      "bytes": 5577,
+      "sha256": "5562a3e1ffd0986c7b0899e53795a8a2105921dbdda1b05eaa17f48796815a61"
+    },
+    {
+      "path": "drafts/471/trang-01.png",
+      "bytes": 3432380,
+      "sha256": "672a488f9a73d755849fdc5bd84656ee7eede6ead5b2d4edd150007874fc7225"
+    },
+    {
+      "path": "drafts/471/trang-02.png",
+      "bytes": 3402415,
+      "sha256": "fedb21c076067b3a4fb99602818d928b52fcbca8ad1c4208b4a030c87796e710"
+    },
+    {
+      "path": "drafts/471/trang-03.png",
+      "bytes": 3612696,
+      "sha256": "4366dcd945321f87e26da5b05aee33f88743573bb1dbece3bc61e97e2e7ffbf5"
+    },
+    {
       "path": "history/comic-441/CHARACTER_MEMORY.md",
       "bytes": 5841,
       "sha256": "42bd32c66290947c7a72d4b8dbe50b2fe38c78421b052d3dff6ea2b01be1aff8"
@@ -1036,6 +1061,21 @@
       "sha256": "ef32c5790bb67fda7d6ca52784486c62612b6fdb9dab3087f3c7e73b1a4685d3"
     },
     {
+      "path": "history/comic-471-partial/CHARACTER_MEMORY.md",
+      "bytes": 69575,
+      "sha256": "85e937b548e3f37c361413a975a8343b624b9467b970d3c01f0cd1f516c3c43b"
+    },
+    {
+      "path": "history/comic-471-partial/MANIFEST.json",
+      "bytes": 2476,
+      "sha256": "9242639ae5d531e3ba58fba1ff4c14d82c5e142e4ca367eaf2ee009c13dec297"
+    },
+    {
+      "path": "history/comic-471-partial/PROJECT_MEMORY.md",
+      "bytes": 27465,
+      "sha256": "4ae0dc6cf6219a6dce3ef7dce00cdeb1b84cdad841405b1165c93f3e00da1caf"
+    },
+    {
       "path": "history/comic-summary-465-470/CHARACTER_MEMORY.md",
       "bytes": 45781,
       "sha256": "79205f469e487ab72667d25ae1746c9e1bd990aed72046842aa6e81c970e951f"
@@ -1136,6 +1176,11 @@
       "sha256": "9f3477b5fefb37b5c94a14ccae67b758a6e2cb7ba33ae4cbcdde6d3e87833390"
     },
     {
+      "path": "models/vuong-toa-ba-kinh-nguyen-anh-linh-thu.png",
+      "bytes": 3134175,
+      "sha256": "c4ec30e68e11db0641def0a1810aaeed12be126f3710f0953e24b0a82d944171"
+    },
+    {
       "path": "summaries/465/README.md",
       "bytes": 226,
       "sha256": "98551e4405ea8b142fc83d969276adad8d5477018f02ab1729f70b6eb15001b1"
@@ -1207,6 +1252,13 @@
       "pages": 5,
       "directory": "drafts/468",
       "status": "pending-original-model-reference-review"
+    },
+    {
+      "chapter": 471,
+      "pages_created": 3,
+      "pages_planned": 5,
+      "directory": "drafts/471",
+      "status": "incomplete-image-generation-limit"
     }
   ]
 }
