@@ -8,6 +8,8 @@
 
 ## Các chương
 
+- [Chương 487: Kim Vân Đan kiếp](chapters/487/): 5 trang, hoàn thành; [PDF A4](chapters/487/chuong-487.pdf)
+
 - [Chương 486: Nữ đồng Kim Tiên](chapters/486/): 4 trang, hoàn thành; [PDF A4](chapters/486/chuong-486.pdf)
 
 - [Chương 485: Ngoài dự đoán của mọi người](chapters/485/): 4 trang, hoàn thành; [PDF A4](chapters/485/chuong-485.pdf)
