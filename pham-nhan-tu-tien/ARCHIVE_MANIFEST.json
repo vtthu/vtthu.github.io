@@ -167,6 +167,12 @@
       "pages": 5,
       "directory": "chapters/466",
       "edition": "user-provided-text-adaptation"
+    },
+    {
+      "chapter": 467,
+      "pages": 5,
+      "directory": "chapters/467",
+      "edition": "user-provided-text-adaptation"
     }
   ],
   "files": [
@@ -996,23 +1002,53 @@
       "git_blob_sha": "c6800fdc5f28c315884bd78a30af93f318748ff4"
     },
     {
+      "path": "chapters/466/README.md",
+      "bytes": 444,
+      "verification": "UTF-8 text saved in same Git commit"
+    },
+    {
+      "path": "chapters/467/trang-01.png",
+      "bytes": 2482280,
+      "git_blob_sha": "dd0a617f97473b6d4e5b02ccb8f38f65b4a9dddf"
+    },
+    {
+      "path": "chapters/467/trang-02.png",
+      "bytes": 2864059,
+      "git_blob_sha": "b395db3f65c0f3093287ae81f70d4e567b143645"
+    },
+    {
+      "path": "chapters/467/trang-03.png",
+      "bytes": 2677280,
+      "git_blob_sha": "c8883f69b6e9d9f4f4c05a2b3c5b3025819c2f96"
+    },
+    {
+      "path": "chapters/467/trang-04.png",
+      "bytes": 2991790,
+      "git_blob_sha": "2ceed455cc6f90943bb7681df21f516808e3a198"
+    },
+    {
+      "path": "chapters/467/trang-05.png",
+      "bytes": 2999022,
+      "git_blob_sha": "826e8ca76114be31dc33ccc3ce09da74dbce502d"
+    },
+    {
       "path": "README.md",
-      "bytes": 2147,
+      "bytes": 2314,
       "verification": "UTF-8 text saved in same Git commit"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 10886,
+      "bytes": 14206,
       "verification": "UTF-8 text saved in same Git commit"
     },
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 50929,
+      "bytes": 54249,
       "verification": "UTF-8 text saved in same Git commit"
     },
     {
-      "path": "chapters/466/README.md",
-      "bytes": 444,
+      "path": "chapters/467/README.md",
+      "bytes": 525,
       "verification": "UTF-8 text saved in same Git commit"
     }
   ]
