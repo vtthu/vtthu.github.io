@@ -272,6 +272,36 @@
           1490
         ]
       }
+    },
+    {
+      "chapter": 475,
+      "pages": 5,
+      "directory": "chapters/475",
+      "edition": "user-provided-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/475/chuong-475.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1491
+        ],
+        "trang-02.png": [
+          1054,
+          1492
+        ],
+        "trang-03.png": [
+          1056,
+          1490
+        ],
+        "trang-04.png": [
+          1055,
+          1491
+        ],
+        "trang-05.png": [
+          1055,
+          1491
+        ]
+      }
     }
   ],
   "files": [
@@ -1431,16 +1461,6 @@
       "sha256": "5f2f1655e39a85572898c512ddfa64bf2950a3bca20e479b366f8a6722726bdb"
     },
     {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 86448,
-      "sha256": "ced1e920bcdd4016dedc88ba520b97a5386d834d7d3bc9c256ba4d3b4dd91fda"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 44338,
-      "sha256": "35fa8a3b059857c5b907d186d58950cfa91e1831e97ae33c68f2d8eeda43f225"
-    },
-    {
       "path": "models/lau-cac-phi-dao-chuy-dao-luoi-cong-474.png",
       "bytes": 2666937,
       "sha256": "f53f12e69d7750a48915f98348cd67ba6c39c56dea91026a7c44773bf70e7a95"
@@ -1479,6 +1499,61 @@
       "path": "chapters/474/trang-02.png",
       "bytes": 3065479,
       "sha256": "8661b7f3158b2c1e6a52b0ea07c6eb0531286c41a3c4b1932ccdc1f9f28b931d"
+    },
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 92418,
+      "sha256": "81b525e7426f00dd57a7fcde9c56cb6d8630f150445787992415d8defd91f88a"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 50308,
+      "sha256": "4288daf85b1567823c52140684fbfe7b354869c7939a1cf9569b1e79a0bd7619"
+    },
+    {
+      "path": "models/di-toc-khach-phi-xa-khoi-loi-475.png",
+      "bytes": 2477874,
+      "sha256": "980302f0cad9c463038b0c0c52545a17daa16105703549a894420ab30cbb5a90"
+    },
+    {
+      "path": "models/phi-xa-ty-huu-mat-na-truc-son-ha-475.png",
+      "bytes": 2922166,
+      "sha256": "3a28adf44b8c65d39e2117f6fc1f6a1eb6c2172bcf9700e09f62339e57a333da"
+    },
+    {
+      "path": "chapters/475/trang-04.png",
+      "bytes": 2936660,
+      "sha256": "9c2b95dbc26d15edaec8e555aa93f6f85b442ceb4675f9eef1a68eb2c13ee396"
+    },
+    {
+      "path": "chapters/475/chuong-475.pdf",
+      "bytes": 5465279,
+      "sha256": "234ab0c94122469f0edb894ad9e92a0c4478ff0edb94dd81f90d42e417db62df"
+    },
+    {
+      "path": "chapters/475/README.md",
+      "bytes": 655,
+      "sha256": "feb3ed3a07896e3a05ec49016ac156b9e6a6a746f2814b609da90e360b5abb8a"
+    },
+    {
+      "path": "chapters/475/trang-03.png",
+      "bytes": 2849888,
+      "sha256": "65ec3a6461466353841d6ac1ef7d523320cb81272dd1850c2ea994bada508927"
+    },
+    {
+      "path": "chapters/475/trang-01.png",
+      "bytes": 3128663,
+      "sha256": "0e78b34e8d46cf318bf9a11deab28925b0bad8a14c2d279d255b29282485b8ee"
+    },
+    {
+      "path": "chapters/475/trang-05.png",
+      "bytes": 3376389,
+      "sha256": "32c631cca0ee168dd99eaf208b974392361a9cf0d36b7618c0d72ff870d0c53c"
+    },
+    {
+      "path": "chapters/475/trang-02.png",
+      "bytes": 3213559,
+      "sha256": "976af49ea73e79175c272749f2f24b5a36a65831bd66967c6580a19486665891"
     }
   ],
   "drafts": [
