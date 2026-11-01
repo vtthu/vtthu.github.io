@@ -155,24 +155,15 @@
       "pages": 1,
       "directory": "summaries/470",
       "edition": "summary"
+    },
+    {
+      "chapter": 465,
+      "pages": 5,
+      "directory": "chapters/465",
+      "edition": "user-provided-text-adaptation"
     }
   ],
   "files": [
-    {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 45781,
-      "sha256": "79205f469e487ab72667d25ae1746c9e1bd990aed72046842aa6e81c970e951f"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 5738,
-      "sha256": "49de6fa7327368eb3e950209b87e3a5b0f0b4deb41a1ab75b1fa1a37614bc230"
-    },
-    {
-      "path": "README.md",
-      "bytes": 1916,
-      "sha256": "66a5087f24e540daa6214ee4d58d7738efff4e34dfd0c2d93595dcd3a813d145"
-    },
     {
       "path": "chapters/441/trang-01.png",
       "bytes": 3334073,
@@ -942,6 +933,51 @@
       "path": "summaries/README.md",
       "bytes": 1732,
       "sha256": "cc7355c45c8be8ff8c8a4306e2ff5d7444725c59feb168ef3d4742e9a6a2d837"
+    },
+    {
+      "path": "chapters/465/trang-01.png",
+      "bytes": 3199953,
+      "git_blob_sha": "43ecc2389fe8eea518c08e2198625846e8285e76"
+    },
+    {
+      "path": "chapters/465/trang-02.png",
+      "bytes": 3152484,
+      "git_blob_sha": "816815e98a1d29855b5dcfdfa03e5546720e40e3"
+    },
+    {
+      "path": "chapters/465/trang-03.png",
+      "bytes": 3107525,
+      "git_blob_sha": "99df10b2261a3cda692c0d6513ea06f05b2f0a33"
+    },
+    {
+      "path": "chapters/465/trang-04.png",
+      "bytes": 2858403,
+      "git_blob_sha": "a266ebf536c1f4f1cbea5e6e80e49af30f0042bd"
+    },
+    {
+      "path": "chapters/465/trang-05.png",
+      "bytes": 3061177,
+      "git_blob_sha": "19c767d1c1b38a9e5384237ee9c5abb2ce899736"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2029,
+      "verification": "UTF-8 text saved in same Git commit"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 7927,
+      "verification": "UTF-8 text saved in same Git commit"
+    },
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 47970,
+      "verification": "UTF-8 text saved in same Git commit"
+    },
+    {
+      "path": "chapters/465/README.md",
+      "bytes": 428,
+      "verification": "UTF-8 text saved in same Git commit"
     }
   ]
 }

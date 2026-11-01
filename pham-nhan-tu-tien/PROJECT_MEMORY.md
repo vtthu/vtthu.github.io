@@ -29,3 +29,12 @@ Link gốc có dạng https://phamnhantutien.org/truyen/pham-nhan-tu-tien-phan-2
 - 469: Nhật quỹ giúp tăng lên mười sợi tơ thời gian. Hạch tâm bị phá; trở lại cửa cung vàng, ngoài giới chỉ qua chớp mắt. Lục Vũ Tình, Kim Đồng và Cừ Linh vẫn ở trận chiến.
 - 470: Hàn Lập cứu viện Kim Đồng, đối đầu Cừ Linh. Cừ Linh hiện bản thể Mộng Yểm ngũ trảo hôi long; bạch mãng và hắc quái ngư phục kích bằng băng và lôi. Trang tóm lược chỉ thể hiện các luồng năng lượng, không vẽ ba linh thú này. Nếu vẽ ở phần sau phải tạo model tham chiếu trước: hôi long không vảy, gai ngược, năm móng, chữ Vương bạc trên trán. Cuối chương Hàn Lập đang bị giáp công, chưa có kết quả.
 - Không phục hồi pháp bảo đã hỏng từ các chương trước.
+
+
+## Chương 465 — Bản chuyển thể 5 trang từ văn bản người dùng cung cấp
+Ngày 01/11/2026. Bộ hiện hành: chapters/465/trang-01.png đến trang-05.png, 5 trang dọc A4, 8–11 khung thực tế mỗi trang, thoại/suy nghĩ/lời dẫn. Thay thế bản tóm lược một trang làm bản đọc chính cho chương 465; giữ bản tóm lược riêng ở summaries/465 để tham khảo.
+- Nguồn chuyển thể: toàn bộ văn bản chương 465 do người dùng dán trực tiếp trong hội thoại. Giữ cách gọi 'Thấy Vọng Giới' theo bản này.
+- Đã kiểm tra hồ sơ GitHub trước khi tạo. Hàn Lập HL-01 V2, Vô Sinh VS-01, tượng nữ Mặc Vũ và Dưỡng Hồn Lô/nhật quỹ dùng tạo hình hiện có. Không có nhân vật mới trực tiếp xuất hiện. Cảnh quá khứ là toàn cảnh công trình, không tạo người mới. Tượng nữ giữ bất động bằng đá.
+- Trang 1: Mặc Vũ trà trộn, biến cố tiên cung, câu hỏi Quảng Hàn Giới. Trang 2: Vạn Kiếm Đồ, chiến bại và tàn hồn, Thiên Đình, các tượng tự khắc; Han thu kiếm. Trang 3: bí cảnh tù thất, phá hạch tâm, Thái Ất và điều kiện pháp tắc thời gian/không gian. Trang 4: tàn hồn vào Dưỡng Hồn Lô, qua cửa ngầm và mê cung, đến cửa hạch tâm. Trang 5: thử cấm chế, thu lư, dán phù và để lư NGOÀI cửa; vào phòng Dương thạch; phát hiện nhật quỹ.
+- Điểm nối chương 466: Hàn Lập đang vươn tay vào lỗ khảm, CHƯA chạm thạch bàn, dị biến mới bắt đầu. Chưa có đòn lôi hoàn chỉnh, chưa phá hạch tâm, chưa học Huyền Sát Minh Linh Công hay tiến giai. Lư hương và tàn hồn vẫn ngoài cửa. Nhật quỹ đá TRẮNG nghiêng trong bệ đá VUÔNG, 12 canh giờ và kim sắt ĐEN. Han tóc đen trâm ngọc xanh áo TEAL, kiếm đã thu. Giải Đạo Nhân không đứng ngoài.
+- Ảnh được tạo trực tiếp trong chat; môi trường filesystem không khởi động được, đã lưu PNG bằng GitHub blob API. Không có ZIP cục bộ mới.

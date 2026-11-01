@@ -1,6 +1,6 @@
 # Phàm Nhân Tu Tiên — Kho truyện và bộ nhớ dự án
 
-Đã lưu các chương441–464 và bản tóm lược minh họa465–470, model tham chiếu và hướng dẫn nối truyện.
+Đã lưu các chương441–465, bản tóm lược minh họa465–470, model tham chiếu và hướng dẫn nối truyện.
 
 - [Bộ nhớ dự án](PROJECT_MEMORY.md)
 - [Nhân vật và diễn biến liên tục](CHARACTER_MEMORY.md)
@@ -32,6 +32,8 @@
 - [Chương 462](chapters/462/): 4 trang
 - [Chương 463](chapters/463/): 4 trang
 - [Chương 464](chapters/464/): 4 trang
+
+- [Chương 465 — Hạch tâm](chapters/465/): 5 trang, chuyển thể từ văn bản người dùng cung cấp
 
 ## Bản tóm lược minh họa 465–470
 
