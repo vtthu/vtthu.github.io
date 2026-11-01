@@ -1,12 +1,14 @@
 # Phàm Nhân Tu Tiên — Kho truyện và bộ nhớ dự án
 
-Đã lưu các chương441–467 và469–470, bản tóm lược minh họa465–470, model tham chiếu và hướng dẫn nối truyện.
+Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ảnh model tham chiếu và bộ nhớ nối truyện. Mới hoàn thành [bộ chương 483–488](history/comic-483-488/): 27 trang PNG và 6 bản PDF A4.
 
 - [Bộ nhớ dự án](PROJECT_MEMORY.md)
 - [Nhân vật và diễn biến liên tục](CHARACTER_MEMORY.md)
 - [Ảnh model](models/)
 
 ## Các chương
+
+- [Chương 488: Tiên sứ](chapters/488/): 5 trang, hoàn thành; [PDF A4](chapters/488/chuong-488.pdf)
 
 - [Chương 487: Kim Vân Đan kiếp](chapters/487/): 5 trang, hoàn thành; [PDF A4](chapters/487/chuong-487.pdf)
 

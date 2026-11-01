@@ -1,0 +1,69 @@
+{
+  "chapters": [
+    {
+      "chapter": 483,
+      "title": "Vực linh",
+      "pages": 5,
+      "directory": "chapters/483"
+    },
+    {
+      "chapter": 484,
+      "title": "Liên thủ ngự Linh",
+      "pages": 4,
+      "directory": "chapters/484"
+    },
+    {
+      "chapter": 485,
+      "title": "Ngoài dự đoán của mọi người",
+      "pages": 4,
+      "directory": "chapters/485"
+    },
+    {
+      "chapter": 486,
+      "title": "Nữ đồng Kim Tiên",
+      "pages": 4,
+      "directory": "chapters/486"
+    },
+    {
+      "chapter": 487,
+      "title": "Kim Vân Đan kiếp",
+      "pages": 5,
+      "directory": "chapters/487"
+    },
+    {
+      "chapter": 488,
+      "title": "Tiên sứ",
+      "pages": 5,
+      "directory": "chapters/488"
+    }
+  ],
+  "total_pages": 27,
+  "models": [
+    "au-duong-chuc-long-bo-ba-480.png",
+    "bac-han-dong-mon-bong-den-477.png",
+    "cua-thai-at-lang-mo-truyen-tin-phi-yen-478.png",
+    "di-toc-khach-phi-xa-khoi-loi-475.png",
+    "han-lap-cai-trang-tieu-nguyen-anh-486.png",
+    "han-lap-v2.png",
+    "ho-ngon-van-nghe-nam-le-models.png",
+    "kim-dong-giai-dao-nhan-bien-the.png",
+    "lanh-dao-cac-phe-models.png",
+    "linh-thu-models.png",
+    "nam-kha-mong-487.png",
+    "ngoc-bat-cach-nguyen-hac-kiem-bang-cau-481.png",
+    "nhan-truong-lao-phap-bao-484.png",
+    "phi-xa-ty-huu-mat-na-truc-son-ha-475.png",
+    "phuc-lang-kim-tien-nam-le-lao-ba-478.png",
+    "te-thien-tieu-au-duong-tuyet-oanh-lien-lac-476.png",
+    "thuong-luu-chuc-long-dong-mon-476.png",
+    "thuy-anh-ma-ban-488.png",
+    "tien-khi-pha-cam-479.png",
+    "vuc-linh-ngu-tru-483.png"
+  ],
+  "memory": [
+    "PROJECT_MEMORY.md",
+    "CHARACTER_MEMORY.md"
+  ],
+  "repository": "vtthu/vtthu.github.io",
+  "branch": "main"
+}
