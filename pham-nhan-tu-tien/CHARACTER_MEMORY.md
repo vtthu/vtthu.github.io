@@ -622,3 +622,12 @@ Nguồn: file CHUONG 495.txt do người dùng đính kèm. Bộ chính chapters
 - Trong2viênTháiẤtBẠCmớira/2GP492mỗicầm1,chưadângHT. Phongdùng2VựcLinhĐENnhậpHN/OYtạohắcvănđẩy2ngườivàolửa. 4ThươngLưu/VNvào;VNcưỡiTRẮNGLIÊNbị4xíchchặn.HanCT486phátTIMEVỰCVÀNGtừchest,chậmxíchcứuVNđếnHN.
 - ĐIỂMNỐI496:Hanchémxíchmìnhbằng1kiếmXANHLÔIVÀNG(thực3hợp1),nghịchChânLuântăngtốcnéxíchĐENtrongsuốtcáchbụng1tấc,rồichémxíchgiảiphóngKDgiápTRÙNGGOLD. Han/KDFREE,TIMEVỰCVÀNGđangmở. HN/OYcònbịxíchhắcvăn,VNđãởcạnhHN. Lạc/NKM/NL03/NLB/CLDAcòntrói;PhongQTTtựdoQTTcharredvariant. 2GPgiữ2SILVERđan,mớiHTăn1từ494. Hắc/Bạchchếtkhônghồisinh,Tiêukhônghồisinh.
 - Bảng phong-lac-model-goc-tach-495.png chỉtáchLTH01BÊNTRÁI/PTD01BÊNPHẢItừmodelgốcgiữnguyênmặt/trangphục,KHÔNGthaymẫu/đổidiệnmạo. DùngthamchiếuriêngđểtránhkéonhầmTiêuđãchết/BTSvàocảnhnền.
+
+
+## Chương 496 — Phân tranh: hoàn thành 5 trang
+Nguồn: file CHUONG 496.txt do người dùng đính kèm. Bộ chính chapters/496: PNG dọc, PDF A4, SOURCE.txt và README. Gắn trực tiếp ảnh model gốc/biến thể hiện hành trong các lần tạo; kiểm tra ảnh và số trang PDF. Lưu riêng commit chương này trên main trước khi làm chương tiếp.
+- 5trang. Mẫu mới han-lap-chay-huyet-lien-496.png trước dùng: HL-CT496giữnguyênCT486faceTEALbambooGREENpin,CHỈTAYÁOcháyđen/rách(doWHITEfire); NKM487chainkhóaĐANT IÊNtrênáokín,khônggore; HUYẾTLIÊNĐỎSẬM/tower7chi và4JADETOKENS/BLUEwaterglasssquarebarrier.
+- KDgiápTRÙNGGOLDmuốnănLÒHan/Lạccản;HanSILVERPhệLinhChânHỏahaitaymở1LỖTRÒNtườnglửaTRẮNG,áotaycháy,TIMEVỰCyếu. QTTcháytócáochặnKD bằng7–8mãngSƯƠNGXÁM. 4ThươngLưuđoạtđan/NKMchỉyếuđiểm,PhongkhóaNKMbụng/linhmụcsuy,Lạcbịáp.
+- VNsenkiếmPHÁPHỒNGnổcắtxíchHN,bịthươngnhẹHNđỡ,cứuOYbằngHỒNGLĂNGquấneo+kiếmHỎAĐỎ,HẮCVĂNtan. HN/VN/OYFREE. Phongthu2xíchcũHanKD,tạobiểnHUYẾTXÍCHĐỎSẬM/trụlồng;HNKIẾMchúiSÀNdựngHỎAVỰCĐỎ;4ThươngLưu4tokenjadeBLUEglasshousechặn.
+- ĐIỂMNỐI497:KD/QTTđánhRA NGOÀIKIMĐIỆNtrênđộngthiên,khôngcửatrắnghạpcốc;KHÔNGvẽ2nàyởtrong497–498. HanbuôngtayKHÉPLỖWHITEfire/THUTIMEVỰC,tayáocháy,hút2TiênNguyênThạchrồitớinhómHN/VN/OYtrongHỎAVỰCĐỎ. PhongthunửabiểnxíchchuẩnbịtínhsổHan. HNGRAYrâuchưacháy. Lạc/NKM/NL03/NLB/CLDAcòntrói,2GPgiữ2SILVERđan,HTăn1TaiYitừ494,khôngtựđẩynhanhđoạtđan.
+- Mức cháy HL-CT496: tay áo từ KHUỶU trở xuống hầu như mất, lộ hai cẳng tay lành; không mất tay. Trang1 đầu cảnh giữ ống tay nguyên rồi mới cháy khi chống lửa. Sửa chữ gọi nhầm QTT/HN, bỏ tháp huyết liên xuất hiện sớm trang2, giữ áo Lạc nguyên vẹn và bỏ xích vẽ nhầm trên VN trang3. Đính chính nhãn model hai viên đá là TIÊN NGUYÊN THẠCH, không 'Tiên thạch sinh mệnh'.

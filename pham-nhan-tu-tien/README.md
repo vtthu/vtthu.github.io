@@ -1,6 +1,6 @@
 # Phàm Nhân Tu Tiên — Kho truyện và bộ nhớ dự án
 
-Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ảnh model tham chiếu và bộ nhớ nối truyện.
+Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ảnh model tham chiếu và bộ nhớ nối truyện. Bộ [483–488](history/comic-483-488/) gồm 27 trang PNG và 6 bản PDF A4.
 
 - [Bộ nhớ dự án](PROJECT_MEMORY.md)
 - [Nhân vật và diễn biến liên tục](CHARACTER_MEMORY.md)
@@ -17,6 +17,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 - [Chương 494: Giết chết](chapters/494/): 5 trang; [PDF A4](chapters/494/chuong-494.pdf)
 
 - [Chương 495: Ra tay](chapters/495/): 5 trang; [PDF A4](chapters/495/chuong-495.pdf)
+
+- [Chương 496: Phân tranh](chapters/496/): 5 trang; [PDF A4](chapters/496/chuong-496.pdf)
 
 ## Các chương
 

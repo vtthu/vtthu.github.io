@@ -860,6 +860,36 @@
           1536
         ]
       }
+    },
+    {
+      "chapter": 496,
+      "pages": 5,
+      "directory": "chapters/496",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/496/chuong-496.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1491
+        ],
+        "trang-02.png": [
+          1024,
+          1536
+        ],
+        "trang-03.png": [
+          1055,
+          1491
+        ],
+        "trang-04.png": [
+          1055,
+          1491
+        ],
+        "trang-05.png": [
+          1054,
+          1492
+        ]
+      }
     }
   ],
   "files": [
@@ -3234,16 +3264,6 @@
       "sha256": "b866895d443730a7a8618417dd55c2554bde30cfaef8f4b27c3403e48b4d5a70"
     },
     {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 178858,
-      "sha256": "e8f94315ade3ec69cfaaca4a95dbd45924d8030f12453ddf4d3a925bbd766e18"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 136981,
-      "sha256": "624b845b351ce5d16eb5f407557c0160742c16d5d617fc3e5e1a38b8fa20586d"
-    },
-    {
       "path": "models/vuc-linh-lien-kiem-495.png",
       "bytes": 2609876,
       "sha256": "079b4d24d3b5661b13f0c3e6fb5e8180ea3801e466df388ee4129c9a373fddf9"
@@ -3252,11 +3272,6 @@
       "path": "models/phong-lac-model-goc-tach-495.png",
       "bytes": 2545736,
       "sha256": "7ce26570d3573c2012d6f356ea0a4c469b4131d94c1eaf5f71fa0998a4c92526"
-    },
-    {
-      "path": "README.md",
-      "bytes": 4577,
-      "sha256": "7746824c515c32ddea7217b0eda0be203970dc1394926f6e392aa07ea70bf477"
     },
     {
       "path": "chapters/495/chuong-495.pdf",
@@ -3297,6 +3312,66 @@
       "path": "chapters/495/trang-02.png",
       "bytes": 3101454,
       "sha256": "f5a4fa7d4d55e4c8e2057fbae3e411ff13d6d4cfc7511a37aba33e00395d4e1c"
+    },
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 181020,
+      "sha256": "ad259228d32c15cd87fe81271ee14b31d1b938ae7cff09c88c08d2f1a00ac931"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 139143,
+      "sha256": "8c566361a52ff1dd3233885e9943a5ad2e824a9fe3c5a262afa84473ef1778be"
+    },
+    {
+      "path": "models/han-lap-chay-huyet-lien-496.png",
+      "bytes": 2791858,
+      "sha256": "2a8b4b5422afcc8982055ac5abe275f28acb75044157aac4d3e8a1a66485b3ea"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4751,
+      "sha256": "230728c32185f9d6b53410ae5debf2c2130ce9c9c98a73788e4f88d32c7cd48b"
+    },
+    {
+      "path": "chapters/496/trang-04.png",
+      "bytes": 2973193,
+      "sha256": "e74935c55ee9a459f70828561b0f8404bcba5ca056359c2ab875bc2dd07a8b8d"
+    },
+    {
+      "path": "chapters/496/chuong-496.pdf",
+      "bytes": 5805316,
+      "sha256": "beae7fa7c022f6ee0c4b2a79c37efc13b6a4b032ede84a8bea99eaf181fb14b5"
+    },
+    {
+      "path": "chapters/496/SOURCE.txt",
+      "bytes": 15057,
+      "sha256": "d2f81f63043d5b10b2fbffab897da5a5a00e4037e623c4887d448a274fc9e352"
+    },
+    {
+      "path": "chapters/496/README.md",
+      "bytes": 355,
+      "sha256": "604652933d2a50c887985a05b0ca42a0b297ab3e019f8fa14f67488008e81568"
+    },
+    {
+      "path": "chapters/496/trang-03.png",
+      "bytes": 3283994,
+      "sha256": "c4b0fe0ae3907e24b71a8b828e942e136b8ff00a7b1304ba8f8ece7027bffde3"
+    },
+    {
+      "path": "chapters/496/trang-01.png",
+      "bytes": 3240543,
+      "sha256": "d558eb40b32337ac76e390c4055a7ed373d90ad02ec266b5a931991f448a696d"
+    },
+    {
+      "path": "chapters/496/trang-05.png",
+      "bytes": 3028703,
+      "sha256": "c44dab764d0fe726c992d09777997e63b9e86ca831b6e8f85ea3fbd5e8955f65"
+    },
+    {
+      "path": "chapters/496/trang-02.png",
+      "bytes": 3251171,
+      "sha256": "d25e71855a6488b467f4ad1ba8e5314abd7df630e1dc9e176a241b7fe58d99d8"
     }
   ],
   "drafts": [
@@ -3361,11 +3436,11 @@
       492,
       493,
       494,
-      495
+      495,
+      496
     ],
     "drafts": {},
     "not_generated": [
-      496,
       497,
       498
     ],
