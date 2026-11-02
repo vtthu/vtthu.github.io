@@ -830,14 +830,39 @@
           1536
         ]
       }
+    },
+    {
+      "chapter": 495,
+      "pages": 5,
+      "directory": "chapters/495",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/495/chuong-495.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1491
+        ],
+        "trang-02.png": [
+          1055,
+          1491
+        ],
+        "trang-03.png": [
+          1055,
+          1491
+        ],
+        "trang-04.png": [
+          1055,
+          1491
+        ],
+        "trang-05.png": [
+          1024,
+          1536
+        ]
+      }
     }
   ],
   "files": [
-    {
-      "path": "README.md",
-      "bytes": 4149,
-      "sha256": "18093eaca26bc1a66b9bb4917a06509c4cd553e5e2cd0f5254354f20bda71d4b"
-    },
     {
       "path": "chapters/441/trang-01.png",
       "bytes": 3334073,
@@ -3164,16 +3189,6 @@
       "sha256": "fc2290763fe6e3225c7853824e5d9fd687aa9ef2ac08cda4263bc33428f9dc0f"
     },
     {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 177079,
-      "sha256": "056e1bdd6fd5bc28c0e3a9f21f7ff66027794c9a257f334bc8d2f32c40772651"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 135202,
-      "sha256": "9a4abb7fe7f5e3b9007663add5c753eb946d23ac1d285cf2fd225e27c45179a2"
-    },
-    {
       "path": "models/bien-the-chay-thach-khoi-loi-494.png",
       "bytes": 3446517,
       "sha256": "657e7ed6e8e2ba9e6c3bbdac25378c3a74610102fc759369da50172f0e8b11e5"
@@ -3217,6 +3232,71 @@
       "path": "chapters/494/trang-02.png",
       "bytes": 3624968,
       "sha256": "b866895d443730a7a8618417dd55c2554bde30cfaef8f4b27c3403e48b4d5a70"
+    },
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 178858,
+      "sha256": "e8f94315ade3ec69cfaaca4a95dbd45924d8030f12453ddf4d3a925bbd766e18"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 136981,
+      "sha256": "624b845b351ce5d16eb5f407557c0160742c16d5d617fc3e5e1a38b8fa20586d"
+    },
+    {
+      "path": "models/vuc-linh-lien-kiem-495.png",
+      "bytes": 2609876,
+      "sha256": "079b4d24d3b5661b13f0c3e6fb5e8180ea3801e466df388ee4129c9a373fddf9"
+    },
+    {
+      "path": "models/phong-lac-model-goc-tach-495.png",
+      "bytes": 2545736,
+      "sha256": "7ce26570d3573c2012d6f356ea0a4c469b4131d94c1eaf5f71fa0998a4c92526"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4577,
+      "sha256": "7746824c515c32ddea7217b0eda0be203970dc1394926f6e392aa07ea70bf477"
+    },
+    {
+      "path": "chapters/495/chuong-495.pdf",
+      "bytes": 5673947,
+      "sha256": "4e2b69f5e32d74b09e147536a4d9d69a5eb10bb9d54e26dd85acb146a49ab97a"
+    },
+    {
+      "path": "chapters/495/trang-04.png",
+      "bytes": 2993364,
+      "sha256": "601706e23e06f233ced2a810d4e2ea621c6633f189729eca933bb75416198049"
+    },
+    {
+      "path": "chapters/495/SOURCE.txt",
+      "bytes": 15285,
+      "sha256": "4b6c6120c2814b4d8c96effba6ce281bb74ff041d20277bb82bb6849184601ff"
+    },
+    {
+      "path": "chapters/495/README.md",
+      "bytes": 350,
+      "sha256": "697b8ce8fd285a80aa5105dce84b9828dbe658ceaf32f8d94052a36d6083779e"
+    },
+    {
+      "path": "chapters/495/trang-03.png",
+      "bytes": 2792046,
+      "sha256": "004105665ee8bd7506cb467ee482b596a2de7fd382fdf46232cdcc3e91a4d685"
+    },
+    {
+      "path": "chapters/495/trang-01.png",
+      "bytes": 3289262,
+      "sha256": "affc941927f8cb053b5d84d7647c7df0e8369ed6718148104b3a16006a42f934"
+    },
+    {
+      "path": "chapters/495/trang-05.png",
+      "bytes": 3473935,
+      "sha256": "70781a9e43a984447a7240c369acc109168f11b58d25f38d8e96f76c7ea54904"
+    },
+    {
+      "path": "chapters/495/trang-02.png",
+      "bytes": 3101454,
+      "sha256": "f5a4fa7d4d55e4c8e2057fbae3e411ff13d6d4cfc7511a37aba33e00395d4e1c"
     }
   ],
   "drafts": [
@@ -3280,11 +3360,11 @@
       491,
       492,
       493,
-      494
+      494,
+      495
     ],
     "drafts": {},
     "not_generated": [
-      495,
       496,
       497,
       498

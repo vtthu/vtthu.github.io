@@ -613,3 +613,12 @@ Nguồn: file CHUONG 494.txt do người dùng đính kèm. Bộ chính chapters
 - GP492 dùng LÔIVÀNG đẩyNHƯÝXÁM; tượngđáphápThổ/chiếnđao gạt2cờ,40–50tượnglậpBÀNCỜVÀNG vàlửaTRẮNG. QTTthoátbịthiêutócáo; Hắc/BạchPhụcLăngCHẾTHẲNnhụcthân+NguyênAnh+trữvật,chỉ2cờdamagedcòn; từ495TUYỆTKHÔNGhồisinh.
 - GP492 cho HT491 ăn ONE TháiẤtBẠCĐẦU, HT sinhcơtăngít,vẫnngồichưatỉnh/chưarõdanhphận. HaiLyLongmới và2giọtbạcđankiếptiếp,bảncuốichưalấy2viên. LạcLTH01 dùngkheVỰCĐENbắnđiểmLAMrangoài;Phongvá,Lạcthủylamche.
 - ĐIỂMNỐI495:ngoài cửaTRẮNGSơnHàđãmở,mànLAM vạch2PhụcLăngtruyềntốngtráigiaoước;NhanlãomậpvẫnMẤTTAYTRÁI chạyánhXANH,khôngđánh/khôngtruy. VN/CLDBvà4ThươngLưucònngoài,chuẩnbịvào495. HanCT486/KDgiáptrùng/allngoạiPhong/QTTvẫnbịtrói;QTTcháytócáocurrentvariant. ONEđanBẠCđầuHTđãăn,haiviêntớiđangđankiếp.
+
+
+## Chương 495 — Ra tay: hoàn thành 5 trang
+Nguồn: file CHUONG 495.txt do người dùng đính kèm. Bộ chính chapters/495: PNG dọc, PDF A4, SOURCE.txt và README. Gắn trực tiếp ảnh model gốc/biến thể hiện hành trong các lần tạo; kiểm tra ảnh và số trang PDF. Lưu riêng commit chương này trên main trước khi làm chương tiếp.
+- 5trang đủnguồn. Mẫu mới vuc-linh-lien-kiem-495.png: VL495 là bóngngườiNHỎĐENkhôngmặt45cm,khácVLtrắng483; HN/OYgiữmặt/trangphụcgốc thêmHẮCVĂNđiềukhiển; VNYELLOWváy/trâmhoaVÀNG,WHITESNOWLOTUS/cànhsenKIẾMpháphồng/HỒNGLĂNGđỏ.
+- Ngoài CLDBvàocửaTRẮNG, VNvàotheochỉlàhuyễnảnh. FOURThươngLưu BTS/TLKA/B/C quacổngLAMtừtinLạc,VNthậtlénđutheo.CửaTRẮNGvàcổngLAMkhácnhau.
+- Trong2viênTháiẤtBẠCmớira/2GP492mỗicầm1,chưadângHT. Phongdùng2VựcLinhĐENnhậpHN/OYtạohắcvănđẩy2ngườivàolửa. 4ThươngLưu/VNvào;VNcưỡiTRẮNGLIÊNbị4xíchchặn.HanCT486phátTIMEVỰCVÀNGtừchest,chậmxíchcứuVNđếnHN.
+- ĐIỂMNỐI496:Hanchémxíchmìnhbằng1kiếmXANHLÔIVÀNG(thực3hợp1),nghịchChânLuântăngtốcnéxíchĐENtrongsuốtcáchbụng1tấc,rồichémxíchgiảiphóngKDgiápTRÙNGGOLD. Han/KDFREE,TIMEVỰCVÀNGđangmở. HN/OYcònbịxíchhắcvăn,VNđãởcạnhHN. Lạc/NKM/NL03/NLB/CLDAcòntrói;PhongQTTtựdoQTTcharredvariant. 2GPgiữ2SILVERđan,mớiHTăn1từ494. Hắc/Bạchchếtkhônghồisinh,Tiêukhônghồisinh.
+- Bảng phong-lac-model-goc-tach-495.png chỉtáchLTH01BÊNTRÁI/PTD01BÊNPHẢItừmodelgốcgiữnguyênmặt/trangphục,KHÔNGthaymẫu/đổidiệnmạo. DùngthamchiếuriêngđểtránhkéonhầmTiêuđãchết/BTSvàocảnhnền.
