@@ -442,3 +442,11 @@ Nguồn: file CHUONG 493.txt do người dùng đính kèm. Bộ chính chapters
 - QTT dùng kiếm XÁM bị TƯỜNG LỬA TRẮNG thiêu thành khói XANH. Hai vòng NGỌC TRẮNG rỗng tương ứng: một ngoài/một trong, đưa hai Phục Lăng vào rồi cả hai vỡ. Nhật Nguyệt Hỗn Động kết hai LAW thành xoáy ĐEN/TRẮNG xuyên một lỗ tường lửa. HanCT486/KDgiáp trùng vẫn bị xích, Han ghi nhớ phối hợp pháp tắc.
 - Trang1 sửa Phong về PTD01 LONGgraygoatee, QTT LEFTeyeCLOSEDscar/SHORTbeard. Trang3 sửa nền về NKM487 tócĐEN và CLDA476 áoMAUVE/hoa râm, không hồi sinh Tiêu; ngoài chỉ1vòng dùng chung.
 - ĐIỂM NỐI494: QTT qua lỗ dùng NHƯ Ý NGỌC XÁM phóng lớn; hai người dùng CỜTRẮNG THÁIDƯƠNG/CỜĐEN THÁIÂM. Kết ba đòn đang lao tới GP492, chưa trúng/chưa phản kích/tượng chưa sống. GP492 giữ ONE TháiẤtBẠCđầu cách ngai<15trượng, HT491 chưa ăn. Han/KD và all trừPhong/QTT/2Phục mới đến còn bịxích. Hắc/Bạch còn sống cuối493; không kể trước kết quả494. VN/CLDB/4ThươngLưu/NhanmấtTAYTRÁI còn ngoài cửaTRẮNG.
+
+
+## Chương 494 — Giết chết: hoàn thành 5 trang
+Nguồn: file CHUONG 494.txt do người dùng đính kèm. Bộ chính chapters/494: PNG dọc, PDF A4, SOURCE.txt và README. Gắn trực tiếp ảnh model gốc/biến thể hiện hành trong các lần tạo; kiểm tra ảnh và số trang PDF. Lưu riêng commit chương này trên main trước khi làm chương tiếp.
+- 5 trang, model mới bien-the-chay-thach-khoi-loi-494.png đã lưu trước dùng: QTT nửa tóc cháy/áo xém giữ mặt/râuNGẮN/mắtTRÁIđóngsẹo,mắtPHẢImở; tượngĐÁXÁMTRẮNG TKL491 chiếnđaoVÀNG/phápThổ,khácngườivàngGP492;2cờNhậtNguyệtxém.
+- GP492 dùng LÔIVÀNG đẩyNHƯÝXÁM; tượngđáphápThổ/chiếnđao gạt2cờ,40–50tượnglậpBÀNCỜVÀNG vàlửaTRẮNG. QTTthoátbịthiêutócáo; Hắc/BạchPhụcLăngCHẾTHẲNnhụcthân+NguyênAnh+trữvật,chỉ2cờdamagedcòn; từ495TUYỆTKHÔNGhồisinh.
+- GP492 cho HT491 ăn ONE TháiẤtBẠCĐẦU, HT sinhcơtăngít,vẫnngồichưatỉnh/chưarõdanhphận. HaiLyLongmới và2giọtbạcđankiếptiếp,bảncuốichưalấy2viên. LạcLTH01 dùngkheVỰCĐENbắnđiểmLAMrangoài;Phongvá,Lạcthủylamche.
+- ĐIỂMNỐI495:ngoài cửaTRẮNGSơnHàđãmở,mànLAM vạch2PhụcLăngtruyềntốngtráigiaoước;NhanlãomậpvẫnMẤTTAYTRÁI chạyánhXANH,khôngđánh/khôngtruy. VN/CLDBvà4ThươngLưucònngoài,chuẩnbịvào495. HanCT486/KDgiáptrùng/allngoạiPhong/QTTvẫnbịtrói;QTTcháytócáocurrentvariant. ONEđanBẠCđầuHTđãăn,haiviêntớiđangđankiếp.
