@@ -20,6 +20,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 - [Chương 496: Phân tranh](chapters/496/): 5 trang; [PDF A4](chapters/496/chuong-496.pdf)
 
+- [Chương 497: Lẻn vào](chapters/497/): 5 trang; [PDF A4](chapters/497/chuong-497.pdf)
+
 ## Các chương
 
 - [Chương 490: Ta tin](chapters/490/): 5 trang, hoàn thành; [PDF A4](chapters/490/chuong-490.pdf)

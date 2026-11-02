@@ -890,6 +890,36 @@
           1492
         ]
       }
+    },
+    {
+      "chapter": 497,
+      "pages": 5,
+      "directory": "chapters/497",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/497/chuong-497.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1024,
+          1536
+        ],
+        "trang-02.png": [
+          1055,
+          1491
+        ],
+        "trang-03.png": [
+          1055,
+          1491
+        ],
+        "trang-04.png": [
+          1055,
+          1491
+        ],
+        "trang-05.png": [
+          1024,
+          1536
+        ]
+      }
     }
   ],
   "files": [
@@ -3314,24 +3344,9 @@
       "sha256": "f5a4fa7d4d55e4c8e2057fbae3e411ff13d6d4cfc7511a37aba33e00395d4e1c"
     },
     {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 181020,
-      "sha256": "ad259228d32c15cd87fe81271ee14b31d1b938ae7cff09c88c08d2f1a00ac931"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 139143,
-      "sha256": "8c566361a52ff1dd3233885e9943a5ad2e824a9fe3c5a262afa84473ef1778be"
-    },
-    {
       "path": "models/han-lap-chay-huyet-lien-496.png",
       "bytes": 2791858,
       "sha256": "2a8b4b5422afcc8982055ac5abe275f28acb75044157aac4d3e8a1a66485b3ea"
-    },
-    {
-      "path": "README.md",
-      "bytes": 4751,
-      "sha256": "230728c32185f9d6b53410ae5debf2c2130ce9c9c98a73788e4f88d32c7cd48b"
     },
     {
       "path": "chapters/496/trang-04.png",
@@ -3372,6 +3387,66 @@
       "path": "chapters/496/trang-02.png",
       "bytes": 3251171,
       "sha256": "d25e71855a6488b467f4ad1ba8e5314abd7df630e1dc9e176a241b7fe58d99d8"
+    },
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 183062,
+      "sha256": "e6ea6a88e04e8e6eb80688dd79734c59e271394db970b5baed6193ceeddf9e53"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 141185,
+      "sha256": "980b9d56f410d4e12cc3702b76265e3dbe9f123cd9947ab82b90e4f3602590d1"
+    },
+    {
+      "path": "models/nam-le-lenh-phu-hu-nguyen-497.png",
+      "bytes": 2650933,
+      "sha256": "1a6503fda70f9ae32ed46742b0e1f45e4c0cdb5e1b15c45fecdefa548492149a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4844,
+      "sha256": "93d2b0e1744a52215bcaa9b99cdcde729bd0e9e38b4266ff8c63ba95c2cf8f88"
+    },
+    {
+      "path": "chapters/497/chuong-497.pdf",
+      "bytes": 5707608,
+      "sha256": "311561a8f77c8783835f30d0e982abba37234773c892fd5a259569af81c53ab5"
+    },
+    {
+      "path": "chapters/497/trang-04.png",
+      "bytes": 3377264,
+      "sha256": "a7d7464a1aa1911f0abbe71a0f32f5e297a2b113c35d0ca497dde39595916579"
+    },
+    {
+      "path": "chapters/497/SOURCE.txt",
+      "bytes": 13937,
+      "sha256": "b048b4a41b371c042e7da104dafc5d508f0851a267448ccb921578163bb2e6b9"
+    },
+    {
+      "path": "chapters/497/README.md",
+      "bytes": 354,
+      "sha256": "5fbddda745206999c2d49f45b505a67c5dbaef6a8ae54688c4f9adc65cfb342f"
+    },
+    {
+      "path": "chapters/497/trang-03.png",
+      "bytes": 3355054,
+      "sha256": "5cef49d35c2bb8397e626d2273e98e7d5ef6f5f2175e83a8157f25ab12db9662"
+    },
+    {
+      "path": "chapters/497/trang-01.png",
+      "bytes": 3135331,
+      "sha256": "bfb9c79aef8d5b3d025ab58e34dc0caf9ae49112b9a20739f70ba5259860d2fd"
+    },
+    {
+      "path": "chapters/497/trang-05.png",
+      "bytes": 2887364,
+      "sha256": "526dd10bc0cebeaf74feab52d6cff7fed05e5e0bd4f1871be715b137d4bff999"
+    },
+    {
+      "path": "chapters/497/trang-02.png",
+      "bytes": 2911716,
+      "sha256": "a91adcf5db4670c558834f8802b32d5230560b5fc5c1f81473b1506c18aca541"
     }
   ],
   "drafts": [
@@ -3437,11 +3512,11 @@
       493,
       494,
       495,
-      496
+      496,
+      497
     ],
     "drafts": {},
     "not_generated": [
-      497,
       498
     ],
     "image_generation_error": null,
