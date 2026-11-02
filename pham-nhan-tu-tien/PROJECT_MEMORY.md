@@ -417,3 +417,11 @@ models/kim-dien-dan-lo-491.png: KD491 kim điện mái vòm vàng/cột phù vă
 
 ## Tiến độ yêu cầu 488–498 — bị giới hạn công cụ tạo ảnh ngày 02/11/2026
 488 giữ bản hoàn chỉnh vì nguồn mới chỉ khác dòng trống;489/490 đã hoàn chỉnh5trang mỗi chương và push lần lượt503bbc2/d05ecf3.491 mới4/5trang NHÁP trong drafts/491, CHƯAhoànthành, thiếutrang5vàcầnsửamắtTRÁITềThiênTiêu/shortbeardtrang2; khôngđưa491vàochaptersđãxong. ModelKD491/DL491/HT491/TKL491đãlưutrướcvẽ. Trang4đếnviênTháiẤtĐANBẠCđầutiên, chưađếnLạccảnhbáo/lãoBàbịmànnướclamchặn. Côngcụbáo429usage_limit_reachedkhitạotrang5;resettheotool2026-11-02 14:10:10UTC=21:10:10VN,khôngcójobchạynền. Toànbộnguồn488–498lưu production/488-498/sources;492–498chưatạoảnhvàchưađọcđủđểdựng. Đọcdrafts/491/README.mdvàPAGE-05-PROMPT.mdđểtiếptục, sửa491rồipushtrướckhi492. Khôngđổimodelgốc,khônggánHT491danhtính,khôngphụchồiTiêuđãchết.
+
+
+
+## Chương 491 — Diễn biến trong Động Thiên: hoàn thành 5 trang
+Nguồn: file CHUONG 491.txt do người dùng đính kèm. Bộ chính chapters/491: PNG dọc, PDF A4, SOURCE.txt và README. Gắn trực tiếp ảnh model gốc/biến thể hiện hành trong các lần tạo; kiểm tra ảnh và số trang PDF. Lưu riêng commit chương này trên main trước khi làm chương tiếp.
+- Hoàn thiện bản dở4/5 trước đó: giữtrang1/3/4, sửa QTTtrang2 mắtTRÁIđóngsẹo/phảimở/râungắn; tạo mới5 và sửa lòbámDL491(9LyLongTRẮNGômthânXANH/2tai3chân/TamTúcKimÔVÀNG). HanCT486 giữTEAL/trúc/trâmXANH, trang5từsau khôngđổimặt;KDvẫnnhẫnbọGOLDngónvôdanhTRÁI. Mẫu491đãtạotrướclượttrước.
+- Han/HNxácnhậnnôbộckhôilỗi, cácpheđếnkimđiện; Lạc/NKMphácửa; kimvân/giọtbạcthànhđankiếp, điện/lò/trậnchống. BêntrongtượngđáXÁMTRẮNGvàhoạtthiHT491mặctốiXANHngồingaiVÀNGchưarõdanhtính/chưathức. ONETháiẤtĐANBẠCđầuđượcLyLongnhả;Lạccảnhbáolòbảo vệ,NLBđịnhbướcbịmànNƯỚCLAMtừsànchặn;NL03cườikhẩy,Han/HNsẵnsàng. Kếtgiươngcungbạtkiếm,chưađánh/chưalấy/ănđan.
+- ĐIỂMNỐI492:10người5phetrongkimđiện,ONEviênBẠCvừađượcnhả,cònvòngbảolò;LạccảnNLB,hoạtthi/chốttượngchưahànhđộng;HanCT486/KDnhẫnTAYTRÁI/HNrâuxám,Lạcnavy/NKMngàlam,Phongbasecharcoal/QTTmắttráihỏng,NamLê2lão,OY/CLDAmauve. VN/CLDB/4ThươngLưuvà3PhụcLăngcònNGOÀI. Tiêuchếtthậtkhônghồisinh. Bản491đãđủ5PNG/PDF5A4, cácghiđangthiếu491phíatrênlàlịchsửđãgiảiquyết.
