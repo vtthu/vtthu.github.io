@@ -8,6 +8,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 489: Thế giới sau cửa](chapters/489/): 5 trang, hoàn thành; [PDF A4](chapters/489/chuong-489.pdf)
+
 - [Chương 488: Tiên sứ](chapters/488/): 5 trang, hoàn thành; [PDF A4](chapters/488/chuong-488.pdf)
 
 - [Chương 487: Kim Vân Đan kiếp](chapters/487/): 5 trang, hoàn thành; [PDF A4](chapters/487/chuong-487.pdf)

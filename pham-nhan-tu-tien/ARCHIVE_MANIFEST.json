@@ -650,23 +650,53 @@
           1491
         ]
       }
+    },
+    {
+      "chapter": 489,
+      "pages": 5,
+      "directory": "chapters/489",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/489/chuong-489.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1491
+        ],
+        "trang-02.png": [
+          1055,
+          1491
+        ],
+        "trang-03.png": [
+          1054,
+          1492
+        ],
+        "trang-04.png": [
+          1055,
+          1491
+        ],
+        "trang-05.png": [
+          1055,
+          1491
+        ]
+      }
     }
   ],
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 159802,
-      "sha256": "9059f9b978a377454a179c23c6563dffb1b603d5524004e801b5a8015dfbd7e4"
+      "bytes": 163457,
+      "sha256": "db28a6438a4fe04d9cfb1e915cb99e2d7901660b68635d612bd568a2f2c9140a"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 117925,
-      "sha256": "b951f806468e85aed04dc1fe8251be43b3483771151a745a4b10eb80f240d722"
+      "bytes": 121580,
+      "sha256": "9307f072d64d3595870db4c27c78ed55673f1f91b15dff813388e89d71a0f394"
     },
     {
       "path": "README.md",
-      "bytes": 3927,
-      "sha256": "a5b07157b1bf838c458dbc62170f4a24378a6fc1035a2319c3021e80ddb0eccb"
+      "bytes": 4046,
+      "sha256": "c9f48626c76260d1da9e15e7b9412f3c1772957d6e66c62ecdcf4e473856bc9b"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -1909,6 +1939,46 @@
       "sha256": "27c6db86bf5834d4782af2c023229834b3518b056eff2a9d69bedf426b4624cd"
     },
     {
+      "path": "chapters/489/README.md",
+      "bytes": 708,
+      "sha256": "74629ad84d2d6110b58b0bee425d72738a02558f20373c8cd83dbbf0cb4ca8cc"
+    },
+    {
+      "path": "chapters/489/SOURCE.txt",
+      "bytes": 14785,
+      "sha256": "fe1896ef307875bc13dea5c4de2cf2ebb5e72111d563259b5a89cc1b2859832d"
+    },
+    {
+      "path": "chapters/489/chuong-489.pdf",
+      "bytes": 22648899,
+      "sha256": "85b605cd744540a047223a1dfcef9e3c47935eeb8c33bf8270903b32a89dd671"
+    },
+    {
+      "path": "chapters/489/trang-01.png",
+      "bytes": 2947686,
+      "sha256": "f887d9d5c479eacec8a0701203332c91a8a57be434145171d794270ec0d3616f"
+    },
+    {
+      "path": "chapters/489/trang-02.png",
+      "bytes": 2988989,
+      "sha256": "470700a8fbf078adc1a99436f26bd54c47902d63dc20da9fa65fd459bb8f510c"
+    },
+    {
+      "path": "chapters/489/trang-03.png",
+      "bytes": 3158432,
+      "sha256": "a2b6bccdf5a51f731fd49cffd872b15726ba436ebf1f03e8631a66f5b24fd877"
+    },
+    {
+      "path": "chapters/489/trang-04.png",
+      "bytes": 2733849,
+      "sha256": "4aaefdab8e1ea853a8e785ea938ab10a8487e1b69d8b592bb06a76607ba8ef18"
+    },
+    {
+      "path": "chapters/489/trang-05.png",
+      "bytes": 2569633,
+      "sha256": "e3e0c43be5fa12bc350acd3d5789d543720c17422568576cbbbeb8c3d4037e0c"
+    },
+    {
       "path": "drafts/468/README.md",
       "bytes": 844,
       "sha256": "ec62133989ea1c23b6d2d938d8724bded7fcb5238871fe86b25f6132cb2c74c7"
@@ -2332,6 +2402,26 @@
       "path": "history/comic-488/README.md",
       "bytes": 588,
       "sha256": "768a6a3fc29eea92826b6bbc7757adb6791932ab60301577df973197131cf364"
+    },
+    {
+      "path": "history/comic-489/CHARACTER_MEMORY.md",
+      "bytes": 163457,
+      "sha256": "db28a6438a4fe04d9cfb1e915cb99e2d7901660b68635d612bd568a2f2c9140a"
+    },
+    {
+      "path": "history/comic-489/MANIFEST.json",
+      "bytes": 4926,
+      "sha256": "17025f034b14edb1062d1d21e3a1dbc5c780900b4b21b6855e3d64fc9c626fc9"
+    },
+    {
+      "path": "history/comic-489/PROJECT_MEMORY.md",
+      "bytes": 121580,
+      "sha256": "9307f072d64d3595870db4c27c78ed55673f1f91b15dff813388e89d71a0f394"
+    },
+    {
+      "path": "history/comic-489/README.md",
+      "bytes": 616,
+      "sha256": "6e46a0891d33aefb8897f0f7b97c6bf9ef9214d4b7166353d5e8a9a1f17e5f00"
     },
     {
       "path": "history/comic-summary-465-470/CHARACTER_MEMORY.md",
