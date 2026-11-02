@@ -1,0 +1,86 @@
+{
+  "requested_chapters": [
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498
+  ],
+  "completed_existing": [
+    488
+  ],
+  "completed_new": [
+    489,
+    490
+  ],
+  "drafts": {
+    "491": {
+      "pages": [
+        {
+          "page": 1,
+          "path": "drafts/491/trang-01-draft.png",
+          "size": [
+            1054,
+            1492
+          ],
+          "status": "draft"
+        },
+        {
+          "page": 2,
+          "path": "drafts/491/trang-02-draft.png",
+          "size": [
+            1055,
+            1491
+          ],
+          "status": "draft"
+        },
+        {
+          "page": 3,
+          "path": "drafts/491/trang-03-draft.png",
+          "size": [
+            1055,
+            1491
+          ],
+          "status": "draft"
+        },
+        {
+          "page": 4,
+          "path": "drafts/491/trang-04-draft.png",
+          "size": [
+            1055,
+            1491
+          ],
+          "status": "draft"
+        }
+      ],
+      "missing_pages": [
+        5
+      ],
+      "requires_correction": [
+        "page 2: QTT left eye scar/closed, short beard"
+      ]
+    }
+  },
+  "not_generated": [
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498
+  ],
+  "image_generation_error": {
+    "code": 429,
+    "type": "usage_limit_reached",
+    "reset_epoch": 1793628610,
+    "reset_utc": "2026-11-02T14:10:10Z"
+  },
+  "running_background_jobs": false
+}
