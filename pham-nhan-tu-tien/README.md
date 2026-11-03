@@ -30,6 +30,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 504: Hiệp lực](chapters/504/): 4 trang, hoàn thành; [PDF A4](chapters/504/chuong-504.pdf)
+
 - [Chương 503: Đã muộn](chapters/503/): 4 trang, hoàn thành; [PDF A4](chapters/503/chuong-503.pdf)
 
 - [Chương 502: Xuất hiện](chapters/502/): 4 trang, hoàn thành; [PDF A4](chapters/502/chuong-502.pdf)
