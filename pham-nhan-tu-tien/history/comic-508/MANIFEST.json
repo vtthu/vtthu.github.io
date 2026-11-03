@@ -1,0 +1,50 @@
+{
+  "chapter": 508,
+  "title": "Cơ hội tốt",
+  "images": [
+    "/workspace/comic-batch-500-508/a4-508/trang-01.png",
+    "/workspace/comic-batch-500-508/a4-508/trang-02.png",
+    "/workspace/comic-batch-500-508/a4-508/trang-03.png",
+    "/workspace/comic-batch-500-508/a4-508/trang-04.png",
+    "/workspace/comic-batch-500-508/a4-508/trang-05.png"
+  ],
+  "models": [
+    "han-lap-chay-huyet-lien-496.png",
+    "mac-vu-cong-thau-bien-the-508.png",
+    "mac-vu-giao-tam-khi-anh-507.png",
+    "di-toc-khach-phi-xa-khoi-loi-475.png",
+    "te-thien-tieu-au-duong-tuyet-oanh-lien-lac-476.png",
+    "ho-ngon-chay-khoi-loi-498.png"
+  ],
+  "summary": "Mặc Vũ chống Thiên Phạt Lôi Thạch, dùng Hôi Long Thủ đánh trọng thương Công Thâu Cửu. Khi thần hồn Mặc Vũ bất ổn, Hàn Lập chặn tiên sứ, định trụ cả Tuyết Oanh. Lớp hộ thể trắng sữa bí ẩn vẫn cản được ba Thanh Trúc Phong Vân Kiếm.",
+  "notes": "- Hàn Lập giữ biến thể CT496; Kim Đồng và lư ở trong túi, không xuất hiện bên ngoài.\n- Mặc Vũ giữ thân HT491/MV507 nam, mắt xám trắng; tay trái hóa xích sau khi tiên sứ bỏ chạy. Hôi Long Thủ chỉ là đầu rồng xám có hắc văn.\n- Công Thâu Cửu dùng model gốc PK475 trước lôi thạch; PK508 rách áo, tóc rối sau khi trúng hôi quang. Tuyết Oanh dùng TO476 nữ áo xanh.\n- Hộ thể trắng sữa chưa rõ nguồn gốc, hoa văn không phải Kim Triện/Ngân Khoa. Ba kiếm bị đẩy bật, không thêm kết cục chương 509.\n- Bối cảnh phế điện ngoài trời sau sụp đổ; không phục sinh Âu Dương, Xi Ly, Phong hay Tề. Model/đạo cụ mới lưu trong mac-vu-cong-thau-bien-the-508.png trước khi dựng trang.",
+  "raw_generated_images": [
+    "/workspace/generated_images/exec-7980cc6c-1a23-4622-832c-8f7710c9b962.png",
+    "/workspace/generated_images/exec-82972348-5e29-4e5f-a221-feb2f99ba10c.png",
+    "/workspace/generated_images/exec-d64f5a71-f6e6-4549-95a5-56ac99dee892.png",
+    "/workspace/generated_images/exec-7f1f6ed1-2196-4c53-a36c-a58677950aa6.png",
+    "/workspace/generated_images/exec-eb46c578-670a-480c-93da-517c9d1ee494.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}
