@@ -3549,11 +3549,6 @@
       "sha256": "68cdc5004dba4b60ced48f957bb00f55824f7046fc5bd9046a66d9a2729b6536"
     },
     {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 145986,
-      "sha256": "6b366aaf7c0ba2a7c29baacb8ca6ed0890a8725a9bada967a79d64acd7c7867d"
-    },
-    {
       "path": "models/hoa-quyen-hac-son-kim-dong-thu-nho-499.png",
       "bytes": 2650197,
       "sha256": "29dea71a20be0534e738b72531e49ec61a46324c1016ab793769516522c04ee8"
@@ -3617,6 +3612,61 @@
       "path": "chapters/499/trang-02.png",
       "bytes": 2960049,
       "sha256": "37733749d0331127f2a83cd0d7c96e3da3eddfdd36d1888dccc4cca9e1f40068"
+    },
+    {
+      "path": "production/499-508/README.md",
+      "bytes": 2867,
+      "sha256": "5fddc89340ea3fac46e4c5bf186677f52df9cfd2916ac35a02780803c6a35486"
+    },
+    {
+      "path": "production/499-508/CHUONG 500.txt",
+      "bytes": 15881,
+      "sha256": "9c529490d9d00e931a95452aac6c76ed04ab14a81e35b826de82a03b6e54487d"
+    },
+    {
+      "path": "production/499-508/CHUONG 501.txt",
+      "bytes": 14772,
+      "sha256": "9e9639318787644b14e1c4d9b9af7edfd44ad36840e30a5d13fdcabd790519fc"
+    },
+    {
+      "path": "production/499-508/CHUONG 502.txt",
+      "bytes": 14602,
+      "sha256": "fab654b241634b2946e66f7dcc703abab22b14ca6aded82af2d2e3ca5fd333ee"
+    },
+    {
+      "path": "production/499-508/CHUONG 503.txt",
+      "bytes": 15315,
+      "sha256": "a1b1946b34757cca27666aa054c21a85cd9f05bed2cfb471c1bbe7ba99f2fddd"
+    },
+    {
+      "path": "production/499-508/CHUONG 504.txt",
+      "bytes": 16265,
+      "sha256": "50d1819185999a488c2dd178caf216ad6b58e8ac9be1e92eec92193f39f34891"
+    },
+    {
+      "path": "production/499-508/CHUONG 505.txt",
+      "bytes": 15206,
+      "sha256": "d7491c3642449fd10bc23c7be5950d602528c8054e970b494b44e66e96b96288"
+    },
+    {
+      "path": "production/499-508/CHUONG 506.txt",
+      "bytes": 15447,
+      "sha256": "c30c33d44e1c0701bfd530833c1f3fef4d36de8988b9b7772be0bcd1d3b548c9"
+    },
+    {
+      "path": "production/499-508/CHUONG 507.txt",
+      "bytes": 15538,
+      "sha256": "bd23bb2a2f33353132ca2034eb0b7633da3c97ea16bba4c19667a11dc807791b"
+    },
+    {
+      "path": "production/499-508/CHUONG 508.txt",
+      "bytes": 14784,
+      "sha256": "cb15bce73bb9340dcb155ee56ae90a45d6be8bbf05c789c00fbf5c115924430f"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 146417,
+      "sha256": "9fd37b1c1306e3da56c3b627c1024411dd74541de0492dc01292a1aa049417f4"
     }
   ],
   "drafts": [
@@ -3719,7 +3769,14 @@
       507,
       508
     ],
-    "image_generation_error": null,
-    "running_background_jobs": false
+    "image_generation_error": {
+      "type": "usage_limit_reached",
+      "http_status": 429,
+      "resets_at": 1793700100,
+      "reset_utc": "2026-11-03T10:01:40Z",
+      "chapter_attempted": 500
+    },
+    "running_background_jobs": false,
+    "checkpoint": "production/499-508/README.md"
   }
 }
