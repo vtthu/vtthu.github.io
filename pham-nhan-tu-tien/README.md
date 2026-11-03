@@ -3,6 +3,7 @@
 ## Chương từ các tệp 519–528
 
 - [Chương 519: An bài](chapters/519/README.md) · [PDF](chapters/519/chuong-519.pdf)
+- [Chương 520: Đục nước béo cò](chapters/520/README.md) · [PDF](chapters/520/chuong-520.pdf)
 
 
 Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ảnh model tham chiếu và bộ nhớ nối truyện. Bộ [483–488](history/comic-483-488/) gồm 27 trang PNG và 6 bản PDF A4.
