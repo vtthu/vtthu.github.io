@@ -30,6 +30,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 502: Xuất hiện](chapters/502/): 4 trang, hoàn thành; [PDF A4](chapters/502/chuong-502.pdf)
+
 - [Chương 501: Quy hồn](chapters/501/): 5 trang, hoàn thành; [PDF A4](chapters/501/chuong-501.pdf)
 
 - [Chương 500: Hỗn chiến](chapters/500/): 5 trang, hoàn thành; [PDF A4](chapters/500/chuong-500.pdf)
