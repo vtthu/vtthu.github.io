@@ -1,5 +1,10 @@
 # Phàm Nhân Tu Tiên — Kho truyện và bộ nhớ dự án
 
+## Chương từ các tệp 519–528
+
+- [Chương 519: An bài](chapters/519/README.md) · [PDF](chapters/519/chuong-519.pdf)
+
+
 Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ảnh model tham chiếu và bộ nhớ nối truyện. Bộ [483–488](history/comic-483-488/) gồm 27 trang PNG và 6 bản PDF A4.
 
 - [Bộ nhớ dự án](PROJECT_MEMORY.md)
