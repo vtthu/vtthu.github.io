@@ -30,6 +30,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 503: Đã muộn](chapters/503/): 4 trang, hoàn thành; [PDF A4](chapters/503/chuong-503.pdf)
+
 - [Chương 502: Xuất hiện](chapters/502/): 4 trang, hoàn thành; [PDF A4](chapters/502/chuong-502.pdf)
 
 - [Chương 501: Quy hồn](chapters/501/): 5 trang, hoàn thành; [PDF A4](chapters/501/chuong-501.pdf)
