@@ -6,6 +6,10 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 - [Nhân vật và diễn biến liên tục](CHARACTER_MEMORY.md)
 - [Ảnh model](models/)
 
+## Chương từ các tệp 499–508
+
+- [Chương 499: Giằng co](chapters/499/): 5 trang; [PDF A4](chapters/499/chuong-499.pdf)
+
 ## Chương từ các tệp 491–498
 
 - [Chương 491: Diễn biến trong Động Thiên](chapters/491/): 5 trang; [PDF A4](chapters/491/chuong-491.pdf)
