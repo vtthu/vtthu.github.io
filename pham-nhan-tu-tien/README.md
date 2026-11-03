@@ -30,6 +30,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 507: Muốn giết người nào](chapters/507/): 4 trang, hoàn thành; [PDF A4](chapters/507/chuong-507.pdf)
+
 - [Chương 506: Tội tình gì](chapters/506/): 5 trang, hoàn thành; [PDF A4](chapters/506/chuong-506.pdf)
 
 - [Chương 505: Khí ảnh](chapters/505/): 4 trang, hoàn thành; [PDF A4](chapters/505/chuong-505.pdf)
