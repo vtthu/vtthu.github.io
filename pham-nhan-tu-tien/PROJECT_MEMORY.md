@@ -496,3 +496,16 @@ Phong Thiên Đô tự dùng họa quyển hắc sơn chặn Lam trượng; họ
 
 ## Tạm dừng batch499–508 do hạn mức
 499 hoàn thành/main fb503b47aecf04fa3aba655635de29acc28d55eb, 5 PNG + PDF. Model500 chưa tạo được: HTTP429 usage_limit_reached, resets_at1793700100 (03/11/2026 10:01:40 UTC =17:01:40 Việt Nam). 500–508 CHƯA CÓ ẢNH, không chạy nền. Nguồn/kế hoạch nối tiếp tại production/499-508/. Tiếp tục500, hoàn tất/kiểm tra/đẩy main từng chương.
+
+
+## Tiếp tục500–508 ngày03/11/2026 sau đồng bộ main86de1bd
+491–499 đãhoànchỉnhtrênGitHubđượcđồngbộtrướcvẽ500. DùngHL-CT496tayáocháy, HN498hếtrâu, QTT494cháytócáo/mắtTRÁIsẹokín; GP492NGƯỜIVÀNGđầuTRƠNkhôngmũlàmkhôilỗigiữđan. TKL494đáxámtrắng/chiếnđaoVÀNG; bảo nguyênLTH01mặt/râu/trâm/áo vàlamtrượngtheomẫuthủythần498. BảngKL500mới sinh trướcđồngbộđãLOẠIkhôngdùng/khôngthayGP492. Sàntrậnvàngbịphá, khôngbạchhỏa500; KDgiápTRÙNG5cmtrênvaiHanđầu500.
+
+
+## Chương 500 — Hỗn chiến: hoàn thành 5 trang
+Nguồn: file CHUONG 500.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/500/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- 5 trang từ nguồn CHUONG 500.txt. Đã đồng bộ main86de1bd trước comic, lấy điểm nối499 đúng; không coi491–499 còn dangdở. GiữHanCT496TANmatureTEALtayáocháy/cẳngtaylành, HN498BEARDLESSOLDáoĐENxémbaovàngkíncó1đan494–498, QTT494mắtTRÁIkínsẹo/râuNGẮNáotóccháy, PhongPTD01charcoalrâudàixám2mắtlành. VN01vàng/OYKS476tím/CLDA476Amauvegiữgốc. GP492đầuTRƠNkhôngmũ, TKL494đáxámtrắngchứkhôngCôngThâukhôilỗi. Khôngnhânvậtmớicótên. SheetKL500mớiđãloạikhôngdùngcanon vìđãcóGP492trênmainmới.
+- Trang1 3giọtbạcđankiếp,3đanBẠC3GP492nhận,8–9vựcchồngchéo,Hanđiềutốc,TKLđi chậm;SÀNtrậnvàngđãphákhôngtườnglửaTRẮNG. Trang2LạcmượnsứcTháiẤTnhư499,lamtrượngphárobotlấyviên1,épHN/VN/OY/CLDAlùi,Hankhôngtranhviên1. Trang3HanONEkiếmxanh/tơTIMEkhóarobotlàmviên2văng,2NamLêngăn:womanNLBdarksredthreads/NL03lãonam2huyếtquang;KDGOLDbeetlephónglớnphá2phép. Trang4GiảiGOLDfaceRIDGES/HOÀNGBÀO2kiếmxanhlôivàngép2NamLêlùi,Hanthuđan2;truyềnâmGiaoTam/bàgiữdungmạovàHanxácđịnhcơbản. KhôngtựtạodiệnmạoGiaoTam.
+- Trang5Phong/QTTgiànhđan3đẩy4ThươngLưu+NKM,làmrobotđứt2. TKLhợpBÀNCỜVÀNGVUÔNGmọingườilùi,Giảiđãthu,HanthuKDbằngánhLAM. Phong2xíchĐENthựcthểámtoánHan,chậm1nhịpbịbàncờđè;HanBẢOLUÂNVÀNGmắtgiữa/mấytrămđạovăn/tIMEwavesdừngPhongQTT/KD/tượng/vàgầnnửabàncờ. KếtTRƯỚC501chémPhong/QTT,khôngkểtrướchọchết. LạcvàÂukinhngạc.
+- Sửa trang5captiontựsinhsaiđịadanhHànĐanCung/NgọcLong,bỏsốthứtựcaption,đanHanmàuBẠCkhôngđỏvàsửalạicặpPhong/QTTđúngmặt/mắt. Đảmbảogiữmẫuhiệnhànhkhôngresettrạngtháibịthiêucháy. Giải/KDkhôngnhầmcua/girl. Tranhkểva chạmphápquangkhôngcậnthươngtích.
+- ĐIỂMNỐI501:Hanđangbị2xíchĐENdướibàncờVÀNG,ChânNgônBảoLuânđãđóngbăngPhong/QTT/KD/tượng/gầnnửabàncờ. CảPhongvàQTTCÒNSỐNGcuối500;3viênmới= Lạc1/Han1/Phong1, HNcòn1cũtrongtúivàng. Giảiđãthu. HT491chưatỉnhchưarõdanhphận. KhônghồisinhTiêu/HắcBạch. Ảnhgốcgiữnguyên;dànxuấttrangA4từảnhnguyênvẹnkhôngcắtnội dung,PNGxuấtPDFA4vàPDF5trang.

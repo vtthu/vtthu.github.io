@@ -2,7 +2,7 @@
 
 499 hoàn thành 5 PNG và PDF trên main, commit fb503b47aecf04fa3aba655635de29acc28d55eb.
 
-500–508 CHƯA tạo ảnh. Công cụ trả HTTP429 usage_limit_reached khi bắt đầu model500; resets_at1793700100 =03/11/2026 10:01:40 UTC (17:01:40 Việt Nam). Không có tác vụ nền. Nguồn đính kèm giữ nguyên ở đây. Tiếp tục500, hoàn tất/kiểm tra/đẩy main từng chương trước khi làm chương tiếp. Không tạo nhánh.
+500 đã hoàn thành 5 trang A4 và PDF (03/11/2026). 501–508 chưa tạo ảnh. Mốc hạn mức dưới đây là lịch sử, công cụ đã tạo ảnh trở lại. Công cụ trả HTTP429 usage_limit_reached khi bắt đầu model500; resets_at1793700100 =03/11/2026 10:01:40 UTC (17:01:40 Việt Nam). Không có tác vụ nền. Nguồn đính kèm giữ nguyên ở đây. Tiếp tục500, hoàn tất/kiểm tra/đẩy main từng chương trước khi làm chương tiếp. Không tạo nhánh.
 
 ## Chương500 đã đọc, kế hoạch5trang
 

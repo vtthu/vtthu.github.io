@@ -1,0 +1,57 @@
+{
+  "chapter": 500,
+  "title": "Hỗn chiến",
+  "images": [
+    "/workspace/comic-batch-500-508/a4-500/trang-01.png",
+    "/workspace/comic-batch-500-508/a4-500/trang-02.png",
+    "/workspace/comic-batch-500-508/a4-500/trang-03.png",
+    "/workspace/comic-batch-500-508/a4-500/trang-04.png",
+    "/workspace/comic-batch-500-508/a4-500/trang-05.png"
+  ],
+  "models": [
+    "lien-minh-sau-kim-tien-499.png",
+    "han-lap-chay-huyet-lien-496.png",
+    "ho-ngon-chay-khoi-loi-498.png",
+    "phong-lac-model-goc-tach-495.png",
+    "bien-the-chay-thach-khoi-loi-494.png",
+    "kim-khoi-loi-cach-nguyen-492.png",
+    "kim-dong-giai-dao-nhan-bien-the.png",
+    "linh-thu-models.png",
+    "phuc-lang-kim-tien-nam-le-lao-ba-478.png",
+    "ho-ngon-van-nghe-nam-le-models.png",
+    "thuong-luu-sau-nguoi-499.png",
+    "kim-dien-dan-lo-491.png",
+    "lac-thuy-than-bien-the-498.png"
+  ],
+  "summary": "Đan kiếp qua, ba viên Thái Ất đan ra lò giữa cuộc tranh đoạt của các phe. Hàn Lập giành một viên nhờ Kim Đồng và Giải Đạo Nhân, rồi bị Phong Thiên Đô ám toán khi thạch khôi lỗi hợp trận.",
+  "notes": "- 5 trang từ nguồn CHUONG 500.txt. Đã đồng bộ main86de1bd trước comic, lấy điểm nối499 đúng; không coi491–499 còn dangdở. GiữHanCT496TANmatureTEALtayáocháy/cẳngtaylành, HN498BEARDLESSOLDáoĐENxémbaovàngkíncó1đan494–498, QTT494mắtTRÁIkínsẹo/râuNGẮNáotóccháy, PhongPTD01charcoalrâudàixám2mắtlành. VN01vàng/OYKS476tím/CLDA476Amauvegiữgốc. GP492đầuTRƠNkhôngmũ, TKL494đáxámtrắngchứkhôngCôngThâukhôilỗi. Khôngnhânvậtmớicótên. SheetKL500mớiđãloạikhôngdùngcanon vìđãcóGP492trênmainmới.\n- Trang1 3giọtbạcđankiếp,3đanBẠC3GP492nhận,8–9vựcchồngchéo,Hanđiềutốc,TKLđi chậm;SÀNtrậnvàngđãphákhôngtườnglửaTRẮNG. Trang2LạcmượnsứcTháiẤTnhư499,lamtrượngphárobotlấyviên1,épHN/VN/OY/CLDAlùi,Hankhôngtranhviên1. Trang3HanONEkiếmxanh/tơTIMEkhóarobotlàmviên2văng,2NamLêngăn:womanNLBdarksredthreads/NL03lãonam2huyếtquang;KDGOLDbeetlephónglớnphá2phép. Trang4GiảiGOLDfaceRIDGES/HOÀNGBÀO2kiếmxanhlôivàngép2NamLêlùi,Hanthuđan2;truyềnâmGiaoTam/bàgiữdungmạovàHanxácđịnhcơbản. KhôngtựtạodiệnmạoGiaoTam.\n- Trang5Phong/QTTgiànhđan3đẩy4ThươngLưu+NKM,làmrobotđứt2. TKLhợpBÀNCỜVÀNGVUÔNGmọingườilùi,Giảiđãthu,HanthuKDbằngánhLAM. Phong2xíchĐENthựcthểámtoánHan,chậm1nhịpbịbàncờđè;HanBẢOLUÂNVÀNGmắtgiữa/mấytrămđạovăn/tIMEwavesdừngPhongQTT/KD/tượng/vàgầnnửabàncờ. KếtTRƯỚC501chémPhong/QTT,khôngkểtrướchọchết. LạcvàÂukinhngạc.\n- Sửa trang5captiontựsinhsaiđịadanhHànĐanCung/NgọcLong,bỏsốthứtựcaption,đanHanmàuBẠCkhôngđỏvàsửalạicặpPhong/QTTđúngmặt/mắt. Đảmbảogiữmẫuhiệnhànhkhôngresettrạngtháibịthiêucháy. Giải/KDkhôngnhầmcua/girl. Tranhkểva chạmphápquangkhôngcậnthươngtích.\n- ĐIỂMNỐI501:Hanđangbị2xíchĐENdướibàncờVÀNG,ChânNgônBảoLuânđãđóngbăngPhong/QTT/KD/tượng/gầnnửabàncờ. CảPhongvàQTTCÒNSỐNGcuối500;3viênmới= Lạc1/Han1/Phong1, HNcòn1cũtrongtúivàng. Giảiđãthu. HT491chưatỉnhchưarõdanhphận. KhônghồisinhTiêu/HắcBạch. Ảnhgốcgiữnguyên;dànxuấttrangA4từảnhnguyênvẹnkhôngcắtnội dung,PNGxuấtPDFA4vàPDF5trang.",
+  "raw_generated_images": [
+    "/workspace/generated_images/exec-26fc3ca3-1d76-4d2e-91b5-add24b9939c7.png",
+    "/workspace/generated_images/exec-e9c1de30-6c03-4b21-9c3b-692aca54121d.png",
+    "/workspace/generated_images/exec-453a09a5-caed-4d6a-b4f9-cab84642c262.png",
+    "/workspace/generated_images/exec-2b9a72d0-d6ba-47ac-8b92-f010ac0e31a3.png",
+    "/workspace/generated_images/exec-f1bd09d1-802f-4847-89ee-aaa7fe49dd40.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}
