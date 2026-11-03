@@ -620,3 +620,7 @@ Nguồn: file CHUONG 508.txt do người dùng đính kèm. Mỗi PNG một tran
 - Công Thâu Cửu dùng model gốc PK475 trước lôi thạch; PK508 rách áo, tóc rối sau khi trúng hôi quang. Tuyết Oanh dùng TO476 nữ áo xanh.
 - Hộ thể trắng sữa chưa rõ nguồn gốc, hoa văn không phải Kim Triện/Ngân Khoa. Ba kiếm bị đẩy bật, không thêm kết cục chương 509.
 - Bối cảnh phế điện ngoài trời sau sụp đổ; không phục sinh Âu Dương, Xi Ly, Phong hay Tề. Model/đạo cụ mới lưu trong mac-vu-cong-thau-bien-the-508.png trước khi dựng trang.
+
+
+## Hoàn tất đợt chương 500–508
+Đủ 9 chương, 40 PNG riêng A4 dọc (5/5/4/4/4/4/5/4/5 trang), kèm 9 PDF A4 và 9 SOURCE.txt khớp tệp người dùng. Từng chương đã đẩy main sau khi hoàn thành. Mục lục: production/500-508/README.md. Kết chương 508: Công Thâu Cửu còn sống trong hộ thể trắng sữa, Tuyết Oanh bị định trụ, ba kiếm của Hàn Lập bị đẩy bật; không tự thêm kết cục chương 509.

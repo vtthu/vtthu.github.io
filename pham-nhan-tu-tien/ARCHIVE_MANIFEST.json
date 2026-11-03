@@ -1235,13 +1235,13 @@
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 223343,
-      "sha256": "0ddffbf84fcf83cc6a2b617b842a8fad60b465cb7e0af059c4c4b3318a936d89"
+      "bytes": 223817,
+      "sha256": "549b930693632b6fe1775faf6ae99efa6e6893e855193bd186feb0daf1f121d4"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 180666,
-      "sha256": "a2872a78d16e70c9dfd318d36ea01b3067934310c7bd10c21362d65b4d112dbf"
+      "bytes": 181140,
+      "sha256": "cb9d9455519a2ad6cb1d717bb168f3890a8b2291be968150611bc407d3d3c5e3"
     },
     {
       "path": "README.md",
@@ -4400,8 +4400,13 @@
     },
     {
       "path": "production/499-508/README.md",
-      "bytes": 3012,
-      "sha256": "cd8515931623fe96415eb8c47e2349029bfeeadd1d1d9d88d5b1f9a9da7e8c66"
+      "bytes": 2017,
+      "sha256": "ed05c941f26151c8cb2dd5ea4377a71123e764e3e1608014724d437c2e161b4f"
+    },
+    {
+      "path": "production/500-508/README.md",
+      "bytes": 1888,
+      "sha256": "5d644e9916d01cc984e741595e60ef2f1d639e3faa77ec1710277b2b57a21884"
     },
     {
       "path": "summaries/465/README.md",
@@ -4578,5 +4583,23 @@
     },
     "running_background_jobs": false,
     "checkpoint": "production/499-508/README.md"
+  },
+  "production_status_500_508": {
+    "status": "complete",
+    "chapters": [
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508
+    ],
+    "pages": 40,
+    "index": "production/500-508/README.md",
+    "source_files_verified": true,
+    "a4_pdf_verified": true
   }
 }

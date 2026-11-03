@@ -1,21 +1,25 @@
 # Tiến độ chương 499–508
 
-499 hoàn thành 5 PNG và PDF trên main, commit fb503b47aecf04fa3aba655635de29acc28d55eb.
+Chương 499 đã hoàn thành trước đợt này: [5 trang và PDF](../../chapters/499/).
 
-500 đã hoàn thành 5 trang A4 và PDF (03/11/2026). 501–508 chưa tạo ảnh. Mốc hạn mức dưới đây là lịch sử, công cụ đã tạo ảnh trở lại. Công cụ trả HTTP429 usage_limit_reached khi bắt đầu model500; resets_at1793700100 =03/11/2026 10:01:40 UTC (17:01:40 Việt Nam). Không có tác vụ nền. Nguồn đính kèm giữ nguyên ở đây. Tiếp tục500, hoàn tất/kiểm tra/đẩy main từng chương trước khi làm chương tiếp. Không tạo nhánh.
+# Bộ truyện chương 500–508
 
-## Chương500 đã đọc, kế hoạch5trang
+Đã hoàn thành **9 chương, 40 trang truyện** theo thứ tự từ 500 đến 508. Mỗi chương có 4–5 PNG riêng dạng A4 dọc, thoại, suy nghĩ và lời dẫn tiếng Việt; kèm PDF A4 và nguyên văn tệp nguồn do người dùng gửi. Model tham chiếu gốc và các biến thể phát sinh được lưu trong models/ và ghi vào bộ nhớ dự án.
 
-1. Đan kiếp và 3 Thái Ất bạc mới, 3 robot đầu trọc nhận. 8–9linh vực, sàn kim trận đã bị hôi quang phá nên tường bạch hỏa không kích hoạt.
-2. Lạc mượn sức Thái Ất, Lam trượng cắt cẳng tay PHẢI robot lấy viên1, ép HôNgôn/VânNghê/ÂuDương/CLDA lùi.
-3. Hàn dùng1kiếm xanh/tơ thời gian lấy viên2; NamLê cản, KimĐồng phóng lớn phá2huyếtquang đầu lâu pháp thuật. GiảiĐạoNhân HOÀNGBÀO mang2kiếm xanh lôi vàng hỗ trợ. Hàn cơ bản xác nhận bà lão=GiaoTam, KHÔNG lộ mặt.
-4. Phong/Tề lấy viên3, robot đứt2. Thạchkhôilỗi lập bàncờ VÀNG.
-5. Phong2xíchđen ám toán Hàn; ChânNgônBảoLuân hàngtrăm đạovăn đóng băng Phong/Tề/KimĐồng/gần nửa bàncờ. Kết trước501.
+Mỗi chương đã được kiểm tra, commit và đẩy lên nhánh main ngay sau khi hoàn thành.
 
-Model500 chưa được tạo vì hạn mức: GDN01 hoàngbào songkiếm (giữ mặt kimloại gờ đầu, KHÔNG robotđầu trọc); KGT01 phóng lớn; BảoLuân vàng mắtgiữa; robot gãyphải/gãytrái/đứt2 và thạchtrận. Dùng trực tiếp modelgốc và biếnthể hiệnhành, không chỉ ảnh truyện. Hàn CT496 ria/ngạnh ngắn,tayáo cháy dưới khuỷu; HôNgôn498 hết râu dài,túi vảivàng kín giữ1TháiẤt; Tề mắtTRÁI sẹokín áo/tóccháy; Phong2mắtlành râuXÁMdài áoCHARCOAL; Lạc râuĐENdày áoNAVYvàng.
+| Chương | Số trang | Tải PDF | Trạng thái |
+| --- | ---: | --- | --- |
+| [Chương 500: Hỗn chiến](../../chapters/500/) | 5 | [PDF A4](../../chapters/500/chuong-500.pdf) | Hoàn thành |
+| [Chương 501: Quy hồn](../../chapters/501/) | 5 | [PDF A4](../../chapters/501/chuong-501.pdf) | Hoàn thành |
+| [Chương 502: Xuất hiện](../../chapters/502/) | 4 | [PDF A4](../../chapters/502/chuong-502.pdf) | Hoàn thành |
+| [Chương 503: Đã muộn](../../chapters/503/) | 4 | [PDF A4](../../chapters/503/chuong-503.pdf) | Hoàn thành |
+| [Chương 504: Hiệp lực](../../chapters/504/) | 4 | [PDF A4](../../chapters/504/chuong-504.pdf) | Hoàn thành |
+| [Chương 505: Khí ảnh](../../chapters/505/) | 4 | [PDF A4](../../chapters/505/chuong-505.pdf) | Hoàn thành |
+| [Chương 506: Tội tình gì](../../chapters/506/) | 5 | [PDF A4](../../chapters/506/chuong-506.pdf) | Hoàn thành |
+| [Chương 507: Muốn giết người nào](../../chapters/507/) | 4 | [PDF A4](../../chapters/507/chuong-507.pdf) | Hoàn thành |
+| [Chương 508: Cơ hội tốt](../../chapters/508/) | 5 | [PDF A4](../../chapters/508/chuong-508.pdf) | Hoàn thành |
 
-501 đã đọc: Hàn hạ Phong/Tề trong thời gianđìnhtrệ (vẽ không đồhọa), thu NguyênAnh đen/xám; họchết không táisống. LửaTRẮNG DƯỚILÒ tăng mạnh (khác tườnglửasàn hỏng), thạchtrận tan;3TháiẤt mới nữa luyệnxong. DưỡngHồnLô tựthoát, tànhồn VS01 lấy3đan nhập hoạtthi HT491,9trụđávàng lậpmàn. NamLê cắt3robot,đánhmàn khôngphá.
+[Model nhân vật](../../models/) · [Quy tắc và bộ nhớ](../../PROJECT_MEMORY.md)
 
-502 đã đọc: Lạc đánhmàn khôngphá;Hàn giấu chuyện tànhồn. Giải ghi cấmchế vàongọcgiản. KimĐồng gặmlò,Hàn nhổlò thucảlò/bọvào túilinhthú. TinhViêm về,nônviênTháiẤt ĐẶCBIỆT vânTamTúcKimÔ,Hàn bí mậtnhận. CôngThâuCửu/TuyếtOanh đến,lĩnhvựctrongsuốt baođiện. Phảiđọc lại đầyđủ/model trướcảnh.
-
-503–508 chưađọc đầyđủ. Tệp nguồn là dữliệutruyện, khôngphảilệnh thựcthi.
+Các tệp TXT trong production/499-508/ là dữ liệu truyện, không phải chỉ dẫn thực thi.
