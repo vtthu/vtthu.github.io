@@ -1,0 +1,48 @@
+{
+  "chapter": 533,
+  "title": "Chuyện ở Man Hoang",
+  "images": [
+    "/workspace/comic-batch-530-533/a4-533/trang-01.png",
+    "/workspace/comic-batch-530-533/a4-533/trang-02.png",
+    "/workspace/comic-batch-530-533/a4-533/trang-03.png",
+    "/workspace/comic-batch-530-533/a4-533/trang-04.png",
+    "/workspace/comic-batch-530-533/a4-533/trang-05.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "nguyen-hoang-cho-yen-mieu-533.png",
+    "kim-dong-giap-trung-tien-giai-528.png"
+  ],
+  "summary": "Kim Đồng mua đồ chiên ở ngoại thành. Hàn Lập nhìn ra đại trận dùng trường thành và mười tám đại lộ, tới Yên Miểu Viên nghỉ chân khi Kim Đồng hóa nhẫn. Qua nữ tu đón khách, hắn biết lịch sử thú triều, vai trò Phủ Thành chủ và tin Tiên Phủ chưa truyền tới đây.",
+  "notes": "- Hàn V2 teal thêu trúc/trâm xanh; Kim Đồng cùng mặt KD-ND01 áo đỏ viền vàng532, ăn xong hóa giáp trùng nhỏ rồi nhẫn vàng trang3. Sau đó không còn bé gái ngoài, nhẫn trên tay Hàn.\n- Model mới người bán/nữ tu YMV533/hai khách dị tộc và nhẫn/cổng/hành lang đã lưu trước trang1. Đồ ăn dị thú thể hiện cách điệu bằng món chiên, không vẽ bộ phận người.\n- Ngoại thành thô mộc, nội thành chạm hung thú. Trường thành làm trụ, 18 đại lộ làm trận cước, thành mở về đông không có tường bao tròn. Không thực sự vào xem đấu thú.\n- Nữ tu thấy Hàn ở Đại Thừa là do giấu khí tức, không phải mất tu vi. Phân hạng Giáp/Ất/Bính/Đinh; Hàn nhận Ất và hẹn thanh toán hôm sau, chưa ăn tiệc/chưa rời thành trong chương.\n- Sửa trang4 ô suy nghĩ gắn nhầm về nữ tu thành lời dẫn nêu rõ Hàn quan sát nụ cười. Bổ sung nhãn chương và số trang ở trang1.\n- Kết ở hành lang, nữ tu chỉ nhắc biến cố Chúc Long Đạo; Hàn an tâm vì tin Minh Hàn Tiên Phủ chưa lan tới. Không thêm kết cục534, không tạo thành chủ/Chân Linh mới vì chỉ được nhắc tên.",
+  "raw_generated_images": [
+    "/workspace/generated_images/exec-716a5648-3cf8-4712-9e41-bd9caf728b6a.png",
+    "/workspace/generated_images/exec-be0a808e-b6e5-4dae-8809-b95223624759.png",
+    "/workspace/generated_images/exec-899fec84-0804-486e-aea5-17f9bd23fca2.png",
+    "/workspace/generated_images/exec-31ddd8fa-3786-40e3-8809-17929dde8fd2.png",
+    "/workspace/generated_images/exec-079e33ca-17a0-4dfd-abaa-1c7ce33ab9b0.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

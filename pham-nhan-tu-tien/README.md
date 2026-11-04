@@ -49,6 +49,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 533: Chuyện ở Man Hoang](chapters/533/): 5 trang, hoàn thành; [PDF A4](chapters/533/chuong-533.pdf)
+
 - [Chương 532: Sơ lâm nguyên hoang](chapters/532/): 5 trang, hoàn thành; [PDF A4](chapters/532/chuong-532.pdf)
 
 - [Chương 531: Bộ công pháp thứ ba](chapters/531/): 5 trang, hoàn thành; [PDF A4](chapters/531/chuong-531.pdf)

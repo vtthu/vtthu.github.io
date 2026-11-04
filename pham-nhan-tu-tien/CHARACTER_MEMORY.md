@@ -932,3 +932,17 @@ Nguồn: file CHUONG 532.txt do người dùng đính kèm. Mỗi PNG một tran
 - Ba trang đầu Lăng Hư Điện, không đưa Hàn/Kim Đồng vào nơi này. Tiên Tôn biến mất cuối trang3, chưa xác định đích đến.
 - Sang cảnh địa điểm mới Nguyên Hoang, dùng lại Hàn Lập V2 gốc teal thêu trúc/trâm xanh, không thay model gốc; không dựng thêm hành động tháo cải trang ngoài nguồn. Kim Đồng cùng mặt KD-ND01, đổi áo đỏ viền vàng theo mô tả532, giữ ba xiên hồ lô đường, chưa hóa nhẫn.
 - Trường thành đen trên vách ngàn trượng, phía tây biển cát thấp/phía đông xanh cao, thành xòe về đông. Kết hai người ở cổ đạo giáp ranh; giữ chuyển tiếp sang phố ngoại thành533, không thêm cuộc xuất cảnh Man Hoang.
+
+
+## Model trước533
+Lưu models/nguyen-hoang-cho-yen-mieu-533.png trước các trang. Người bán NHC533A nam tráng kiện da ngăm/ria ngắn/búi trâm gỗ/áo nâu tạp dề xám. Nữ tu YMV533 dáng thanh cao, tóc đen búi hai trâm hoa ngọc trắng/khuyên ngọc, áo ngà thêu cỏ xanh xô viền vàng/đai ngọc xanh, nụ cười chuyên nghiệp, không tên riêng. Hai khách nền dị tộc NHC533B nam da xám vằn thái dương tóc bím áo gạch nâu; NHC533C nữ tai nhọn da ôliu áo be choàng teal; chỉ thiết kế nền không thêm thân phận. Bảng có nồi đồng, món dị thú chiên thể hiện bằng đồ ăn giòn cách điệu không đồ họa, nhẫn bọ vàng, cổng Yên Miểu đỏ và hành lang. Kim Đồng KD-ND01 mặt/tóc nguyên mẫu, áo đỏ532; sau hóa nhẫn không vẽ đồng thời bé gái ngoài.
+
+
+## Chương 533 — Chuyện ở Man Hoang: hoàn thành 5 trang
+Nguồn: file CHUONG 533.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/533/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Hàn V2 teal thêu trúc/trâm xanh; Kim Đồng cùng mặt KD-ND01 áo đỏ viền vàng532, ăn xong hóa giáp trùng nhỏ rồi nhẫn vàng trang3. Sau đó không còn bé gái ngoài, nhẫn trên tay Hàn.
+- Model mới người bán/nữ tu YMV533/hai khách dị tộc và nhẫn/cổng/hành lang đã lưu trước trang1. Đồ ăn dị thú thể hiện cách điệu bằng món chiên, không vẽ bộ phận người.
+- Ngoại thành thô mộc, nội thành chạm hung thú. Trường thành làm trụ, 18 đại lộ làm trận cước, thành mở về đông không có tường bao tròn. Không thực sự vào xem đấu thú.
+- Nữ tu thấy Hàn ở Đại Thừa là do giấu khí tức, không phải mất tu vi. Phân hạng Giáp/Ất/Bính/Đinh; Hàn nhận Ất và hẹn thanh toán hôm sau, chưa ăn tiệc/chưa rời thành trong chương.
+- Sửa trang4 ô suy nghĩ gắn nhầm về nữ tu thành lời dẫn nêu rõ Hàn quan sát nụ cười. Bổ sung nhãn chương và số trang ở trang1.
+- Kết ở hành lang, nữ tu chỉ nhắc biến cố Chúc Long Đạo; Hàn an tâm vì tin Minh Hàn Tiên Phủ chưa lan tới. Không thêm kết cục534, không tạo thành chủ/Chân Linh mới vì chỉ được nhắc tên.
