@@ -1514,6 +1514,36 @@
           1536
         ]
       }
+    },
+    {
+      "chapter": 529,
+      "pages": 5,
+      "directory": "chapters/529",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/529/chuong-529.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1054,
+          1492
+        ],
+        "trang-02.png": [
+          1055,
+          1491
+        ],
+        "trang-03.png": [
+          1024,
+          1536
+        ],
+        "trang-04.png": [
+          1055,
+          1491
+        ],
+        "trang-05.png": [
+          1055,
+          1491
+        ]
+      }
     }
   ],
   "files": [
@@ -5133,16 +5163,6 @@
       "sha256": "fa860b0460caaa4e33e0a10c7647c18674c030ba5fc47eabda3f783f3b03a1c6"
     },
     {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 247831,
-      "sha256": "f55037367a05cece66acceeaa40686d0ca343de4383ac741437fa0a5dbd80863"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 198708,
-      "sha256": "60c4b7965d915acf263da8cba2d51da23fae32f9aef45358731d38d0b092ac67"
-    },
-    {
       "path": "models/kim-dong-giap-trung-tien-giai-528.png",
       "bytes": 3126767,
       "sha256": "8372f5e6906e217dcaf3d6f4f91a68757916397f7103c37111592fc4351c9b4f"
@@ -5151,11 +5171,6 @@
       "path": "models/thuong-luu-ly-ngang-lao-dao-528.png",
       "bytes": 2317899,
       "sha256": "ed5ca8e642d001bb29ea1ae2f91728327c6916e88ad8e2cf458864087db3771d"
-    },
-    {
-      "path": "README.md",
-      "bytes": 7073,
-      "sha256": "f7b2ab2ab79687088b53513acd1b47aca28c595d7950b1a0e5433d1f5a912d44"
     },
     {
       "path": "chapters/528/trang-04.png",
@@ -5196,6 +5211,66 @@
       "path": "chapters/528/trang-02.png",
       "bytes": 2938126,
       "sha256": "6edf1ba3ff3b1264779bd09920680d1fbcd6378630714ef52227df6d8e31fef5"
+    },
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 249954,
+      "sha256": "edc5e8d63f36913d732f410c50cc0a40ae111002e14c7710613ae5f440c47283"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 200831,
+      "sha256": "9c89f62b7411ac9e26294b27c67aaad199f08da54ba7ae8c1df3bb1c440e8930"
+    },
+    {
+      "path": "models/phung-hai-thieu-phu-thuong-luu-529.png",
+      "bytes": 2543436,
+      "sha256": "aacf7ba039b23b10fd9e5f34bede3ae3dcf45028f968ee71088a75a2bd5f8e22"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7206,
+      "sha256": "a6b885891d8f621f557c856d32c4cebda553d8de5ea6d22fc9b72dfc1f77c212"
+    },
+    {
+      "path": "chapters/529/trang-04.png",
+      "bytes": 2796326,
+      "sha256": "c0660140809973c009ef1e702d93ef0192cb3354549c25039cd50a023b5b0ebe"
+    },
+    {
+      "path": "chapters/529/SOURCE.txt",
+      "bytes": 14999,
+      "sha256": "79859d5b3579ebc6895c5de4e401a2c1ee2caec921cd1c94ec3a2c6f67ca0b54"
+    },
+    {
+      "path": "chapters/529/chuong-529.pdf",
+      "bytes": 5417906,
+      "sha256": "ac5bad9e0c1b0dd6a077efcecc1e2cb2526ee7e2cbb3717b78d8db5f2f1a6979"
+    },
+    {
+      "path": "chapters/529/README.md",
+      "bytes": 355,
+      "sha256": "ef7ec08c6a9bf17178c3fb30071ec0ca6e310012fbd6fe2d8f4c7590d6cfdf18"
+    },
+    {
+      "path": "chapters/529/trang-03.png",
+      "bytes": 3072313,
+      "sha256": "625302360e39ab11707ad4b3daeda8264d4dbe5b275cd6f08ea0ece267f8d050"
+    },
+    {
+      "path": "chapters/529/trang-01.png",
+      "bytes": 3117421,
+      "sha256": "dcb0ad1842fbcdcf7c8de29f450abc2e5984b699ae8550542da6fafe21a0a641"
+    },
+    {
+      "path": "chapters/529/trang-05.png",
+      "bytes": 3067686,
+      "sha256": "de9d0fdfe873a4bd40a361ec08d669ca1d7f81e2e178774b27a040e048a2961e"
+    },
+    {
+      "path": "chapters/529/trang-02.png",
+      "bytes": 2827500,
+      "sha256": "6fb91c55e79994751d5d9c4e481c634f0edfcef251e946a80554256448d184ba"
     }
   ],
   "drafts": [
@@ -5353,6 +5428,27 @@
     ],
     "drafts": {},
     "not_generated": [],
+    "image_generation_error": null,
+    "running_background_jobs": false
+  },
+  "production_status_529_533": {
+    "requested_chapters": [
+      529,
+      530,
+      531,
+      532,
+      533
+    ],
+    "completed_new": [
+      529
+    ],
+    "drafts": {},
+    "not_generated": [
+      530,
+      531,
+      532,
+      533
+    ],
     "image_generation_error": null,
     "running_background_jobs": false
   }

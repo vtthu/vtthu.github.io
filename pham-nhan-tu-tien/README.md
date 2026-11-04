@@ -1,5 +1,10 @@
 # Phàm Nhân Tu Tiên — Kho truyện và bộ nhớ dự án
 
+## Chương từ các tệp 529–533
+
+- [Chương 529: Tới cửa](chapters/529/README.md) · [PDF](chapters/529/chuong-529.pdf)
+
+
 ## Chương từ các tệp 519–528
 
 - [Chương 519: An bài](chapters/519/README.md) · [PDF](chapters/519/chuong-519.pdf)
