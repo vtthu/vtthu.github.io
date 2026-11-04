@@ -848,3 +848,12 @@ Kết chương: chiều muộn, Hô Ngôn và Vân Nghê cùng bay trong một v
 ## Chương 524 — Chuyện cũ chốn phàm trần: hoàn thành 4 trang
 Nguồn: file CHUONG 524.txt do người dùng đính kèm. Bộ chính chapters/524: PNG dọc, PDF A4, SOURCE.txt và README. Gắn trực tiếp ảnh model gốc/biến thể hiện hành trong các lần tạo; kiểm tra ảnh và số trang PDF. Lưu riêng commit chương này trên main trước khi làm chương tiếp.
 Đã đọc đủ524, hoàn thành4trang và kiểm tra ảnh. Hàn dùng V2 gốc áo teal/trâm xanh, Kim Đồng KD-ND01 tóc vàng một búi/giáp vàng kín; Mộng Thiển Thiển theo MTT524 áo đỏ/choàng đỏ viền ngà, tóc đen hạt đỏ. Bảng model mới lưu trước ảnh; sửa nhãn sai phàm nhân thành tu sĩ trẻ, tuổi20 chỉ ngoại hình. Thiên Vân thành tuyết/đèn lồng dịp cuối năm. Gặp Mộng, Kim Đồng nhận sư muội/tặng đan, ghé quán bánh bao thịt dê. Ba lồng bánh/ba bát canh, Kim Đồng gọi một nghìn lồng nhưng chưa thực sự ăn nghìn lồng; Mộng trả linh thạch xanh khi Hàn không có bạc. Bà chủ/tiểu nhị giữ model riêng. Chỉ bánh được hút, không nuốt lồng/bát. Hàn uống canh nhớ nhân gian. Trang3 đã sửa ô dẫn chép nhầm chú thích model thành câu dẫn truyện. Chưa tới Quảng Duyệt Lâu, chưa có Niệm Vũ hay biến cố525.
+
+
+## Tham chiếu trước525
+Lưu models/niem-vu-quang-duyet-vat-pham-525.png trước trang. Niệm Vũ là đại điểu xanh lục/ngọc, hai cánh hai chân, đuôi dài, mỏ xám sẫm, mắt vàng nâu, bản mệt mỏi xơ lông nhưng thân nguyên vẹn. Chưởng quầy vô danh nam mập trung niên, tóc đen búi/trâm đồng/ria ngắn, áo gấm olive sẫm hoa mây vàng; là tu sĩ Trúc Cơ Hậu Kỳ theo nguồn. Hình nam trẻ áo xám nhỏ trong bảng tự sinh không có vai trò, KHÔNG dùng thêm nhân vật. Vòng trữ vật trắng/ngọc giản trắng, 30 mặt nạ đầu thú ba hàng mười/túi linh thạch xám; chi tiết bản vẽ chỉ minh họa công dụng, không tự thêm nhân vật. Giữ HanV2, KD-ND01, MTT524.
+
+
+## Chương 525 — Không đáy: hoàn thành 5 trang
+Nguồn: file CHUONG 525.txt do người dùng đính kèm. Bộ chính chapters/525: PNG dọc, PDF A4, SOURCE.txt và README. Gắn trực tiếp ảnh model gốc/biến thể hiện hành trong các lần tạo; kiểm tra ảnh và số trang PDF. Lưu riêng commit chương này trên main trước khi làm chương tiếp.
+Hàn Lập dùng model gốc V2 không râu quai nón; Kim Đồng dùng KD-ND01 bé gái giáp vàng; Mộng Thiển Thiển model MTT524 áo đỏ viền lông trắng. Chưởng quầy Quảng Duyệt Lâu áo gấm lục ôliu, Niệm Vũ là đại điểu xanh lục còn sống bị thương. Bỏ qua nam áo xám nhỏ phát sinh ngoài yêu cầu trên bảng model525. Năm trang kết thúc ở Niệm Vũ trở về báo tin, chưa sang cứu viện526. Đã xem đủ năm ảnh, đóng gói PDF đúng năm trang.
