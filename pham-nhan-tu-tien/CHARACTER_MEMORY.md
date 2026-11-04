@@ -920,3 +920,15 @@ Nguồn: file CHUONG 531.txt do người dùng đính kèm. Mỗi PNG một tran
 - Việc đi cùng Công Thâu Cửu chỉ là suy đoán của Lạc. Kim Đồng KD-ND01 giáp vàng tóc vàng một búi xuất hiện sau khi rời Điểm Thương, giúp tạo uy áp khi hóa cự viên. Hai quang đoàn đỏ/lam là Nguyên Anh vô danh khác, không phải hai người vừa trả.
 - Thủy Diễn ngọc giản lam một mảnh, đã sửa khung cầm sách giấy thành ngọc giản. Ba biểu tượng công pháp là minh họa suy nghĩ, chưa xác nhận quan hệ thực sự.
 - Phi xa PX475 xanh ngọc bốn bánh, hở không mái, hai người ngồi trên xe. Chuyển cảnh Lăng Hư: ba người hầu model531 và vườn tiên; bạch hồng chưa lộ người/định danh cho tới532.
+
+
+## Model trước532
+Lưu models/lang-hu-tu-van-binh-kim-dong-532.png trước ảnh truyện. Trái Từ Vân Bình TVB532 nam trẻ mặt sạch mày kiếm tóc đen/búi trâm miện vàng, áo vàng hoa mây trắng. Giữa Lăng Hư Tiên Tôn LH532 nam trung niên da nâu sẫm mặt vuông mũi rộng không râu, tóc đen trâm ngọc tím/áo tím vân không gian bạc, tọa ghế vàng trên đài bạc. Cột ba kim giáp vệ sĩ KGV532 da kim loại vàng/mũ giáp hở mặt, ba binh khí đao/trượng/kiếm, không đồng nhất với khôi lỗi đã chết trong Tiên Phủ. Phải Kim Đồng KD-ND01 giữ mặt tóc vàng một búi/kẹp xoắn vàng, đổi sang áo ngắn ĐỎ viền VÀNG, váy dài đỏ/ủng nâu và vòng trữ vật vàng, ba xiên hồ lô đường. Nền Nguyên Hoang trường thành đen trên vách dốc ngăn phía tây biển cát/thấp và phía đông cây xanh/cao; thành xòe quạt về đông, không tường bao tròn.
+
+
+## Chương 532 — Sơ lâm nguyên hoang: hoàn thành 5 trang
+Nguồn: file CHUONG 532.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/532/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Từ Vân Bình TVB532 áo vàng, Lăng Hư LH532 da ngăm mặt vuông áo tím, kim giáp vệ sĩ KGV532 giữ mẫu mới. Ba người hầu giữ mẫu531. Không dựng lại Tiêu/Công còn sống; nhận định của người bẩm báo không coi là kết luận điều tra.
+- Ba trang đầu Lăng Hư Điện, không đưa Hàn/Kim Đồng vào nơi này. Tiên Tôn biến mất cuối trang3, chưa xác định đích đến.
+- Sang cảnh địa điểm mới Nguyên Hoang, dùng lại Hàn Lập V2 gốc teal thêu trúc/trâm xanh, không thay model gốc; không dựng thêm hành động tháo cải trang ngoài nguồn. Kim Đồng cùng mặt KD-ND01, đổi áo đỏ viền vàng theo mô tả532, giữ ba xiên hồ lô đường, chưa hóa nhẫn.
+- Trường thành đen trên vách ngàn trượng, phía tây biển cát thấp/phía đông xanh cao, thành xòe về đông. Kết hai người ở cổ đạo giáp ranh; giữ chuyển tiếp sang phố ngoại thành533, không thêm cuộc xuất cảnh Man Hoang.

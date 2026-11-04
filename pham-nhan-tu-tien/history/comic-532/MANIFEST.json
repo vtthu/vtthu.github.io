@@ -1,0 +1,47 @@
+{
+  "chapter": 532,
+  "title": "Sơ lâm nguyên hoang",
+  "images": [
+    "/workspace/comic-batch-530-533/a4-532/trang-01.png",
+    "/workspace/comic-batch-530-533/a4-532/trang-02.png",
+    "/workspace/comic-batch-530-533/a4-532/trang-03.png",
+    "/workspace/comic-batch-530-533/a4-532/trang-04.png",
+    "/workspace/comic-batch-530-533/a4-532/trang-05.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "lang-hu-hau-ngoc-gian-531.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png"
+  ],
+  "summary": "Từ Vân Bình báo tin tử nạn tại Minh Hàn Tiên Phủ; Lăng Hư Tiên Tôn lệnh điều tra Bắc Hàn, để Tiên Ngục tự xử lý chuyện Công Thâu Cửu. Chuyển cảnh tới Nguyên Hoang Thành, Hàn Lập dặn Kim Đồng giấu khí tức để sớm vượt Man Hoang.",
+  "notes": "- Từ Vân Bình TVB532 áo vàng, Lăng Hư LH532 da ngăm mặt vuông áo tím, kim giáp vệ sĩ KGV532 giữ mẫu mới. Ba người hầu giữ mẫu531. Không dựng lại Tiêu/Công còn sống; nhận định của người bẩm báo không coi là kết luận điều tra.\n- Ba trang đầu Lăng Hư Điện, không đưa Hàn/Kim Đồng vào nơi này. Tiên Tôn biến mất cuối trang3, chưa xác định đích đến.\n- Sang cảnh địa điểm mới Nguyên Hoang, dùng lại Hàn Lập V2 gốc teal thêu trúc/trâm xanh, không thay model gốc; không dựng thêm hành động tháo cải trang ngoài nguồn. Kim Đồng cùng mặt KD-ND01, đổi áo đỏ viền vàng theo mô tả532, giữ ba xiên hồ lô đường, chưa hóa nhẫn.\n- Trường thành đen trên vách ngàn trượng, phía tây biển cát thấp/phía đông xanh cao, thành xòe về đông. Kết hai người ở cổ đạo giáp ranh; giữ chuyển tiếp sang phố ngoại thành533, không thêm cuộc xuất cảnh Man Hoang.",
+  "raw_generated_images": [
+    "/workspace/generated_images/exec-faa4b9c0-44e0-46d4-af70-02340c1f4226.png",
+    "/workspace/generated_images/exec-d78d54f0-60c8-453b-88e9-d454298b35ab.png",
+    "/workspace/generated_images/exec-1d0031cf-549b-4bbb-827d-3463241c57f2.png",
+    "/workspace/generated_images/exec-ee4eff9d-2597-4c0c-bb97-ffeac41ddaab.png",
+    "/workspace/generated_images/exec-8ec91058-2b42-4bff-968f-59e6aafd2159.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}
