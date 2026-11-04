@@ -1,0 +1,52 @@
+{
+  "chapter": 531,
+  "title": "Bộ công pháp thứ ba",
+  "images": [
+    "/workspace/comic-batch-530-533/a4-531/trang-01.png",
+    "/workspace/comic-batch-530-533/a4-531/trang-02.png",
+    "/workspace/comic-batch-530-533/a4-531/trang-03.png",
+    "/workspace/comic-batch-530-533/a4-531/trang-04.png",
+    "/workspace/comic-batch-530-533/a4-531/trang-05.png"
+  ],
+  "models": [
+    "han-lap-hac-phong-nhan-vat-520.png",
+    "thuong-luu-hoi-quan-520.png",
+    "thuong-luu-ly-ngang-lao-dao-528.png",
+    "phung-hai-thieu-phu-thuong-luu-529.png",
+    "han-lap-phung-hai-bien-the-530.png",
+    "lang-hu-hau-ngoc-gian-531.png",
+    "kim-dong-giai-dao-nhan-bien-the.png",
+    "phi-xa-ty-huu-mat-na-truc-son-ha-475.png"
+  ],
+  "summary": "Lạc Thanh Hải chấp nhận đổi bí điển lấy hai Nguyên Anh. Hàn Lập rời cung, cảm ơn Kim Đồng, suy ngẫm quan hệ giữa ba bộ công pháp và lên đường tới Man Hoang. Cuối chương chuyển sang Lăng Hư Điện trên quần sơn lơ lửng.",
+  "notes": "- Hàn giữ CT520 hết chương, không lộ ngoại hình gốc. Hai Nguyên Anh Thu/Thiết nguyên vẹn được Lạc thu lại; không hồi sinh nhục thân.\n- Việc đi cùng Công Thâu Cửu chỉ là suy đoán của Lạc. Kim Đồng KD-ND01 giáp vàng tóc vàng một búi xuất hiện sau khi rời Điểm Thương, giúp tạo uy áp khi hóa cự viên. Hai quang đoàn đỏ/lam là Nguyên Anh vô danh khác, không phải hai người vừa trả.\n- Thủy Diễn ngọc giản lam một mảnh, đã sửa khung cầm sách giấy thành ngọc giản. Ba biểu tượng công pháp là minh họa suy nghĩ, chưa xác nhận quan hệ thực sự.\n- Phi xa PX475 xanh ngọc bốn bánh, hở không mái, hai người ngồi trên xe. Chuyển cảnh Lăng Hư: ba người hầu model531 và vườn tiên; bạch hồng chưa lộ người/định danh cho tới532.",
+  "raw_generated_images": [
+    "/workspace/generated_images/exec-7a45dc31-343f-4c9c-9b45-20784082226f.png",
+    "/workspace/generated_images/exec-00546fc5-673c-457e-a5a8-6c529f88ba51.png",
+    "/workspace/generated_images/exec-35344695-6028-438d-bef8-56f4b3c2f20a.png",
+    "/workspace/generated_images/exec-51159bc4-6981-469c-86db-1f302f962be9.png",
+    "/workspace/generated_images/exec-7f02b778-fc42-4c09-ac06-e0d5c10fcb9d.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

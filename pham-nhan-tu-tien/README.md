@@ -49,6 +49,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 531: Bộ công pháp thứ ba](chapters/531/): 5 trang, hoàn thành; [PDF A4](chapters/531/chuong-531.pdf)
+
 - [Chương 530: Điều kiện trao đổi](chapters/530/): 5 trang, hoàn thành; [PDF A4](chapters/530/chuong-530.pdf)
 
 - [Chương 508: Cơ hội tốt](chapters/508/): 5 trang, hoàn thành; [PDF A4](chapters/508/chuong-508.pdf)

@@ -713,3 +713,15 @@ Nguồn: file CHUONG 530.txt do người dùng đính kèm. Mỗi PNG một tran
 - Lạc LTH01 navy sóng vàng, râu đen thẳng/trâm xanh; Phùng Hải một sừng lam, Thanh Phù da xanh râu trắng dài, thiếu phụ che mặt theo model529/528. Sửa chân dung Lạc thiếu râu ở trang4.
 - Thu/Thiết chỉ còn Nguyên Anh. Trang4 chỉ đưa ra một tinh cầu trắng chứa Nguyên Anh Thu màu lam, hình trưởng thành thu nhỏ, chưa giao công pháp.
 - Bối cảnh điện Thương Lưu lam còn nguyên. Trang5 dừng ở ý định khống chế Hàn, chưa thực sự ra tay hay chốt trao đổi.
+
+
+## Model trước chương531
+models/lang-hu-hau-ngoc-gian-531.png: ba người hầu Lăng Hư Cung mới, trái Tôn hầu cao gầy áo sagegreen, giữa mặt vuông ria ngắn áo nâu đất, phải mày rậm mắt to áo xám lam; tóc đen búi/trâm gỗ, không tên riêng ngoài cách gọi của nguồn. Ngọc giản Thủy Diễn hình chữ nhật lam, vân nước vàng. Hai Nguyên Anh vô danh dáng người trưởng thành thu nhỏ, một đỏ một lam, khác Thu/Thiết đã trao trả; Kim Đồng nhận bằng quang đoàn, không cảnh nuốt cơ thể. Tuổi ghi trên sheet chỉ tuổi biểu kiến. Hạc trắng/hươu sừng vàng là thiết kế sinh vật nền vườn tiên. Lưu trước lần xuất hiện.
+
+
+## Chương 531 — Bộ công pháp thứ ba: hoàn thành 5 trang
+Nguồn: file CHUONG 531.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/531/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Hàn giữ CT520 hết chương, không lộ ngoại hình gốc. Hai Nguyên Anh Thu/Thiết nguyên vẹn được Lạc thu lại; không hồi sinh nhục thân.
+- Việc đi cùng Công Thâu Cửu chỉ là suy đoán của Lạc. Kim Đồng KD-ND01 giáp vàng tóc vàng một búi xuất hiện sau khi rời Điểm Thương, giúp tạo uy áp khi hóa cự viên. Hai quang đoàn đỏ/lam là Nguyên Anh vô danh khác, không phải hai người vừa trả.
+- Thủy Diễn ngọc giản lam một mảnh, đã sửa khung cầm sách giấy thành ngọc giản. Ba biểu tượng công pháp là minh họa suy nghĩ, chưa xác nhận quan hệ thực sự.
+- Phi xa PX475 xanh ngọc bốn bánh, hở không mái, hai người ngồi trên xe. Chuyển cảnh Lăng Hư: ba người hầu model531 và vườn tiên; bạch hồng chưa lộ người/định danh cho tới532.
