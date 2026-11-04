@@ -5213,16 +5213,6 @@
       "sha256": "6edf1ba3ff3b1264779bd09920680d1fbcd6378630714ef52227df6d8e31fef5"
     },
     {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 249954,
-      "sha256": "edc5e8d63f36913d732f410c50cc0a40ae111002e14c7710613ae5f440c47283"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 200831,
-      "sha256": "9c89f62b7411ac9e26294b27c67aaad199f08da54ba7ae8c1df3bb1c440e8930"
-    },
-    {
       "path": "models/phung-hai-thieu-phu-thuong-luu-529.png",
       "bytes": 2543436,
       "sha256": "aacf7ba039b23b10fd9e5f34bede3ae3dcf45028f968ee71088a75a2bd5f8e22"
@@ -5271,6 +5261,16 @@
       "path": "chapters/529/trang-02.png",
       "bytes": 2827500,
       "sha256": "6fb91c55e79994751d5d9c4e481c634f0edfcef251e946a80554256448d184ba"
+    },
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 250953,
+      "sha256": "e98c48f24022b3098146317557c8a23061ed4af4bc49ca2fd0f04b4f9a612b18"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 201830,
+      "sha256": "4741ced51d65ab283eedbafd37eebfbcca74aae12d0af7a3e26a3603cbc5b6c0"
     }
   ],
   "drafts": [
@@ -5449,7 +5449,15 @@
       532,
       533
     ],
-    "image_generation_error": null,
+    "image_generation_error": {
+      "type": "usage_limit_reached",
+      "http_status": 429,
+      "at_chapter": 530,
+      "stage": "model_generation_before_pages",
+      "resets_at": 1793810143,
+      "resets_at_utc": "2026-11-04T16:35:43Z",
+      "resets_at_vietnam": "2026-11-04 23:35:43 +07:00"
+    },
     "running_background_jobs": false
   }
 }
