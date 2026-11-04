@@ -11,6 +11,7 @@
 - [Chương 525: Không đáy](chapters/525/README.md) · [PDF](chapters/525/chuong-525.pdf)
 - [Chương 526: Báo thù](chapters/526/README.md) · [PDF](chapters/526/chuong-526.pdf)
 - [Chương 527: Mất tích?](chapters/527/README.md) · [PDF](chapters/527/chuong-527.pdf)
+- [Chương 528: Đi ra gặp ta](chapters/528/README.md) · [PDF](chapters/528/chuong-528.pdf)
 
 
 Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ảnh model tham chiếu và bộ nhớ nối truyện. Bộ [483–488](history/comic-483-488/) gồm 27 trang PNG và 6 bản PDF A4.

@@ -1484,6 +1484,36 @@
           1491
         ]
       }
+    },
+    {
+      "chapter": 528,
+      "pages": 5,
+      "directory": "chapters/528",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/528/chuong-528.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1491
+        ],
+        "trang-02.png": [
+          1055,
+          1491
+        ],
+        "trang-03.png": [
+          1055,
+          1491
+        ],
+        "trang-04.png": [
+          1055,
+          1491
+        ],
+        "trang-05.png": [
+          1024,
+          1536
+        ]
+      }
     }
   ],
   "files": [
@@ -5058,24 +5088,9 @@
       "sha256": "d6b419acb0c38c9bfefaef3cc4562f9a1d09abf77e9327affa721ff6601c4c34"
     },
     {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 245314,
-      "sha256": "0ee16cac6bdf1c4159ce3842cd7900aef74a83653348bfb72652328b7168cd79"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 196191,
-      "sha256": "253560e1aca27c85a2ff701d2dd1214cadee268d500fcb131069e4bdb8d85fc7"
-    },
-    {
       "path": "models/la-ban-truy-luyen-than-527.png",
       "bytes": 1995488,
       "sha256": "b3ce8932c511125cc4dd885b964e54c6ac8e6186bab5e3cd335cb6c95edcbdc8"
-    },
-    {
-      "path": "README.md",
-      "bytes": 6977,
-      "sha256": "5d466690ee548ee340daaf4d2c36eedc568434d00c62f7c29a89b8c6ee4c5ef9"
     },
     {
       "path": "chapters/527/trang-04.png",
@@ -5116,6 +5131,71 @@
       "path": "chapters/527/trang-02.png",
       "bytes": 2595342,
       "sha256": "fa860b0460caaa4e33e0a10c7647c18674c030ba5fc47eabda3f783f3b03a1c6"
+    },
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 247831,
+      "sha256": "f55037367a05cece66acceeaa40686d0ca343de4383ac741437fa0a5dbd80863"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 198708,
+      "sha256": "60c4b7965d915acf263da8cba2d51da23fae32f9aef45358731d38d0b092ac67"
+    },
+    {
+      "path": "models/kim-dong-giap-trung-tien-giai-528.png",
+      "bytes": 3126767,
+      "sha256": "8372f5e6906e217dcaf3d6f4f91a68757916397f7103c37111592fc4351c9b4f"
+    },
+    {
+      "path": "models/thuong-luu-ly-ngang-lao-dao-528.png",
+      "bytes": 2317899,
+      "sha256": "ed5ca8e642d001bb29ea1ae2f91728327c6916e88ad8e2cf458864087db3771d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7073,
+      "sha256": "f7b2ab2ab79687088b53513acd1b47aca28c595d7950b1a0e5433d1f5a912d44"
+    },
+    {
+      "path": "chapters/528/trang-04.png",
+      "bytes": 2591909,
+      "sha256": "48ee7d59463d860f1c20c9137c95714fa26461c0bd1e77c69c06aa26b6249c54"
+    },
+    {
+      "path": "chapters/528/SOURCE.txt",
+      "bytes": 14395,
+      "sha256": "0cc95cf1810b22c4423e98ff02c72ea4eaa31d45d3ebeae859d7dcb3f5d15fc7"
+    },
+    {
+      "path": "chapters/528/README.md",
+      "bytes": 359,
+      "sha256": "a6b28f27e059275e36cc0a148d18e1360582dafae93de688cb15ab620e92865d"
+    },
+    {
+      "path": "chapters/528/chuong-528.pdf",
+      "bytes": 5313981,
+      "sha256": "1e60c321aa1a3a2bd86f41ce4cb8c7951b854f39b5eecb69b354acde04a0db50"
+    },
+    {
+      "path": "chapters/528/trang-03.png",
+      "bytes": 3434647,
+      "sha256": "93d0f24a9ed45672977d85a9f0c5cd17f593482d3c4e19e22e1af09a5dd29649"
+    },
+    {
+      "path": "chapters/528/trang-01.png",
+      "bytes": 2603775,
+      "sha256": "3fbba07e9462feebd6a61f46f51af0b9789db78054b2765fa4dafecce00ff846"
+    },
+    {
+      "path": "chapters/528/trang-05.png",
+      "bytes": 2781167,
+      "sha256": "c9e8417a878969853f3e6a63b67c4c5e77df315643a0cc58df82b37d29efdd64"
+    },
+    {
+      "path": "chapters/528/trang-02.png",
+      "bytes": 2938126,
+      "sha256": "6edf1ba3ff3b1264779bd09920680d1fbcd6378630714ef52227df6d8e31fef5"
     }
   ],
   "drafts": [
@@ -5268,12 +5348,11 @@
       524,
       525,
       526,
-      527
-    ],
-    "drafts": {},
-    "not_generated": [
+      527,
       528
     ],
+    "drafts": {},
+    "not_generated": [],
     "image_generation_error": null,
     "running_background_jobs": false
   }
