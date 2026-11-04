@@ -1424,6 +1424,36 @@
           1536
         ]
       }
+    },
+    {
+      "chapter": 526,
+      "pages": 5,
+      "directory": "chapters/526",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/526/chuong-526.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1491
+        ],
+        "trang-02.png": [
+          1055,
+          1491
+        ],
+        "trang-03.png": [
+          1055,
+          1491
+        ],
+        "trang-04.png": [
+          1055,
+          1491
+        ],
+        "trang-05.png": [
+          1055,
+          1491
+        ]
+      }
     }
   ],
   "files": [
@@ -4908,24 +4938,9 @@
       "sha256": "708b31c32e71c14e06228bcd00dc7a012550c75fb2bc15f1008500db1ab2cb7e"
     },
     {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 241866,
-      "sha256": "1551d463e1d0b3696884d8c381e7b9b23fb57a6e9d49bbec6d5e371ba7db66ec"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 192743,
-      "sha256": "c78886f26c6e7bd78df248ee847f97dc718feb7d5543e4de1beff57e54b9bfc8"
-    },
-    {
       "path": "models/niem-vu-quang-duyet-vat-pham-525.png",
       "bytes": 2645724,
       "sha256": "ea56083c3e7d5ce09fd12e665c4290be4a04b58a8b0400da3522e3a58eb70de3"
-    },
-    {
-      "path": "README.md",
-      "bytes": 6794,
-      "sha256": "a57a5528b24dce1a2ecc4dad8f8832abc650d57272413e50b9446f5758992c5e"
     },
     {
       "path": "chapters/525/trang-04.png",
@@ -4966,6 +4981,66 @@
       "path": "chapters/525/trang-02.png",
       "bytes": 2883010,
       "sha256": "50d8df73d922ceb8c6b4e917cc311102478a4b57522a5f393ce570c33541a568"
+    },
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 243761,
+      "sha256": "60c90b03face13b904ff148b1cba846a6c37381cfc32cb720909dfc8409668ef"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 194638,
+      "sha256": "c78aa0669107a2ff6b32d9a1c89c7d4edb27253b002a5eb271671fb84c403d1a"
+    },
+    {
+      "path": "models/manh-tri-tu-tho-la-hoa-526.png",
+      "bytes": 2426371,
+      "sha256": "ae5033e23108796dfcd636f3cbd486abb569aa5dab8f67b3c3842230c5575395"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6884,
+      "sha256": "e9f0d3047a4d1baf519be168d1eedb00d4271bb6877d8885767342e9a5383570"
+    },
+    {
+      "path": "chapters/526/chuong-526.pdf",
+      "bytes": 4834914,
+      "sha256": "9d735a9b03da8d1d9fb9a0f9f9bc2477f9a2656a33afcd03f33a65bdffb1598e"
+    },
+    {
+      "path": "chapters/526/trang-04.png",
+      "bytes": 2613262,
+      "sha256": "86029cc16600f033fdeebab277ccb624e924ec0e22583db3040948763795d633"
+    },
+    {
+      "path": "chapters/526/SOURCE.txt",
+      "bytes": 13568,
+      "sha256": "622bdc43b36cb22bbc0c08dcb8052b6a073d5a6d67622a38dc58dec5c01be3f3"
+    },
+    {
+      "path": "chapters/526/README.md",
+      "bytes": 353,
+      "sha256": "5c661465c301ee7711861159e698f43e31a537cc504b66ddde8b921e0aa0ef2a"
+    },
+    {
+      "path": "chapters/526/trang-03.png",
+      "bytes": 2920099,
+      "sha256": "12a44400967271a57334b66657672d2675b96ba65583fb13c0a2fe3802ae9bca"
+    },
+    {
+      "path": "chapters/526/trang-01.png",
+      "bytes": 2889388,
+      "sha256": "5479837e0f63d3ec1c0a0ad063a8a2c021dfc05dcafbb1ec839610f4385d8331"
+    },
+    {
+      "path": "chapters/526/trang-05.png",
+      "bytes": 2716262,
+      "sha256": "352baa6655397311e2ebc010e5ac7e98df55e28dc416cc6a7fff09d7d10075d7"
+    },
+    {
+      "path": "chapters/526/trang-02.png",
+      "bytes": 2849738,
+      "sha256": "d6b419acb0c38c9bfefaef3cc4562f9a1d09abf77e9327affa721ff6601c4c34"
     }
   ],
   "drafts": [
@@ -5116,11 +5191,11 @@
       522,
       523,
       524,
-      525
+      525,
+      526
     ],
     "drafts": {},
     "not_generated": [
-      526,
       527,
       528
     ],

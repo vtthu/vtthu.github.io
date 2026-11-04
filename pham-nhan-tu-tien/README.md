@@ -9,6 +9,7 @@
 - [Chương 523: An ủi phong trần](chapters/523/README.md) · [PDF](chapters/523/chuong-523.pdf)
 - [Chương 524: Chuyện cũ chốn phàm trần](chapters/524/README.md) · [PDF](chapters/524/chuong-524.pdf)
 - [Chương 525: Không đáy](chapters/525/README.md) · [PDF](chapters/525/chuong-525.pdf)
+- [Chương 526: Báo thù](chapters/526/README.md) · [PDF](chapters/526/chuong-526.pdf)
 
 
 Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ảnh model tham chiếu và bộ nhớ nối truyện. Bộ [483–488](history/comic-483-488/) gồm 27 trang PNG và 6 bản PDF A4.
