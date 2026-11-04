@@ -49,6 +49,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 530: Điều kiện trao đổi](chapters/530/): 5 trang, hoàn thành; [PDF A4](chapters/530/chuong-530.pdf)
+
 - [Chương 508: Cơ hội tốt](chapters/508/): 5 trang, hoàn thành; [PDF A4](chapters/508/chuong-508.pdf)
 
 - [Chương 507: Muốn giết người nào](chapters/507/): 4 trang, hoàn thành; [PDF A4](chapters/507/chuong-507.pdf)

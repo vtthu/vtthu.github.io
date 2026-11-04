@@ -1,0 +1,49 @@
+{
+  "chapter": 530,
+  "title": "Điều kiện trao đổi",
+  "images": [
+    "/workspace/comic-batch-530-533/a4-530/trang-01.png",
+    "/workspace/comic-batch-530-533/a4-530/trang-02.png",
+    "/workspace/comic-batch-530-533/a4-530/trang-03.png",
+    "/workspace/comic-batch-530-533/a4-530/trang-04.png",
+    "/workspace/comic-batch-530-533/a4-530/trang-05.png"
+  ],
+  "models": [
+    "han-lap-hac-phong-nhan-vat-520.png",
+    "thuong-luu-hoi-quan-520.png",
+    "thuong-luu-ly-ngang-lao-dao-528.png",
+    "phung-hai-thieu-phu-thuong-luu-529.png",
+    "han-lap-phung-hai-bien-the-530.png"
+  ],
+  "summary": "Hàn Lập phá long trảo và hai thuẫn của Phùng Hải, hóa cự viên khiến các trưởng lão kinh sợ. Lạc Thanh Hải can ngăn; Hàn đưa điều kiện đổi Thủy Diễn Tứ Thời Quyết lấy hai Nguyên Anh. Hội nghị cuối chương chưa quyết định.",
+  "notes": "- Giữ CT520 râu quai nón/áo teal trúc/trâm ngọc xanh; hóa cự viên vàng một đầu hai tay, hơn mười trượng. Kim Đồng ẩn, uy áp Kim Tiên hậu kỳ chưa giải thích tới chương531.\n- Lạc LTH01 navy sóng vàng, râu đen thẳng/trâm xanh; Phùng Hải một sừng lam, Thanh Phù da xanh râu trắng dài, thiếu phụ che mặt theo model529/528. Sửa chân dung Lạc thiếu râu ở trang4.\n- Thu/Thiết chỉ còn Nguyên Anh. Trang4 chỉ đưa ra một tinh cầu trắng chứa Nguyên Anh Thu màu lam, hình trưởng thành thu nhỏ, chưa giao công pháp.\n- Bối cảnh điện Thương Lưu lam còn nguyên. Trang5 dừng ở ý định khống chế Hàn, chưa thực sự ra tay hay chốt trao đổi.",
+  "raw_generated_images": [
+    "/workspace/generated_images/exec-2f7ae9c6-4066-41e7-8950-d94837f5e2e6.png",
+    "/workspace/generated_images/exec-3724c19a-a484-4a2b-b8a1-ff08537378f3.png",
+    "/workspace/generated_images/exec-6f370403-8419-4959-946b-61e2819f3963.png",
+    "/workspace/generated_images/exec-281f1d3b-3427-4b6e-bcd4-277c08a16c5d.png",
+    "/workspace/generated_images/exec-bbbc9457-8051-4896-ae97-35cc5b6a4a23.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

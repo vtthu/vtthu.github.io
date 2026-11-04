@@ -701,3 +701,15 @@ Nguồn: file CHUONG 529.txt do người dùng đính kèm. Bộ chính chapters
 
 ## Điểm dừng đợt529–533 — hạn mức tạo ảnh ngày04/11/2026
 Chương529 đã hoàn thành 5 PNG/PDF/SOURCE và đẩy main (fed8549940fb2e431b9b07429e5f232dcffad839). Khi bắt đầu tạo model530, công cụ trả HTTP429 usage_limit_reached, chưa có model530 hay trang530 nào thành công. 530–533 chưa tạo ảnh. Công cụ báo resets_at1793810143 = 2026-11-04T16:35:43Z, 23:35:43 giờ Việt Nam04/11/2026; đây là thời điểm dự kiến từ công cụ, không bảo đảm yêu cầu sau đó thành công. Không có tác vụ ảnh nền đang chạy. Đã đọc đủ năm nguồn; tiếp tục từ530, hoàn tất/push từng chương trước chương sau. Giữ CT520 hiện hành, Kim Đồng chỉ đổi sang áo đỏ viền vàng khi tới532 và cần model biến thể trước trang. Kịch bản/modelprompt còn lại đã lưu cục bộ tại /workspace/work/batch-529-533-all-drafts.json và checkpoint current-after-529-quota.json.
+
+
+## Bắt đầu đợt 530–533
+Đã đồng bộ main qua chương529, đọc đầy đủ bốn tệp nguồn đính kèm. Công cụ tạo ảnh đã hoạt động trở lại ở lượt này. Model mới lưu trước trang530: models/han-lap-phung-hai-bien-the-530.png. Giữ CT520 râu quai nón/teal trúc/trâm xanh; Sơn Nhạc Cự Viên vàng một đầu hai tay hai chân/đai teal, kích thước chiến đấu hơn mười trượng trong530, không lấy kích thước trình bày sheet làm canon. Phùng Hải giữ một sừng lam/áo royalblue sóng vàng, hai tay hóa vuốt rồng lam. Hai thuẫn ngọc xanh tam giác; tinh cầu trắng chứa nguyên anh Thu màu lam, phải giữ mặt trưởng thành BTS01 từ model520/522 chứ không theo người minh họa ngẫu nhiên trong đạo cụ530. Kim Đồng chưa hiện ngoài trong530.
+
+
+## Chương 530 — Điều kiện trao đổi: hoàn thành 5 trang
+Nguồn: file CHUONG 530.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/530/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Giữ CT520 râu quai nón/áo teal trúc/trâm ngọc xanh; hóa cự viên vàng một đầu hai tay, hơn mười trượng. Kim Đồng ẩn, uy áp Kim Tiên hậu kỳ chưa giải thích tới chương531.
+- Lạc LTH01 navy sóng vàng, râu đen thẳng/trâm xanh; Phùng Hải một sừng lam, Thanh Phù da xanh râu trắng dài, thiếu phụ che mặt theo model529/528. Sửa chân dung Lạc thiếu râu ở trang4.
+- Thu/Thiết chỉ còn Nguyên Anh. Trang4 chỉ đưa ra một tinh cầu trắng chứa Nguyên Anh Thu màu lam, hình trưởng thành thu nhỏ, chưa giao công pháp.
+- Bối cảnh điện Thương Lưu lam còn nguyên. Trang5 dừng ở ý định khống chế Hàn, chưa thực sự ra tay hay chốt trao đổi.
