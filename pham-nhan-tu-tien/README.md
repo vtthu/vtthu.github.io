@@ -6,6 +6,7 @@
 - [Chương 520: Đục nước béo cò](chapters/520/README.md) · [PDF](chapters/520/chuong-520.pdf)
 - [Chương 521: Theo sau](chapters/521/README.md) · [PDF](chapters/521/chuong-521.pdf)
 - [Chương 522: Vui gặp lại](chapters/522/README.md) · [PDF](chapters/522/chuong-522.pdf)
+- [Chương 523: An ủi phong trần](chapters/523/README.md) · [PDF](chapters/523/chuong-523.pdf)
 
 
 Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ảnh model tham chiếu và bộ nhớ nối truyện. Bộ [483–488](history/comic-483-488/) gồm 27 trang PNG và 6 bản PDF A4.

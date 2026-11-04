@@ -1342,6 +1342,32 @@
           1491
         ]
       }
+    },
+    {
+      "chapter": 523,
+      "pages": 4,
+      "directory": "chapters/523",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/523/chuong-523.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1491
+        ],
+        "trang-02.png": [
+          1055,
+          1491
+        ],
+        "trang-03.png": [
+          1055,
+          1491
+        ],
+        "trang-04.png": [
+          1055,
+          1491
+        ]
+      }
     }
   ],
   "files": [
@@ -4701,24 +4727,9 @@
       "sha256": "b07d6cf2baa98d243e686c2d73d717368913a1f235156872ea15a4e340b76b7b"
     },
     {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 234869,
-      "sha256": "c1bf7c5a0796df6518f9ecd811c6bac349baa9b3510e9addb8caa1ec498681fb"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 188167,
-      "sha256": "894b31449647cbbf73cd9d02bc6030205dfde76abf98d90d726148c48b7c22cd"
-    },
-    {
       "path": "models/tu-kim-ma-than-nguyen-anh-522.png",
       "bytes": 2980031,
       "sha256": "6d52587ff4db9ae203a6e5237835be257dc2c4698b48cae4347567a77b96a9aa"
-    },
-    {
-      "path": "README.md",
-      "bytes": 6487,
-      "sha256": "4670a7caf4eaa8e589e16c546e4de9894f7552edd791825a21c48550b96ffe35"
     },
     {
       "path": "chapters/522/trang-04.png",
@@ -4759,6 +4770,61 @@
       "path": "chapters/522/chuong-522.pdf",
       "bytes": 5743871,
       "sha256": "ad9e262fb68817756540ba2f7408c488669a6a90135cc4fd288f50bd602ec6c2"
+    },
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 237971,
+      "sha256": "6542d5d85f33dcbbc004e413985d7f15cfb6ba4443cb904f07b4fcfc1b8dc90e"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 190426,
+      "sha256": "29afdfdd4848d43f900893e6a5dd41d64f8ffd0d600af0d8953a89c94b9386ef"
+    },
+    {
+      "path": "models/mong-xuan-thu-tu-khi-523.png",
+      "bytes": 2158683,
+      "sha256": "cc3854132e3181865bbd506b0e4271801782253623ccbeb3805c9ce85238632e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6588,
+      "sha256": "6d3803537b97bc0e2170c4d950efd5290ec1d967d8815074c48b082e44922e1d"
+    },
+    {
+      "path": "chapters/523/chuong-523.pdf",
+      "bytes": 4239792,
+      "sha256": "c10b623aff581715d4f59d76086cb30067da095c85acd923f3f566a0a4e1ba40"
+    },
+    {
+      "path": "chapters/523/trang-04.png",
+      "bytes": 2696205,
+      "sha256": "acb192c885b7be7fc4bc642d5ce2c66263d7e6daf30430700a80f9365392952a"
+    },
+    {
+      "path": "chapters/523/SOURCE.txt",
+      "bytes": 14080,
+      "sha256": "a9de34956357f39e891970ddf37416f7ccf3770ae06c125932f5270b54ff8df3"
+    },
+    {
+      "path": "chapters/523/README.md",
+      "bytes": 336,
+      "sha256": "fb6a37ee64ab471b039ec47a424ac6287f3e48f34ad95fe05902a9491723fb18"
+    },
+    {
+      "path": "chapters/523/trang-03.png",
+      "bytes": 2957992,
+      "sha256": "39c61d66255155132723e152ce749fe5630b6e7d7b927c51ea774210c2e33b4e"
+    },
+    {
+      "path": "chapters/523/trang-01.png",
+      "bytes": 3098800,
+      "sha256": "fc135d151b58cac41308452f569421c3e7790e98d127845898682497377bb6b2"
+    },
+    {
+      "path": "chapters/523/trang-02.png",
+      "bytes": 2980208,
+      "sha256": "50bf838433705153593e256dd6f3cf2a0532d14c04bf896a5643f6a6350c6361"
     }
   ],
   "drafts": [
@@ -4906,11 +4972,11 @@
       519,
       520,
       521,
-      522
+      522,
+      523
     ],
     "drafts": {},
     "not_generated": [
-      523,
       524,
       525,
       526,
