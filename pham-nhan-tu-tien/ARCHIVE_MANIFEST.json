@@ -1454,6 +1454,36 @@
           1491
         ]
       }
+    },
+    {
+      "chapter": 527,
+      "pages": 5,
+      "directory": "chapters/527",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/527/chuong-527.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1491
+        ],
+        "trang-02.png": [
+          1055,
+          1491
+        ],
+        "trang-03.png": [
+          1055,
+          1491
+        ],
+        "trang-04.png": [
+          1055,
+          1491
+        ],
+        "trang-05.png": [
+          1055,
+          1491
+        ]
+      }
     }
   ],
   "files": [
@@ -4983,24 +5013,9 @@
       "sha256": "50d8df73d922ceb8c6b4e917cc311102478a4b57522a5f393ce570c33541a568"
     },
     {
-      "path": "CHARACTER_MEMORY.md",
-      "bytes": 243761,
-      "sha256": "60c90b03face13b904ff148b1cba846a6c37381cfc32cb720909dfc8409668ef"
-    },
-    {
-      "path": "PROJECT_MEMORY.md",
-      "bytes": 194638,
-      "sha256": "c78aa0669107a2ff6b32d9a1c89c7d4edb27253b002a5eb271671fb84c403d1a"
-    },
-    {
       "path": "models/manh-tri-tu-tho-la-hoa-526.png",
       "bytes": 2426371,
       "sha256": "ae5033e23108796dfcd636f3cbd486abb569aa5dab8f67b3c3842230c5575395"
-    },
-    {
-      "path": "README.md",
-      "bytes": 6884,
-      "sha256": "e9f0d3047a4d1baf519be168d1eedb00d4271bb6877d8885767342e9a5383570"
     },
     {
       "path": "chapters/526/chuong-526.pdf",
@@ -5041,6 +5056,66 @@
       "path": "chapters/526/trang-02.png",
       "bytes": 2849738,
       "sha256": "d6b419acb0c38c9bfefaef3cc4562f9a1d09abf77e9327affa721ff6601c4c34"
+    },
+    {
+      "path": "CHARACTER_MEMORY.md",
+      "bytes": 245314,
+      "sha256": "0ee16cac6bdf1c4159ce3842cd7900aef74a83653348bfb72652328b7168cd79"
+    },
+    {
+      "path": "PROJECT_MEMORY.md",
+      "bytes": 196191,
+      "sha256": "253560e1aca27c85a2ff701d2dd1214cadee268d500fcb131069e4bdb8d85fc7"
+    },
+    {
+      "path": "models/la-ban-truy-luyen-than-527.png",
+      "bytes": 1995488,
+      "sha256": "b3ce8932c511125cc4dd885b964e54c6ac8e6186bab5e3cd335cb6c95edcbdc8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6977,
+      "sha256": "5d466690ee548ee340daaf4d2c36eedc568434d00c62f7c29a89b8c6ee4c5ef9"
+    },
+    {
+      "path": "chapters/527/trang-04.png",
+      "bytes": 2602499,
+      "sha256": "2f08732e8ae8d2e148e982bf9a0803bfd7d6bef58cbce30d8930452eefff9a58"
+    },
+    {
+      "path": "chapters/527/chuong-527.pdf",
+      "bytes": 4522324,
+      "sha256": "fcc438ef1224eb4ee45118b13b1880f8a6670550085e88d61cef7c3cceab6d5d"
+    },
+    {
+      "path": "chapters/527/SOURCE.txt",
+      "bytes": 14412,
+      "sha256": "37d9e26e86946cc2bd65b094685fe88d4cd47ba3171cfddcb6e8101985fdc513"
+    },
+    {
+      "path": "chapters/527/README.md",
+      "bytes": 356,
+      "sha256": "b6bb1e76588560226aa17548e626eb6f99cc197a26c5cc078b554f589492444d"
+    },
+    {
+      "path": "chapters/527/trang-03.png",
+      "bytes": 2953639,
+      "sha256": "47ed3941d97c13f7917eb38fae20bc466055ff9852ed24cbed8602638d9eb202"
+    },
+    {
+      "path": "chapters/527/trang-01.png",
+      "bytes": 2451453,
+      "sha256": "a896a7cac8743c248d080ab82ee484eb9c061c1a24aa0a48d83001b5866bb04e"
+    },
+    {
+      "path": "chapters/527/trang-05.png",
+      "bytes": 2835469,
+      "sha256": "3fadd469a494fc56004db60029c8a062a4135b9551fc190a28d5485aefff5ee8"
+    },
+    {
+      "path": "chapters/527/trang-02.png",
+      "bytes": 2595342,
+      "sha256": "fa860b0460caaa4e33e0a10c7647c18674c030ba5fc47eabda3f783f3b03a1c6"
     }
   ],
   "drafts": [
@@ -5192,11 +5267,11 @@
       523,
       524,
       525,
-      526
+      526,
+      527
     ],
     "drafts": {},
     "not_generated": [
-      527,
       528
     ],
     "image_generation_error": null,

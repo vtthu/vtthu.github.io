@@ -669,3 +669,12 @@ models/manh-tri-tu-tho-la-hoa-526.png có sáu cột trái sang phải: Từ Th�
 ## Chương 526 — Báo thù: hoàn thành 5 trang
 Nguồn: file CHUONG 526.txt do người dùng đính kèm. Bộ chính chapters/526: PNG dọc, PDF A4, SOURCE.txt và README. Gắn trực tiếp ảnh model gốc/biến thể hiện hành trong các lần tạo; kiểm tra ảnh và số trang PDF. Lưu riêng commit chương này trên main trước khi làm chương tiếp.
 Đã lưu model sáu nhân vật mới trước ảnh truyện, tham chiếu trực tiếp model gốc Han V2, KD-ND01, MTT524, Niệm Vũ525 và phi xa475. Tiểu Bạch là mặt dây chuyền tỳ hưu bạch ngọc ở eo Hàn Lập, không phải mãng xà. Đã sửa trang2 cho ba người ngồi rõ trên phi xa bốn bánh; trang5 sửa đúng tên tu sĩ Từ gia. Thuộc hạ nốt ruồi chết ngoài khung ở526, La Hoa và tám người thoát giếng còn sống cuối chương. Chưa sang cuộc giải cứu527. Kiểm tra đủ năm ảnh và PDF năm trang.
+
+
+## Model đạo cụ527 — lưu trước trang
+models/la-ban-truy-luyen-than-527.png: la bàn tròn của Công Thâu Cửu, viền đồng hoa văn cong, mặt ngọc trắng không kim; khi dò Luyện Thần Thuật sương trắng che mặt và một điểm đỏ chớp, ngừng thi thuật thì điểm đỏ tắt dần. Đây là thiết kế biên tập riêng theo nguồn527, không tự đồng nhất với la bàn NTT-01 cũ.
+
+
+## Chương 527 — Mất tích?: hoàn thành 5 trang
+Nguồn: file CHUONG 527.txt do người dùng đính kèm. Bộ chính chapters/527: PNG dọc, PDF A4, SOURCE.txt và README. Gắn trực tiếp ảnh model gốc/biến thể hiện hành trong các lần tạo; kiểm tra ảnh và số trang PDF. Lưu riêng commit chương này trên main trước khi làm chương tiếp.
+Model Han gốc V2, KD-ND01, MTT524, nhóm526 và phi xa475 được tham chiếu trực tiếp. Đã sửa cảnh Hàn Lập thu ô thay La Hoa giữ ô; bỏ hình Kim Đồng thừa lệch kiểu tóc ở trang2; sửa câu nghĩ và ánh sáng gần sáng ở trang4. La Hoa bị sưu hồn/trừ khử, không xuất hiện sau527p3; Cao Thăng chỉ nhắc tên, bức họa là Hàn Lập V2. Tôn Bất Chính xưng Tôn Hạo. La bàn mới lưu trước trang5, sương trắng và một điểm đỏ chỉ hiện khi thi triển Luyện Thần Thuật. Kim Đồng ăn kiếm trắng rồi ngủ trên ghế, chưa tiến giai tới528. Đã xem đủ năm trang chọn cuối và kiểm tra PDF năm trang.
