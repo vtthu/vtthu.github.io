@@ -1,0 +1,208 @@
+{
+  "chapters": 4,
+  "comic_pages": 20,
+  "separate_png_per_page": true,
+  "original_model_reference": true,
+  "checks": [
+    {
+      "chapter": 530,
+      "pages": [
+        {
+          "page": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "4eebab5a63e53a2258649c5be75c5689cf9ee9ec4d5915a0e192a4fbecd5f20c"
+        },
+        {
+          "page": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "76eac63be483e02c6614784cc396e03b1064933cfa962b237aa5aa948ce18817"
+        },
+        {
+          "page": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "f13e0aa3aeb4f52273f7e3507051e1deafb2f90d3e3de95a2d0c3e46e348cc85"
+        },
+        {
+          "page": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "89d940ff18298e6c11d564433e1fdfc991a16930789b549af8c4dbce0db223f2"
+        },
+        {
+          "page": "trang-05.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "cedf88b8ae1897977bf931b156f7c7d646510e80133889c170e264f8eaa0cbbe"
+        }
+      ],
+      "pdf_pages": 5,
+      "pdf_size": "A4 portrait",
+      "source_exact_match": true,
+      "source_sha256": "babd2cd7d3ebcaf57da78c6d451090060d28c22a241b8320c11357d6dd25688c",
+      "zip_integrity": "passed"
+    },
+    {
+      "chapter": 531,
+      "pages": [
+        {
+          "page": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "791425046a52645f7be65a69bb396b4a0d7dee7acf295212b0e8fb51b872034e"
+        },
+        {
+          "page": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "d3615d6f21bd8deb3ae3f20be8b720b2c63ddb1047b4cfa3759c0935d110d83f"
+        },
+        {
+          "page": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "9306f3fdb9cbb3f51b6a6c47dfad09af2f9fbaf4960821c920f6623284516268"
+        },
+        {
+          "page": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "9a8de2c1ed2127b99115e859f499ef34682c85676d6d45af9dda163a3a9b534f"
+        },
+        {
+          "page": "trang-05.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "984df09fd6e9e15f32a1984f1802a601026b4f26b6eac2321c9b0724ffd22415"
+        }
+      ],
+      "pdf_pages": 5,
+      "pdf_size": "A4 portrait",
+      "source_exact_match": true,
+      "source_sha256": "df031f50693d83f86fb00b338c2c590d4f2f445980a6f1a131da4d7a22cc5ce5",
+      "zip_integrity": "passed"
+    },
+    {
+      "chapter": 532,
+      "pages": [
+        {
+          "page": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "7225c201f54784ec54958fcf6c521d061edd6a04f5d3ef58918177b5e042e665"
+        },
+        {
+          "page": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "be01e909039f213f36c931f68c7ffa071a81e8f1d6e2ebe618b74dbacadb3073"
+        },
+        {
+          "page": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "ff350e3750da4e6e340654e82f0bc97efe40f040f4522daf1ab9a7544e2cb889"
+        },
+        {
+          "page": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "01f6f5227ff76eb487a5bd1c20c04b05c0474d0de9b61df1c27a988448bf9b1b"
+        },
+        {
+          "page": "trang-05.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "fd0eb9488397a25aa80dfcb7474d910ee6d4a0eb4793c46a044ef2d9e94280af"
+        }
+      ],
+      "pdf_pages": 5,
+      "pdf_size": "A4 portrait",
+      "source_exact_match": true,
+      "source_sha256": "097219368146a3c53333013b70e78dc20aaadd3054e2f46fb0caf42ec55a264a",
+      "zip_integrity": "passed"
+    },
+    {
+      "chapter": 533,
+      "pages": [
+        {
+          "page": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "de16d1f37832a902d5a7e03be4000963db314a24d643a5f146544f6155449027"
+        },
+        {
+          "page": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "d51d1389b3a77e092f071f3ba08b93cd199ae67ca2dfc1875fd48826f42c116a"
+        },
+        {
+          "page": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "d2e56657c8a6c9f24509cf7be6bedb4b83ee49b368f740c3e368dc4af286279c"
+        },
+        {
+          "page": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "b6acb366af00cf76eb433acff24caddacdd9ec13e4483466197c122307a1ff49"
+        },
+        {
+          "page": "trang-05.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "051500233b207ce387735a7fb06e27f5c53ca4f81f06c981944b7a9b998a2d2a"
+        }
+      ],
+      "pdf_pages": 5,
+      "pdf_size": "A4 portrait",
+      "source_exact_match": true,
+      "source_sha256": "173a14ff32843106a34b43798ecf386c288ead5dda2cf799feade2f8d02c383a",
+      "zip_integrity": "passed"
+    }
+  ]
+}

@@ -946,3 +946,8 @@ Nguồn: file CHUONG 533.txt do người dùng đính kèm. Mỗi PNG một tran
 - Nữ tu thấy Hàn ở Đại Thừa là do giấu khí tức, không phải mất tu vi. Phân hạng Giáp/Ất/Bính/Đinh; Hàn nhận Ất và hẹn thanh toán hôm sau, chưa ăn tiệc/chưa rời thành trong chương.
 - Sửa trang4 ô suy nghĩ gắn nhầm về nữ tu thành lời dẫn nêu rõ Hàn quan sát nụ cười. Bổ sung nhãn chương và số trang ở trang1.
 - Kết ở hành lang, nữ tu chỉ nhắc biến cố Chúc Long Đạo; Hàn an tâm vì tin Minh Hàn Tiên Phủ chưa lan tới. Không thêm kết cục534, không tạo thành chủ/Chân Linh mới vì chỉ được nhắc tên.
+
+
+## Hoàn tất đợt 530–533
+Đủ 4 chương, 20 trang PNG riêng A4 dọc (5 trang/chương), bốn PDF A4 và bốn SOURCE.txt khớp nguyên byte tệp người dùng. Từng chương được commit/push main sau hoàn thành; chương532 gặp lỗi máy chủ GitHub, đã thử lại thành công. Mục lục production/530-533/README.md. Ghi chú hạn mức cũ ở cuối đợt529 là lịch sử, đã được vượt qua ở lượt này; 530–533 không còn chờ tạo.
+Điểm nối534: Hàn V2 teal/trâm xanh đang được nữ tu YMV533 áo ngà thêu cỏ xanh/trâm hoa trắng dẫn trong hành lang Yên Miểu Viên lúc đêm. Kim Đồng áo đỏ đã hóa nhẫn vàng trên tay, không vẽ bé gái bên ngoài khi chưa xuất hiện lại theo nguồn. Chưa tới bữa tiệc, chưa thanh toán/ngủ hay ra Man Hoang. Hàn biết tin Tiên Phủ chưa lan tới thành.

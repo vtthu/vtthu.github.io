@@ -1669,18 +1669,18 @@
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 259897,
-      "sha256": "ddc7e301dd40d4876ead02a34be4bda8b3393500a43c02fcb1940494e9214af8"
+      "bytes": 260813,
+      "sha256": "591b1cde44a674cdd81abe99a8fa51e1dea9841e83ffabc9777259a70be40fb4"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 210774,
-      "sha256": "edc41b3a6c23a88696f28bd765b8e710ea38000cdc48dfc8d33eec1d2e82d192"
+      "bytes": 211690,
+      "sha256": "4d21b05936b6a92323058f64628157f17f87ecb16f55850c40cc617a01a53b4c"
     },
     {
       "path": "README.md",
-      "bytes": 7689,
-      "sha256": "81885a0a3b45cda8cb1877e3e63673dfe1b1739e2df9445c26238dfdaf8fd010"
+      "bytes": 7765,
+      "sha256": "07af36d1f4dd61cbd37e2d5b2e81b1db31e1bf7835f87f49c67cd15e0ea67f63"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -5588,6 +5588,16 @@
       "sha256": "5d644e9916d01cc984e741595e60ef2f1d639e3faa77ec1710277b2b57a21884"
     },
     {
+      "path": "production/530-533/README.md",
+      "bytes": 1365,
+      "sha256": "846063bd5cb6f951fc4d148a236ce412441f89285795021ed30fabe1f31d1a65"
+    },
+    {
+      "path": "production/530-533/VERIFICATION.json",
+      "bytes": 5456,
+      "sha256": "7ff500b8dcbbb9df706c570e36e6bd846d3b89783f1792f569f3cfd9928bb1a8"
+    },
+    {
       "path": "summaries/465/README.md",
       "bytes": 226,
       "sha256": "98551e4405ea8b142fc83d969276adad8d5477018f02ab1729f70b6eb15001b1"
@@ -5839,5 +5849,17 @@
       "resets_at_vietnam": "2026-11-04 23:35:43 +07:00"
     },
     "running_background_jobs": false
+  },
+  "production_status_530_533": {
+    "status": "complete",
+    "chapters": [
+      530,
+      531,
+      532,
+      533
+    ],
+    "pages": 20,
+    "index": "production/530-533/README.md",
+    "verification": "production/530-533/VERIFICATION.json"
   }
 }
