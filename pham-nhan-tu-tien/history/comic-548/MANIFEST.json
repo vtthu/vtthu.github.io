@@ -1,0 +1,50 @@
+{
+  "chapter": 548,
+  "title": "Tam đại công pháp",
+  "images": [
+    "/workspace/comic-batch-540-548/a4-548/trang-01.png",
+    "/workspace/comic-batch-540-548/a4-548/trang-02.png",
+    "/workspace/comic-batch-540-548/a4-548/trang-03.png",
+    "/workspace/comic-batch-540-548/a4-548/trang-04.png",
+    "/workspace/comic-batch-540-548/a4-548/trang-05.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "dong-phu-tam-phap-chuong-thien-binh-547.png",
+    "kim-hai-vo-sinh-hoi-tien-dao-cu.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "nac-y-pham-thanh-lan-dao-binh-545.png"
+  ],
+  "summary": "Hàn Lập nghiên cứu Thủy Diễn Tứ Thời Quyết và Huyễn Thần Bảo Điển, nhận thấy liên hệ chưa rõ nên trở về tu luyện Chân Ngôn Hóa Luân Kinh tầng năm. Linh quả chấm vàng mở Tiên Khiếu 61, thêm đạo văn và sợi tơ thời gian thứ 11. Chưởng Thiên Bình mở tinh bích, thần hồn Hàn Lập đi vào vòng xoáy.",
+  "notes": "- 5 trang, giữ CT543 suốt. Thủy Diễn bảy tầng: bình Quang Âm hấp thu tinh hoa, tầng4 luyện thủy tích thành chi tơ; một giọt ban đầu trăm năm. Các hình minh họa nằm trong khung suy nghĩ, CHƯA có bình/nước thật.\n- Huyễn Thần Bảo Điển tinh luyện vật chứa Time thành cát, luyện không gian nhỏ có thời gian khác ngoại giới. Hơn10ngày chưa hiểu liên hệ, không tùy tiện tu hai công pháp mới.\n- Tuyết Phách đan trong như ngọc, Chân Ngôn tầng5 ngọc trắng vân vàng; bảo luân vàng mắt giữa. Ba tháng các tộc tụ hội, Y Phàm ghé hai lần/tháng lúc đầu rồi tôn trọng bế quan.\n- Linh quả chưa rõ tên từ Công Thâu: mở Tiên Khiếu61 ở đùi, thêm2 đoàn đạo văn, đồng thời thêm1 sợi thành11; không nhầm số khiếu/đạo văn/sợi, chưa tiến TháiẤt.\n- Sửa trang2 bàn thành giường đá đúng gian trong; sửa Tiểu Bạch trang4 thành Tỳ Hưu trắng ngọc một sừng vàng, không nhân hình. KD/TB ở gian ngoài bị màn và tinh bích chặn, về bàn đá.\n- Chưởng Thiên Bình đúng model cũ xanh hoa lá thân dẹt cổ hẹp từ ngực, phóng cối xay lục quang mở tinh bích. Kết chỉ thần hồn vào vòng xoáy, thân thật vẫn khoanh chân giường đá, chưa tự thêm nơi đến hay người549.",
+  "raw_generated_images": [
+    "/workspace/generated_images/548p1.png",
+    "/workspace/generated_images/548p2-final.png",
+    "/workspace/generated_images/548p3.png",
+    "/workspace/generated_images/548p4-final.png",
+    "/workspace/generated_images/548p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

@@ -855,3 +855,13 @@ Nguồn: file CHUONG 547.txt do người dùng đính kèm. Mỗi PNG một tran
 - Nội thất hai gian đơn giản, bàn ghế đá ngoài, giường đá trong; nửa canh giờ đặt trận. Kim Đồng từ nhẫn vàng, Tiểu Bạch từ mặt dây thắt lưng, đúng model đỏ/trắng ngọc.
 - Sửa cảnh KD/TB thành gian ngoài kín tường đá đèn vàng, không ngồi ngoài ban công. Cấm chế ngăn hai gian, Hàn nghiên cứu một mình trong phòng trong.
 - Hai ngọc giản xanh/ trắng vân vàng và sách Huyễn Thần vàng; đã có sáu tầng Chân Ngôn, chưa tu hai pháp mới. Kết cầm ngọc giản Thủy Diễn lên trán, chưa đi vào diễn biến548.
+
+
+## Chương 548 — Tam đại công pháp: hoàn thành 5 trang
+Nguồn: file CHUONG 548.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/548/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- 5 trang, giữ CT543 suốt. Thủy Diễn bảy tầng: bình Quang Âm hấp thu tinh hoa, tầng4 luyện thủy tích thành chi tơ; một giọt ban đầu trăm năm. Các hình minh họa nằm trong khung suy nghĩ, CHƯA có bình/nước thật.
+- Huyễn Thần Bảo Điển tinh luyện vật chứa Time thành cát, luyện không gian nhỏ có thời gian khác ngoại giới. Hơn10ngày chưa hiểu liên hệ, không tùy tiện tu hai công pháp mới.
+- Tuyết Phách đan trong như ngọc, Chân Ngôn tầng5 ngọc trắng vân vàng; bảo luân vàng mắt giữa. Ba tháng các tộc tụ hội, Y Phàm ghé hai lần/tháng lúc đầu rồi tôn trọng bế quan.
+- Linh quả chưa rõ tên từ Công Thâu: mở Tiên Khiếu61 ở đùi, thêm2 đoàn đạo văn, đồng thời thêm1 sợi thành11; không nhầm số khiếu/đạo văn/sợi, chưa tiến TháiẤt.
+- Sửa trang2 bàn thành giường đá đúng gian trong; sửa Tiểu Bạch trang4 thành Tỳ Hưu trắng ngọc một sừng vàng, không nhân hình. KD/TB ở gian ngoài bị màn và tinh bích chặn, về bàn đá.
+- Chưởng Thiên Bình đúng model cũ xanh hoa lá thân dẹt cổ hẹp từ ngực, phóng cối xay lục quang mở tinh bích. Kết chỉ thần hồn vào vòng xoáy, thân thật vẫn khoanh chân giường đá, chưa tự thêm nơi đến hay người549.

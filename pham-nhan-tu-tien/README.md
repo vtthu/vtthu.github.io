@@ -49,6 +49,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 548: Tam đại công pháp](chapters/548/): 5 trang, hoàn thành; [PDF A4](chapters/548/chuong-548.pdf)
+
 - [Chương 547: Dừng chân](chapters/547/): 4 trang, hoàn thành; [PDF A4](chapters/547/chuong-547.pdf)
 
 - [Chương 546: Man hoang đại tộc](chapters/546/): 5 trang, hoàn thành; [PDF A4](chapters/546/chuong-546.pdf)
