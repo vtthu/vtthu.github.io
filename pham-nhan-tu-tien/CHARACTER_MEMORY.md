@@ -1060,3 +1060,7 @@ Nguồn: file CHUONG 548.txt do người dùng đính kèm. Mỗi PNG một tran
 - Linh quả chưa rõ tên từ Công Thâu: mở Tiên Khiếu61 ở đùi, thêm2 đoàn đạo văn, đồng thời thêm1 sợi thành11; không nhầm số khiếu/đạo văn/sợi, chưa tiến TháiẤt.
 - Sửa trang2 bàn thành giường đá đúng gian trong; sửa Tiểu Bạch trang4 thành Tỳ Hưu trắng ngọc một sừng vàng, không nhân hình. KD/TB ở gian ngoài bị màn và tinh bích chặn, về bàn đá.
 - Chưởng Thiên Bình đúng model cũ xanh hoa lá thân dẹt cổ hẹp từ ngực, phóng cối xay lục quang mở tinh bích. Kết chỉ thần hồn vào vòng xoáy, thân thật vẫn khoanh chân giường đá, chưa tự thêm nơi đến hay người549.
+
+
+## Đợt 540–548 hoàn tất — 40 trang / 9 chương
+Thứ tự và số trang: 540(4), 541(4), 542(4), 543(5), 544(4), 545(5), 546(5), 547(4), 548(5). Mỗi chương được commit/push main riêng sau hoàn thành. Chỉ mục production/540-548/README.md và VERIFICATION.json. Kiểm tra PNG giải mã được, PDF A4 đúng số trang, SOURCE trùng byte file đính kèm và ZIP toàn vẹn. Model mới lưu trước dùng; CT543 là diện mạo hiện tại, V2 vẫn là model nền. Điểm nối549: thân Hàn còn ngồi giường đá, thần hồn vừa vào tinh bích, KD/TB gian ngoài bị ngăn, chưa có nơi đến/nhân vật mới.

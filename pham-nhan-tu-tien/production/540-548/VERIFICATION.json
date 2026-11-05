@@ -1,0 +1,220 @@
+{
+  "status": "complete",
+  "chapters": [
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548
+  ],
+  "total_pages": 40,
+  "source": "Nine original TXT attachments; story text treated as source material, not operational instructions.",
+  "model_continuity": "Existing PNG models attached directly during generation; new character/prop/environment boards saved before use. Han V2 remains canonical under CT543 disguise.",
+  "chapter_push_policy": "Each completed chapter committed and pushed separately to main, in ascending order.",
+  "verification": [
+    {
+      "chapter": 540,
+      "title": "Tiến vào Man Hoang",
+      "pages": 4,
+      "directory": "chapters/540",
+      "source_bytes": 14645,
+      "source_sha256": "254b34edb6b6be580d1e081d3ada538a17ef6f695083824b8b68fade3de2eeca",
+      "png_size": [
+        1055,
+        1492
+      ],
+      "pdf_A4_verified": true,
+      "png_decode_verified": true,
+      "local_zip_integrity_verified": true,
+      "models": [
+        "han-lap-v2.png",
+        "lang-hu-tu-van-binh-kim-dong-532.png",
+        "man-hoang-sa-thu-tieu-bach-540.png",
+        "han-lap-son-nhac-cu-vien.png",
+        "thiet-khoi-loi-trong-kiem-521.png",
+        "phi-xa-ty-huu-mat-na-truc-son-ha-475.png"
+      ]
+    },
+    {
+      "chapter": 541,
+      "title": "Kiếm bảo",
+      "pages": 4,
+      "directory": "chapters/541",
+      "source_bytes": 14915,
+      "source_sha256": "08c9f674f54c299680418a0dba7ba82b326271a6c11628375dacaeda76901e1b",
+      "png_size": [
+        1055,
+        1492
+      ],
+      "pdf_A4_verified": true,
+      "png_decode_verified": true,
+      "local_zip_integrity_verified": true,
+      "models": [
+        "han-lap-v2.png",
+        "lang-hu-tu-van-binh-kim-dong-532.png",
+        "man-hoang-sa-thu-tieu-bach-540.png",
+        "phi-xa-ty-huu-mat-na-truc-son-ha-475.png",
+        "di-toc-long-lam-linh-thao-541.png"
+      ]
+    },
+    {
+      "chapter": 542,
+      "title": "Núi xương nơi hoang trạch",
+      "pages": 4,
+      "directory": "chapters/542",
+      "source_bytes": 14806,
+      "source_sha256": "7fa3377aea0af78374f758ab7268d917849ed1b0e220ef6bc00b1d4ee469857a",
+      "png_size": [
+        1055,
+        1492
+      ],
+      "pdf_A4_verified": true,
+      "png_decode_verified": true,
+      "local_zip_integrity_verified": true,
+      "models": [
+        "han-lap-v2.png",
+        "lang-hu-tu-van-binh-kim-dong-532.png",
+        "man-hoang-sa-thu-tieu-bach-540.png",
+        "phi-xa-ty-huu-mat-na-truc-son-ha-475.png",
+        "hac-giao-kim-lien-cu-quai-542.png"
+      ]
+    },
+    {
+      "chapter": 543,
+      "title": "Phân tranh",
+      "pages": 5,
+      "directory": "chapters/543",
+      "source_bytes": 14168,
+      "source_sha256": "25b39877a0f0133f9887ba637265d203347329e2b211da0de195d81c5a42b3f6",
+      "png_size": [
+        1055,
+        1492
+      ],
+      "pdf_A4_verified": true,
+      "png_decode_verified": true,
+      "local_zip_integrity_verified": true,
+      "models": [
+        "han-lap-v2.png",
+        "lang-hu-tu-van-binh-kim-dong-532.png",
+        "man-hoang-sa-thu-tieu-bach-540.png",
+        "phi-xa-ty-huu-mat-na-truc-son-ha-475.png",
+        "hac-giao-kim-lien-cu-quai-542.png",
+        "han-cai-trang-huong-canh-hoi-thiem-543.png"
+      ]
+    },
+    {
+      "chapter": 544,
+      "title": "Lưu lại?",
+      "pages": 4,
+      "directory": "chapters/544",
+      "source_bytes": 13443,
+      "source_sha256": "17fe756cb47fce8c737e801bc2f1430db56733432329e1663b80df15b5460386",
+      "png_size": [
+        1055,
+        1492
+      ],
+      "pdf_A4_verified": true,
+      "png_decode_verified": true,
+      "local_zip_integrity_verified": true,
+      "models": [
+        "han-cai-trang-huong-canh-hoi-thiem-543.png",
+        "lang-hu-tu-van-binh-kim-dong-532.png",
+        "man-hoang-sa-thu-tieu-bach-540.png",
+        "linh-trung-chien-thu-544.png",
+        "kim-dong-giap-trung-tien-giai-528.png"
+      ]
+    },
+    {
+      "chapter": 545,
+      "title": "Khách quý",
+      "pages": 5,
+      "directory": "chapters/545",
+      "source_bytes": 14426,
+      "source_sha256": "3451f6cc686050a2e4567113ee9305902b965f6c43ed937bf7c54cbcf49f606b",
+      "png_size": [
+        1055,
+        1492
+      ],
+      "pdf_A4_verified": true,
+      "png_decode_verified": true,
+      "local_zip_integrity_verified": true,
+      "models": [
+        "han-cai-trang-huong-canh-hoi-thiem-543.png",
+        "nac-y-pham-thanh-lan-dao-binh-545.png",
+        "lang-hu-tu-van-binh-kim-dong-532.png",
+        "man-hoang-sa-thu-tieu-bach-540.png",
+        "kim-dong-giap-trung-tien-giai-528.png"
+      ]
+    },
+    {
+      "chapter": 546,
+      "title": "Man hoang đại tộc",
+      "pages": 5,
+      "directory": "chapters/546",
+      "source_bytes": 13648,
+      "source_sha256": "7b062c6769b758874645778d395822bef134a5a3a17f4722761d62542ce20671",
+      "png_size": [
+        1055,
+        1492
+      ],
+      "pdf_A4_verified": true,
+      "png_decode_verified": true,
+      "local_zip_integrity_verified": true,
+      "models": [
+        "han-cai-trang-huong-canh-hoi-thiem-543.png",
+        "nac-y-pham-thanh-lan-dao-binh-545.png",
+        "ky-thu-khong-linh-am-tinh-546.png"
+      ]
+    },
+    {
+      "chapter": 547,
+      "title": "Dừng chân",
+      "pages": 4,
+      "directory": "chapters/547",
+      "source_bytes": 14518,
+      "source_sha256": "805deb974bd65281c7b0c45df09dafee3dcedcc8c3a6dad354c5c5da0f6ec32c",
+      "png_size": [
+        1055,
+        1492
+      ],
+      "pdf_A4_verified": true,
+      "png_decode_verified": true,
+      "local_zip_integrity_verified": true,
+      "models": [
+        "han-cai-trang-huong-canh-hoi-thiem-543.png",
+        "nac-y-pham-thanh-lan-dao-binh-545.png",
+        "ky-thu-khong-linh-am-tinh-546.png",
+        "dong-phu-tam-phap-chuong-thien-binh-547.png",
+        "lang-hu-tu-van-binh-kim-dong-532.png",
+        "man-hoang-sa-thu-tieu-bach-540.png"
+      ]
+    },
+    {
+      "chapter": 548,
+      "title": "Tam đại công pháp",
+      "pages": 5,
+      "directory": "chapters/548",
+      "source_bytes": 12700,
+      "source_sha256": "04fa1e4f050d55ca169c94ca6219440910f114a73c94e5475cdac4fd58819a4e",
+      "png_size": [
+        1055,
+        1492
+      ],
+      "pdf_A4_verified": true,
+      "png_decode_verified": true,
+      "local_zip_integrity_verified": true,
+      "models": [
+        "han-cai-trang-huong-canh-hoi-thiem-543.png",
+        "dong-phu-tam-phap-chuong-thien-binh-547.png",
+        "kim-hai-vo-sinh-hoi-tien-dao-cu.png",
+        "lang-hu-tu-van-binh-kim-dong-532.png",
+        "man-hoang-sa-thu-tieu-bach-540.png",
+        "nac-y-pham-thanh-lan-dao-binh-545.png"
+      ]
+    }
+  ]
+}
