@@ -1,0 +1,49 @@
+{
+  "chapter": 545,
+  "title": "Khách quý",
+  "images": [
+    "/workspace/comic-batch-540-548/a4-545/trang-01.png",
+    "/workspace/comic-batch-540-548/a4-545/trang-02.png",
+    "/workspace/comic-batch-540-548/a4-545/trang-03.png",
+    "/workspace/comic-batch-540-548/a4-545/trang-04.png",
+    "/workspace/comic-batch-540-548/a4-545/trang-05.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "nac-y-pham-thanh-lan-dao-binh-545.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "kim-dong-giap-trung-tien-giai-528.png"
+  ],
+  "summary": "Đạo binh chặn Hôi Thiềm, Đồ Lợi Ô chết vì cấm chế khi bị sưu hồn. Sau lời cảm tạ và giải thích tín ngưỡng, Nặc Y Phàm lộ diện, thỏa thuận đổi địa đồ lấy hộ tống. Hàn xưng Lệ Phi Vũ và học tiếng Man Hoang khi lên đường.",
+  "notes": "- 5 trang, Hàn giữ CT543 suốt, KD đỏ/Phệ Kim528 và TB trắng ngọc đúng mẫu. Hạt đậu vàng sẫm thành DB545 rồi được thu hồi, không biến thành quân chết.\n- Đồ Lợi Ô chết cấm chế tự hủy, thể hiện ánh sáng không đồ họa, không tái hiện sống sau trang1. Trùng Linh chỉ nhắc, không tự đặt mặt/hình dạng.\n- NYF545 da lam nhạt/tai nhọn/nanh nhỏ/trâm lá bạc/tóc xanh đen, bỏ khăn che mặt vẫn giữ áo choàng xám đến hết545. NQL546/chaThảnThập trên bảng model chưa xuất hiện.\n- Giao kèo chỉ hứa tập hợp địa đồ, chưa trao bản đồ đầy đủ; tên Lệ Phi Vũ được nói cuối thương lượng. Nhẫn trữ cốt trắng khác nhẫn bọ vàng, vật liệu chia cho hai bạn đồng hành.\n- Đã sửa trang2 người cóc tấn công thành thường dân quân đai nâu, cảnh thu đạo binh thành hạt; sửa lời dẫn trang3; bỏ cự viên/kiếm/phi xa thừa trang4; trang5 KD và TB đã thu vào nhẫn/mặt dây trước đi bộ.\n- Ngô Công trăm mắt chỉ được nhắc, không thực sự giao chiến. Kết Hàn xin Tiểu Bạch dạy tiếng Man Hoang, chưa tớiKhổngLinh/UThần546.",
+  "raw_generated_images": [
+    "/workspace/generated_images/545p1.png",
+    "/workspace/generated_images/545p2-final.png",
+    "/workspace/generated_images/545p3-final.png",
+    "/workspace/generated_images/545p4-final.png",
+    "/workspace/generated_images/545p5-final.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

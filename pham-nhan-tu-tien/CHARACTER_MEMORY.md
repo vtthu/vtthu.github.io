@@ -1011,3 +1011,17 @@ Nguồn: file CHUONG 544.txt do người dùng đính kèm. Mỗi PNG một tran
 - Linh trùng/chiến thú544 lưu trước trang. Nhạc khí điều thú; toad tiếng bụng điều trùng. Đối thoại hai tộc là bản Tiểu Bạch truyền âm, không giả định Hàn đã hiểu tiếng Man Hoang.
 - Hàn dùng hai kiếm xanh hạ hai bọ ngựa, không trực tiếp tham chiến chính; KD hóa giáp trùng vàng528 (khác bọ ngựa vàng), TB phóng lớn hút bọ đen. Không vẽ hai dạng KD đồng thời sau biến thân.
 - Kết Đồ Lợi Ô còn sống/rút lui, không sớm tung đạo binh545 hay sưu hồn. Sửa trang4 lời thoại tự sinh gọi tên Kim Đồng và nơi rút lui không có trong nguồn.
+
+
+## Model trước545–546
+Lưu models/nac-y-pham-thanh-lan-dao-binh-545.png trước trang545. NYF545 nữ trưởng thành da lam nhạt/tai nhọn/hai nanh ngắn/tóc xanh đen dài/trâm lá bạc/áo dài lam bạc đai teal; trạng thái áo choàng xám khăn che mặt trước545lộdiện, bỏ khăn vẫn áo choàng545, đến546cổngmớibỏáochoàng. NQL546 cha nàng nam trungniên da lam/tóc lam búi sau/trâmbạc/áotrắngđục vânbạc trượngngọcxanh, khôngxuấthiện545. ChaThảnThập xanhcổdàigiốngTTnhưngtóc/râutrắnggià+ốngxươngđen; mô tảnhận diện cho546, khôngvẽcònsốngtrongnhóm545. DB545 đạo binh hạt đậu vàng sẫm thành chiến binh kimloại giápvàng/mũmàogold/taygiáokhiên, khác khôi lỗi đã chết492/475. Nhẫn trữ cốt trắng/túm áochoàngxám. Nhãn sinh trên sheet không là dữkiện thêm.
+
+
+## Chương 545 — Khách quý: hoàn thành 5 trang
+Nguồn: file CHUONG 545.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/545/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- 5 trang, Hàn giữ CT543 suốt, KD đỏ/Phệ Kim528 và TB trắng ngọc đúng mẫu. Hạt đậu vàng sẫm thành DB545 rồi được thu hồi, không biến thành quân chết.
+- Đồ Lợi Ô chết cấm chế tự hủy, thể hiện ánh sáng không đồ họa, không tái hiện sống sau trang1. Trùng Linh chỉ nhắc, không tự đặt mặt/hình dạng.
+- NYF545 da lam nhạt/tai nhọn/nanh nhỏ/trâm lá bạc/tóc xanh đen, bỏ khăn che mặt vẫn giữ áo choàng xám đến hết545. NQL546/chaThảnThập trên bảng model chưa xuất hiện.
+- Giao kèo chỉ hứa tập hợp địa đồ, chưa trao bản đồ đầy đủ; tên Lệ Phi Vũ được nói cuối thương lượng. Nhẫn trữ cốt trắng khác nhẫn bọ vàng, vật liệu chia cho hai bạn đồng hành.
+- Đã sửa trang2 người cóc tấn công thành thường dân quân đai nâu, cảnh thu đạo binh thành hạt; sửa lời dẫn trang3; bỏ cự viên/kiếm/phi xa thừa trang4; trang5 KD và TB đã thu vào nhẫn/mặt dây trước đi bộ.
+- Ngô Công trăm mắt chỉ được nhắc, không thực sự giao chiến. Kết Hàn xin Tiểu Bạch dạy tiếng Man Hoang, chưa tớiKhổngLinh/UThần546.
