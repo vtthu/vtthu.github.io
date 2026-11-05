@@ -1,0 +1,43 @@
+{
+  "chapter": 544,
+  "title": "Lưu lại?",
+  "images": [
+    "/workspace/comic-batch-540-548/a4-544/trang-01.png",
+    "/workspace/comic-batch-540-548/a4-544/trang-02.png",
+    "/workspace/comic-batch-540-548/a4-544/trang-03.png",
+    "/workspace/comic-batch-540-548/a4-544/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "linh-trung-chien-thu-544.png",
+    "kim-dong-giap-trung-tien-giai-528.png"
+  ],
+  "summary": "Tiểu Bạch phiên dịch mối thù Thú tộc–Trùng tộc. Kim Đồng thấy cảm giác kỳ lạ, hai bọ ngựa đánh lén khiến nhóm lộ diện. Đồ Lợi Ô đòi giữ nàng; Kim Đồng và Tiểu Bạch phá trùng triều, Hôi Thiềm bắt đầu rút lui.",
+  "notes": "- Giữ CT543 sau Long Ngũ suốt chương, không lộ mặt V2 trẻ. TT543/DLO543 theo model. Ban đầu KDnhẫn/TBpendant, KD hiện sau cảm giác lạ, TB chỉ hiện khi được ném mặt dây để phiên dịch.\n- Linh trùng/chiến thú544 lưu trước trang. Nhạc khí điều thú; toad tiếng bụng điều trùng. Đối thoại hai tộc là bản Tiểu Bạch truyền âm, không giả định Hàn đã hiểu tiếng Man Hoang.\n- Hàn dùng hai kiếm xanh hạ hai bọ ngựa, không trực tiếp tham chiến chính; KD hóa giáp trùng vàng528 (khác bọ ngựa vàng), TB phóng lớn hút bọ đen. Không vẽ hai dạng KD đồng thời sau biến thân.\n- Kết Đồ Lợi Ô còn sống/rút lui, không sớm tung đạo binh545 hay sưu hồn. Sửa trang4 lời thoại tự sinh gọi tên Kim Đồng và nơi rút lui không có trong nguồn.",
+  "raw_generated_images": [
+    "/workspace/generated_images/544p1.png",
+    "/workspace/generated_images/544p2.png",
+    "/workspace/generated_images/544p3.png",
+    "/workspace/generated_images/544p4-final.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

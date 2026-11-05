@@ -804,3 +804,15 @@ Nguồn: file CHUONG 543.txt do người dùng đính kèm. Mỗi PNG một tran
 - HànV2 dùng nghịch BảoLuân tăng tốc, thuận chuyển định xúc tu rồi lôi trận thoát; một tay bị thương được chữa ở trang3, không giữ thương sau đó.
 - Chỉ đổi sang mặt CT543 sau mặt nạ trang4: ria nhỏ/râu cằm ngắn/má rộng trung niên, teal trúc/trâm xanh giữ nguyên. Đây là ảo dung, không loại V2. Kim Đồng/Tiểu Bạch hiện ở cảnh hồi phục rồi trở lại nhẫn/mặt dây trước quan sát.
 - Kết hai nhóm Hướng Cảnh cao cổ dài/tusks da teal và Hôi Thiềm người cóc xám nâu bên đài lửa; chỉ quan sát, chưa phiên dịch/tham chiến tới544.
+
+
+## Model trước544
+Lưu models/linh-trung-chien-thu-544.png trước lần xuất hiện: KLM544 bọ ngựa vàng như trâu/sáu chân gồm hai liềm/mắt xanh, khác Phệ Kim Trùng của Kim Đồng; HGT544 bọ giáp đen nhỏ như ong với hắc quang, tụ đàn. Chiến thú vô danh Hướng Cảnh dùng lợn nâu bốn chân hai nanh/phun lửa và tê giác-trâu xám bốn chân/sừng lôi lam, chỉ là thiết kế đàn thú theo lời nguồn không đặt tên truyện mới. Sáo/trống/chuông và đài lửa nhỏ giữa đất trống giữ bối cảnh. Hàn chỉ CT543, Kim Đồng đỏ, Tiểu Bạch trắng ngọc.
+
+
+## Chương 544 — Lưu lại?: hoàn thành 4 trang
+Nguồn: file CHUONG 544.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/544/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Giữ CT543 sau Long Ngũ suốt chương, không lộ mặt V2 trẻ. TT543/DLO543 theo model. Ban đầu KDnhẫn/TBpendant, KD hiện sau cảm giác lạ, TB chỉ hiện khi được ném mặt dây để phiên dịch.
+- Linh trùng/chiến thú544 lưu trước trang. Nhạc khí điều thú; toad tiếng bụng điều trùng. Đối thoại hai tộc là bản Tiểu Bạch truyền âm, không giả định Hàn đã hiểu tiếng Man Hoang.
+- Hàn dùng hai kiếm xanh hạ hai bọ ngựa, không trực tiếp tham chiến chính; KD hóa giáp trùng vàng528 (khác bọ ngựa vàng), TB phóng lớn hút bọ đen. Không vẽ hai dạng KD đồng thời sau biến thân.
+- Kết Đồ Lợi Ô còn sống/rút lui, không sớm tung đạo binh545 hay sưu hồn. Sửa trang4 lời thoại tự sinh gọi tên Kim Đồng và nơi rút lui không có trong nguồn.
