@@ -49,6 +49,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 546: Man hoang đại tộc](chapters/546/): 5 trang, hoàn thành; [PDF A4](chapters/546/chuong-546.pdf)
+
 - [Chương 545: Khách quý](chapters/545/): 5 trang, hoàn thành; [PDF A4](chapters/545/chuong-545.pdf)
 
 - [Chương 544: Lưu lại?](chapters/544/): 4 trang, hoàn thành; [PDF A4](chapters/544/chuong-544.pdf)

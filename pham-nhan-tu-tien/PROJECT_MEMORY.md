@@ -830,3 +830,15 @@ Nguồn: file CHUONG 545.txt do người dùng đính kèm. Mỗi PNG một tran
 - Giao kèo chỉ hứa tập hợp địa đồ, chưa trao bản đồ đầy đủ; tên Lệ Phi Vũ được nói cuối thương lượng. Nhẫn trữ cốt trắng khác nhẫn bọ vàng, vật liệu chia cho hai bạn đồng hành.
 - Đã sửa trang2 người cóc tấn công thành thường dân quân đai nâu, cảnh thu đạo binh thành hạt; sửa lời dẫn trang3; bỏ cự viên/kiếm/phi xa thừa trang4; trang5 KD và TB đã thu vào nhẫn/mặt dây trước đi bộ.
 - Ngô Công trăm mắt chỉ được nhắc, không thực sự giao chiến. Kết Hàn xin Tiểu Bạch dạy tiếng Man Hoang, chưa tớiKhổngLinh/UThần546.
+
+
+## Model trước546–547
+Lưu models/ky-thu-khong-linh-am-tinh-546.png trước trang546. Hắc lộc đen bốn chân hai cánh lông đen cho Thản Thập; tuyết ưng trắng hai cánh hai chân cho Nặc Y Phàm; trường mao tượng xám bốn chân tai quạt hai ngà bay bằng hào quang không có cánh cho Hàn. Khổng Linh da xám thân thấp đầu lớn ngũ quan tụ giữa, áo thô xanh rêu; trong546 chỉ là thi thể che kín, không tự thêm người sống. Hắc dực cự tích547 bốn chân hai cánh da đen mắt xanh canh tháp. Phế thôn nhà cây rừng cổ; Ám Tinh vách trắng thành xám trắng khổng lồ, ba cửa nước song sắt đen và thác nước chảy ra, không cửa đất khô/cung vàng. Nhãn model là định danh thiết kế, không tự thêm dữ kiện truyện.
+
+
+## Chương 546 — Man hoang đại tộc: hoàn thành 5 trang
+Nguồn: file CHUONG 546.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/546/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- 5 trang, Hàn giữ CT543; Kim Đồng và Tiểu Bạch chỉ được nhắc khi đã cất trong nhẫn vàng và mặt dây thắt lưng, không tự thêm ra ngoài.
+- Thản Thập cưỡi hắc lộc hai cánh, Y Phàm tuyết ưng, Hàn trường mao tượng không cánh; cha Thản Thập chỉ là người đã mất, lấy ống xương đen rồi kế nhiệm.
+- Nặc Y Phàm giữ áo choàng đến trang4 mới bỏ, áo dài lam bạc kín; Nặc Thanh Lân tóc lam áo trắng trượng ngọc đúng model. Chưa biết danh tính công khai cho đến547.
+- Ám Tinh vách trắng ba cửa nước song sắt và thác; chưa vào thành. Sửa trang5 thêm lời đề nghị thù lao trước suy nghĩ bị tiễn đi. Lòng tin về Chân Linh Chi Vương chỉ là lời Y Phàm.

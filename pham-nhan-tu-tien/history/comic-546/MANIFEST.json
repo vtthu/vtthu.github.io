@@ -1,0 +1,47 @@
+{
+  "chapter": 546,
+  "title": "Man hoang đại tộc",
+  "images": [
+    "/workspace/comic-batch-540-548/a4-546/trang-01.png",
+    "/workspace/comic-batch-540-548/a4-546/trang-02.png",
+    "/workspace/comic-batch-540-548/a4-546/trang-03.png",
+    "/workspace/comic-batch-540-548/a4-546/trang-04.png",
+    "/workspace/comic-batch-540-548/a4-546/trang-05.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "nac-y-pham-thanh-lan-dao-binh-545.png",
+    "ky-thu-khong-linh-am-tinh-546.png"
+  ],
+  "summary": "Đoàn người tới phế thôn Khổng Linh, Thản Thập nhận di vật của phụ thân và kế nhiệm tộc trưởng. Sau hành trình dài, họ tới Ám Tinh; Nặc Y Phàm đoàn tụ với phụ thân, nhưng U Thần tộc dè chừng vị khách Nhân tộc.",
+  "notes": "- 5 trang, Hàn giữ CT543; Kim Đồng và Tiểu Bạch chỉ được nhắc khi đã cất trong nhẫn vàng và mặt dây thắt lưng, không tự thêm ra ngoài.\n- Thản Thập cưỡi hắc lộc hai cánh, Y Phàm tuyết ưng, Hàn trường mao tượng không cánh; cha Thản Thập chỉ là người đã mất, lấy ống xương đen rồi kế nhiệm.\n- Nặc Y Phàm giữ áo choàng đến trang4 mới bỏ, áo dài lam bạc kín; Nặc Thanh Lân tóc lam áo trắng trượng ngọc đúng model. Chưa biết danh tính công khai cho đến547.\n- Ám Tinh vách trắng ba cửa nước song sắt và thác; chưa vào thành. Sửa trang5 thêm lời đề nghị thù lao trước suy nghĩ bị tiễn đi. Lòng tin về Chân Linh Chi Vương chỉ là lời Y Phàm.",
+  "raw_generated_images": [
+    "/workspace/generated_images/546p1.png",
+    "/workspace/generated_images/546p2.png",
+    "/workspace/generated_images/546p3.png",
+    "/workspace/generated_images/546p4.png",
+    "/workspace/generated_images/546p5-final.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}
