@@ -1,0 +1,43 @@
+{
+  "chapter": 541,
+  "title": "Kiếm bảo",
+  "images": [
+    "/workspace/comic-batch-540-548/a4-541/trang-01.png",
+    "/workspace/comic-batch-540-548/a4-541/trang-02.png",
+    "/workspace/comic-batch-540-548/a4-541/trang-03.png",
+    "/workspace/comic-batch-540-548/a4-541/trang-04.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "phi-xa-ty-huu-mat-na-truc-son-ha-475.png",
+    "di-toc-long-lam-linh-thao-541.png"
+  ],
+  "summary": "Phi xa ẩn nặc đưa ba người qua Hắc Nê Chiểu Trạch đến vụ hải. Tiểu Bạch dò bảo, Hàn thu linh thảo và thủy tinh. Khi lấy Tử U Thảo, họ bị dị tộc lông lam phục kích; Kim Đồng phản kích khiến cả nhóm hóa nước bỏ trốn.",
+  "notes": "- 4 trang nhiều khung, Hàn V2/Kim Đồng đỏ/Tiểu Bạch540/PX475 giữ nguyên; mây trắng che cả linh lực phi xa. Tiểu Bạch nhận ba thành bảo vật, Kim Đồng phải góp sức mới có phần.\n- Lộc Nhung đỏ dạng sừng có rễ, cự mãng lục bị hạ bằng pháp quang không đồ họa, thủy tinh lam có sóng. Tử U Thảo20–30gốc được lấy cả đất tím.\n- Năm dị tộc lông lam DL541, một cầm đầu Kim Tiên/four Chân Tiên, công kích lông lam/lam nhận. Kim Đồng dùng kim liên pháp thuật/tinh quang, khác hoa sen linh vật542.\n- Kết năm người hóa nước hòa thủy mạch, còn sống trốn thoát, không tự đuổi hoặc hạ chết. Đã sửa câu dò hai ba mươi gốc ở trang2 cho Tiểu Bạch nói, không phải Kim Đồng.",
+  "raw_generated_images": [
+    "/workspace/generated_images/541p1.png",
+    "/workspace/generated_images/541p2-final.png",
+    "/workspace/generated_images/541p3.png",
+    "/workspace/generated_images/541p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

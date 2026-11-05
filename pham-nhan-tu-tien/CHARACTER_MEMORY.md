@@ -963,3 +963,15 @@ Nguồn: file CHUONG 540.txt do người dùng đính kèm. Mỗi PNG một tran
 - Sơn Nhạc Cự Viên một đầu hai tay đai teal, trọng kiếm xanh sẫm bản rộng phù bạc khác ba Thanh Trúc Phong Vân Kiếm xanh lôi vàng. Sa thú còn sống, tự hồi phục; Hàn chỉ thoát bằng lôi trận.
 - Tiểu Bạch giữ TH475 trắng ngọc một sừng vàng/hoa văn vàng, dạng mặt dây treo eo/dạng sống. Hắc viên một sừng đỏ bị hạ bằng ánh sáng không đồ họa.
 - Kết ba người trên Bích Ngọc Phi Xa bốn bánh không mái, bay vào rừng; chưa có mây ẩn nặc hay Hắc Nê Chiểu Trạch đến541. Không tự lấp khoảng534–539 thành chương đã hoàn thành.
+
+
+## Model trước541
+Lưu models/di-toc-long-lam-linh-thao-541.png trước trang: năm dị tộc DL541 lông lam/cyan toàn thân dạng vượn, bốn thường và một cao hơn dẫn đầu; không khẳng định tên/chức tộc trưởng theo nhãn tự sinh. Cao7–8trượng theo nguồn. Cự mãng lục33m không sừng/chân, Lộc Nhung Thảo đỏ hồng ngọc dạng sừng thực vật, Tử U Thảo tím/hoa tím sẫm đất tím, Thiên Trọng Huyền Thủy Tinh lam có sóng nước. Nền Hắc Nê bùn đen/thủy tảo đen và vụ hải núi thấp sương trắng. Không đổi mặt Hàn/Kim Đồng/Tiểu Bạch.
+
+
+## Chương 541 — Kiếm bảo: hoàn thành 4 trang
+Nguồn: file CHUONG 541.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/541/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 4 trang nhiều khung, Hàn V2/Kim Đồng đỏ/Tiểu Bạch540/PX475 giữ nguyên; mây trắng che cả linh lực phi xa. Tiểu Bạch nhận ba thành bảo vật, Kim Đồng phải góp sức mới có phần.
+- Lộc Nhung đỏ dạng sừng có rễ, cự mãng lục bị hạ bằng pháp quang không đồ họa, thủy tinh lam có sóng. Tử U Thảo20–30gốc được lấy cả đất tím.
+- Năm dị tộc lông lam DL541, một cầm đầu Kim Tiên/four Chân Tiên, công kích lông lam/lam nhận. Kim Đồng dùng kim liên pháp thuật/tinh quang, khác hoa sen linh vật542.
+- Kết năm người hóa nước hòa thủy mạch, còn sống trốn thoát, không tự đuổi hoặc hạ chết. Đã sửa câu dò hai ba mươi gốc ở trang2 cho Tiểu Bạch nói, không phải Kim Đồng.
