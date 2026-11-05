@@ -951,3 +951,15 @@ Nguồn: file CHUONG 533.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Hoàn tất đợt 530–533
 Đủ 4 chương, 20 trang PNG riêng A4 dọc (5 trang/chương), bốn PDF A4 và bốn SOURCE.txt khớp nguyên byte tệp người dùng. Từng chương được commit/push main sau hoàn thành; chương532 gặp lỗi máy chủ GitHub, đã thử lại thành công. Mục lục production/530-533/README.md. Ghi chú hạn mức cũ ở cuối đợt529 là lịch sử, đã được vượt qua ở lượt này; 530–533 không còn chờ tạo.
 Điểm nối534: Hàn V2 teal/trâm xanh đang được nữ tu YMV533 áo ngà thêu cỏ xanh/trâm hoa trắng dẫn trong hành lang Yên Miểu Viên lúc đêm. Kim Đồng áo đỏ đã hóa nhẫn vàng trên tay, không vẽ bé gái bên ngoài khi chưa xuất hiện lại theo nguồn. Chưa tới bữa tiệc, chưa thanh toán/ngủ hay ra Man Hoang. Hàn biết tin Tiên Phủ chưa lan tới thành.
+
+
+## Bắt đầu đợt 540–548 — model540 lưu trước trang
+Đã đọc đủ chín tệp nguồn người dùng gửi. Bộ nhớ main mới nhất kết533; không tự tuyên bố đã hoàn tất534–539. Tiếp nội dung nguồn540 ở trận Sa thú. Giữ HànV2 và Kim Đồng áo đỏ532. Lưu models/man-hoang-sa-thu-tieu-bach-540.png: ST540 Sa thú khổng lồ bò sát cát bốn chân/thân giáp vàng đất/miệng lớn đuôi dài, cùng phân cát, thiết kế chuyển thể do chưa có model cũ; HV540 hắc viên lông đen một sừng đỏ sẫm; Tiểu Bạch dạng sống giữ mặt tỳ hưu TH475 trắng ngọc/một sừng cong vàng/bốn chân/hai cánh nhỏ/hoa văn vàng, dạng mặt dây treo EO. Phong Lôi Sí cánh bạc trắng lôi vàng, trọng kiếm xanh sẫm bản rộng phù bạc giữ521. Ba hình trúc dạng que trong sheet540 không làm mẫu lưỡi kiếm: Thanh Trúc Phong Vân Kiếm phải là kiếm xanh có lưỡi kim loại sắc/lôi vàng như hồ sơ cũ. Nhãn tự sinh trên sheet không là dữ kiện truyện, kích thước chiến đấu theo nguồn.
+
+
+## Chương 540 — Tiến vào Man Hoang: hoàn thành 4 trang
+Nguồn: file CHUONG 540.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/540/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 4 trang/40+ khung, giữ Hàn V2/áo teal trúc/trâm xanh, Kim Đồng áo đỏ532. Nàng bị thu vào nhẫn ngay đầu trận, chỉ xuất hiện lại sau khi thoát Sa thú.
+- Sơn Nhạc Cự Viên một đầu hai tay đai teal, trọng kiếm xanh sẫm bản rộng phù bạc khác ba Thanh Trúc Phong Vân Kiếm xanh lôi vàng. Sa thú còn sống, tự hồi phục; Hàn chỉ thoát bằng lôi trận.
+- Tiểu Bạch giữ TH475 trắng ngọc một sừng vàng/hoa văn vàng, dạng mặt dây treo eo/dạng sống. Hắc viên một sừng đỏ bị hạ bằng ánh sáng không đồ họa.
+- Kết ba người trên Bích Ngọc Phi Xa bốn bánh không mái, bay vào rừng; chưa có mây ẩn nặc hay Hắc Nê Chiểu Trạch đến541. Không tự lấp khoảng534–539 thành chương đã hoàn thành.

@@ -1,0 +1,44 @@
+{
+  "chapter": 540,
+  "title": "Tiến vào Man Hoang",
+  "images": [
+    "/workspace/comic-batch-540-548/a4-540/trang-01.png",
+    "/workspace/comic-batch-540-548/a4-540/trang-02.png",
+    "/workspace/comic-batch-540-548/a4-540/trang-03.png",
+    "/workspace/comic-batch-540-548/a4-540/trang-04.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "han-lap-son-nhac-cu-vien.png",
+    "thiet-khoi-loi-trong-kiem-521.png",
+    "phi-xa-ty-huu-mat-na-truc-son-ha-475.png"
+  ],
+  "summary": "Hàn Lập đối đầu Sa thú, dùng linh vực thời gian, cự viên và lôi độn để thoát thân. Sang rừng nguyên thủy, hắn cảnh báo Kim Đồng, gặp cây cối khổng lồ, hạ hắc viên rồi cùng Tiểu Bạch lên đường.",
+  "notes": "- 4 trang/40+ khung, giữ Hàn V2/áo teal trúc/trâm xanh, Kim Đồng áo đỏ532. Nàng bị thu vào nhẫn ngay đầu trận, chỉ xuất hiện lại sau khi thoát Sa thú.\n- Sơn Nhạc Cự Viên một đầu hai tay đai teal, trọng kiếm xanh sẫm bản rộng phù bạc khác ba Thanh Trúc Phong Vân Kiếm xanh lôi vàng. Sa thú còn sống, tự hồi phục; Hàn chỉ thoát bằng lôi trận.\n- Tiểu Bạch giữ TH475 trắng ngọc một sừng vàng/hoa văn vàng, dạng mặt dây treo eo/dạng sống. Hắc viên một sừng đỏ bị hạ bằng ánh sáng không đồ họa.\n- Kết ba người trên Bích Ngọc Phi Xa bốn bánh không mái, bay vào rừng; chưa có mây ẩn nặc hay Hắc Nê Chiểu Trạch đến541. Không tự lấp khoảng534–539 thành chương đã hoàn thành.",
+  "raw_generated_images": [
+    "/workspace/generated_images/540p1.png",
+    "/workspace/generated_images/540p2.png",
+    "/workspace/generated_images/540p3.png",
+    "/workspace/generated_images/540p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

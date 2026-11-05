@@ -49,6 +49,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 540: Tiến vào Man Hoang](chapters/540/): 4 trang, hoàn thành; [PDF A4](chapters/540/chuong-540.pdf)
+
 - [Đợt chương 530–533: 20 trang, hoàn thành](production/530-533/)
 
 - [Chương 533: Chuyện ở Man Hoang](chapters/533/): 5 trang, hoàn thành; [PDF A4](chapters/533/chuong-533.pdf)
