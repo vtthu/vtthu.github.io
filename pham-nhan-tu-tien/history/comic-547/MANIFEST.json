@@ -1,0 +1,44 @@
+{
+  "chapter": 547,
+  "title": "Dừng chân",
+  "images": [
+    "/workspace/comic-batch-540-548/a4-547/trang-01.png",
+    "/workspace/comic-batch-540-548/a4-547/trang-02.png",
+    "/workspace/comic-batch-540-548/a4-547/trang-03.png",
+    "/workspace/comic-batch-540-548/a4-547/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "nac-y-pham-thanh-lan-dao-binh-545.png",
+    "ky-thu-khong-linh-am-tinh-546.png",
+    "dong-phu-tam-phap-chuong-thien-binh-547.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png"
+  ],
+  "summary": "Hàn Lập làm rõ yêu cầu địa đồ, được Nặc Thanh Lân mời lưu lại Ám Tinh. Y Phàm giải thích huyết mạch Nhân tộc của mình. Trong động phủ hai gian, Hàn bố trí cấm chế, nhờ Kim Đồng và Tiểu Bạch hộ pháp rồi bắt đầu nghiên cứu ba bộ công pháp thời gian.",
+  "notes": "- 4 trang, giữ Hàn CT543 và model Nặc Thanh Lân/Y Phàm; map chỉ hứa tập hợp vài ngày, chưa trao. Tu vi Nặc Thanh Lân Kim Tiên sơ kỳ là suy đoán Hàn.\n- Hắc dực cự tích canh tháp; động quật vách trắng trên sông xanh, không cung vàng. Nặc Y Phàm chỉ kể mẹ là Nhân tộc đã mất, không vẽ thêm model mẹ/nhân vật hồi tưởng.\n- Nội thất hai gian đơn giản, bàn ghế đá ngoài, giường đá trong; nửa canh giờ đặt trận. Kim Đồng từ nhẫn vàng, Tiểu Bạch từ mặt dây thắt lưng, đúng model đỏ/trắng ngọc.\n- Sửa cảnh KD/TB thành gian ngoài kín tường đá đèn vàng, không ngồi ngoài ban công. Cấm chế ngăn hai gian, Hàn nghiên cứu một mình trong phòng trong.\n- Hai ngọc giản xanh/ trắng vân vàng và sách Huyễn Thần vàng; đã có sáu tầng Chân Ngôn, chưa tu hai pháp mới. Kết cầm ngọc giản Thủy Diễn lên trán, chưa đi vào diễn biến548.",
+  "raw_generated_images": [
+    "/workspace/generated_images/547p1.png",
+    "/workspace/generated_images/547p2.png",
+    "/workspace/generated_images/547p3.png",
+    "/workspace/generated_images/547p4-final.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

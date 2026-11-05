@@ -1037,3 +1037,16 @@ Nguồn: file CHUONG 546.txt do người dùng đính kèm. Mỗi PNG một tran
 - Thản Thập cưỡi hắc lộc hai cánh, Y Phàm tuyết ưng, Hàn trường mao tượng không cánh; cha Thản Thập chỉ là người đã mất, lấy ống xương đen rồi kế nhiệm.
 - Nặc Y Phàm giữ áo choàng đến trang4 mới bỏ, áo dài lam bạc kín; Nặc Thanh Lân tóc lam áo trắng trượng ngọc đúng model. Chưa biết danh tính công khai cho đến547.
 - Ám Tinh vách trắng ba cửa nước song sắt và thác; chưa vào thành. Sửa trang5 thêm lời đề nghị thù lao trước suy nghĩ bị tiễn đi. Lòng tin về Chân Linh Chi Vương chỉ là lời Y Phàm.
+
+
+## Model trước547–548: động phủ và đạo cụ
+Lưu models/dong-phu-tam-phap-chuong-thien-binh-547.png trước truyện547. Động phủ vách đá trắng cửa đá hai cánh, ngoài bàn ghế đá, trong giường đá phẳng, màn cấm chế xanh phân cách; đèn tường vàng, không nội thất xa hoa. Ngọc giản Thủy Diễn xanh, Chân Ngôn trắng vân vàng và sách Huyễn Thần vàng cũ là ba vật riêng. Nhãn dài trên sheet chỉ để nhận diện, tên truyện dùng đúng nguồn. Chưởng Thiên Bình tái dùng đúng bình xanh lá thân dẹt cổ hẹp nắp vàng dây treo trong models/kim-hai-vo-sinh-hoi-tien-dao-cu.png, không bình hồ lô. Bảo luân vàng đồng tâm mắt giữa, số đạo văn khác số sợi tơ. Tuyết Phách đan trong như ngọc; linh quả chấm vàng chưa rõ tên. Bình Quang Âm, giọt nước và hộp cát trên sheet chỉ minh họa nội dung công pháp548, CHƯA chế tạo/thu được trong truyện. Không thay model nhân vật đã có.
+
+
+## Chương 547 — Dừng chân: hoàn thành 4 trang
+Nguồn: file CHUONG 547.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/547/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 4 trang, giữ Hàn CT543 và model Nặc Thanh Lân/Y Phàm; map chỉ hứa tập hợp vài ngày, chưa trao. Tu vi Nặc Thanh Lân Kim Tiên sơ kỳ là suy đoán Hàn.
+- Hắc dực cự tích canh tháp; động quật vách trắng trên sông xanh, không cung vàng. Nặc Y Phàm chỉ kể mẹ là Nhân tộc đã mất, không vẽ thêm model mẹ/nhân vật hồi tưởng.
+- Nội thất hai gian đơn giản, bàn ghế đá ngoài, giường đá trong; nửa canh giờ đặt trận. Kim Đồng từ nhẫn vàng, Tiểu Bạch từ mặt dây thắt lưng, đúng model đỏ/trắng ngọc.
+- Sửa cảnh KD/TB thành gian ngoài kín tường đá đèn vàng, không ngồi ngoài ban công. Cấm chế ngăn hai gian, Hàn nghiên cứu một mình trong phòng trong.
+- Hai ngọc giản xanh/ trắng vân vàng và sách Huyễn Thần vàng; đã có sáu tầng Chân Ngôn, chưa tu hai pháp mới. Kết cầm ngọc giản Thủy Diễn lên trán, chưa đi vào diễn biến548.
