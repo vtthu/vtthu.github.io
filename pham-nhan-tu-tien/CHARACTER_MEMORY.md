@@ -975,3 +975,15 @@ Nguồn: file CHUONG 541.txt do người dùng đính kèm. Mỗi PNG một tran
 - Lộc Nhung đỏ dạng sừng có rễ, cự mãng lục bị hạ bằng pháp quang không đồ họa, thủy tinh lam có sóng. Tử U Thảo20–30gốc được lấy cả đất tím.
 - Năm dị tộc lông lam DL541, một cầm đầu Kim Tiên/four Chân Tiên, công kích lông lam/lam nhận. Kim Đồng dùng kim liên pháp thuật/tinh quang, khác hoa sen linh vật542.
 - Kết năm người hóa nước hòa thủy mạch, còn sống trốn thoát, không tự đuổi hoặc hạ chết. Đã sửa câu dò hai ba mươi gốc ở trang2 cho Tiểu Bạch nói, không phải Kim Đồng.
+
+
+## Model trước542–543
+models/hac-giao-kim-lien-cu-quai-542.png lưutrước ảnh: HG542 hắcgiao vảyđen/bốn trảo/gai xương đen/khôngcánh, khác BáchLý/CừLinh. KL542 một hoa sen THẬT đúng9cánh vàng/cỡ chậu/chín cầu vồng VÀNG ở giữa một hồ ngọc bích nhỏ; không dùng toàn cảnh sheet có nhiều hoa tự sinh, truyện chỉmộtgốc. CX543 cựquái trênthằnlằn cổdài mào gàĐỎ/dưới14xúctuđen giác hút, to hàng chục lần HG542. Chỉxuấthiện543, không vẽ trong542. Núixươngtoànxươngkhôyêuthú khôngđồhọaxáctươi.
+
+
+## Chương 542 — Núi xương nơi hoang trạch: hoàn thành 4 trang
+Nguồn: file CHUONG 542.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/542/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 4 trang; Kim Đồng hóa nhẫn ngay trang1 và không ở ngoài đến cuối542. Tiểu Bạch chỉ thu về mặt dây ở trang4, trước đó sống cùng Hàn trên phi xa.
+- Vô Thường Minh là nơi Hàn mua tư liệu, không thêm người/phiên giao dịch chưa có trong nguồn. Bạch cốt là xương khô yêu thú, không cảnh thương tích đồ họa.
+- Một hồ ngọc bích/một hoa thật9cánh vàng, chưa lấy được. HG542 hắc giao bốn trảo/vảy đen gai xương, chưa có CX543 xuất hiện trong chương này.
+- Đã sửa trang4 bỏ Kim Đồng thừa trên phi xa và thay que trúc thành đúng ba lưỡi kiếm xanh; ba kiếm không gãy, chỉ tán kiếm quang, được thu lại. Kết Hàn vẫn ở hoang trạch, chưa thoát hay hạ giao.

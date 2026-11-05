@@ -1,0 +1,43 @@
+{
+  "chapter": 542,
+  "title": "Núi xương nơi hoang trạch",
+  "images": [
+    "/workspace/comic-batch-540-548/a4-542/trang-01.png",
+    "/workspace/comic-batch-540-548/a4-542/trang-02.png",
+    "/workspace/comic-batch-540-548/a4-542/trang-03.png",
+    "/workspace/comic-batch-540-548/a4-542/trang-04.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "phi-xa-ty-huu-mat-na-truc-son-ha-475.png",
+    "hac-giao-kim-lien-cu-quai-542.png"
+  ],
+  "summary": "Hàn Lập tránh đuổi theo dị tộc, vào rừng âm u rồi theo cảm ứng Tiểu Bạch tới hoang trạch núi xương. Một hoa sen chín cánh vàng lộ ra, nhưng hắc giao xuất hiện; ba kiếm vừa đủ cản đòn đuôi để phi xa lùi lại.",
+  "notes": "- 4 trang; Kim Đồng hóa nhẫn ngay trang1 và không ở ngoài đến cuối542. Tiểu Bạch chỉ thu về mặt dây ở trang4, trước đó sống cùng Hàn trên phi xa.\n- Vô Thường Minh là nơi Hàn mua tư liệu, không thêm người/phiên giao dịch chưa có trong nguồn. Bạch cốt là xương khô yêu thú, không cảnh thương tích đồ họa.\n- Một hồ ngọc bích/một hoa thật9cánh vàng, chưa lấy được. HG542 hắc giao bốn trảo/vảy đen gai xương, chưa có CX543 xuất hiện trong chương này.\n- Đã sửa trang4 bỏ Kim Đồng thừa trên phi xa và thay que trúc thành đúng ba lưỡi kiếm xanh; ba kiếm không gãy, chỉ tán kiếm quang, được thu lại. Kết Hàn vẫn ở hoang trạch, chưa thoát hay hạ giao.",
+  "raw_generated_images": [
+    "/workspace/generated_images/542p1.png",
+    "/workspace/generated_images/542p2.png",
+    "/workspace/generated_images/542p3.png",
+    "/workspace/generated_images/542p4-final.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
