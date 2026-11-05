@@ -792,3 +792,15 @@ Nguồn: file CHUONG 542.txt do người dùng đính kèm. Mỗi PNG một tran
 - Vô Thường Minh là nơi Hàn mua tư liệu, không thêm người/phiên giao dịch chưa có trong nguồn. Bạch cốt là xương khô yêu thú, không cảnh thương tích đồ họa.
 - Một hồ ngọc bích/một hoa thật9cánh vàng, chưa lấy được. HG542 hắc giao bốn trảo/vảy đen gai xương, chưa có CX543 xuất hiện trong chương này.
 - Đã sửa trang4 bỏ Kim Đồng thừa trên phi xa và thay que trúc thành đúng ba lưỡi kiếm xanh; ba kiếm không gãy, chỉ tán kiếm quang, được thu lại. Kết Hàn vẫn ở hoang trạch, chưa thoát hay hạ giao.
+
+
+## Model trước543
+models/han-cai-trang-huong-canh-hoi-thiem-543.png: CT543 biến thể sau mặt nạ Long Ngũ, áo teal trúc/trâm xanh giữ nguyên, mặt NAM trung niên bình thường má rộng/ria đen nhỏ/râu cằm ngắn nhẹ, không thay model V2 gốc. Chỉ dùng sau cảnh đổi mặt cuối543, không sớm trong trận cự quái. TT543 Thản Thập nam cao gầy da teal đậm/cổ dài/hai nanh trắng/tóc bím/áo da nâu/đai xanh/chuỗi xương lớn. Thành viên Hướng Cảnh cùng tộc nhưng không chuỗi xương lớn, có mẫu già tóc trắng và trẻ. DLO543 Đồ Lợi Ô người cóc ngắn rất rộng da xám nâu giáp dày không cổ/môi dày/giáp eo xanh, tộc thường đai nâu. Mặt nạ Long Ngũ teal đầu rồng sừng vàng chỉ tạo ảo dung, không đeo lộ diện sau biến đổi. Sáo xương/trống da xương/chuông đồng xanh lưu cùng sheet. Nhãn tộc trưởng tự sinh của Thản Thập chưa đúng thời điểm: đến546 sau cha mất mới kế vị.
+
+
+## Chương 543 — Phân tranh: hoàn thành 5 trang
+Nguồn: file CHUONG 543.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/543/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- 5 trang; CX543 mào đỏ/thân đen14xúc tu mạnh hơn HG542 hàng chục lần. Không lấy được hoa sen; hắc giao bị nuốt thể hiện bóng tối không đồ họa.
+- HànV2 dùng nghịch BảoLuân tăng tốc, thuận chuyển định xúc tu rồi lôi trận thoát; một tay bị thương được chữa ở trang3, không giữ thương sau đó.
+- Chỉ đổi sang mặt CT543 sau mặt nạ trang4: ria nhỏ/râu cằm ngắn/má rộng trung niên, teal trúc/trâm xanh giữ nguyên. Đây là ảo dung, không loại V2. Kim Đồng/Tiểu Bạch hiện ở cảnh hồi phục rồi trở lại nhẫn/mặt dây trước quan sát.
+- Kết hai nhóm Hướng Cảnh cao cổ dài/tusks da teal và Hôi Thiềm người cóc xám nâu bên đài lửa; chỉ quan sát, chưa phiên dịch/tham chiến tới544.

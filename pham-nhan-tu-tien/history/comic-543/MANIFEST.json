@@ -1,0 +1,50 @@
+{
+  "chapter": 543,
+  "title": "Phân tranh",
+  "images": [
+    "/workspace/comic-batch-540-548/a4-543/trang-01.png",
+    "/workspace/comic-batch-540-548/a4-543/trang-02.png",
+    "/workspace/comic-batch-540-548/a4-543/trang-03.png",
+    "/workspace/comic-batch-540-548/a4-543/trang-04.png",
+    "/workspace/comic-batch-540-548/a4-543/trang-05.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "phi-xa-ty-huu-mat-na-truc-son-ha-475.png",
+    "hac-giao-kim-lien-cu-quai-542.png",
+    "han-cai-trang-huong-canh-hoi-thiem-543.png"
+  ],
+  "summary": "Cự quái xúc tu nuốt hắc giao và suýt bắt Hàn Lập. Thoát thân, hồi phục rồi đổi lộ tuyến, hắn tới Lộc Minh Chi Khâu, dùng mặt nạ Long Ngũ và quan sát hai bộ tộc giao chiến.",
+  "notes": "- 5 trang; CX543 mào đỏ/thân đen14xúc tu mạnh hơn HG542 hàng chục lần. Không lấy được hoa sen; hắc giao bị nuốt thể hiện bóng tối không đồ họa.\n- HànV2 dùng nghịch BảoLuân tăng tốc, thuận chuyển định xúc tu rồi lôi trận thoát; một tay bị thương được chữa ở trang3, không giữ thương sau đó.\n- Chỉ đổi sang mặt CT543 sau mặt nạ trang4: ria nhỏ/râu cằm ngắn/má rộng trung niên, teal trúc/trâm xanh giữ nguyên. Đây là ảo dung, không loại V2. Kim Đồng/Tiểu Bạch hiện ở cảnh hồi phục rồi trở lại nhẫn/mặt dây trước quan sát.\n- Kết hai nhóm Hướng Cảnh cao cổ dài/tusks da teal và Hôi Thiềm người cóc xám nâu bên đài lửa; chỉ quan sát, chưa phiên dịch/tham chiến tới544.",
+  "raw_generated_images": [
+    "/workspace/generated_images/543p1.png",
+    "/workspace/generated_images/543p2.png",
+    "/workspace/generated_images/543p3.png",
+    "/workspace/generated_images/543p4.png",
+    "/workspace/generated_images/543p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}
