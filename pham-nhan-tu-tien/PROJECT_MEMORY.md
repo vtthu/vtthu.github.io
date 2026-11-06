@@ -996,3 +996,13 @@ Nguồn: file CHUONG 562.txt do người dùng đính kèm. Mỗi PNG một tran
 Nguồn: file CHUONG 563.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/563/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Chương563 đủ4trangA4, đã sửa trang3 từ ngang sang dọc và loại Hàn/KD/TB/NYF/ThanhHồ tự sinh sai khỏi hội nghị trang4. Cuộc hội nghị không có đối tượng bị mưu hại tại chỗ. Model5tộctrưởng563 được lưu trước dùng.
 - ChânLinhchi huyết và huyếtluyện mới là kế hoạch, chưa thi hành; lời ÂnThân nói đã câu thông được Vương chấp thuận không tự vẽUHo hiệnđiện. Hàn ở cave vớiKD/TB, một thành thắng; chưa biết âm mưu.
+
+
+## Model trước564: Bát Linh, thế thân và biến thể nghi lễ
+Lưu models/bat-linh-cu-te-da-kieu-dau-binh-564.png trước dùng. CựTê564 têgiácbốnchân dađáXANH lục vânphátquang MỘTsừngLỤC mũi cỡnúi; DạKiêu564 đạiƯNGĐENlôngdàiđen nhưsắt2cánh2chânmỏcongđenmắtvàng. Nă m ChânLinh còn lại sourcekhôngtảloài: chỉkhốiquangsươngmờkhôngtựđặttên/tạochân dung. TúcLục vẫnmodel559hồxanh6đuôi. Đậubinh màuVÀNGÚA nhỏ,mặt nạĐẦUNGỰAXANHLAMđôiTAI KHÔNGSỪNG khácLongNgũrồng543 vàba mặt nạ475. Tếti vẫnáoXÁMtrùmkínmặt, nghi lễ564đổiCỐTTRƯỢNGTRẮNGvânĐỎnănglượng PGkhôngvếtthương. CờDAthúVÀNGÚAcánxươngchoÂnThân. NQLnguồn564nóirõáoTRẮNGtócLAMnêntrởmodel545cột2, khônggiữáotím557–563 từđây. NYFđầu564cóáochoàngchegiấu,cóthểkhoáclạixámngoàiváyxanhsauđãbỏtrướctrận.
+
+
+## Chương 564 — Bát Linh tụ hợp: hoàn thành 4 trang
+Nguồn: file CHUONG 564.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/564/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Chương564 đủ4trangA4. NQLđổiđúngáoTRẮNGtheonguồnmới, NYFáochoàngxámchegiấu/tócáoxanhgiữmặt nữ545. Đốitượngđộngphủlàthếthânchỉlộcuối, HànCT543khôngbịgiếtthật.
+- Túc6đuôi, CựTê1sừngxanh, DạKiêuđen dùngPNG;5ChânLinhvôdanhnắmsươngkhôngtựđặtloài. TếtiáoxámcốttrượngtrắnghuyếtquangPG. Kết cònđậuvàngúa/mặtnạNGỰAXANHkhôngsừng; khôngnhầmmặtnạLongNgũrồng. TúcchặnlờiĐăngQuỷbảo vệNYF.

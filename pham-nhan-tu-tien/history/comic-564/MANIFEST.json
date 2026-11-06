@@ -1,0 +1,45 @@
+{
+  "chapter": 564,
+  "title": "Bát Linh tụ hợp",
+  "images": [
+    "/tmp/comic-batch-559-569/a4-564/trang-01.png",
+    "/tmp/comic-batch-559-569/a4-564/trang-02.png",
+    "/tmp/comic-batch-559-569/a4-564/trang-03.png",
+    "/tmp/comic-batch-559-569/a4-564/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "dong-phu-tam-phap-chuong-thien-binh-547.png",
+    "nac-y-pham-thanh-lan-dao-binh-545.png",
+    "dang-quy-nhan-mi-trach-vo-thuc-an-than-than-tuong-563.png",
+    "bat-linh-cu-te-da-kieu-dau-binh-564.png",
+    "tuc-luc-u-ho-trung-linh-559.png",
+    "o-lo-man-lam-tat-han-chien-xa-552.png"
+  ],
+  "summary": "Bát đại Thánh tộc vây động phủ, triệu chân thân bát linh nhưng Túc Lục phát hiện đối tượng chỉ là thế thân đậu binh mang mặt nạ.",
+  "notes": "- Chương564 đủ4trangA4. NQLđổiđúngáoTRẮNGtheonguồnmới, NYFáochoàngxámchegiấu/tócáoxanhgiữmặt nữ545. Đốitượngđộngphủlàthếthânchỉlộcuối, HànCT543khôngbịgiếtthật.\n- Túc6đuôi, CựTê1sừngxanh, DạKiêuđen dùngPNG;5ChânLinhvôdanhnắmsươngkhôngtựđặtloài. TếtiáoxámcốttrượngtrắnghuyếtquangPG. Kết cònđậuvàngúa/mặtnạNGỰAXANHkhôngsừng; khôngnhầmmặtnạLongNgũrồng. TúcchặnlờiĐăngQuỷbảo vệNYF.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-559-569/564p1.png",
+    "/tmp/comic-generated-559-569/564p2.png",
+    "/tmp/comic-generated-559-569/564p3.png",
+    "/tmp/comic-generated-559-569/564p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
