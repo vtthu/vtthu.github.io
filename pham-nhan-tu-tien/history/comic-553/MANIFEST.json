@@ -1,0 +1,49 @@
+{
+  "chapter": 553,
+  "title": "Ác chiến",
+  "images": [
+    "/tmp/comic-batch-551-559/a4-553/trang-01.png",
+    "/tmp/comic-batch-551-559/a4-553/trang-02.png",
+    "/tmp/comic-batch-551-559/a4-553/trang-03.png",
+    "/tmp/comic-batch-551-559/a4-553/trang-04.png",
+    "/tmp/comic-batch-551-559/a4-553/trang-05.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "nac-y-pham-thanh-lan-dao-binh-545.png",
+    "o-lo-man-lam-tat-han-chien-xa-552.png",
+    "u-than-kim-duong-mang-cot-trung-553.png",
+    "ky-thu-khong-linh-am-tinh-546.png"
+  ],
+  "summary": "Nhận địa đồ thiếu phần và thù lao, Hàn Lập đồng ý viện thủ có giới hạn. Thú tộc xuất quân đối đầu lực lượng Trùng tộc vượt trội; chiến xa Hỏa Thần đấu trùng tổ Mang Cốt, rồi cung kỵ U Thần bị Kim Đường áp sát.",
+  "notes": "- 5 trang A4, Hàn CT543 chỉ quan sát trên đài với NYF, chưa tự ra trận. KD/TB khuất trong túi, không vẽ ngoài chiến trường.\n- NQL đưa thú cốt địa đồ có khoảng trống và cốt giới5000TiênNguyênThạch; Hàn chỉ viện thủ trong khả năng, chưa trao maphoànchỉnh. Bát đại Thánh tộc mới hội3.\n- Đội trùng gần30KimTiên vượtquânThú, NQLlệnhÔLỗ/MạnLâm/TátHán xuốngtrận. ÔLỗ cưỡiHuyếttê,búađỏ;MLsừngxanhmắttím,THmặtkínđỏ. Sửa kỵ sĩ UT trang2 về modelbluepointedearsnormalneckkhôngngàHướngCảnh.\n- Chiếnxađen nòngđồngphónghỏa, trùngtổvesầuđenphóngbaotáchMangCốtTrùngthândao; thươngvongthểhiệnquang/khóibóngkhôngmáu.\n- UTcưỡicựtíchđen,tênlamnổlamhỏa,KimĐườngvàng2tayliêm2chân2cánhkhácKDovalbeetle. KếtUTthucungchuyểnđao; chưađưađộ cnhãncựnhân554ra.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-551-559/553p1.png",
+    "/tmp/comic-generated-551-559/553p2-final.png",
+    "/tmp/comic-generated-551-559/553p3.png",
+    "/tmp/comic-generated-551-559/553p4.png",
+    "/tmp/comic-generated-551-559/553p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

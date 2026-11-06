@@ -49,6 +49,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 553: Ác chiến](chapters/553/): 5 trang, hoàn thành; [PDF A4](chapters/553/chuong-553.pdf)
+
 - [Chương 552: Cùng chung kẻ thù](chapters/552/): 4 trang, hoàn thành; [PDF A4](chapters/552/chuong-552.pdf)
 
 - [Chương 551: Khí tức quen thuộc](chapters/551/): 4 trang, hoàn thành; [PDF A4](chapters/551/chuong-551.pdf)

@@ -894,3 +894,16 @@ Nguồn: file CHUONG 552.txt do người dùng đính kèm. Mỗi PNG một tran
 - Trận cột đá hơn10cột trong hắc khí ở sâu cốc chỉ được quan sát, Hàn không hỏi/không xác nhận truyền tống đã hoạt động.
 - Mấyvạn chiến sĩ/3–4chục tộc, gần1000chiếnxa, trămvạnthú; Hướng Cảnh mép ngoài, ÔLỗ mẫu OL552. Đã sửa đuôi bóng thoại NQL/TB trang2 và thành nổi thừa trang4 về đúng quan ải gắn vách trắng ba cửa nước.
 - NYF và TT bảo chứng Hàn; NQL viện dẫn Vương đã đồng ý liên thủ, chỉ nhắc không vẽ mặt Vương. Chưa trao địa đồ/ring5000 hay giao chiến553.
+
+
+## Model trước553: cung kỵ, Kim Đường, trùng tổ
+Lưu models/u-than-kim-duong-mang-cot-trung-553.png trước553. UT553 U Thần generic cùng da lam tai nhọn tóc lam, áo trắng xám giáp bạc nhẹ đai teal, cung/tên/đao LAM, cưỡi cự tích đen 4chân2cánh da mắt xanh từ546. KDg553 Kim Đường nhân hình bọ ngựa vàng mắt kép XANH 2râu 2chân2tayliêm2cánh vàng mỏng; biến thể quân tộc khác bọ ngựa thú544 và Kim Đồng trẻ đỏ/giáp trùng528. MCT553 trùng tổ ve sầu đen khổng lồ lỗ phóng bao trùng, bao vỡ thành Mang Cốt Trùng nhỏ thân dao đen6chân bé; không tên lửa công nghệ. TQ553 quân trùng vô danh da giáp chitin nâu/xám/olive hai tay hai chân râu/mắt kép, giáo đơn giản; không đồng nhất các chỉ huy xuất hiện sau. Chi tiết nhãn sinh thêm không là dữ kiện truyện.
+
+
+## Chương 553 — Ác chiến: hoàn thành 5 trang
+Nguồn: file CHUONG 553.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/553/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- 5 trang A4, Hàn CT543 chỉ quan sát trên đài với NYF, chưa tự ra trận. KD/TB khuất trong túi, không vẽ ngoài chiến trường.
+- NQL đưa thú cốt địa đồ có khoảng trống và cốt giới5000TiênNguyênThạch; Hàn chỉ viện thủ trong khả năng, chưa trao maphoànchỉnh. Bát đại Thánh tộc mới hội3.
+- Đội trùng gần30KimTiên vượtquânThú, NQLlệnhÔLỗ/MạnLâm/TátHán xuốngtrận. ÔLỗ cưỡiHuyếttê,búađỏ;MLsừngxanhmắttím,THmặtkínđỏ. Sửa kỵ sĩ UT trang2 về modelbluepointedearsnormalneckkhôngngàHướngCảnh.
+- Chiếnxađen nòngđồngphónghỏa, trùngtổvesầuđenphóngbaotáchMangCốtTrùngthândao; thươngvongthểhiệnquang/khóibóngkhôngmáu.
+- UTcưỡicựtíchđen,tênlamnổlamhỏa,KimĐườngvàng2tayliêm2chân2cánhkhácKDovalbeetle. KếtUTthucungchuyểnđao; chưađưađộ cnhãncựnhân554ra.
