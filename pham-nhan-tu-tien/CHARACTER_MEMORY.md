@@ -1201,3 +1201,13 @@ Lưu models/bat-linh-cu-te-da-kieu-dau-binh-564.png trước dùng. CựTê564 t
 Nguồn: file CHUONG 564.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/564/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Chương564 đủ4trangA4. NQLđổiđúngáoTRẮNGtheonguồnmới, NYFáochoàngxámchegiấu/tócáoxanhgiữmặt nữ545. Đốitượngđộngphủlàthếthânchỉlộcuối, HànCT543khôngbịgiếtthật.
 - Túc6đuôi, CựTê1sừngxanh, DạKiêuđen dùngPNG;5ChânLinhvôdanhnắmsươngkhôngtựđặtloài. TếtiáoxámcốttrượngtrắnghuyếtquangPG. Kết cònđậuvàngúa/mặtnạNGỰAXANHkhôngsừng; khôngnhầmmặtnạLongNgũrồng. TúcchặnlờiĐăngQuỷbảo vệNYF.
+
+
+## Model trước565–566: phi xa, phòng hộ và Hoàng Thập Cửu
+Lưu models/bich-ngoc-phi-xa-hon-giap-phu-hoang-thap-cuu-565.png trước565. BíchNgọcphi xa táidùngPX475 NGỌCXANH4BÁNH mở khôngmái/khôngngựa/khôngcánh, không đưa2khôilỗiCôngThâuđãchếttrởlại. LongNgũrồngTEAL2SỪNGVÀNG từ543 táidùngmànĐỎgiao dịchnhưpháptrậnkhôngđiệnthoại. Cờ/trậnbànĐẤTVÀNG (ánhvàngtrênsheetkhôngphảiđổi sangsắt), ôTRẮNGphùvàng, phỉthúyXANH. HGP565 phùTRẮNGbầudụcVÂNMÂY, thướcngọcXANHnhưnước566khôngkiếm. HT19chỉBÓNGNGƯỜIĐỎmờkhôngmặt thực,tấmMẶTNẠĐỎtênHoàngThậpCửu,giữẩn danhkhôngtựđoántuổivócdáng thật; màngiao tiếpảo khôngngườiđứngtrênxe. Ngọcgiảntrắngpháptrận566. GiảiĐạoNhân GDN01mặtkimloạiVÀNG/giápVÀNGkhắcxoắnlôi,khớpđen,váygiápdài,khôngđổisanggoldguardsKL475.
+
+
+## Chương 565 — Xâm nhập: hoàn thành 4 trang
+Nguồn: file CHUONG 565.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/565/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Chương565 đủ4trangA4. Đã sửa trang2 loại toàn bộ FOX tự sinh trên xe, bỏGiải ởcảnhtrướckhitriệura. Chỉ4đồnghànhHanCT543/KDđỏ/TBtrắng/GDN01; BíchNgọcPX4754bánhmởkhôngmái.
+- Túc/NYFchỉđầuchươngởcanyoncũ, khôngđitheoxe. Địđồchỉphầ nđãcókhôngbảnđầyđủ. LongNgũrồngTEAL2sừngvàng/mànĐỎgiao dịch. Trậnđồđấtvàng/ôtrắng/phỉthúyđãmua cấtkhôngchoKDăn;HGP565bầudụctrắngvânmâygiá500, kếtvừanhậnchưathử566.

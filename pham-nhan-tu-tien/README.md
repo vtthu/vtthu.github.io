@@ -49,6 +49,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 565: Xâm nhập](chapters/565/): 4 trang, hoàn thành; [PDF A4](chapters/565/chuong-565.pdf)
+
 - [Chương 564: Bát Linh tụ hợp](chapters/564/): 4 trang, hoàn thành; [PDF A4](chapters/564/chuong-564.pdf)
 
 - [Chương 563: Mưu đồ bí mật](chapters/563/): 4 trang, hoàn thành; [PDF A4](chapters/563/chuong-563.pdf)

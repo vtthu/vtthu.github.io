@@ -1,0 +1,46 @@
+{
+  "chapter": 565,
+  "title": "Xâm nhập",
+  "images": [
+    "/tmp/comic-batch-559-569/a4-565/trang-01.png",
+    "/tmp/comic-batch-559-569/a4-565/trang-02.png",
+    "/tmp/comic-batch-559-569/a4-565/trang-03.png",
+    "/tmp/comic-batch-559-569/a4-565/trang-04.png"
+  ],
+  "models": [
+    "tuc-luc-u-ho-trung-linh-559.png",
+    "nac-y-pham-thanh-lan-dao-binh-545.png",
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "giai-dao-nhan-gdn01.png",
+    "bich-ngoc-phi-xa-hon-giap-phu-hoang-thap-cuu-565.png",
+    "phi-xa-ty-huu-mat-na-truc-son-ha-475.png"
+  ],
+  "summary": "Hàn Lập đã dùng thế thân để thoát trước, cùng Kim Đồng và Tiểu Bạch bay sâu về phía nam. Hắn nhờ Giải Đạo Nhân lái phi xa, mua pháp bảo phòng hộ và Hồn Giáp Phù.",
+  "notes": "- Chương565 đủ4trangA4. Đã sửa trang2 loại toàn bộ FOX tự sinh trên xe, bỏGiải ởcảnhtrướckhitriệura. Chỉ4đồnghànhHanCT543/KDđỏ/TBtrắng/GDN01; BíchNgọcPX4754bánhmởkhôngmái.\n- Túc/NYFchỉđầuchươngởcanyoncũ, khôngđitheoxe. Địđồchỉphầ nđãcókhôngbảnđầyđủ. LongNgũrồngTEAL2sừngvàng/mànĐỎgiao dịch. Trậnđồđấtvàng/ôtrắng/phỉthúyđãmua cấtkhôngchoKDăn;HGP565bầudụctrắngvânmâygiá500, kếtvừanhậnchưathử566.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-559-569/565p1.png",
+    "/tmp/comic-generated-559-569/565p2-final.png",
+    "/tmp/comic-generated-559-569/565p3.png",
+    "/tmp/comic-generated-559-569/565p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
