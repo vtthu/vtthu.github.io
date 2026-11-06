@@ -1,0 +1,46 @@
+{
+  "chapter": 563,
+  "title": "Mưu đồ bí mật",
+  "images": [
+    "/tmp/comic-batch-559-569/a4-563/trang-01.png",
+    "/tmp/comic-batch-559-569/a4-563/trang-02.png",
+    "/tmp/comic-batch-559-569/a4-563/trang-03.png",
+    "/tmp/comic-batch-559-569/a4-563/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "dong-phu-tam-phap-chuong-thien-binh-547.png",
+    "am-tinh-dai-dien-thac-thanh-ngoc-dieu-hau-562.png",
+    "dang-quy-nhan-mi-trach-vo-thuc-an-than-than-tuong-563.png",
+    "khac-don-bach-cot-tu-kim-tien-556.png",
+    "o-lo-man-lam-tat-han-chien-xa-552.png"
+  ],
+  "summary": "Hàn Lập và Kim Đồng tìm cách đối phó Phệ Kim Tiên. Trong hội nghị, các tộc trưởng đổi từ nghi kỵ sang âm mưu huyết luyện ân nhân để chữa thương cho Vương.",
+  "notes": "- Chương563 đủ4trangA4, đã sửa trang3 từ ngang sang dọc và loại Hàn/KD/TB/NYF/ThanhHồ tự sinh sai khỏi hội nghị trang4. Cuộc hội nghị không có đối tượng bị mưu hại tại chỗ. Model5tộctrưởng563 được lưu trước dùng.\n- ChânLinhchi huyết và huyếtluyện mới là kế hoạch, chưa thi hành; lời ÂnThân nói đã câu thông được Vương chấp thuận không tự vẽUHo hiệnđiện. Hàn ở cave vớiKD/TB, một thành thắng; chưa biết âm mưu.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-559-569/563p1.png",
+    "/tmp/comic-generated-559-569/563p2.png",
+    "/tmp/comic-generated-559-569/563p3-final.png",
+    "/tmp/comic-generated-559-569/563p4-final.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

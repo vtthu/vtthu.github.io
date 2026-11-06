@@ -986,3 +986,13 @@ Nguồn: file CHUONG 561.txt do người dùng đính kèm. Mỗi PNG một tran
 Nguồn: file CHUONG 562.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/562/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
 - Chương562 đủ5trangA4. Đã sửa câu Đừng đuổi về U Hộ, không để Hàn xuất hiện dạng người trước khi thu biến thân. U Hộ7đuôi/Túc6; TrùngLinh còn sống bỏ chạy bằng cánh, 36phápliên ở trong thân. Ngọc môn/ngọc trấn bị đánh văng, không tự khẳng định đã phá hủy.
 - NQL giữ áo tím sao vàng, hội nghị đại điện đá đen/bếp lửa/ghế da thú đúngmodel562. Chỉ đề nghị/ứa hẹn địa đồ, chưa giao. Mẹ NYF chỉ được nhắc qua thoại không tự tạo chân dung. Cảnh cuối cave547 phòngtrongchỉgiườngđá, HanCT543vàKDđỏ532 trên giường; dừng trước câu trả lời563.
+
+
+## Model trước563: năm tộc trưởng mới
+Đã kiểm tra CHARACTER_MEMORY chưa có năm nhân vật, lưu PNG models/dang-quy-nhan-mi-trach-vo-thuc-an-than-than-tuong-563.png trước dùng: ĐăngQuỷ nam daTÍM mặt dạxoa tai nhọn tócĐEN búi áoTÍMsẫm giápđenviềnbạc. NhânMị nữTRẮNG bántrongsuốt sươngmù tócTRẮNG mắtLỚN xámlục thanhvăn mí mắt áoTRẮNG. TrạchVôThực namLỢNRỪNG mũingắn2nanhngà bristlesĐENgailưng/tay giápđenbronze váydài. ÂnThân lãonam gầnNHÂNTỘC tóc/râuTRẮNG áonâuochre, vòngchínđầusọSƯTỬcỡnắmtay quanhMẶT; cáchđiệu đầu sưtửtrênảnhkhôngbiếnthànhđầungườithật. Tộc trưởng ThầnTượng là LÃO PHỤ tócTRẮNG búithấp taiVÔCÙNGLỚN mũiNGẮNHẾCH khôngvòi/nanh, áoxámđấtviềnTEAL khănNÂU. Giữdanhxưng vôdanhtheonguồnkhôngtựđặttên. Không minh họa cảnh giếtcon/đầulâungười quákhứ vì chỉ là lời kể.
+
+
+## Chương 563 — Mưu đồ bí mật: hoàn thành 4 trang
+Nguồn: file CHUONG 563.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/563/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Chương563 đủ4trangA4, đã sửa trang3 từ ngang sang dọc và loại Hàn/KD/TB/NYF/ThanhHồ tự sinh sai khỏi hội nghị trang4. Cuộc hội nghị không có đối tượng bị mưu hại tại chỗ. Model5tộctrưởng563 được lưu trước dùng.
+- ChânLinhchi huyết và huyếtluyện mới là kế hoạch, chưa thi hành; lời ÂnThân nói đã câu thông được Vương chấp thuận không tự vẽUHo hiệnđiện. Hàn ở cave vớiKD/TB, một thành thắng; chưa biết âm mưu.

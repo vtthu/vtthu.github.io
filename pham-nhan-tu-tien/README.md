@@ -49,6 +49,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 563: Mưu đồ bí mật](chapters/563/): 4 trang, hoàn thành; [PDF A4](chapters/563/chuong-563.pdf)
+
 - [Chương 562: Kinh sợ thối lui](chapters/562/): 5 trang, hoàn thành; [PDF A4](chapters/562/chuong-562.pdf)
 
 - [Chương 561: Bất đắc dĩ](chapters/561/): 5 trang, hoàn thành; [PDF A4](chapters/561/chuong-561.pdf)
