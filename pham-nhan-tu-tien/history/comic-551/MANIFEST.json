@@ -1,0 +1,44 @@
+{
+  "chapter": 551,
+  "title": "Khí tức quen thuộc",
+  "images": [
+    "/workspace/comic-batch-551-559/a4-551/trang-01.png",
+    "/workspace/comic-batch-551-559/a4-551/trang-02.png",
+    "/workspace/comic-batch-551-559/a4-551/trang-03.png",
+    "/workspace/comic-batch-551-559/a4-551/trang-04.png"
+  ],
+  "models": [
+    "moc-duyen-phap-ngon-quang-am-551.png",
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "nac-y-pham-thanh-lan-dao-binh-545.png",
+    "dong-phu-tam-phap-chuong-thien-binh-547.png"
+  ],
+  "summary": "Hàn Lập tìm được bản chính Pháp Ngôn Thiên Địa trong thân Mộc Duyên rồi trở về hiện tại. Từ tâm đắc mới, hắn thử luyện Thủy Diễn, ngưng Quang Âm Tịnh Bình với sáu đoàn đạo văn. Kim Đồng báo một khí tức giống mình đang tiến gần.",
+  "notes": "- 4 trang A4, đoạn đầu thần hồn Hàn điều khiển MD551 áo trắng/tóc vàng khô/da vỏ cây, không hai thân vật lý cùng chỗ; thi thể và lụa ở lại quá khứ, chỉ chép ký ức khi về CT543.\n- Không vẽ mặt mới Di La/Đạo Tổ khi nhắc lại. NQL tiếp tục hoãn địa đồ ba tháng; chưa trao. Đối chiếu ba pháp, bắt đầu thử Thủy Diễn thật, khác548 chỉ nghiên cứu.\n- Ngày7 quyển1 hư ảnh bình, quyển2 bán trong, một tháng quyển3 tinh đồ, hơn nửa năm quyển4 sáu đoàn đạo văn. Bình thực vàng hai tai trăng khuyết, không bình trắng giả định548 hay Chưởng Thiên Bình xanh.\n- Ban đêm hút Nguyệt Hoa rất ít, chưa có giọt nước. KD đỏ532 cưỡi TB trắng ngọc540, cuối báo khí tức giống mình, chưa lộ đối thủ. Hàn giữ CT543 cải trang.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-551-559/551p1.png",
+    "/tmp/comic-generated-551-559/551p2.png",
+    "/tmp/comic-generated-551-559/551p3.png",
+    "/tmp/comic-generated-551-559/551p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

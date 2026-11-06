@@ -49,6 +49,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 551: Khí tức quen thuộc](chapters/551/): 4 trang, hoàn thành; [PDF A4](chapters/551/chuong-551.pdf)
+
 [Đọc trọn đợt 540–548: 9 chương, 40 trang, kèm PDF A4](production/540-548/)
 
 - [Chương 548: Tam đại công pháp](chapters/548/): 5 trang, hoàn thành; [PDF A4](chapters/548/chuong-548.pdf)

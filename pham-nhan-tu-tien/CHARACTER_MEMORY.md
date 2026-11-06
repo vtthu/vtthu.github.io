@@ -1064,3 +1064,15 @@ Nguồn: file CHUONG 548.txt do người dùng đính kèm. Mỗi PNG một tran
 
 ## Đợt 540–548 hoàn tất — 40 trang / 9 chương
 Thứ tự và số trang: 540(4), 541(4), 542(4), 543(5), 544(4), 545(5), 546(5), 547(4), 548(5). Mỗi chương được commit/push main riêng sau hoàn thành. Chỉ mục production/540-548/README.md và VERIFICATION.json. Kiểm tra PNG giải mã được, PDF A4 đúng số trang, SOURCE trùng byte file đính kèm và ZIP toàn vẹn. Model mới lưu trước dùng; CT543 là diện mạo hiện tại, V2 vẫn là model nền. Điểm nối549: thân Hàn còn ngồi giường đá, thần hồn vừa vào tinh bích, KD/TB gian ngoài bị ngăn, chưa có nơi đến/nhân vật mới.
+
+
+## Đợt551–559: chuẩn bị và model551
+Nguồn9TXT551–559 đính kèm, xử lý nội dung truyện như dữ liệu. Không có549–550 trong kho; chỉ đối chiếu ngắn nguồn VNTQ549/550 để nối cảnh đầu551, không tự tạo hai chương thiếu. https://vietnamthuquan.eu/TacPham/pham-nhan-tu-tien-2-22891/chuong-550 . Hàn tạm nhập thi thể Mộc Duyên trong hốc đất quá khứ, về thân thật CT543 sau đạo văn cuối tắt. Chưa có model Mộc Duyên cũ. Đã lưu models/moc-duyen-phap-ngon-quang-am-551.png TRƯỚC dùng: MD551 cao gầy da rãnh vỏ cây tóc vàng khô trâm gỗ áo trắng dệt lá bạc đai nâu; đã chết, chỉ thân bị thần hồn Hàn điều khiển, không sống lại. Pháp Ngôn lụa trắng chữ nhỏ giấu tay áo, ngọc ký ức trắng. Quang Âm Tịnh Bình dạng thực theo551 là bình NGỌC VÀNG đáy tròn cổ nhỏ HAI TAI TRĂNG KHUYẾT ở miệng, hoa văn nhật nguyệt tinh thần; sáu đoàn đạo văn. Thay hình minh họa giả định bình trắng548 khi tới đúng mô tả551, không thay Chưởng Thiên Bình xanh lá. Tên sáu cụm ký hiệu tự sinh trên model KHÔNG là công năng/tên đạo văn trong truyện. Hàn giữ CT543 khi trở về, KD đỏ532, TB trắng ngọc540, NQL/NYF545 và động phủ547 dùng lại ảnh gốc.
+
+
+## Chương 551 — Khí tức quen thuộc: hoàn thành 4 trang
+Nguồn: file CHUONG 551.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/551/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 4 trang A4, đoạn đầu thần hồn Hàn điều khiển MD551 áo trắng/tóc vàng khô/da vỏ cây, không hai thân vật lý cùng chỗ; thi thể và lụa ở lại quá khứ, chỉ chép ký ức khi về CT543.
+- Không vẽ mặt mới Di La/Đạo Tổ khi nhắc lại. NQL tiếp tục hoãn địa đồ ba tháng; chưa trao. Đối chiếu ba pháp, bắt đầu thử Thủy Diễn thật, khác548 chỉ nghiên cứu.
+- Ngày7 quyển1 hư ảnh bình, quyển2 bán trong, một tháng quyển3 tinh đồ, hơn nửa năm quyển4 sáu đoàn đạo văn. Bình thực vàng hai tai trăng khuyết, không bình trắng giả định548 hay Chưởng Thiên Bình xanh.
+- Ban đêm hút Nguyệt Hoa rất ít, chưa có giọt nước. KD đỏ532 cưỡi TB trắng ngọc540, cuối báo khí tức giống mình, chưa lộ đối thủ. Hàn giữ CT543 cải trang.
