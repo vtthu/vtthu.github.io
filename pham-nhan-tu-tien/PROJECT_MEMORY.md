@@ -881,3 +881,16 @@ Nguồn: file CHUONG 551.txt do người dùng đính kèm. Mỗi PNG một tran
 - Không vẽ mặt mới Di La/Đạo Tổ khi nhắc lại. NQL tiếp tục hoãn địa đồ ba tháng; chưa trao. Đối chiếu ba pháp, bắt đầu thử Thủy Diễn thật, khác548 chỉ nghiên cứu.
 - Ngày7 quyển1 hư ảnh bình, quyển2 bán trong, một tháng quyển3 tinh đồ, hơn nửa năm quyển4 sáu đoàn đạo văn. Bình thực vàng hai tai trăng khuyết, không bình trắng giả định548 hay Chưởng Thiên Bình xanh.
 - Ban đêm hút Nguyệt Hoa rất ít, chưa có giọt nước. KD đỏ532 cưỡi TB trắng ngọc540, cuối báo khí tức giống mình, chưa lộ đối thủ. Hàn giữ CT543 cải trang.
+
+
+## Model trước552–553: thủ lĩnh và chiến xa
+Lưu models/o-lo-man-lam-tat-han-chien-xa-552.png trước lần xuất hiện. Ô Lỗ OL552 Bạo Hùng nam gấu đen cao khỏe mặt mõm gấu tai tròn giáp sắt tối viền đồng, búa lớn đỏ; lính gấu áo da đơn giản. Mạn Lâm ML553 da xanh ngọc một sừng xanh mắt TÍM mặt sẹo lành giáp xanh; lính Độc Giác mắt XANH. Tát Hán TH553 gầy nhỏ áo choàng đỏ sẫm viền hồng che kín KHÔNG vẽ mặt. Huyết tê đỏ bốn vó hai sừng bay bằng gió không cánh. Chiến xa Hỏa Thần đen hình khối bánh nặng phù văn nòng đồng lớn, thả nổi trên không; đài chỉ huy đen riêng không ngai. Mảnh thú cốt trắng là địa đồ thiếu phần, giới chỉ cốt trắng chứa5000TiênNguyênThạch ở553, chưa trao552. Model dùng tạo hình chuyển thể, không mẫu chính thức; không lẫn nhân vật cũ cùng loài.
+
+
+## Chương 552 — Cùng chung kẻ thù: hoàn thành 4 trang
+Nguồn: file CHUONG 552.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/552/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 4 trang A4, giữ CT543/KD đỏ/TB Tỳ Hưu. Tu vi đối thủ TháiẤt lúc này là suy đoán, chưa vẽ đối thủ xuất hiện.
+- Hàn thu KD/TB vào Túi Linh Thú rồi mới rời cốc. Trong túi, KD hóa kim quang vào miệng TB để che khí tức, không mô tả ăn thịt; sau đó không có hai bạn ngoài đài chỉ huy.
+- Trận cột đá hơn10cột trong hắc khí ở sâu cốc chỉ được quan sát, Hàn không hỏi/không xác nhận truyền tống đã hoạt động.
+- Mấyvạn chiến sĩ/3–4chục tộc, gần1000chiếnxa, trămvạnthú; Hướng Cảnh mép ngoài, ÔLỗ mẫu OL552. Đã sửa đuôi bóng thoại NQL/TB trang2 và thành nổi thừa trang4 về đúng quan ải gắn vách trắng ba cửa nước.
+- NYF và TT bảo chứng Hàn; NQL viện dẫn Vương đã đồng ý liên thủ, chỉ nhắc không vẽ mặt Vương. Chưa trao địa đồ/ring5000 hay giao chiến553.

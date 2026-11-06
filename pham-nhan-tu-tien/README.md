@@ -49,6 +49,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 552: Cùng chung kẻ thù](chapters/552/): 4 trang, hoàn thành; [PDF A4](chapters/552/chuong-552.pdf)
+
 - [Chương 551: Khí tức quen thuộc](chapters/551/): 4 trang, hoàn thành; [PDF A4](chapters/551/chuong-551.pdf)
 
 [Đọc trọn đợt 540–548: 9 chương, 40 trang, kèm PDF A4](production/540-548/)

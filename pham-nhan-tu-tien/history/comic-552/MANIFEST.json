@@ -1,0 +1,45 @@
+{
+  "chapter": 552,
+  "title": "Cùng chung kẻ thù",
+  "images": [
+    "/tmp/comic-batch-551-559/a4-552/trang-01.png",
+    "/tmp/comic-batch-551-559/a4-552/trang-02.png",
+    "/tmp/comic-batch-551-559/a4-552/trang-03.png",
+    "/tmp/comic-batch-551-559/a4-552/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "nac-y-pham-thanh-lan-dao-binh-545.png",
+    "dong-phu-tam-phap-chuong-thien-binh-547.png",
+    "ky-thu-khong-linh-am-tinh-546.png",
+    "o-lo-man-lam-tat-han-chien-xa-552.png"
+  ],
+  "summary": "Cảm ứng về một Phệ Kim Tiên mạnh hơn khiến nhóm Hàn Lập phải chọn ở lại. Kim Đồng giấu trong không gian cơ thể Tiểu Bạch, cả hai vào Túi Linh Thú. Hàn theo Nặc Thanh Lân ra đài chỉ huy; giữa sự dè chừng của các tộc, Nặc Thanh Lân kêu gọi cùng chống Trùng tộc.",
+  "notes": "- 4 trang A4, giữ CT543/KD đỏ/TB Tỳ Hưu. Tu vi đối thủ TháiẤt lúc này là suy đoán, chưa vẽ đối thủ xuất hiện.\n- Hàn thu KD/TB vào Túi Linh Thú rồi mới rời cốc. Trong túi, KD hóa kim quang vào miệng TB để che khí tức, không mô tả ăn thịt; sau đó không có hai bạn ngoài đài chỉ huy.\n- Trận cột đá hơn10cột trong hắc khí ở sâu cốc chỉ được quan sát, Hàn không hỏi/không xác nhận truyền tống đã hoạt động.\n- Mấyvạn chiến sĩ/3–4chục tộc, gần1000chiếnxa, trămvạnthú; Hướng Cảnh mép ngoài, ÔLỗ mẫu OL552. Đã sửa đuôi bóng thoại NQL/TB trang2 và thành nổi thừa trang4 về đúng quan ải gắn vách trắng ba cửa nước.\n- NYF và TT bảo chứng Hàn; NQL viện dẫn Vương đã đồng ý liên thủ, chỉ nhắc không vẽ mặt Vương. Chưa trao địa đồ/ring5000 hay giao chiến553.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-551-559/552p1.png",
+    "/tmp/comic-generated-551-559/552p2-final.png",
+    "/tmp/comic-generated-551-559/552p3.png",
+    "/tmp/comic-generated-551-559/552p4-final.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
