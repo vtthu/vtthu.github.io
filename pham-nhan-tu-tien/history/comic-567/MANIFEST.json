@@ -1,0 +1,44 @@
+{
+  "chapter": 567,
+  "title": "Đuổi tới",
+  "images": [
+    "/tmp/comic-batch-559-569/a4-567/trang-01.png",
+    "/tmp/comic-batch-559-569/a4-567/trang-02.png",
+    "/tmp/comic-batch-559-569/a4-567/trang-03.png",
+    "/tmp/comic-batch-559-569/a4-567/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "giai-dao-nhan-gdn01.png",
+    "bich-ngoc-phi-xa-hon-giap-phu-hoang-thap-cuu-565.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Pháp trận tăng mạnh tốc độ phi xa. Hàn Lập ôn dưỡng hồ lô bằng lục dịch; một tháng sau, Phệ Kim Tiên truy tới với tốc độ nhanh gấp đôi.",
+  "notes": "- Chương567 đủ4trangA4. GDNthuởtrang1saukhikíchtrận,nênkhôngởngoàicác cảnhsau. KDtựvàobụngTBtrang2,khôngxuấthiệnngoàitrang2sau/trang3/4. TrậnSÁUcạnhnguồntiênnguyênthạchtrắngtâmtrắng,chỉsứccấpnănglượngTháiẤtkhôngHànthăngcảnh.\n- HuyềnThiênhồlô2bầuxanhtrơn/cổnhạtkhácCTBthândẹttrònláxanhnắpvàng. Đãsửarõ4khungtrang4bịtrộnhaiđạocụ. Hànchỉthầnniệmdòhồlô,khôngthânthậtvà o. Toàn bộkiếmXANHkimloạicấtvàohồlôcùngLC474ba tầngcũ,khôngkhẳngđịnhtầngsâuchưađọc.\n- Lụcdịchnhỏlênmiệnghồlôchưa thấythayđổimạnh,khôngchínngay. Thángsauđịchvừabắtđầuđuổi,tốcđộgấpđôi;HGPđưavàomiệngTBchoKDtrongbụng,phi xađổihướng. Chưagiao chiến.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-559-569/567p1.png",
+    "/tmp/comic-generated-559-569/567p2.png",
+    "/tmp/comic-generated-559-569/567p3.png",
+    "/tmp/comic-generated-559-569/567p4-final.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

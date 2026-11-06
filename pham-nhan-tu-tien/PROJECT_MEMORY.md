@@ -1022,3 +1022,14 @@ Nguồn: file CHUONG 565.txt do người dùng đính kèm. Mỗi PNG một tran
 Nguồn: file CHUONG 566.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/566/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Chương566 đủ4trangA4. HoàngThậpCửu chỉhồngảnhmờ/mặtnạđỏchữtên khônglộmặtthật. HànLongNgũrồngchetoànmặtkhigiao dịch, gỡsaukhinhậnngọcgiản. 3phươngánđúnggiá5000/10000/1000 tiênnguyênthạch,khôngnhầ mchi phítiêuhaovớigiámua.
 - HGPthửnửacanhgiờrồithêmnửacanh,KDra mệtnhẹănthướcngọcXANHkhôngkiếm; đápnếuđủphùtốiđathêmnửacanh. Hànmuahơn100HGP, chọncách3, nhậnngọcgiảnTRẮNG,họcnửacanh,rồimớibốtrítàiliệu; chưakíchhoạtpháptrậ n567.
+
+
+## Model trước567: lục lăng trận và hồ lô
+Lưu models/luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png trước567. PháptrậnSÁUCẠNHtrênsànPX475bốtrímấychụclỗngóntaychứaTIÊNNGUYÊNTHẠCHTRẮNG,đườngvânvàngtrắngdồnmộtTÂMTRẮNGphátsángvàcộttrắngvàoxe. HT hồlôNGỌCXANHbầukép miệngnhạtmàutáidùngcu-linh-chan-diem-models.pngkhôngCừLinhhiện. CTBChưởngThiênBìnhđúng547thândẹttrònláxanhcổhẹpnắpvàng,dây/charm lá,khônghồlôhayQuangÂmTịnhBìnhvàng. Nội khônggianhồlôLỤCvòngxoáy,kiếmXANHkimloạivàLC474lầuBA tầngvàngmáiTEALcótrongtừ474. KiếmTh anhTrúcphảilưỡiJIANthẳngxanhkimloạinhọnguardVÀNGchuôiĐEN,khôngque trúc. Tất cảđượccốđịnhđạo cụkhôngnhânvậtmới.
+
+
+## Chương 567 — Đuổi tới: hoàn thành 4 trang
+Nguồn: file CHUONG 567.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/567/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Chương567 đủ4trangA4. GDNthuởtrang1saukhikíchtrận,nênkhôngởngoàicác cảnhsau. KDtựvàobụngTBtrang2,khôngxuấthiệnngoàitrang2sau/trang3/4. TrậnSÁUcạnhnguồntiênnguyênthạchtrắngtâmtrắng,chỉsứccấpnănglượngTháiẤtkhôngHànthăngcảnh.
+- HuyềnThiênhồlô2bầuxanhtrơn/cổnhạtkhácCTBthândẹttrònláxanhnắpvàng. Đãsửarõ4khungtrang4bịtrộnhaiđạocụ. Hànchỉthầnniệmdòhồlô,khôngthânthậtvà o. Toàn bộkiếmXANHkimloạicấtvàohồlôcùngLC474ba tầngcũ,khôngkhẳngđịnhtầngsâuchưađọc.
+- Lụcdịchnhỏlênmiệnghồlôchưa thấythayđổimạnh,khôngchínngay. Thángsauđịchvừabắtđầuđuổi,tốcđộgấpđôi;HGPđưavàomiệngTBchoKDtrongbụng,phi xađổihướng. Chưagiao chiến.
