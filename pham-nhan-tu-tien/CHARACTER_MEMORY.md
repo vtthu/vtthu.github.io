@@ -1115,3 +1115,16 @@ Nguồn: file CHUONG 554.txt do người dùng đính kèm. Mỗi PNG một tran
 - Kiến sắt đen/mắt xanh, cự hạt mặt người áo giáp đỏvàng, ba cự nhânxám mộtmắtkhôngmiệng2lỗmũi váyda chùygai; nguồn/nhãnmodelkhôngtựthêmsinhvật.
 - Nhânmã thânngựabốnchâncungdâyleoxanh tênxanh quétkiếnkhônghạicựnhân; trọngthúgiápvàngđất2ngà/gaiđầubên, nhệnKimCươngvàHôiThiềmthườngbổsung.
 - Kết nhịptrốngvàáoxámtrượngđenngâmChânLinhngữ, chưa đồđằngbiếnhình555. Cả3cựnhâncònsốngcuối554, không hạ trước.
+
+
+## Model trước555: đồ đằng và hiểm họa
+Lưu models/do-dang-luc-hoang-sa-thu-huyet-diet-555.png trước555. Biến thể cùng BạoHùng đen giáp sắt: to gấpmấylần mắtđỏ nanhtrắnglớn,sươngđỏvàhưảnhđồđằngchỉlàpháptướngkhôngChânLinhthậtxuấthiện. ĐộcGiácxanhgiữcỡ,mắtxanh,cánhvàkhuỷugaiTRẮNG,TÁMxươngnhệntrắngởlưngbốnBÊN; khôngnhầmhìnhloàivớinhệnthật. LH555chỉhuyLụcHoàngvôdanh xanhthẫmnhỏngười,mặtVUÔNG,mắtNGANGđenhoàntoànkhônglòngtrắng,2râu2cánh,cáclocust6chânmàuxanhbayswarms. ST555 SathúTháiẤt giữloàitạohìnhcátvàng4chânđuôidàigiápvảyđầucáSẤUtừST540, miệngcựđạihọngvòngrăng,sizerấtlớn/rútnửathân,khôngxácnhậncùngcáthể540. HĐ556trùngđỏbéhạtgạobọcánhcứng6chân2cánhđuôisángđỏ, chưađặt têntrongtruyện555tớitận556mớigọiHuyếtĐiệt. Minh họahạtđỏchỉsơđồ,khôngchènthịtmáucậncảnh. Modelgốckhôngbịghiđè.
+
+
+## Chương 555 — Chiến đấu kịch liệt: hoàn thành 4 trang
+Nguồn: file CHUONG 555.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/555/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 4 trang, Hàn CT543/NYF nữ đúngmodel. Đồđằng gia trì chỉhưảnhkhôngChânLinhthânthật; BạoHùngmắtđỏnanhtrắnglớnhơn/ĐộcGiáctámxươnglưngtrắng khôngđổi tộc.
+- Đã sửa tếti trang1 về áoxámtrùmmặttrượngđen, bỏnhântộcphụthừakhôngmodel.
+- SathúTháiẤt giữloàicátvàng4chânđuôidàivảyđầuCáSấuST540/ST555, hạmộtcựnhânthứnhấtbằngsươngcát/âmthanh/ôdẫnkhôngcậnchặtđầu haymáu. Đòncuốicựnhânđánhsathúlạiđất, thúvẫnsống.
+- LụcHoàng xanhtrànđuổi2cựnhân, cựtíchđenphunlửa giải vây; chiến sĩ thường không địch nổi. HĐ556béhạtgạođỏđuôisáng vào2cựnhânrút lui, redenergy/đábụisụpđổPG.
+- CUỐI555CẢ3CỰNHÂNĐÃCHẾTkhônghồisinh556+. HuyếtĐiệt chưađượcnóitên, Sathúchưađớpđàichỉhuy. KD/TBẩntrongtúi.
