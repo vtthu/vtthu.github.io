@@ -1,0 +1,42 @@
+{
+  "chapter": 560,
+  "title": "Vương",
+  "images": [
+    "/tmp/comic-batch-559-569/a4-560/trang-01.png",
+    "/tmp/comic-batch-559-569/a4-560/trang-02.png",
+    "/tmp/comic-batch-559-569/a4-560/trang-03.png",
+    "/tmp/comic-batch-559-569/a4-560/trang-04.png"
+  ],
+  "models": [
+    "tuc-luc-u-ho-trung-linh-559.png",
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "nac-y-pham-thanh-lan-dao-binh-545.png",
+    "ngoc-mon-kim-vong-moc-xich-phap-lien-561.png"
+  ],
+  "summary": "U Hộ xuất hiện, chữa thương cho Túc Lục và giao chiến với Trùng Linh. Hắc hỏa bị nuốt, hai đuôi bị chém, móng vuốt cũng không xuyên được giáp. Trùng Linh phá trói, dựng linh vực kim sắc rồi ngưng giao long pháp tắc.",
+  "notes": "- 4 trangA4/PDF, UH560hồXANHgiápVÀNGvânBẠC,saoBẠCkhácTúc6đuôigiápXANHsaoTÍM3sẹophải. Đầu560UH9đuôi, sau2đuôibịcắtcòn7đuôinguyên,khôngtựchữalành/khôiphụcsố9.\n- Đãsửacaptiontrang3bỏlờitựsinhgố cđuôichữalành/khôngthươngtổn,bỏchỉdẫngiảiphẫumodelkhỏitrang. PGtrảmđuôiquangxanhkhôngmáu,nguồnthươngtíchvẫnđượcnóirõ.\n- TrùngLinhOVAL6chân2liêm2cánh,nuốthắchỏ a/2trảogiảlập/tơxanhđen,cắtnon nửalướirồi nuốtphầncòn;UHo10móngĐENkhắctinhvăngãy,giápchỉvệttrắng.\n- HànCT543/NYFnữ545quan sátvềyếuđiểmthầnhồn,chưaHad biếnthân/rađòn561. Túcđãlùikhôngcônnguyên,Sađãchếtkhônghiệ n.\n- KếtGOLDdomainTrùngLinhghìmUH,>10sợipháptắchợpthànhGiaolongVÀNGnănglượng,khôngthúsốngmới;chưađâmphòngngự561.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-559-569/560p1.png",
+    "/tmp/comic-generated-559-569/560p2.png",
+    "/tmp/comic-generated-559-569/560p3-final.png",
+    "/tmp/comic-generated-559-569/560p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

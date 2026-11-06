@@ -1153,3 +1153,16 @@ Nguồn: file CHUONG 559.txt do người dùng đính kèm. Mỗi PNG một tran
 - Cônđenbịđánhgãytrang3,kểtừđókhôngcônnguyên. TrùngLinhcáthểđịchmodelbeetleOVAL528biếnthểTLi559, khôngKimĐồngbiếnthân; khítứcgầnTháiẤthậulàHanđánhgiá.
 - NQLgiữáoTÍMsaovàngsau557. HànđưaNYFvềtrêncổngthànhkhôngởlạichiến. Túcné2trảm,khôngchết. KếtchỉbóngmờU Hộ, chưalộ9đuôigiápvànghaydanhtính560.
 - Phần551–559cũ:559nayhoànthànhởđợtmới,556–558vẫndởkhôngđánhdấuxong.
+
+
+## Model trước hiệu ứng cuối560 / pháp bảo561
+Lưu models/ngoc-mon-kim-vong-moc-xich-phap-lien-561.png trước560p4/561. BNM561 cổngchàongọcTRẮNG2trụvòmchạmVÒNGTRÒNtâmRỖNG, phátvòngtrắnggiamđịch; khôngcánhcửagỗ/cổngthành. KV561lướikimVÀNGmesh. HX561thướcGỖĐENhìnhthanhchữnhậthọatiếtmeanderVÀNGgiữnguyênđạocụgócPHẢIDƯỚImodel522. NT561ngọcchậngiấyTRẮNGSỮAchữnhậtvânmâyhóanúivàquangtráobáncầutrắng,notsnowbowl. CNL481/561 táidùngđúngxíchSẮTĐENmắtxícho valrunesnhỏhạtgạogócPHẢITRÊNmodel481,36cănchữlựcthiếtkế;khôngPhongThiênĐôhồisinh. ThầnthứckiếmTRONGSUỐTbóngkiếmkhôngvậtlýkhôngkiếmxanh;GiaoLongVÀNGcuối560làpháptắc>10sợitơhợpthành,khôngsinhvậtđộc lập. TửKimMaThần561PHẢItáidùngmodel522gócTRÁITRÊN3ĐẦUVƯỢNlôngVÀNG6TAYdaVẢYTÍMKIMđai/váyTEAL,hìnhnàykhôngđổisangCT543ngườitronglúcb iếnthân;sourcecỡmấychụctrượng,khôngcốsố3.6mnhãnmodel. Khôngvẽcácthần hồnThu/Thiếtđãchếttrongmodel522chỉvìrefchung.
+
+
+## Chương 560 — Vương: hoàn thành 4 trang
+Nguồn: file CHUONG 560.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/560/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 4 trangA4/PDF, UH560hồXANHgiápVÀNGvânBẠC,saoBẠCkhácTúc6đuôigiápXANHsaoTÍM3sẹophải. Đầu560UH9đuôi, sau2đuôibịcắtcòn7đuôinguyên,khôngtựchữalành/khôiphụcsố9.
+- Đãsửacaptiontrang3bỏlờitựsinhgố cđuôichữalành/khôngthươngtổn,bỏchỉdẫngiảiphẫumodelkhỏitrang. PGtrảmđuôiquangxanhkhôngmáu,nguồnthươngtíchvẫnđượcnóirõ.
+- TrùngLinhOVAL6chân2liêm2cánh,nuốthắchỏ a/2trảogiảlập/tơxanhđen,cắtnon nửalướirồi nuốtphầncòn;UHo10móngĐENkhắctinhvăngãy,giápchỉvệttrắng.
+- HànCT543/NYFnữ545quan sátvềyếuđiểmthầnhồn,chưaHad biếnthân/rađòn561. Túcđãlùikhôngcônnguyên,Sađãchếtkhônghiệ n.
+- KếtGOLDdomainTrùngLinhghìmUH,>10sợipháptắchợpthànhGiaolongVÀNGnănglượng,khôngthúsốngmới;chưađâmphòngngự561.
