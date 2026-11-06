@@ -1033,3 +1033,14 @@ Nguồn: file CHUONG 567.txt do người dùng đính kèm. Mỗi PNG một tran
 - Chương567 đủ4trangA4. GDNthuởtrang1saukhikíchtrận,nênkhôngởngoàicác cảnhsau. KDtựvàobụngTBtrang2,khôngxuấthiệnngoàitrang2sau/trang3/4. TrậnSÁUcạnhnguồntiênnguyênthạchtrắngtâmtrắng,chỉsứccấpnănglượngTháiẤtkhôngHànthăngcảnh.
 - HuyềnThiênhồlô2bầuxanhtrơn/cổnhạtkhácCTBthândẹttrònláxanhnắpvàng. Đãsửarõ4khungtrang4bịtrộnhaiđạocụ. Hànchỉthầnniệmdòhồlô,khôngthânthậtvà o. Toàn bộkiếmXANHkimloạicấtvàohồlôcùngLC474ba tầngcũ,khôngkhẳngđịnhtầngsâuchưađọc.
 - Lụcdịchnhỏlênmiệnghồlôchưa thấythayđổimạnh,khôngchínngay. Thángsauđịchvừabắtđầuđuổi,tốcđộgấpđôi;HGPđưavàomiệngTBchoKDtrongbụng,phi xađổihướng. Chưagiao chiến.
+
+
+## Model trước568: hung cầm, độc phong và tiên khí
+Lưu models/hoi-cam-tu-phong-bach-ky-tam-lenh-hoa-phien-568.png trước568. HC568hungcầ mXÁMxấuxí2cánh2chânmỏnhọncong/màoXÁMĐEN, rấtítlôngdàichủyếulôngtơxámngắn/màngcánhda;KimTiênđỉnhphongkhácDạKiêuđen564. DP568ongđộcTÍMeothắtSÁUchânBỐNcánhmờhaiRÂUđuôimócdàiNHƯKIẾMxanhULAMcỡcốixay,khôngPhệKimTiênvàng. BK568bạchkỳTRẮNGvânbiểnmâyxanhbạccánBẠCphunmây/7–8VỤLONGchỉphépkhôngrồngsống. TL568đúngBA lệnhbàiĐẤTVÀNGchữnhậtvântam sơn/baotrước/trái/phảiphi xa,sinhmànvàngđấtphảnphongnhận. HP568phiênĐỎcánđenviềnvàngphunlửađỏriêngBạchkỳ. Đãđọcđủnguồn568–569; 569cầntạomodelHồngLoa/HổSưtrướckhivẽ.
+
+
+## Chương 568 — Cướp đường chạy: hoàn thành 4 trang
+Nguồn: file CHUONG 568.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/568/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Chương568 đủ4trangA4. Đã sửa loạiGiảiĐạoNhân tựsinhkhungcuốitrang2, GDNđãthu567khôngngoài; đồnghành3HanCT543/KDđỏ/TBtrắng. EnemyOVALgoldbeetle559riêngkhôngcùngxe haynhầmKDbiếnthân.
+- Giaiđoạnđầuvàitàngtháng khoảngcáchgầ nnhưkhônggiảmnhờđổihướng; Hànướcđủtiêntiênnguyênthạch20–30nămchứkhôngđãtrôiqua20năm. KhókhănđườngManHoangmớilàmchậmvềsau.
+- Hungcầmxám568khácDạKiêuđen, bạchkỳmây/7–8vụlongchỉphép/BA lệnhbàivàngđấtphảnphongnhận; chỉthoátkhônggiếtcầm. OngTÍMđuôimócxanhULAM,dùngphiênĐỎvàbalệnh,hơnnửacanhmớithoát. Cuốikhoảngcáchrútnhưngchưabịbắtkịp.

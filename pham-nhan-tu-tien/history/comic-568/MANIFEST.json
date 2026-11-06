@@ -1,0 +1,44 @@
+{
+  "chapter": 568,
+  "title": "Cướp đường chạy",
+  "images": [
+    "/tmp/comic-batch-559-569/a4-568/trang-01.png",
+    "/tmp/comic-batch-559-569/a4-568/trang-02.png",
+    "/tmp/comic-batch-559-569/a4-568/trang-03.png",
+    "/tmp/comic-batch-559-569/a4-568/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "tuc-luc-u-ho-trung-linh-559.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+    "hoi-cam-tu-phong-bach-ky-tam-lenh-hoa-phien-568.png"
+  ],
+  "summary": "Hai bên truy đuổi nhiều tháng. Hàn Lập tận dụng che khí tức để đổi hướng nhưng hung cầm, độc phong và các cuộc tập kích liên tiếp làm chậm phi xa, khiến đối thủ ngày càng tới gần.",
+  "notes": "- Chương568 đủ4trangA4. Đã sửa loạiGiảiĐạoNhân tựsinhkhungcuốitrang2, GDNđãthu567khôngngoài; đồnghành3HanCT543/KDđỏ/TBtrắng. EnemyOVALgoldbeetle559riêngkhôngcùngxe haynhầmKDbiếnthân.\n- Giaiđoạnđầuvàitàngtháng khoảngcáchgầ nnhưkhônggiảmnhờđổihướng; Hànướcđủtiêntiênnguyênthạch20–30nămchứkhôngđãtrôiqua20năm. KhókhănđườngManHoangmớilàmchậmvềsau.\n- Hungcầmxám568khácDạKiêuđen, bạchkỳmây/7–8vụlongchỉphép/BA lệnhbàivàngđấtphảnphongnhận; chỉthoátkhônggiếtcầm. OngTÍMđuôimócxanhULAM,dùngphiênĐỎvàbalệnh,hơnnửacanhmớithoát. Cuốikhoảngcáchrútnhưngchưabịbắtkịp.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-559-569/568p1.png",
+    "/tmp/comic-generated-559-569/568p2-final.png",
+    "/tmp/comic-generated-559-569/568p3.png",
+    "/tmp/comic-generated-559-569/568p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
