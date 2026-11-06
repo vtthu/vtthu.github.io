@@ -1,0 +1,116 @@
+{
+  "status": "partial_batch_verified",
+  "complete_chapters": 5,
+  "complete_PNG_pages": 22,
+  "complete_PDF_A4": 5,
+  "exact_source_copies": 9,
+  "draft556_not_counted": true,
+  "chapters": [
+    {
+      "chapter": 551,
+      "title": "Khí tức quen thuộc",
+      "pages": 4,
+      "status": "complete",
+      "png_decode": true,
+      "pdf_A4": true,
+      "source_exact": true,
+      "zip_integrity": true
+    },
+    {
+      "chapter": 552,
+      "title": "Cùng chung kẻ thù",
+      "pages": 4,
+      "status": "complete",
+      "png_decode": true,
+      "pdf_A4": true,
+      "source_exact": true,
+      "zip_integrity": true
+    },
+    {
+      "chapter": 553,
+      "title": "Ác chiến",
+      "pages": 5,
+      "status": "complete",
+      "png_decode": true,
+      "pdf_A4": true,
+      "source_exact": true,
+      "zip_integrity": true
+    },
+    {
+      "chapter": 554,
+      "title": "Tiếng trống trận thứ nhất",
+      "pages": 5,
+      "status": "complete",
+      "png_decode": true,
+      "pdf_A4": true,
+      "source_exact": true,
+      "zip_integrity": true
+    },
+    {
+      "chapter": 555,
+      "title": "Chiến đấu kịch liệt",
+      "pages": 4,
+      "status": "complete",
+      "png_decode": true,
+      "pdf_A4": true,
+      "source_exact": true,
+      "zip_integrity": true
+    }
+  ],
+  "sources": [
+    {
+      "chapter": 551,
+      "bytes": 14466,
+      "sha256": "a8a6047f87fb9beb7b28cfa29f813ec033974b1206d2aea4c2c60bdc618e07bf",
+      "exact_copy": true
+    },
+    {
+      "chapter": 552,
+      "bytes": 14681,
+      "sha256": "ba0e65368fe7355d9d83115eb419ff786b16ce8d1ba82d780094ec8aac66a8d0",
+      "exact_copy": true
+    },
+    {
+      "chapter": 553,
+      "bytes": 16039,
+      "sha256": "7813a760433fe56c0ab5570823e173b56e1c8251efb154502fe26fe1ddddd40f",
+      "exact_copy": true
+    },
+    {
+      "chapter": 554,
+      "bytes": 15333,
+      "sha256": "8ce94aaa2a7e975c1a0403a65b3b4084bd9d5ba88812f44d77b2b4c9763fe293",
+      "exact_copy": true
+    },
+    {
+      "chapter": 555,
+      "bytes": 13892,
+      "sha256": "a4c715d9e5910485200e7df136dc9b2276f59a5a7ed221ccc26f49df10c39c01",
+      "exact_copy": true
+    },
+    {
+      "chapter": 556,
+      "bytes": 15158,
+      "sha256": "24386470b1296fdaa4c191ad871dcda3249669ca2ecb434597f251373d51d975",
+      "exact_copy": true
+    },
+    {
+      "chapter": 557,
+      "bytes": 15176,
+      "sha256": "9840a78c1af1ad8b6c6bf4cab6bd7152304edf745a14d58b64dd53b3d9051220",
+      "exact_copy": true
+    },
+    {
+      "chapter": 558,
+      "bytes": 14324,
+      "sha256": "18c0c0e8b37ee8fe83f35e612d7dde14810bec8f93da8503f666a3cf06a28b58",
+      "exact_copy": true
+    },
+    {
+      "chapter": 559,
+      "bytes": 14417,
+      "sha256": "9468f89d91b044e16912c5987e98c094d3007009b9045df29de4ffcfa3c70d02",
+      "exact_copy": true
+    }
+  ]
+}

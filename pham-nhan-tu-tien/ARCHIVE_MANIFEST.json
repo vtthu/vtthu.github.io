@@ -2057,18 +2057,18 @@
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 291898,
-      "sha256": "5eb0c2996aeb912cf13c71feebbc4917e7f721887e0b26c0f23137376b85beb0"
+      "bytes": 295173,
+      "sha256": "46da56f9ced6ae853eb51eabff74e26e46782389a4503bcda440945110adb571"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 242775,
-      "sha256": "4f5fbb9f741229c9edd37d855c5674367d37a8cae1e1893c3035a2c6c414c749"
+      "bytes": 246050,
+      "sha256": "3822b245f0fbd690e89f5b1f1da9be063a64586e91bdd21306a3dd19db217bb1"
     },
     {
       "path": "README.md",
-      "bytes": 9484,
-      "sha256": "068f75e5c15aaa153f02e2b85e71eae7a54ca90b29ec536fc07170aa1673d1fe"
+      "bytes": 9578,
+      "sha256": "c131b56c60bde8eed5849af136e1b35e03a8f63a88b2e032293e1d63f050893a"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -6261,6 +6261,11 @@
       "sha256": "e49e91cb2ffbe11ae3c09b29d8f1161b6f2977c201bf742e7d7f7e65c5e6a0d1"
     },
     {
+      "path": "models/bach-cot-tam-bao-ngan-ngo-linh-trung-556.png",
+      "bytes": 3026070,
+      "sha256": "ffa0fa87a41927bd36d6d1cf6f6a82db603230c287dcc371ae251145fc244df1"
+    },
+    {
       "path": "models/bach-ly-viem-au-duong-vu-linh-506.png",
       "bytes": 2687619,
       "sha256": "62bef7a1528a292c9373349d82599b7a772e376fb11514d276185b7ec60048c5"
@@ -6409,6 +6414,11 @@
       "path": "models/huyet-han-v1.png",
       "bytes": 2446397,
       "sha256": "33a12ccdb8262adf1a7dba127ca1a91b2d02b251bdec0a464e8c0acb627954f9"
+    },
+    {
+      "path": "models/khac-don-bach-cot-tu-kim-tien-556.png",
+      "bytes": 3129190,
+      "sha256": "62f15386bde5e814c4ccc738832988a8a3ee5879d0c7dde16ace9e77171b13f4"
     },
     {
       "path": "models/kiem-ke-tui-dai-nhan-nai-lenh-bai-thien-dien.png",
@@ -6859,6 +6869,101 @@
       "path": "production/540-548/VERIFICATION.json",
       "bytes": 6689,
       "sha256": "604d82a6ac57b65acccf58390b2c23c4741175266b6c57d1eb815d701c792487"
+    },
+    {
+      "path": "production/551-559/CHECKPOINT.json",
+      "bytes": 4640,
+      "sha256": "dff3751703f4f4041f7705b5438774ff7a5cc760e63fe228cd9ed4e7e1aa4550"
+    },
+    {
+      "path": "production/551-559/MODEL_PROMPTS_PENDING.md",
+      "bytes": 3292,
+      "sha256": "65f5d7908b42204eae157336ff54ef063d2135b9dfbb29da40cf248edd590fef"
+    },
+    {
+      "path": "production/551-559/README.md",
+      "bytes": 2120,
+      "sha256": "30eef5959d10b27dedfb5593052b760157ba197f57d70b89548df288d87ed184"
+    },
+    {
+      "path": "production/551-559/REMAINING_STORYBOARDS.json",
+      "bytes": 18094,
+      "sha256": "5dd52e6591638c870730569cf4ac21bcc1191282aebc730f05d5da32d0bb5b26"
+    },
+    {
+      "path": "production/551-559/STORYBOARDS_556_559.md",
+      "bytes": 16365,
+      "sha256": "1d346d4aed0c24ab5ae6b951fd3a0d20ec674976a4fbc424dd5ff996038add21"
+    },
+    {
+      "path": "production/551-559/VERIFICATION.json",
+      "bytes": 2850,
+      "sha256": "c36c0db7a45028c93f59753a953bb5f938a6b398d4e0e33fa60540d2259f6561"
+    },
+    {
+      "path": "production/551-559/partial-556/README.md",
+      "bytes": 1025,
+      "sha256": "32320c818a34d2113016fda7ff957aecc2941252560e62cc282d01f7af004453"
+    },
+    {
+      "path": "production/551-559/partial-556/raw-trang-01-DRAFT.png",
+      "bytes": 3033740,
+      "sha256": "ddbfa7d63193d901dd7ad167d1f0d799dcf531b4754f504b2aa276dcd2dc59b0"
+    },
+    {
+      "path": "production/551-559/sources/CHUONG 551.txt",
+      "bytes": 14466,
+      "sha256": "a8a6047f87fb9beb7b28cfa29f813ec033974b1206d2aea4c2c60bdc618e07bf"
+    },
+    {
+      "path": "production/551-559/sources/CHUONG 552.txt",
+      "bytes": 14681,
+      "sha256": "ba0e65368fe7355d9d83115eb419ff786b16ce8d1ba82d780094ec8aac66a8d0"
+    },
+    {
+      "path": "production/551-559/sources/CHUONG 553.txt",
+      "bytes": 16039,
+      "sha256": "7813a760433fe56c0ab5570823e173b56e1c8251efb154502fe26fe1ddddd40f"
+    },
+    {
+      "path": "production/551-559/sources/CHUONG 554.txt",
+      "bytes": 15333,
+      "sha256": "8ce94aaa2a7e975c1a0403a65b3b4084bd9d5ba88812f44d77b2b4c9763fe293"
+    },
+    {
+      "path": "production/551-559/sources/CHUONG 555.txt",
+      "bytes": 13892,
+      "sha256": "a4c715d9e5910485200e7df136dc9b2276f59a5a7ed221ccc26f49df10c39c01"
+    },
+    {
+      "path": "production/551-559/sources/CHUONG 556.txt",
+      "bytes": 15158,
+      "sha256": "24386470b1296fdaa4c191ad871dcda3249669ca2ecb434597f251373d51d975"
+    },
+    {
+      "path": "production/551-559/sources/CHUONG 557.txt",
+      "bytes": 15176,
+      "sha256": "9840a78c1af1ad8b6c6bf4cab6bd7152304edf745a14d58b64dd53b3d9051220"
+    },
+    {
+      "path": "production/551-559/sources/CHUONG 558.txt",
+      "bytes": 14324,
+      "sha256": "18c0c0e8b37ee8fe83f35e612d7dde14810bec8f93da8503f666a3cf06a28b58"
+    },
+    {
+      "path": "production/551-559/sources/CHUONG 559.txt",
+      "bytes": 14417,
+      "sha256": "9468f89d91b044e16912c5987e98c094d3007009b9045df29de4ffcfa3c70d02"
+    },
+    {
+      "path": "production/551-559/workflow/image_result_save.js",
+      "bytes": 843,
+      "sha256": "16683e6d3fd4b144b850543ab0c4fa83de422333e63349fab80ef7f1bb8ec6d2"
+    },
+    {
+      "path": "production/551-559/workflow/package.py",
+      "bytes": 4870,
+      "sha256": "e992c0202d91f3e92e87755344bf672cd9c5a2f13d2adf8065ef299ff8782117"
     },
     {
       "path": "summaries/465/README.md",

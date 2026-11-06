@@ -1,0 +1,161 @@
+{
+  "status": "blocked_by_image_generation_quota",
+  "completed_chapters": [
+    {
+      "chapter": 551,
+      "title": "Khí tức quen thuộc",
+      "pages": 4,
+      "status": "complete",
+      "png_decode": true,
+      "pdf_A4": true,
+      "source_exact": true,
+      "zip_integrity": true
+    },
+    {
+      "chapter": 552,
+      "title": "Cùng chung kẻ thù",
+      "pages": 4,
+      "status": "complete",
+      "png_decode": true,
+      "pdf_A4": true,
+      "source_exact": true,
+      "zip_integrity": true
+    },
+    {
+      "chapter": 553,
+      "title": "Ác chiến",
+      "pages": 5,
+      "status": "complete",
+      "png_decode": true,
+      "pdf_A4": true,
+      "source_exact": true,
+      "zip_integrity": true
+    },
+    {
+      "chapter": 554,
+      "title": "Tiếng trống trận thứ nhất",
+      "pages": 5,
+      "status": "complete",
+      "png_decode": true,
+      "pdf_A4": true,
+      "source_exact": true,
+      "zip_integrity": true
+    },
+    {
+      "chapter": 555,
+      "title": "Chiến đấu kịch liệt",
+      "pages": 4,
+      "status": "complete",
+      "png_decode": true,
+      "pdf_A4": true,
+      "source_exact": true,
+      "zip_integrity": true
+    }
+  ],
+  "completed_pages": 22,
+  "unfinished": {
+    "556": {
+      "draft_pages": 1,
+      "approved_pages": 0,
+      "planned_pages": 5,
+      "needs_revision": [
+        "Replace swallowed cannon chariot with flat command platform.",
+        "Remove Han and NYF from final leader group; they are already far away."
+      ]
+    },
+    "557": {
+      "draft_pages": 0,
+      "planned_pages": 5
+    },
+    "558": {
+      "draft_pages": 0,
+      "planned_pages": 4
+    },
+    "559": {
+      "draft_pages": 0,
+      "planned_pages": 4
+    }
+  },
+  "last_successful_chapter_commit": "42fa8f1",
+  "last_successful_image": "partial-556/raw-trang-01-DRAFT.png",
+  "failure": {
+    "tool": "image_gen.imagegen",
+    "http_status": 429,
+    "type": "usage_limit_reached",
+    "failed_request": "556 page 2; no image returned",
+    "reported_resets_at_epoch": 1793953560,
+    "reported_reset_UTC": "2026-11-06T08:26:00Z",
+    "reported_reset_Asia_Saigon": "2026-11-06T15:26:00+07:00",
+    "reset_is_estimate_not_guarantee": true
+  },
+  "background_jobs_running": false,
+  "sources": [
+    {
+      "chapter": 551,
+      "bytes": 14466,
+      "sha256": "a8a6047f87fb9beb7b28cfa29f813ec033974b1206d2aea4c2c60bdc618e07bf",
+      "exact_copy": true
+    },
+    {
+      "chapter": 552,
+      "bytes": 14681,
+      "sha256": "ba0e65368fe7355d9d83115eb419ff786b16ce8d1ba82d780094ec8aac66a8d0",
+      "exact_copy": true
+    },
+    {
+      "chapter": 553,
+      "bytes": 16039,
+      "sha256": "7813a760433fe56c0ab5570823e173b56e1c8251efb154502fe26fe1ddddd40f",
+      "exact_copy": true
+    },
+    {
+      "chapter": 554,
+      "bytes": 15333,
+      "sha256": "8ce94aaa2a7e975c1a0403a65b3b4084bd9d5ba88812f44d77b2b4c9763fe293",
+      "exact_copy": true
+    },
+    {
+      "chapter": 555,
+      "bytes": 13892,
+      "sha256": "a4c715d9e5910485200e7df136dc9b2276f59a5a7ed221ccc26f49df10c39c01",
+      "exact_copy": true
+    },
+    {
+      "chapter": 556,
+      "bytes": 15158,
+      "sha256": "24386470b1296fdaa4c191ad871dcda3249669ca2ecb434597f251373d51d975",
+      "exact_copy": true
+    },
+    {
+      "chapter": 557,
+      "bytes": 15176,
+      "sha256": "9840a78c1af1ad8b6c6bf4cab6bd7152304edf745a14d58b64dd53b3d9051220",
+      "exact_copy": true
+    },
+    {
+      "chapter": 558,
+      "bytes": 14324,
+      "sha256": "18c0c0e8b37ee8fe83f35e612d7dde14810bec8f93da8503f666a3cf06a28b58",
+      "exact_copy": true
+    },
+    {
+      "chapter": 559,
+      "bytes": 14417,
+      "sha256": "9468f89d91b044e16912c5987e98c094d3007009b9045df29de4ffcfa3c70d02",
+      "exact_copy": true
+    }
+  ],
+  "pending_model_PNGs": [
+    "Tuc Luc TL558: green fox six tails purple forehead star three scars by right eye green gold armor black star staff.",
+    "Trung Linh TL559: distinct enemy Ph e Kim Tien using gold oval beetle species from original528.",
+    "Unrevealed larger father silhouette at559 ending: no invented face, species, name, realm before560."
+  ],
+  "resume_order": [
+    "Read project/character memory and this checkpoint.",
+    "Check image tool availability once after reset; do not claim success until returned.",
+    "Correct draft556p1 with imagegen and review.",
+    "Generate556p2–p5 with attached original model PNGs, package and push complete556.",
+    "Continue557 then create new TL558 model before558, then TL559 before559.",
+    "Push each completed chapter immediately; update final index only when actually done."
+  ]
+}
