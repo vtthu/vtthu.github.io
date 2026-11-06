@@ -49,6 +49,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 554: Tiếng trống trận thứ nhất](chapters/554/): 5 trang, hoàn thành; [PDF A4](chapters/554/chuong-554.pdf)
+
 - [Chương 553: Ác chiến](chapters/553/): 5 trang, hoàn thành; [PDF A4](chapters/553/chuong-553.pdf)
 
 - [Chương 552: Cùng chung kẻ thù](chapters/552/): 4 trang, hoàn thành; [PDF A4](chapters/552/chuong-552.pdf)

@@ -1,0 +1,49 @@
+{
+  "chapter": 554,
+  "title": "Tiếng trống trận thứ nhất",
+  "images": [
+    "/tmp/comic-batch-551-559/a4-554/trang-01.png",
+    "/tmp/comic-batch-551-559/a4-554/trang-02.png",
+    "/tmp/comic-batch-551-559/a4-554/trang-03.png",
+    "/tmp/comic-batch-551-559/a4-554/trang-04.png",
+    "/tmp/comic-batch-551-559/a4-554/trang-05.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "nac-y-pham-thanh-lan-dao-binh-545.png",
+    "o-lo-man-lam-tat-han-chien-xa-552.png",
+    "u-than-kim-duong-mang-cot-trung-553.png",
+    "cu-nghi-nhan-dien-doc-nhan-nhan-ma-554.png"
+  ],
+  "summary": "Bạo Hùng và Độc Giác bị cự nghĩ, nhân diện cự hạt cản bước. Tát Hán tung ba cự nhân độc nhãn; cung thủ nhân mã và trọng thú tiếp ứng. Khi hai bên tiếp tục giằng co, tiếng trống cùng lời ngâm của các tế ti bắt đầu thay đổi chiến trường.",
+  "notes": "- 5 trang A4, HanCT543 quan sát với NYF nữ đúngmodel545; đã sửa trang1 gương mặt NYF và khung ngoàiđài, bỏ cave/bình/mapthừa. KDTBkhônglộdiện.\n- Giao chiến tăng quy mô bất thường là lo ngại NYF; không tự vẽ ThầnTượng/ChuẩnDực được nhắc.\n- Kiến sắt đen/mắt xanh, cự hạt mặt người áo giáp đỏvàng, ba cự nhânxám mộtmắtkhôngmiệng2lỗmũi váyda chùygai; nguồn/nhãnmodelkhôngtựthêmsinhvật.\n- Nhânmã thânngựabốnchâncungdâyleoxanh tênxanh quétkiếnkhônghạicựnhân; trọngthúgiápvàngđất2ngà/gaiđầubên, nhệnKimCươngvàHôiThiềmthườngbổsung.\n- Kết nhịptrốngvàáoxámtrượngđenngâmChânLinhngữ, chưa đồđằngbiếnhình555. Cả3cựnhâncònsốngcuối554, không hạ trước.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-551-559/554p1-final.png",
+    "/tmp/comic-generated-551-559/554p2.png",
+    "/tmp/comic-generated-551-559/554p3.png",
+    "/tmp/comic-generated-551-559/554p4.png",
+    "/tmp/comic-generated-551-559/554p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

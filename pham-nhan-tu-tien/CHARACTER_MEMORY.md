@@ -1102,3 +1102,16 @@ Nguồn: file CHUONG 553.txt do người dùng đính kèm. Mỗi PNG một tran
 - Đội trùng gần30KimTiên vượtquânThú, NQLlệnhÔLỗ/MạnLâm/TátHán xuốngtrận. ÔLỗ cưỡiHuyếttê,búađỏ;MLsừngxanhmắttím,THmặtkínđỏ. Sửa kỵ sĩ UT trang2 về modelbluepointedearsnormalneckkhôngngàHướngCảnh.
 - Chiếnxađen nòngđồngphónghỏa, trùngtổvesầuđenphóngbaotáchMangCốtTrùngthândao; thươngvongthểhiệnquang/khóibóngkhôngmáu.
 - UTcưỡicựtíchđen,tênlamnổlamhỏa,KimĐườngvàng2tayliêm2chân2cánhkhácKDovalbeetle. KếtUTthucungchuyểnđao; chưađưađộ cnhãncựnhân554ra.
+
+
+## Model trước554: đợt phản công
+Đã lưu models/cu-nghi-nhan-dien-doc-nhan-nhan-ma-554.png trước554. HN554 kiến sắt đen6chân mắt xanh acid xanh; NH554 bọ cạp khổng lồ đỏ vàng8chân2càngđuôiđộc mặt người trưởng thành gắn chitin không đầu người rời. CN554 cự nhân da xám khố/váy da thú, 1mắt lớn giữa trán/từng dọc, hai lỗ mũi KHÔNGMIỆNGkhôngmũithường, chùyđágai, đúngBAcon ngàntrượng. NM554 nhân mã 4chânngựa thântrênáoda kín, cungdâyleoxanh/tênxanh. ST554 thú4chântrọnggiápđấtvànghaiNGÀ/gaihaiBÊNđầuchĩatrước, 100trượng, khôngthêmtênloài. KC554nhện8chângiápđenbạc; HT554HôiThiềmthườngđainâu khôngphảilãnhchúaĐồLợiÔđãchết. TT554tếtiáoXÁMtrùmmặttrượngĐEN, biế nthểtaygấu/xanh/lambám tộc; khôngtựthêmgươngmặt. Trốngdaxươnglớn. Nhãnsinhvậttựsinhtrênảnhkhôngthaynguồn.
+
+
+## Chương 554 — Tiếng trống trận thứ nhất: hoàn thành 5 trang
+Nguồn: file CHUONG 554.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/554/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- 5 trang A4, HanCT543 quan sát với NYF nữ đúngmodel545; đã sửa trang1 gương mặt NYF và khung ngoàiđài, bỏ cave/bình/mapthừa. KDTBkhônglộdiện.
+- Giao chiến tăng quy mô bất thường là lo ngại NYF; không tự vẽ ThầnTượng/ChuẩnDực được nhắc.
+- Kiến sắt đen/mắt xanh, cự hạt mặt người áo giáp đỏvàng, ba cự nhânxám mộtmắtkhôngmiệng2lỗmũi váyda chùygai; nguồn/nhãnmodelkhôngtựthêmsinhvật.
+- Nhânmã thânngựabốnchâncungdâyleoxanh tênxanh quétkiếnkhônghạicựnhân; trọngthúgiápvàngđất2ngà/gaiđầubên, nhệnKimCươngvàHôiThiềmthườngbổsung.
+- Kết nhịptrốngvàáoxámtrượngđenngâmChânLinhngữ, chưa đồđằngbiếnhình555. Cả3cựnhâncònsốngcuối554, không hạ trước.
