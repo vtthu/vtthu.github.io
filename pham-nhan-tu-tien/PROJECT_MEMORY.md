@@ -1016,3 +1016,9 @@ Lưu models/bich-ngoc-phi-xa-hon-giap-phu-hoang-thap-cuu-565.png trước565. B�
 Nguồn: file CHUONG 565.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/565/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Chương565 đủ4trangA4. Đã sửa trang2 loại toàn bộ FOX tự sinh trên xe, bỏGiải ởcảnhtrướckhitriệura. Chỉ4đồnghànhHanCT543/KDđỏ/TBtrắng/GDN01; BíchNgọcPX4754bánhmởkhôngmái.
 - Túc/NYFchỉđầuchươngởcanyoncũ, khôngđitheoxe. Địđồchỉphầ nđãcókhôngbảnđầyđủ. LongNgũrồngTEAL2sừngvàng/mànĐỎgiao dịch. Trậnđồđấtvàng/ôtrắng/phỉthúyđãmua cấtkhôngchoKDăn;HGP565bầudụctrắngvânmâygiá500, kếtvừanhậnchưathử566.
+
+
+## Chương 566 — Loại thứ ba: hoàn thành 4 trang
+Nguồn: file CHUONG 566.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/566/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Chương566 đủ4trangA4. HoàngThậpCửu chỉhồngảnhmờ/mặtnạđỏchữtên khônglộmặtthật. HànLongNgũrồngchetoànmặtkhigiao dịch, gỡsaukhinhậnngọcgiản. 3phươngánđúnggiá5000/10000/1000 tiênnguyênthạch,khôngnhầ mchi phítiêuhaovớigiámua.
+- HGPthửnửacanhgiờrồithêmnửacanh,KDra mệtnhẹănthướcngọcXANHkhôngkiếm; đápnếuđủphùtốiđathêmnửacanh. Hànmuahơn100HGP, chọncách3, nhậnngọcgiảnTRẮNG,họcnửacanh,rồimớibốtrítàiliệu; chưakíchhoạtpháptrậ n567.

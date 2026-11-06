@@ -1,0 +1,43 @@
+{
+  "chapter": 566,
+  "title": "Loại thứ ba",
+  "images": [
+    "/tmp/comic-batch-559-569/a4-566/trang-01.png",
+    "/tmp/comic-batch-559-569/a4-566/trang-02.png",
+    "/tmp/comic-batch-559-569/a4-566/trang-03.png",
+    "/tmp/comic-batch-559-569/a4-566/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "giai-dao-nhan-gdn01.png",
+    "bich-ngoc-phi-xa-hon-giap-phu-hoang-thap-cuu-565.png"
+  ],
+  "summary": "Kim Đồng thử Hồn Giáp Phù; Hàn Lập mua hơn trăm tấm. Hoàng Thập Cửu đưa ba phương án tăng uy năng phi xa, Hàn Lập chọn pháp trận tiêu hao tiên nguyên thạch.",
+  "notes": "- Chương566 đủ4trangA4. HoàngThậpCửu chỉhồngảnhmờ/mặtnạđỏchữtên khônglộmặtthật. HànLongNgũrồngchetoànmặtkhigiao dịch, gỡsaukhinhậnngọcgiản. 3phươngánđúnggiá5000/10000/1000 tiênnguyênthạch,khôngnhầ mchi phítiêuhaovớigiámua.\n- HGPthửnửacanhgiờrồithêmnửacanh,KDra mệtnhẹănthướcngọcXANHkhôngkiếm; đápnếuđủphùtốiđathêmnửacanh. Hànmuahơn100HGP, chọncách3, nhậnngọcgiảnTRẮNG,họcnửacanh,rồimớibốtrítàiliệu; chưakíchhoạtpháptrậ n567.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-559-569/566p1.png",
+    "/tmp/comic-generated-559-569/566p2.png",
+    "/tmp/comic-generated-559-569/566p3.png",
+    "/tmp/comic-generated-559-569/566p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
