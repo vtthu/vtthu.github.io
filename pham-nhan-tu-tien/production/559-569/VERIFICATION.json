@@ -1,0 +1,131 @@
+{
+  "status": "completed",
+  "chapters": [
+    {
+      "chapter": 559,
+      "pages": 4,
+      "source_identical_to_uploaded_file": true,
+      "pdf_pages": 4,
+      "chapter_commit": "b6d93b6c5ae1bb4522603e8468d0c658c874300a"
+    },
+    {
+      "chapter": 560,
+      "pages": 4,
+      "source_identical_to_uploaded_file": true,
+      "pdf_pages": 4,
+      "chapter_commit": "049704dea33c2aa232b995c41c301aca7c212860"
+    },
+    {
+      "chapter": 561,
+      "pages": 5,
+      "source_identical_to_uploaded_file": true,
+      "pdf_pages": 5,
+      "chapter_commit": "d7cfbb3b24811b19382d17d712dd0cee368c55f7"
+    },
+    {
+      "chapter": 562,
+      "pages": 5,
+      "source_identical_to_uploaded_file": true,
+      "pdf_pages": 5,
+      "chapter_commit": "1970a0f8d419733a5806fb955bad1ea6f898946e"
+    },
+    {
+      "chapter": 563,
+      "pages": 4,
+      "source_identical_to_uploaded_file": true,
+      "pdf_pages": 4,
+      "chapter_commit": "a32995be2a62e8dc679e5bc2bec8f6e4002b255c"
+    },
+    {
+      "chapter": 564,
+      "pages": 4,
+      "source_identical_to_uploaded_file": true,
+      "pdf_pages": 4,
+      "chapter_commit": "139ea981abed004ab755dce44f11c22fe107b192"
+    },
+    {
+      "chapter": 565,
+      "pages": 4,
+      "source_identical_to_uploaded_file": true,
+      "pdf_pages": 4,
+      "chapter_commit": "6da3f23860fc67b19dee0f3b92145e6803978ae1"
+    },
+    {
+      "chapter": 566,
+      "pages": 4,
+      "source_identical_to_uploaded_file": true,
+      "pdf_pages": 4,
+      "chapter_commit": "cdd37751230a075397b55df0d3d40a9756cae97a"
+    },
+    {
+      "chapter": 567,
+      "pages": 4,
+      "source_identical_to_uploaded_file": true,
+      "pdf_pages": 4,
+      "chapter_commit": "6f921112acaa3a0ca3c2cd568518d885c92e50f6"
+    },
+    {
+      "chapter": 568,
+      "pages": 4,
+      "source_identical_to_uploaded_file": true,
+      "pdf_pages": 4,
+      "chapter_commit": "a1f868383380740f71cb1600a801c9c0a93bf319"
+    },
+    {
+      "chapter": 569,
+      "pages": 4,
+      "source_identical_to_uploaded_file": true,
+      "pdf_pages": 4,
+      "chapter_commit": "37f23d8a243aadef690abc0b5a9da4a4323990c9"
+    }
+  ],
+  "total_pages": 46,
+  "total_pdfs": 11,
+  "source_files_byte_identical": true,
+  "png_decode_and_portrait_A4": true,
+  "pdf_A4_pages_verified": true,
+  "chapter_ZIPs_verified_locally": true,
+  "new_model_images": [
+    {
+      "path": "models/tuc-luc-u-ho-trung-linh-559.png",
+      "sha256": "b4a3f27fc56b9214ff654d4ad593979336f8b8a8ff5eda03b749e9b72f695bf0"
+    },
+    {
+      "path": "models/ngoc-mon-kim-vong-moc-xich-phap-lien-561.png",
+      "sha256": "577fea1210c0caeb09832d950e0cd080e6a9e205200a70f64a1d975e3a88531e"
+    },
+    {
+      "path": "models/am-tinh-dai-dien-thac-thanh-ngoc-dieu-hau-562.png",
+      "sha256": "ccbe6b81a4e794ebe28e549e6054273faae6d9e6703827b82ecfa6a5dc2e9bf3"
+    },
+    {
+      "path": "models/dang-quy-nhan-mi-trach-vo-thuc-an-than-than-tuong-563.png",
+      "sha256": "201f053eb9734110f9bfab50bac6b49cfbbad2f6bcbeba475cc092b622e38dee"
+    },
+    {
+      "path": "models/bat-linh-cu-te-da-kieu-dau-binh-564.png",
+      "sha256": "e3a916ceead7a5535033f93a06db0b5f85c01f6a9bf91640713a6476220670c1"
+    },
+    {
+      "path": "models/bich-ngoc-phi-xa-hon-giap-phu-hoang-thap-cuu-565.png",
+      "sha256": "621d642c7036712df5e2704a19edb1439932a7b07b8dfdae829005fd4a945cc3"
+    },
+    {
+      "path": "models/luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+      "sha256": "e87cfb744835d9ff9afb99fea0b2e0c5934afa20624828916ae830214386163d"
+    },
+    {
+      "path": "models/hoi-cam-tu-phong-bach-ky-tam-lenh-hoa-phien-568.png",
+      "sha256": "15c651f82ecf30218b835202a041e618f4caceeab7462b0de1a76a9d4a4f542e"
+    },
+    {
+      "path": "models/ho-su-an-thong-dai-te-ti-tuan-tra-569.png",
+      "sha256": "0a93abcd32e7dc047752ac2c811f3a0d6b4feff0352a02a7456e192ed0dcc7a4"
+    },
+    {
+      "path": "models/hong-loa-ha-coc-ca-chuoi-no-thanh-569.png",
+      "sha256": "a9ffff565386b010ff4d55d8fa6dd4b936eb2d4a342ca04627c194418a69270d"
+    }
+  ],
+  "verified_at_utc": "2026-11-06T17:36:06.749480+00:00"
+}

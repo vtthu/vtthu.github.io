@@ -1,0 +1,655 @@
+[
+  {
+    "chapter": 559,
+    "title": "Con rệp",
+    "status": "completed",
+    "pages": 4,
+    "pdf": "chapters/559/chuong-559.pdf",
+    "chapter_commit": "b6d93b6c5ae1bb4522603e8468d0c658c874300a",
+    "source_sha256": "35aa49fd9957692b10b921940ba0349c4b8f91236a420c4a10fbfe6d010dc2fd",
+    "source_bytes": 14419,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "nac-y-pham-thanh-lan-dao-binh-545.png",
+      "tuc-luc-u-ho-trung-linh-559.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "man-hoang-sa-thu-tieu-bach-540.png",
+      "khac-don-bach-cot-tu-kim-tien-556.png",
+      "o-lo-man-lam-tat-han-chien-xa-552.png",
+      "u-than-kim-duong-mang-cot-trung-553.png"
+    ],
+    "continuity_notes": "- 4 PNG A4/PDF, nguồn559mớigiữnguyênbyte(chỉthêmdòngtrốngso559cũ). HànCT543/NYFnữ545; KDđỏ532vàTBtrắngngọc540chỉtrongTÚI, KDrarồilạivàobụngTBquaquangvàng.\n- TúcLụcGREEN6đuôiSAOTÍM3sẹophảiGIÁPXANHmodel559, satinhcỡđầungườicótơvàngTúcgiữ,khôngHan/KDnhận. Sa thúđãchếtkhôngvẽsốnglại.\n- Cônđenbịđánhgãytrang3,kểtừđókhôngcônnguyên. TrùngLinhcáthểđịchmodelbeetleOVAL528biếnthểTLi559, khôngKimĐồngbiếnthân; khítứcgầnTháiẤthậulàHanđánhgiá.\n- NQLgiữáoTÍMsaovàngsau557. HànđưaNYFvềtrêncổngthànhkhôngởlạichiến. Túcné2trảm,khôngchết. KếtchỉbóngmờU Hộ, chưalộ9đuôigiápvànghaydanhtính560.\n- Phần551–559cũ:559nayhoànthànhởđợtmới,556–558vẫndởkhôngđánhdấuxong.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3851174,
+        "sha256": "500bcf6d502ec2db35dc39b2ca64a95ded7bd45cd33b4719a749256bb12aad00"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3540570,
+        "sha256": "1365310b7ebaae2e8de033a913d403ce4d4993922c7ac8e7c69265c4baecdeb0"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3979367,
+        "sha256": "792974925f2d8bc10d8a406062d71c79381db203e6c83a36ad3afda19a0e05e2"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3706020,
+        "sha256": "5b6fa0fdcc31ee39de3d833c1e67fbad87e58fcfc400f41e21002174d6fc4d04"
+      }
+    ]
+  },
+  {
+    "chapter": 560,
+    "title": "Vương",
+    "status": "completed",
+    "pages": 4,
+    "pdf": "chapters/560/chuong-560.pdf",
+    "chapter_commit": "049704dea33c2aa232b995c41c301aca7c212860",
+    "source_sha256": "7011ed28d21df7260904378474dc07780ee1dafc267d637f0736f0122b1b7251",
+    "source_bytes": 15106,
+    "models": [
+      "tuc-luc-u-ho-trung-linh-559.png",
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "nac-y-pham-thanh-lan-dao-binh-545.png",
+      "ngoc-mon-kim-vong-moc-xich-phap-lien-561.png"
+    ],
+    "continuity_notes": "- 4 trangA4/PDF, UH560hồXANHgiápVÀNGvânBẠC,saoBẠCkhácTúc6đuôigiápXANHsaoTÍM3sẹophải. Đầu560UH9đuôi, sau2đuôibịcắtcòn7đuôinguyên,khôngtựchữalành/khôiphụcsố9.\n- Đãsửacaptiontrang3bỏlờitựsinhgố cđuôichữalành/khôngthươngtổn,bỏchỉdẫngiảiphẫumodelkhỏitrang. PGtrảmđuôiquangxanhkhôngmáu,nguồnthươngtíchvẫnđượcnóirõ.\n- TrùngLinhOVAL6chân2liêm2cánh,nuốthắchỏ a/2trảogiảlập/tơxanhđen,cắtnon nửalướirồi nuốtphầncòn;UHo10móngĐENkhắctinhvăngãy,giápchỉvệttrắng.\n- HànCT543/NYFnữ545quan sátvềyếuđiểmthầnhồn,chưaHad biếnthân/rađòn561. Túcđãlùikhôngcônnguyên,Sađãchếtkhônghiệ n.\n- KếtGOLDdomainTrùngLinhghìmUH,>10sợipháptắchợpthànhGiaolongVÀNGnănglượng,khôngthúsốngmới;chưađâmphòngngự561.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3977481,
+        "sha256": "407d0aa24917cdfba9b0c7bd61702ec8bf7069e6c990eeecea708001e822784b"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3874535,
+        "sha256": "8f3d050b28b5efc8771aca4be43de1258eef822954d578ce9e8d90b5c1c96440"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3933223,
+        "sha256": "03c852b39d5d65a92b6a34599ccad862327ddac98a6dcc1c04aed3c5c84ea122"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 4210245,
+        "sha256": "ee8c6b68571bba40350f76ecce48f3997bd860caf592e408b0d08e4ea330db7d"
+      }
+    ]
+  },
+  {
+    "chapter": 561,
+    "title": "Bất đắc dĩ",
+    "status": "completed",
+    "pages": 5,
+    "pdf": "chapters/561/chuong-561.pdf",
+    "chapter_commit": "d7cfbb3b24811b19382d17d712dd0cee368c55f7",
+    "source_sha256": "c8df93d75e38c94468cae70046451d2689c16280202c42003b8c9ce30107e9bb",
+    "source_bytes": 14613,
+    "models": [
+      "tu-kim-ma-than-nguyen-anh-522.png",
+      "tuc-luc-u-ho-trung-linh-559.png",
+      "ngoc-mon-kim-vong-moc-xich-phap-lien-561.png"
+    ],
+    "continuity_notes": "- Chương 561 hoàn thành 5 trang A4; Hàn Lập dùng đúng biến thân ba đầu vượn vàng, sáu tay, thân tử kim model 522. U Hộ còn bảy đuôi; Túc Lục sáu đuôi. Kim võng và hắc xích bị phá; ngọc môn/ngọc trấn rạn nứt. Kết thúc đúng lúc 36 pháp liên tiến vào Trùng Linh, chưa kết luận tiêu diệt.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3735116,
+        "sha256": "047d37d9b2aea331a2e70e355490da3e0bc4e823faa3dba9e397007fc83a821a"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3934210,
+        "sha256": "64a9b80c2f72f4c67444004c6a7950acfb9952f40971f26aae1abedfdc8a1fa0"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3811401,
+        "sha256": "b5b6b60ec089d949c40b78f45ead57722cb4230f52373e2966ab8c6e7e187dc2"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 4063299,
+        "sha256": "e5c5acb5c0316a8c722a16c14730d0377a0d9b639d1f1afdf9d0ad1657e746ec"
+      },
+      {
+        "file": "trang-05.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 4194716,
+        "sha256": "65d9b84fcfcb89d28ca63852fb3bfe3224b077c18aac7780a4ae92eba5cda642"
+      }
+    ]
+  },
+  {
+    "chapter": 562,
+    "title": "Kinh sợ thối lui",
+    "status": "completed",
+    "pages": 5,
+    "pdf": "chapters/562/chuong-562.pdf",
+    "chapter_commit": "1970a0f8d419733a5806fb955bad1ea6f898946e",
+    "source_sha256": "6ece576200ff8b8c85cbb628963067c5e1658cb459ad55a8cacb706a60441cc2",
+    "source_bytes": 15145,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "tu-kim-ma-than-nguyen-anh-522.png",
+      "tuc-luc-u-ho-trung-linh-559.png",
+      "ngoc-mon-kim-vong-moc-xich-phap-lien-561.png",
+      "am-tinh-dai-dien-thac-thanh-ngoc-dieu-hau-562.png",
+      "khac-don-bach-cot-tu-kim-tien-556.png",
+      "nac-y-pham-thanh-lan-dao-binh-545.png",
+      "o-lo-man-lam-tat-han-chien-xa-552.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "dong-phu-tam-phap-chuong-thien-binh-547.png"
+    ],
+    "continuity_notes": "- Chương562 đủ5trangA4. Đã sửa câu Đừng đuổi về U Hộ, không để Hàn xuất hiện dạng người trước khi thu biến thân. U Hộ7đuôi/Túc6; TrùngLinh còn sống bỏ chạy bằng cánh, 36phápliên ở trong thân. Ngọc môn/ngọc trấn bị đánh văng, không tự khẳng định đã phá hủy.\n- NQL giữ áo tím sao vàng, hội nghị đại điện đá đen/bếp lửa/ghế da thú đúngmodel562. Chỉ đề nghị/ứa hẹn địa đồ, chưa giao. Mẹ NYF chỉ được nhắc qua thoại không tự tạo chân dung. Cảnh cuối cave547 phòngtrongchỉgiườngđá, HanCT543vàKDđỏ532 trên giường; dừng trước câu trả lời563.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3686421,
+        "sha256": "0d6a1604308efd21b0df7c48a8edc09fe86046abf3f314b1fafd72cff229cdf1"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3481972,
+        "sha256": "2b8f3909107c113c4a40377bf68b2924b7826ecb6a264147c7e5cb54adc56861"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3438058,
+        "sha256": "bc037e079a91102b8fcda5e6705e117ea9b3109a41fc43140b322a649f8bcf72"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3385174,
+        "sha256": "1294ac6396ffcecf337fc957fb802ba95dc2a2110eca25d945ea65e77e2428ee"
+      },
+      {
+        "file": "trang-05.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3656073,
+        "sha256": "776a70fe21967c4bac6897faaca1a088ea13e6c44f2835c6c10c08e617f69550"
+      }
+    ]
+  },
+  {
+    "chapter": 563,
+    "title": "Mưu đồ bí mật",
+    "status": "completed",
+    "pages": 4,
+    "pdf": "chapters/563/chuong-563.pdf",
+    "chapter_commit": "a32995be2a62e8dc679e5bc2bec8f6e4002b255c",
+    "source_sha256": "9a3bfcbe740355e8cf320c20722509b5300e2452f8db68a1ac1ff3c65136dfcd",
+    "source_bytes": 14783,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "man-hoang-sa-thu-tieu-bach-540.png",
+      "dong-phu-tam-phap-chuong-thien-binh-547.png",
+      "am-tinh-dai-dien-thac-thanh-ngoc-dieu-hau-562.png",
+      "dang-quy-nhan-mi-trach-vo-thuc-an-than-than-tuong-563.png",
+      "khac-don-bach-cot-tu-kim-tien-556.png",
+      "o-lo-man-lam-tat-han-chien-xa-552.png"
+    ],
+    "continuity_notes": "- Chương563 đủ4trangA4, đã sửa trang3 từ ngang sang dọc và loại Hàn/KD/TB/NYF/ThanhHồ tự sinh sai khỏi hội nghị trang4. Cuộc hội nghị không có đối tượng bị mưu hại tại chỗ. Model5tộctrưởng563 được lưu trước dùng.\n- ChânLinhchi huyết và huyếtluyện mới là kế hoạch, chưa thi hành; lời ÂnThân nói đã câu thông được Vương chấp thuận không tự vẽUHo hiệnđiện. Hàn ở cave vớiKD/TB, một thành thắng; chưa biết âm mưu.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3664515,
+        "sha256": "d3fc88ab5c158ebf98fe7712757ec2fecc40c0dc753904e824eca9c56f397acd"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3562349,
+        "sha256": "7b91bccd238227d10cfcbb4ed19966edc7ca57d7a08e3eeb184629af2acb5b75"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3466263,
+        "sha256": "3c1d7a54cbc79585fe8febb04f1e4854573fa83077f0292351ea7b97272115ac"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3722194,
+        "sha256": "d2743a50d40755f9a93d8003d8e5571d2103670b21747999dce305ca05ea5d38"
+      }
+    ]
+  },
+  {
+    "chapter": 564,
+    "title": "Bát Linh tụ hợp",
+    "status": "completed",
+    "pages": 4,
+    "pdf": "chapters/564/chuong-564.pdf",
+    "chapter_commit": "139ea981abed004ab755dce44f11c22fe107b192",
+    "source_sha256": "41e53749ba7da8f32a975983b5a4fc7b973238865a2caaebfb40abd9e4e24ab2",
+    "source_bytes": 14729,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "dong-phu-tam-phap-chuong-thien-binh-547.png",
+      "nac-y-pham-thanh-lan-dao-binh-545.png",
+      "dang-quy-nhan-mi-trach-vo-thuc-an-than-than-tuong-563.png",
+      "bat-linh-cu-te-da-kieu-dau-binh-564.png",
+      "tuc-luc-u-ho-trung-linh-559.png",
+      "o-lo-man-lam-tat-han-chien-xa-552.png"
+    ],
+    "continuity_notes": "- Chương564 đủ4trangA4. NQLđổiđúngáoTRẮNGtheonguồnmới, NYFáochoàngxámchegiấu/tócáoxanhgiữmặt nữ545. Đốitượngđộngphủlàthếthânchỉlộcuối, HànCT543khôngbịgiếtthật.\n- Túc6đuôi, CựTê1sừngxanh, DạKiêuđen dùngPNG;5ChânLinhvôdanhnắmsươngkhôngtựđặtloài. TếtiáoxámcốttrượngtrắnghuyếtquangPG. Kết cònđậuvàngúa/mặtnạNGỰAXANHkhôngsừng; khôngnhầmmặtnạLongNgũrồng. TúcchặnlờiĐăngQuỷbảo vệNYF.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3702372,
+        "sha256": "9f3228409cc640a7dc303501f39a68b4721e46889197351a075202a35ed80331"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 4062454,
+        "sha256": "92ed64005439b6b348ec3b7d0ba4ab8013f06ec4aaa26e2fcf08f114c71f7075"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 4074231,
+        "sha256": "cc3443324338a70e46080e6a1ef254ca116a95790f14d70001e03cdf37d64464"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3961270,
+        "sha256": "b73400be60ec97ed3495c808f1d79d93c8b880f086a4e4f6103c5652d5586825"
+      }
+    ]
+  },
+  {
+    "chapter": 565,
+    "title": "Xâm nhập",
+    "status": "completed",
+    "pages": 4,
+    "pdf": "chapters/565/chuong-565.pdf",
+    "chapter_commit": "6da3f23860fc67b19dee0f3b92145e6803978ae1",
+    "source_sha256": "8125f133558803b1bec021796ae0f75fe79a0a8571dd2d47f07bac1b501004c5",
+    "source_bytes": 13513,
+    "models": [
+      "tuc-luc-u-ho-trung-linh-559.png",
+      "nac-y-pham-thanh-lan-dao-binh-545.png",
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "man-hoang-sa-thu-tieu-bach-540.png",
+      "giai-dao-nhan-gdn01.png",
+      "bich-ngoc-phi-xa-hon-giap-phu-hoang-thap-cuu-565.png",
+      "phi-xa-ty-huu-mat-na-truc-son-ha-475.png"
+    ],
+    "continuity_notes": "- Chương565 đủ4trangA4. Đã sửa trang2 loại toàn bộ FOX tự sinh trên xe, bỏGiải ởcảnhtrướckhitriệura. Chỉ4đồnghànhHanCT543/KDđỏ/TBtrắng/GDN01; BíchNgọcPX4754bánhmởkhôngmái.\n- Túc/NYFchỉđầuchươngởcanyoncũ, khôngđitheoxe. Địđồchỉphầ nđãcókhôngbảnđầyđủ. LongNgũrồngTEAL2sừngvàng/mànĐỎgiao dịch. Trậnđồđấtvàng/ôtrắng/phỉthúyđãmua cấtkhôngchoKDăn;HGP565bầudụctrắngvânmâygiá500, kếtvừanhậnchưathử566.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3835470,
+        "sha256": "22f178dee6c8c18206619b734a4ddf7aaffb2ce0c04101a76d0b5fe7316edd21"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3910483,
+        "sha256": "235fd8e95f875b889a5301b2f5e7af94072238479bb7dc3eb4bd9546a5ea86c2"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 4100807,
+        "sha256": "d2d9ef511fd823347318f0dae24eed069e411548345f38ac6886cf5586e4e1ab"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3870722,
+        "sha256": "853f3c9b34a0491d70865736aeac370d759c5d834be370e8bfd4d3ee639e11fc"
+      }
+    ]
+  },
+  {
+    "chapter": 566,
+    "title": "Loại thứ ba",
+    "status": "completed",
+    "pages": 4,
+    "pdf": "chapters/566/chuong-566.pdf",
+    "chapter_commit": "cdd37751230a075397b55df0d3d40a9756cae97a",
+    "source_sha256": "54dc6be34782289633b38439906f36294ba2fe661d2c3b423abf062f2f15fd1a",
+    "source_bytes": 14387,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "man-hoang-sa-thu-tieu-bach-540.png",
+      "giai-dao-nhan-gdn01.png",
+      "bich-ngoc-phi-xa-hon-giap-phu-hoang-thap-cuu-565.png"
+    ],
+    "continuity_notes": "- Chương566 đủ4trangA4. HoàngThậpCửu chỉhồngảnhmờ/mặtnạđỏchữtên khônglộmặtthật. HànLongNgũrồngchetoànmặtkhigiao dịch, gỡsaukhinhậnngọcgiản. 3phươngánđúnggiá5000/10000/1000 tiênnguyênthạch,khôngnhầ mchi phítiêuhaovớigiámua.\n- HGPthửnửacanhgiờrồithêmnửacanh,KDra mệtnhẹănthướcngọcXANHkhôngkiếm; đápnếuđủphùtốiđathêmnửacanh. Hànmuahơn100HGP, chọncách3, nhậnngọcgiảnTRẮNG,họcnửacanh,rồimớibốtrítàiliệu; chưakíchhoạtpháptrậ n567.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3927477,
+        "sha256": "513177bf0a3f3d6eccb3e97ac45285ce0e2cb517fc5b6c7fa424693a6edf05f5"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3372464,
+        "sha256": "3539b09080112f0ee41263a174b4146c8c6b98791340a0a2fd05a8f1c6d2273f"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3528280,
+        "sha256": "8aeec5f0ca78bfca22c58689ea445d509e85cd8df1e95b8cc3ead07e29b865b0"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3677854,
+        "sha256": "3f12d595ba06d7ae9e6700e77fe18df9ca6c11b5e350c3dd658703c7111ddea6"
+      }
+    ]
+  },
+  {
+    "chapter": 567,
+    "title": "Đuổi tới",
+    "status": "completed",
+    "pages": 4,
+    "pdf": "chapters/567/chuong-567.pdf",
+    "chapter_commit": "6f921112acaa3a0ca3c2cd568518d885c92e50f6",
+    "source_sha256": "787fa528b12078384ad1dbdfc2ae4c4aa3610c59336314b8dd6e9cd45d5b84d9",
+    "source_bytes": 13016,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "man-hoang-sa-thu-tieu-bach-540.png",
+      "giai-dao-nhan-gdn01.png",
+      "bich-ngoc-phi-xa-hon-giap-phu-hoang-thap-cuu-565.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- Chương567 đủ4trangA4. GDNthuởtrang1saukhikíchtrận,nênkhôngởngoàicác cảnhsau. KDtựvàobụngTBtrang2,khôngxuấthiệnngoàitrang2sau/trang3/4. TrậnSÁUcạnhnguồntiênnguyênthạchtrắngtâmtrắng,chỉsứccấpnănglượngTháiẤtkhôngHànthăngcảnh.\n- HuyềnThiênhồlô2bầuxanhtrơn/cổnhạtkhácCTBthândẹttrònláxanhnắpvàng. Đãsửarõ4khungtrang4bịtrộnhaiđạocụ. Hànchỉthầnniệmdòhồlô,khôngthânthậtvà o. Toàn bộkiếmXANHkimloạicấtvàohồlôcùngLC474ba tầngcũ,khôngkhẳngđịnhtầngsâuchưađọc.\n- Lụcdịchnhỏlênmiệnghồlôchưa thấythayđổimạnh,khôngchínngay. Thángsauđịchvừabắtđầuđuổi,tốcđộgấpđôi;HGPđưavàomiệngTBchoKDtrongbụng,phi xađổihướng. Chưagiao chiến.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 4009739,
+        "sha256": "980865df9a5dbcc95ea165e17f76a2b7dafc75081042f27c8ebeba37b9078df1"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3912445,
+        "sha256": "4dee085650d5cf4aec9a066441e254aee0ce9cd4b1162c16ce9a70eba334473b"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3509427,
+        "sha256": "a605f61d0672c63f04549631201f2a791a0823d9e9e8ce3aa27c1cc8d62e2bb0"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3708024,
+        "sha256": "ed0e5d7cc440f5c8703cafea6fb97f6b047b71d51f8b6cb40ab598e8c851ffc9"
+      }
+    ]
+  },
+  {
+    "chapter": 568,
+    "title": "Cướp đường chạy",
+    "status": "completed",
+    "pages": 4,
+    "pdf": "chapters/568/chuong-568.pdf",
+    "chapter_commit": "a1f868383380740f71cb1600a801c9c0a93bf319",
+    "source_sha256": "3dccea24cddc88200d8d8be103acd6bf31eb35acdddd73585081ddcb5ac2ddd3",
+    "source_bytes": 14713,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "man-hoang-sa-thu-tieu-bach-540.png",
+      "tuc-luc-u-ho-trung-linh-559.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+      "hoi-cam-tu-phong-bach-ky-tam-lenh-hoa-phien-568.png"
+    ],
+    "continuity_notes": "- Chương568 đủ4trangA4. Đã sửa loạiGiảiĐạoNhân tựsinhkhungcuốitrang2, GDNđãthu567khôngngoài; đồnghành3HanCT543/KDđỏ/TBtrắng. EnemyOVALgoldbeetle559riêngkhôngcùngxe haynhầmKDbiếnthân.\n- Giaiđoạnđầuvàitàngtháng khoảngcáchgầ nnhưkhônggiảmnhờđổihướng; Hànướcđủtiêntiênnguyênthạch20–30nămchứkhôngđãtrôiqua20năm. KhókhănđườngManHoangmớilàmchậmvềsau.\n- Hungcầmxám568khácDạKiêuđen, bạchkỳmây/7–8vụlongchỉphép/BA lệnhbàivàngđấtphảnphongnhận; chỉthoátkhônggiếtcầm. OngTÍMđuôimócxanhULAM,dùngphiênĐỎvàbalệnh,hơnnửacanhmớithoát. Cuốikhoảngcáchrútnhưngchưabịbắtkịp.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3946818,
+        "sha256": "1d8ef281b5080b7b297cc2660142bb8849722918ee369c1e190337d9df596835"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3974486,
+        "sha256": "cab45f1c5d2d22e8ed38c515cf551fabf28fcb2395c616ee7235ef1fee19ce98"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3717035,
+        "sha256": "222ab7285e75ef5e2323ee38d3f0dca4eb02d37afd395c750f24b760241fe733"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3841881,
+        "sha256": "fb9c19a203ab5515e251884dd93a6f05da99575971a03a549efe09141662b011"
+      }
+    ]
+  },
+  {
+    "chapter": 569,
+    "title": "Bất nhân bất nghĩa",
+    "status": "completed",
+    "pages": 4,
+    "pdf": "chapters/569/chuong-569.pdf",
+    "chapter_commit": "37f23d8a243aadef690abc0b5a9da4a4323990c9",
+    "source_sha256": "610dcb5c2e61e235dadb0e98a735d45e657c877ed298ce9fe6535514541b0522",
+    "source_bytes": 14100,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "man-hoang-sa-thu-tieu-bach-540.png",
+      "bich-ngoc-phi-xa-hon-giap-phu-hoang-thap-cuu-565.png",
+      "kim-dong-giap-trung-tien-giai-528.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+      "dong-phu-tam-phap-chuong-thien-binh-547.png",
+      "ho-su-an-thong-dai-te-ti-tuan-tra-569.png",
+      "hong-loa-ha-coc-ca-chuoi-no-thanh-569.png"
+    ],
+    "continuity_notes": "- Chương569 đủ4trangA4. HànCT543khôngđổimặtgốc,KDđỏ532hóabeetleVÀNGnhỏ528vàobụngTB,TBhóadâychuyềntrắngcấtđiởtrang1; khôngvẽKD/TBthânthậtngoàitrang2. Câuđịchtớitrongnửathánglàướctínhvậntốchiệntại,sauHànđổihướngchekhíhơ nthángmớitớiHồngLoa,khôngkhẳngđịchbắtkịpgiữachặng.\n- HồngLoađáĐỎ/mộ tcầuđávòm/3hangnước/2nhânsưtrái chắptayphảirìuđúngmodel. Hànđidướisôngkhôngsplash,cáchuốiđenbịnékhônggiết; nghịchBảoLuândùngvà iđạovănđãhồi,chấnđộngbịpháthiện. Khôngvẽphi xacùngHanởdướinước.\n- Línhgiápxươngmặtnâu6bướu,thủlĩnhtuaphảiđỏ/tùvàngà,nỏgỗmũilamđenmớinhắmsôngchưabắ n. KDchỉhiệnngườiáođỏlạitrang3dướisôngthảkhí. ÂnThôngATg569khácÂnThân563;đạitếtiáođỏđúngmodel. KếtpháthiệnthêmkhíTháiẤt,chưagiaochiế nhaytựkểchương570.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3918423,
+        "sha256": "994eb1f7c6512231dcf5b347c8d0559ecb20790666f63536a7686f023bd5cd53"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3878618,
+        "sha256": "ac988c8a570663411a285b45157ac15ce605fa1f39c33f615b12c047162b3666"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3913332,
+        "sha256": "07a81bb25012ec17b39b5c65354bcb5f5923b18c332dba5cee067231692a7df9"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "bytes": 3819886,
+        "sha256": "9c30906c0b9c7991c363658772972ff62e63bbb49c8f993762a4a85ab76d8954"
+      }
+    ]
+  }
+]

@@ -1,5 +1,9 @@
 # Phàm Nhân Tu Tiên — Kho truyện và bộ nhớ dự án
 
+## Đợt mới nhất: chương 559–569
+
+[Đọc lần lượt 11 chương 559–569](production/559-569/README.md): **46 trang, 11 PDF A4**, đã hoàn thành và đẩy từng chương.
+
 ## Chương từ các tệp 529–533
 
 - [Chương 529: Tới cửa](chapters/529/README.md) · [PDF](chapters/529/chuong-529.pdf)

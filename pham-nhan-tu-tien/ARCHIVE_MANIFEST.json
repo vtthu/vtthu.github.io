@@ -2351,18 +2351,18 @@
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 316306,
-      "sha256": "16f4f3a4fb8052d028078d0c4a41098d317feb1bb0d2712e7b3d328b51a31ba8"
+      "bytes": 317110,
+      "sha256": "9400e23cc75ec2a4d00622ea5abfb5e0729df3aad5e5f66ce27e01e73f14ea0b"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 267183,
-      "sha256": "285d8ffe5f9e14cd3c89c0782ff936bcb2ca83b32e224edfbb4fc6bdafa26424"
+      "bytes": 267987,
+      "sha256": "04ed5db89364018b6c651561fc75ec2a4669bbe3da12500d5a2b868895d1028f"
     },
     {
       "path": "README.md",
-      "bytes": 10831,
-      "sha256": "0c6c7776445486f0158abea1cd051ced6470a5cdc5da8cdccd793358d896bd5d"
+      "bytes": 11023,
+      "sha256": "7d20ada69d7a51c05dd9ddba02d1967c38cb13181e91e4accc05f7eb7f8a5f8c"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -7923,6 +7923,36 @@
       "path": "production/551-559/workflow/package.py",
       "bytes": 4870,
       "sha256": "e992c0202d91f3e92e87755344bf672cd9c5a2f13d2adf8065ef299ff8782117"
+    },
+    {
+      "path": "production/559-569/CHAPTER_REGISTRY.json",
+      "bytes": 25705,
+      "sha256": "efd9992dae9b5ccfa755cb17a45bed114860c789ae42af85c08eb0390cc1b957"
+    },
+    {
+      "path": "production/559-569/README.md",
+      "bytes": 4154,
+      "sha256": "df836ee4d66cbf9f0efd2b4f6b0e5bc0a28e31297d2a95e44f21aa6310f41756"
+    },
+    {
+      "path": "production/559-569/STYLE_GUIDE.md",
+      "bytes": 4593,
+      "sha256": "2a09148da980d56b5eb2713e2f05560acd0f29507a5d2dc8402338474a460337"
+    },
+    {
+      "path": "production/559-569/VERIFICATION.json",
+      "bytes": 4091,
+      "sha256": "20f67fb64655853f8c81c0d353215c8cadbe6412ef92ecc665911253a6f85086"
+    },
+    {
+      "path": "production/559-569/workflow/finalize.py",
+      "bytes": 7693,
+      "sha256": "c36d92a210881c631a5865e123c609f0a34ebb2db9d1b8683594320140c8c57f"
+    },
+    {
+      "path": "production/559-569/workflow/package.py",
+      "bytes": 4870,
+      "sha256": "d70330e484574cd9338d15cfac630843f6e89f41c6976b5f0fefb14136ccf0dc"
     },
     {
       "path": "summaries/465/README.md",
