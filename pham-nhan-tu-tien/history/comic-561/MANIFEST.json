@@ -1,0 +1,47 @@
+{
+  "chapter": 561,
+  "title": "Bất đắc dĩ",
+  "images": [
+    "/tmp/comic-batch-559-569/a4-561/trang-01.png",
+    "/tmp/comic-batch-559-569/a4-561/trang-02.png",
+    "/tmp/comic-batch-559-569/a4-561/trang-03.png",
+    "/tmp/comic-batch-559-569/a4-561/trang-04.png",
+    "/tmp/comic-batch-559-569/a4-561/trang-05.png"
+  ],
+  "models": [
+    "tu-kim-ma-than-nguyen-anh-522.png",
+    "tuc-luc-u-ho-trung-linh-559.png",
+    "ngoc-mon-kim-vong-moc-xich-phap-lien-561.png"
+  ],
+  "summary": "Hàn Lập bất đắc dĩ trợ giúp U Hộ, dùng bốn tiên khí và kiếm thần thức để đưa Cách Nguyên Pháp Liên vào Trùng Linh.",
+  "notes": "- Chương 561 hoàn thành 5 trang A4; Hàn Lập dùng đúng biến thân ba đầu vượn vàng, sáu tay, thân tử kim model 522. U Hộ còn bảy đuôi; Túc Lục sáu đuôi. Kim võng và hắc xích bị phá; ngọc môn/ngọc trấn rạn nứt. Kết thúc đúng lúc 36 pháp liên tiến vào Trùng Linh, chưa kết luận tiêu diệt.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-559-569/561p1.png",
+    "/tmp/comic-generated-559-569/561p2.png",
+    "/tmp/comic-generated-559-569/561p3.png",
+    "/tmp/comic-generated-559-569/561p4.png",
+    "/tmp/comic-generated-559-569/561p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

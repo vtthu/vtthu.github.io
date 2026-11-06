@@ -2104,23 +2104,53 @@
           1492
         ]
       }
+    },
+    {
+      "chapter": 561,
+      "pages": 5,
+      "directory": "chapters/561",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/561/chuong-561.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1492
+        ],
+        "trang-02.png": [
+          1055,
+          1492
+        ],
+        "trang-03.png": [
+          1055,
+          1492
+        ],
+        "trang-04.png": [
+          1055,
+          1492
+        ],
+        "trang-05.png": [
+          1055,
+          1492
+        ]
+      }
     }
   ],
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 300312,
-      "sha256": "aa1011a3ef6fbd89a2c5b15b7917f2c0ccfd726bc7077497c9c71cbe05b7b6f7"
+      "bytes": 301010,
+      "sha256": "815ccaff6229b967f823b0320424c99ffb0418d33bb636625ba591521ebe9bf2"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 251189,
-      "sha256": "0ac23df8c213cc84209cfb59bd7383f900952d0cbaadda25771e3493f3f582fd"
+      "bytes": 251887,
+      "sha256": "726b280a10177cc8a502560c1fdc7791122591c8906a9bace6643f9db265374a"
     },
     {
       "path": "README.md",
-      "bytes": 9795,
-      "sha256": "20342e81c2f0db8c79f832ec510ab4ad25722e25a12602ab0683c3830c7f4cc3"
+      "bytes": 9908,
+      "sha256": "088a1d9bcd732226236f9fc9b532b2488ef00fb6e8a21cb6ad0b8765ca26f83a"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -5308,6 +5338,46 @@
       "sha256": "ee8c6b68571bba40350f76ecce48f3997bd860caf592e408b0d08e4ea330db7d"
     },
     {
+      "path": "chapters/561/README.md",
+      "bytes": 570,
+      "sha256": "d497c168a26209616bedcf130588a6cd3eb306adc764d3f047769e456b6dcb5d"
+    },
+    {
+      "path": "chapters/561/SOURCE.txt",
+      "bytes": 14613,
+      "sha256": "c8df93d75e38c94468cae70046451d2689c16280202c42003b8c9ce30107e9bb"
+    },
+    {
+      "path": "chapters/561/chuong-561.pdf",
+      "bytes": 24675683,
+      "sha256": "4ac3fe3e246f19410f67255906600016f2fb1390c40966f0e8002ee3e75aa5da"
+    },
+    {
+      "path": "chapters/561/trang-01.png",
+      "bytes": 3735116,
+      "sha256": "047d37d9b2aea331a2e70e355490da3e0bc4e823faa3dba9e397007fc83a821a"
+    },
+    {
+      "path": "chapters/561/trang-02.png",
+      "bytes": 3934210,
+      "sha256": "64a9b80c2f72f4c67444004c6a7950acfb9952f40971f26aae1abedfdc8a1fa0"
+    },
+    {
+      "path": "chapters/561/trang-03.png",
+      "bytes": 3811401,
+      "sha256": "b5b6b60ec089d949c40b78f45ead57722cb4230f52373e2966ab8c6e7e187dc2"
+    },
+    {
+      "path": "chapters/561/trang-04.png",
+      "bytes": 4063299,
+      "sha256": "e5c5acb5c0316a8c722a16c14730d0377a0d9b639d1f1afdf9d0ad1657e746ec"
+    },
+    {
+      "path": "chapters/561/trang-05.png",
+      "bytes": 4194716,
+      "sha256": "65d9b84fcfcb89d28ca63852fb3bfe3224b077c18aac7780a4ae92eba5cda642"
+    },
+    {
       "path": "drafts/468/README.md",
       "bytes": 844,
       "sha256": "ec62133989ea1c23b6d2d938d8724bded7fcb5238871fe86b25f6132cb2c74c7"
@@ -6386,6 +6456,26 @@
       "path": "history/comic-560/README.md",
       "bytes": 591,
       "sha256": "cac2b1af53c92424ced74d5e8dba894a71479061a1bad7b2c5356bafe3b12b55"
+    },
+    {
+      "path": "history/comic-561/CHARACTER_MEMORY.md",
+      "bytes": 301010,
+      "sha256": "815ccaff6229b967f823b0320424c99ffb0418d33bb636625ba591521ebe9bf2"
+    },
+    {
+      "path": "history/comic-561/MANIFEST.json",
+      "bytes": 1566,
+      "sha256": "13c019289278ff97d673ec609d544239bde45ad8a0125eed533709acdd7409bc"
+    },
+    {
+      "path": "history/comic-561/PROJECT_MEMORY.md",
+      "bytes": 251887,
+      "sha256": "726b280a10177cc8a502560c1fdc7791122591c8906a9bace6643f9db265374a"
+    },
+    {
+      "path": "history/comic-561/README.md",
+      "bytes": 478,
+      "sha256": "97b752b93bab2a40cf54897e289dccca81b976b8a827841c5cbf7a10790583ae"
     },
     {
       "path": "history/comic-summary-465-470/CHARACTER_MEMORY.md",

@@ -971,3 +971,8 @@ Nguồn: file CHUONG 560.txt do người dùng đính kèm. Mỗi PNG một tran
 - TrùngLinhOVAL6chân2liêm2cánh,nuốthắchỏ a/2trảogiảlập/tơxanhđen,cắtnon nửalướirồi nuốtphầncòn;UHo10móngĐENkhắctinhvăngãy,giápchỉvệttrắng.
 - HànCT543/NYFnữ545quan sátvềyếuđiểmthầnhồn,chưaHad biếnthân/rađòn561. Túcđãlùikhôngcônnguyên,Sađãchếtkhônghiệ n.
 - KếtGOLDdomainTrùngLinhghìmUH,>10sợipháptắchợpthànhGiaolongVÀNGnănglượng,khôngthúsốngmới;chưađâmphòngngự561.
+
+
+## Chương 561 — Bất đắc dĩ: hoàn thành 5 trang
+Nguồn: file CHUONG 561.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/561/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Chương 561 hoàn thành 5 trang A4; Hàn Lập dùng đúng biến thân ba đầu vượn vàng, sáu tay, thân tử kim model 522. U Hộ còn bảy đuôi; Túc Lục sáu đuôi. Kim võng và hắc xích bị phá; ngọc môn/ngọc trấn rạn nứt. Kết thúc đúng lúc 36 pháp liên tiến vào Trùng Linh, chưa kết luận tiêu diệt.
