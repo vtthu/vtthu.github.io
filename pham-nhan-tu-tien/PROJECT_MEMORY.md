@@ -1044,3 +1044,21 @@ Nguồn: file CHUONG 568.txt do người dùng đính kèm. Mỗi PNG một tran
 - Chương568 đủ4trangA4. Đã sửa loạiGiảiĐạoNhân tựsinhkhungcuốitrang2, GDNđãthu567khôngngoài; đồnghành3HanCT543/KDđỏ/TBtrắng. EnemyOVALgoldbeetle559riêngkhôngcùngxe haynhầmKDbiếnthân.
 - Giaiđoạnđầuvàitàngtháng khoảngcáchgầ nnhưkhônggiảmnhờđổihướng; Hànướcđủtiêntiênnguyênthạch20–30nămchứkhôngđãtrôiqua20năm. KhókhănđườngManHoangmớilàmchậmvềsau.
 - Hungcầmxám568khácDạKiêuđen, bạchkỳmây/7–8vụlongchỉphép/BA lệnhbàivàngđấtphảnphongnhận; chỉthoátkhônggiếtcầm. OngTÍMđuôimócxanhULAM,dùngphiênĐỎvàbalệnh,hơnnửacanhmớithoát. Cuốikhoảngcáchrútnhưngchưabịbắtkịp.
+
+
+## Model trước569: Hổ Sư và Hồng Loa
+
+Đã kiểm tra chưa có Ân Thông/Hồng Loa, lưu hai PNG trước truyện: models/ho-su-an-thong-dai-te-ti-tuan-tra-569.png và models/hong-loa-ha-coc-ca-chuoi-no-thanh-569.png.
+Hổ Sư thường nam da nâu, gần mặt người, sáu bướu nhỏ nhẵn quanh má/thái dương/hàm, tóc đen búi trâm xương, giáp xương trắng trên áo da nâu, cỡ gấp đôi nhân tộc. Thủ lĩnh có tua đỏ vai phải/đai xám, giáo xương; lính thường không tua.
+Ân Thông ATg569 trưởng lão Kim Tiên sơ kỳ, mặt nâu sáu bướu, tóc đen xám, râu đen xám ngắn, áo đỏ nâu/giáp xương viền vàng; KHÁC Ân Thân563 tóc trắng/râu dài/vòng sư tử. Nguồn về sau gọi Ân Thông tộc trưởng; không tự đổi vai Ân Thân đã có, dùng trưởng lão/mã riêng.
+Đại tế ti nam áo đỏ dài vân xương, tóc đen búi thấp/miện xương trắng, mặt nâu sáu bướu, cốt trượng trắng; không phải tế ti áo xám cũ. Loa tù và xương ngà/dây da.
+Hồng Loa đá đỏ/nước nâu đục, một cầu đá vòm, BA hang bán nguyệt dưới cầu phun ba dòng nước/mù cầu vồng. Hai tượng nhân sư đá người bờm sư tử: trái chắp tay trước ngực, phải cầm rìu. Hang nhà hai bờ, tế đàn đá bờ phải. Kích thước tự ghi trên sheet không xác nhận trong nguồn.
+Cá chuối đen ánh kim loại dài hơn một trượng, vảy dày/đuôi cá; nguồn có răng cưa trắng, model miệng đóng để tham chiếu không phủ nhận răng. Nỏ gỗ lớn quay trên trụ, mũi tên giáo xanh đen. Chỉ vẽ bố trí, không thêm cảnh bắn trúng hay thương tích.
+Lần tạo model bối cảnh đầu bị moderation đầu ra chặn violence; chuyển sang bảng kiến trúc/tự nhiên tĩnh không giao tranh đã thành công. Không có ảnh lỗi được dùng.
+
+
+## Chương 569 — Bất nhân bất nghĩa: hoàn thành 4 trang
+Nguồn: file CHUONG 569.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/569/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Chương569 đủ4trangA4. HànCT543khôngđổimặtgốc,KDđỏ532hóabeetleVÀNGnhỏ528vàobụngTB,TBhóadâychuyềntrắngcấtđiởtrang1; khôngvẽKD/TBthânthậtngoàitrang2. Câuđịchtớitrongnửathánglàướctínhvậntốchiệntại,sauHànđổihướngchekhíhơ nthángmớitớiHồngLoa,khôngkhẳngđịchbắtkịpgiữachặng.
+- HồngLoađáĐỎ/mộ tcầuđávòm/3hangnước/2nhânsưtrái chắptayphảirìuđúngmodel. Hànđidướisôngkhôngsplash,cáchuốiđenbịnékhônggiết; nghịchBảoLuândùngvà iđạovănđãhồi,chấnđộngbịpháthiện. Khôngvẽphi xacùngHanởdướinước.
+- Línhgiápxươngmặtnâu6bướu,thủlĩnhtuaphảiđỏ/tùvàngà,nỏgỗmũilamđenmớinhắmsôngchưabắ n. KDchỉhiệnngườiáođỏlạitrang3dướisôngthảkhí. ÂnThôngATg569khácÂnThân563;đạitếtiáođỏđúngmodel. KếtpháthiệnthêmkhíTháiẤt,chưagiaochiế nhaytựkểchương570.

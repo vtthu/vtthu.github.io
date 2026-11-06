@@ -1,0 +1,47 @@
+{
+  "chapter": 569,
+  "title": "Bất nhân bất nghĩa",
+  "images": [
+    "/tmp/comic-batch-559-569/a4-569/trang-01.png",
+    "/tmp/comic-batch-559-569/a4-569/trang-02.png",
+    "/tmp/comic-batch-559-569/a4-569/trang-03.png",
+    "/tmp/comic-batch-559-569/a4-569/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "bich-ngoc-phi-xa-hon-giap-phu-hoang-thap-cuu-565.png",
+    "kim-dong-giap-trung-tien-giai-528.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+    "dong-phu-tam-phap-chuong-thien-binh-547.png",
+    "ho-su-an-thong-dai-te-ti-tuan-tra-569.png",
+    "hong-loa-ha-coc-ca-chuoi-no-thanh-569.png"
+  ],
+  "summary": "Bị truy sát ngày càng gần, Hàn Lập đổi hướng tới Hồng Loa Hà Cốc, lẻn dưới sông và để Kim Đồng hiện khí tức dẫn đối thủ tới Hổ Sư tộc.",
+  "notes": "- Chương569 đủ4trangA4. HànCT543khôngđổimặtgốc,KDđỏ532hóabeetleVÀNGnhỏ528vàobụngTB,TBhóadâychuyềntrắngcấtđiởtrang1; khôngvẽKD/TBthânthậtngoàitrang2. Câuđịchtớitrongnửathánglàướctínhvậntốchiệntại,sauHànđổihướngchekhíhơ nthángmớitớiHồngLoa,khôngkhẳngđịchbắtkịpgiữachặng.\n- HồngLoađáĐỎ/mộ tcầuđávòm/3hangnước/2nhânsưtrái chắptayphảirìuđúngmodel. Hànđidướisôngkhôngsplash,cáchuốiđenbịnékhônggiết; nghịchBảoLuândùngvà iđạovănđãhồi,chấnđộngbịpháthiện. Khôngvẽphi xacùngHanởdướinước.\n- Línhgiápxươngmặtnâu6bướu,thủlĩnhtuaphảiđỏ/tùvàngà,nỏgỗmũilamđenmớinhắmsôngchưabắ n. KDchỉhiệnngườiáođỏlạitrang3dướisôngthảkhí. ÂnThôngATg569khácÂnThân563;đạitếtiáođỏđúngmodel. KếtpháthiệnthêmkhíTháiẤt,chưagiaochiế nhaytựkểchương570.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-559-569/569p1.png",
+    "/tmp/comic-generated-559-569/569p2.png",
+    "/tmp/comic-generated-559-569/569p3.png",
+    "/tmp/comic-generated-559-569/569p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

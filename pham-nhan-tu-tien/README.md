@@ -49,6 +49,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 569: Bất nhân bất nghĩa](chapters/569/): 4 trang, hoàn thành; [PDF A4](chapters/569/chuong-569.pdf)
+
 - [Chương 568: Cướp đường chạy](chapters/568/): 4 trang, hoàn thành; [PDF A4](chapters/568/chuong-568.pdf)
 
 - [Chương 567: Đuổi tới](chapters/567/): 4 trang, hoàn thành; [PDF A4](chapters/567/chuong-567.pdf)
