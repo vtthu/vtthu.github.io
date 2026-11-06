@@ -1,0 +1,54 @@
+{
+  "chapter": 562,
+  "title": "Kinh sợ thối lui",
+  "images": [
+    "/tmp/comic-batch-559-569/a4-562/trang-01.png",
+    "/tmp/comic-batch-559-569/a4-562/trang-02.png",
+    "/tmp/comic-batch-559-569/a4-562/trang-03.png",
+    "/tmp/comic-batch-559-569/a4-562/trang-04.png",
+    "/tmp/comic-batch-559-569/a4-562/trang-05.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "tu-kim-ma-than-nguyen-anh-522.png",
+    "tuc-luc-u-ho-trung-linh-559.png",
+    "ngoc-mon-kim-vong-moc-xich-phap-lien-561.png",
+    "am-tinh-dai-dien-thac-thanh-ngoc-dieu-hau-562.png",
+    "khac-don-bach-cot-tu-kim-tien-556.png",
+    "nac-y-pham-thanh-lan-dao-binh-545.png",
+    "o-lo-man-lam-tat-han-chien-xa-552.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "dong-phu-tam-phap-chuong-thien-binh-547.png"
+  ],
+  "summary": "Trùng Linh bị phong bế Nguyên Anh nhưng vẫn chạy thoát. Các tộc bàn phòng thủ; Hàn Lập trở về động phủ dưỡng thương cùng Kim Đồng.",
+  "notes": "- Chương562 đủ5trangA4. Đã sửa câu Đừng đuổi về U Hộ, không để Hàn xuất hiện dạng người trước khi thu biến thân. U Hộ7đuôi/Túc6; TrùngLinh còn sống bỏ chạy bằng cánh, 36phápliên ở trong thân. Ngọc môn/ngọc trấn bị đánh văng, không tự khẳng định đã phá hủy.\n- NQL giữ áo tím sao vàng, hội nghị đại điện đá đen/bếp lửa/ghế da thú đúngmodel562. Chỉ đề nghị/ứa hẹn địa đồ, chưa giao. Mẹ NYF chỉ được nhắc qua thoại không tự tạo chân dung. Cảnh cuối cave547 phòngtrongchỉgiườngđá, HanCT543vàKDđỏ532 trên giường; dừng trước câu trả lời563.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-559-569/562p1-final.png",
+    "/tmp/comic-generated-559-569/562p2.png",
+    "/tmp/comic-generated-559-569/562p3.png",
+    "/tmp/comic-generated-559-569/562p4.png",
+    "/tmp/comic-generated-559-569/562p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

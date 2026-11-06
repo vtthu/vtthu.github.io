@@ -49,6 +49,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 562: Kinh sợ thối lui](chapters/562/): 5 trang, hoàn thành; [PDF A4](chapters/562/chuong-562.pdf)
+
 - [Chương 561: Bất đắc dĩ](chapters/561/): 5 trang, hoàn thành; [PDF A4](chapters/561/chuong-561.pdf)
 
 - [Chương 560: Vương](chapters/560/): 4 trang, hoàn thành; [PDF A4](chapters/560/chuong-560.pdf)

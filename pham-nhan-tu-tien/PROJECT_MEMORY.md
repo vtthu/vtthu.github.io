@@ -976,3 +976,13 @@ Nguồn: file CHUONG 560.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 561 — Bất đắc dĩ: hoàn thành 5 trang
 Nguồn: file CHUONG 561.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/561/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
 - Chương 561 hoàn thành 5 trang A4; Hàn Lập dùng đúng biến thân ba đầu vượn vàng, sáu tay, thân tử kim model 522. U Hộ còn bảy đuôi; Túc Lục sáu đuôi. Kim võng và hắc xích bị phá; ngọc môn/ngọc trấn rạn nứt. Kết thúc đúng lúc 36 pháp liên tiến vào Trùng Linh, chưa kết luận tiêu diệt.
+
+
+## Model trước562: đại điện và Thanh Ngọc Diều Hâu
+Đã lưu models/am-tinh-dai-dien-thac-thanh-ngoc-dieu-hau-562.png trước trang562. Đại điện ĐÁ ĐEN một tầng giữa đầm sâu bên dưới thác lớn giữa hai đỉnh núi, cầu đá nối bờ; nội điện một bếp lửa giữa vòng khoảng15ghế da thú, chủ tọa đối diện cửa. Thanh Ngọc Diều Hâu: chim đưa tin ngọc trong XANH LAM NGỌC, lông khắc bạc, không người. Giữ cùng bối cảnh cho563+. Không tự tạo cảnh mẹ NYF khi chỉ được kể trong thoại. NQL giữ áo tím sao vàng sau557.
+
+
+## Chương 562 — Kinh sợ thối lui: hoàn thành 5 trang
+Nguồn: file CHUONG 562.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/562/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Chương562 đủ5trangA4. Đã sửa câu Đừng đuổi về U Hộ, không để Hàn xuất hiện dạng người trước khi thu biến thân. U Hộ7đuôi/Túc6; TrùngLinh còn sống bỏ chạy bằng cánh, 36phápliên ở trong thân. Ngọc môn/ngọc trấn bị đánh văng, không tự khẳng định đã phá hủy.
+- NQL giữ áo tím sao vàng, hội nghị đại điện đá đen/bếp lửa/ghế da thú đúngmodel562. Chỉ đề nghị/ứa hẹn địa đồ, chưa giao. Mẹ NYF chỉ được nhắc qua thoại không tự tạo chân dung. Cảnh cuối cave547 phòngtrongchỉgiườngđá, HanCT543vàKDđỏ532 trên giường; dừng trước câu trả lời563.
