@@ -1,0 +1,46 @@
+{
+  "chapter": 559,
+  "title": "Con rệp",
+  "images": [
+    "/tmp/comic-batch-559-569/a4-559/trang-01.png",
+    "/tmp/comic-batch-559-569/a4-559/trang-02.png",
+    "/tmp/comic-batch-559-569/a4-559/trang-03.png",
+    "/tmp/comic-batch-559-569/a4-559/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "nac-y-pham-thanh-lan-dao-binh-545.png",
+    "tuc-luc-u-ho-trung-linh-559.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "khac-don-bach-cot-tu-kim-tien-556.png",
+    "o-lo-man-lam-tat-han-chien-xa-552.png",
+    "u-than-kim-duong-mang-cot-trung-553.png"
+  ],
+  "summary": "Sau trận bão cát, Túc Lục giữ sa tinh nhưng đã bị thương. Trùng Linh xuất hiện, đánh gãy trường côn; Hàn Lập đưa Nặc Y Phàm về cổng thành. Túc Lục né tinh quang, gọi phụ thân; một thân ảnh lớn hơn hiện trong tinh mang.",
+  "notes": "- 4 PNG A4/PDF, nguồn559mớigiữnguyênbyte(chỉthêmdòngtrốngso559cũ). HànCT543/NYFnữ545; KDđỏ532vàTBtrắngngọc540chỉtrongTÚI, KDrarồilạivàobụngTBquaquangvàng.\n- TúcLụcGREEN6đuôiSAOTÍM3sẹophảiGIÁPXANHmodel559, satinhcỡđầungườicótơvàngTúcgiữ,khôngHan/KDnhận. Sa thúđãchếtkhôngvẽsốnglại.\n- Cônđenbịđánhgãytrang3,kểtừđókhôngcônnguyên. TrùngLinhcáthểđịchmodelbeetleOVAL528biếnthểTLi559, khôngKimĐồngbiếnthân; khítứcgầnTháiẤthậulàHanđánhgiá.\n- NQLgiữáoTÍMsaovàngsau557. HànđưaNYFvềtrêncổngthànhkhôngởlạichiến. Túcné2trảm,khôngchết. KếtchỉbóngmờU Hộ, chưalộ9đuôigiápvànghaydanhtính560.\n- Phần551–559cũ:559nayhoànthànhởđợtmới,556–558vẫndởkhôngđánhdấuxong.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-559-569/559p1.png",
+    "/tmp/comic-generated-559-569/559p2.png",
+    "/tmp/comic-generated-559-569/559p3.png",
+    "/tmp/comic-generated-559-569/559p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

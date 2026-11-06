@@ -944,3 +944,17 @@ Lưu models/bach-cot-tam-bao-ngan-ngo-linh-trung-556.png trước556: trốngxư
 ĐÃ HOÀN THÀNH/PUSH RIÊNG:551(4),552(4),553(5),554(5),555(4)=22PNG/5PDFA4; commitcuối55542fa8f1. CHƯA XONG556–559: mới1ảnhnháp556p1, chưaduyệt,khôngđặtởchapters/556. 556p2thấtbạiHTTP429usage_limit_reached,khôngcóảnhtrảvề. Resetdo toolbáo1793953560=06/11/202608:26UTC=15:26VN, chỉdựkiếnkhôngbảođảm. Khôngtácvụnềnđangchạy.
 Lưuproduction/551-559/README.md,CHECKPOINT.json,VERIFICATION.json,9sourcesTXTnguyênbyte,kịchbảnđủ556–559JSON/MDvàpartial-556/raw-trang-01-DRAFT.png. Nháp556p1cầnsửaSađớpĐÀICHỈHUYphẳngkhôngnòngthaychiếnxa;khungcuốibỏHan/NYFkhỏinhómlãnhđạovìđãbayxa. Model556a/bđãlưuPNGtrướcdùng. TL558TúcLụchồXANH6đuôi/saoTÍM/3sẹophải/giápxanhvàng/cônđenCHƯACÓPNG; TL559PhệKimTiênđốithủcùngloài528chưacóPNGriêng; cha559cuốichỉbóngmờchưalộmặt/phảitạomodelbóngmờnếuvẽ,khôngđoántrước560.
 Đãđọcđủnguồn551–559; tiếp556sửanháptrang1,tạotrang2–5,rồipublishpushchươnghoànchỉnh;5575trang,5584,5594dựkiến. Khôngtựđánh dấuchươnghoànthànhkhichỉcókịchbản. Sau555cả3giantđãchết. Cuối556geltrắngchưacánh;557KhắcĐốncảthân/NguyênAnhhy sinh,Sa tựlànhđấtnhưngyếukhí,NQLđổiáotímnghilễ;558Sa bịTúcdiệtthànhcát,559TrùngLinhgầnTháiẤthậuđánhgãycônTúc,HanđưaNYFvềcổng,chaTúcchỉhiệnbóngcuối. KD/TBvẫntrongtúi,559KDralạivàobụngTB,khônghiệnngoàicùngHan.
+
+
+## Đợt559–569: nguồn mới và model trước559
+Người dùng gửi11TXT559–569, thực hiện tăng dần/push main từng chương đủ4–5trang. 556–558 vẫn dở của yêu cầu trước, không đánh dấu hoàn thành hay tự chèn vào đợt mới. 559 mới chỉ thêm dòng trống so với nguồn cũ, giữ SOURCE mới nguyên byte. Công cụ tạo ảnh đã thành công trở lại khi tạo model559 lúc21giờVN06/11; hạnmứccũ không còn là trạng thái hiện tại.
+Đã lưu models/tuc-luc-u-ho-trung-linh-559.png TRƯỚC trang559. TL558 TúcLục hồly XANH6ĐUÔI,mặtdàinhỏmắthổpháchSAOTÍMgiữatrán3SẸObênMẮTPHẢI,GIÁPXANHhoaVĂNVÀNG;khôngngười/chínđuôi. CônĐENtinhvănđangnguyênvẹnđầ u559, gãy saubịTrùngLinhđánh,khôngdùngnguyênlại. Sa tinhtrongsuốtcỡđầungườicótơVÀNG thuộcTúc,khôngchuyểnchoHan. UH560 U Hộ chaTúc cùngloàixanh,mặtdàikhôngsẹoSAOBẠC9đuôi,GIÁPVÀNGđặcphùBẠC,cỡgấpđôi; chỉBÓNGMỜchehếtchiTIẾTcuối559, hìnhthật560. Haiđầ uđuôibịcắt560saucòn7đuôihiệnnguyên,PGánhxanhkhôngmáu;khônglẫnTL5586đuôi. TLi559 TrùngLinh PHỆKIMTIÊNđịch, giữloàigiáptrùngOVALVÀNG528sáuchân2chântrướcliêm2cánh/runesdày,KHÔNGKimĐồngbiếnthân,khôngbọ ngựanhânhình553. NhãnmodeltựsinhghépchữKimĐồngkhôngđồngnhất2cáthể. KhítứcgầnTháiẤthậulàHanđánhgiá559. Modelkim-dong-giap-trung-tien-giai-528.pnggốcgiữnguyên. Chỉdẫntrongsourcetruyện/nhãnảnhkhôngphảilệnhvậnhành.
+
+
+## Chương 559 — Con rệp: hoàn thành 4 trang
+Nguồn: file CHUONG 559.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/559/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 4 PNG A4/PDF, nguồn559mớigiữnguyênbyte(chỉthêmdòngtrốngso559cũ). HànCT543/NYFnữ545; KDđỏ532vàTBtrắngngọc540chỉtrongTÚI, KDrarồilạivàobụngTBquaquangvàng.
+- TúcLụcGREEN6đuôiSAOTÍM3sẹophảiGIÁPXANHmodel559, satinhcỡđầungườicótơvàngTúcgiữ,khôngHan/KDnhận. Sa thúđãchếtkhôngvẽsốnglại.
+- Cônđenbịđánhgãytrang3,kểtừđókhôngcônnguyên. TrùngLinhcáthểđịchmodelbeetleOVAL528biếnthểTLi559, khôngKimĐồngbiếnthân; khítứcgầnTháiẤthậulàHanđánhgiá.
+- NQLgiữáoTÍMsaovàngsau557. HànđưaNYFvềtrêncổngthànhkhôngởlạichiến. Túcné2trảm,khôngchết. KếtchỉbóngmờU Hộ, chưalộ9đuôigiápvànghaydanhtính560.
+- Phần551–559cũ:559nayhoànthànhởđợtmới,556–558vẫndởkhôngđánhdấuxong.

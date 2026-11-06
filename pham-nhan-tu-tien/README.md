@@ -49,7 +49,9 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
-[Đợt 551–559: đã xong 551–555, 22 trang; 556–559 đang dở](production/551-559/)
+- [Chương 559: Con rệp](chapters/559/): 4 trang, hoàn thành; [PDF A4](chapters/559/chuong-559.pdf)
+
+[Đợt 551–559: đã xong 551–555 và559, 26 trang; 556–558 đang dở](production/551-559/)
 
 - [Chương 555: Chiến đấu kịch liệt](chapters/555/): 4 trang, hoàn thành; [PDF A4](chapters/555/chuong-555.pdf)
 
