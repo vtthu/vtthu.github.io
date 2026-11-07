@@ -1,0 +1,43 @@
+{
+  "chapter": 578,
+  "title": "Dò xét phía dưới",
+  "images": [
+    "/tmp/comic-batch-577-580/a4-578/trang-01.png",
+    "/tmp/comic-batch-577-580/a4-578/trang-02.png",
+    "/tmp/comic-batch-577-580/a4-578/trang-03.png",
+    "/tmp/comic-batch-577-580/a4-578/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "giai-dao-nhan-gdn01.png",
+    "tham-uyen-sat-khi-bo-da-hac-bang-577.png"
+  ],
+  "summary": "Bố trí hộ pháp và tiếp tục thăm dò, Hàn Lập phát hiện sát khí giúp rèn Luyện Thần Thuật. Mấy tháng sau, một cơn lốc âm phong bất ngờ phá tan phòng vệ tâm thần.",
+  "notes": "- 578đủ4trangA4.HanCT543/GDN01/KDđỏ/TBtrắngdùngmodelgốc,trang1hộphápbệđá,khôngđưaKD/TBxuốngtầngsâuhayvẽGiảisuốtquátrìnhrènthầnthức. Cấmchếxanhcờ/trậnbànđượcbốtríhaibờvách.\n- Sátkhí/âmphongđen,băngĐEN;ảocảnhhuyếtsắcchuyểnthểbằngsươngđỏ/bóngtay/xươngthúkhô,khôngthêmnhânvậtcódanhtínhhaymáuthịtchi tiết. HanxuaảogiácbằngLuyệnThầnThuật,pháthiệntinhtiến,chủđộngthửrèn.\n- Mấythángsauđếntầng4ĐỈNHPHONGchư aĐẠITHÀNH,chưatăngcảnhgiớiKimTiên. Kếtlốcđenphávệthầnthức,chưachuột/viên/thoáthiểm579–580.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-577-580/578p1.png",
+    "/tmp/comic-generated-577-580/578p2.png",
+    "/tmp/comic-generated-577-580/578p3.png",
+    "/tmp/comic-generated-577-580/578p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

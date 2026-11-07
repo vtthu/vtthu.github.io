@@ -53,6 +53,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 578: Dò xét phía dưới](chapters/578/): 4 trang, hoàn thành; [PDF A4](chapters/578/chuong-578.pdf)
+
 - [Chương 577: Tiến thối lưỡng nan](chapters/577/): 4 trang, hoàn thành; [PDF A4](chapters/577/chuong-577.pdf)
 
 - [Chương 569: Bất nhân bất nghĩa](chapters/569/): 4 trang, hoàn thành; [PDF A4](chapters/569/chuong-569.pdf)

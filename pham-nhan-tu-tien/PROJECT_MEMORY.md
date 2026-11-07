@@ -1077,3 +1077,10 @@ Lưu models/tham-uyen-sat-khi-bo-da-hac-bang-577.png trước577: rừngthưahơ
 Nguồn: file CHUONG 577.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/577/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - 577 đủ4PNG/PDF A4, dùngmodelCT543/KDđỏ532/TBtrắng540gốc. Khôngtựtạo570–576hayvẽngườitruyềntinbíẩn. TháiẤtđỉnhphong/ĐạiLavà20nămlàđánhgiá/khảnăngquaThoại,khôngxácnhậndanh tính.
 - Gốccâytrụilángàytrưađúngmodel577;12khung/trangthoại/dẫn/suynghĩ. Hanđixuốngmộtmìnhcuốichương,KG/TBkhôngdướivựcchokhitr iệu578,Giảichưađứngngoài. NhậnđịnhrễThụYêuánh sángvànguồngốcxương/sátkhíchỉsuyđoánkhôngvẽxácnhận.
+
+
+## Chương 578 — Dò xét phía dưới: hoàn thành 4 trang
+Nguồn: file CHUONG 578.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/578/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 578đủ4trangA4.HanCT543/GDN01/KDđỏ/TBtrắngdùngmodelgốc,trang1hộphápbệđá,khôngđưaKD/TBxuốngtầngsâuhayvẽGiảisuốtquátrìnhrènthầnthức. Cấmchếxanhcờ/trậnbànđượcbốtríhaibờvách.
+- Sátkhí/âmphongđen,băngĐEN;ảocảnhhuyếtsắcchuyểnthểbằngsươngđỏ/bóngtay/xươngthúkhô,khôngthêmnhânvậtcódanhtínhhaymáuthịtchi tiết. HanxuaảogiácbằngLuyệnThầnThuật,pháthiệntinhtiến,chủđộngthửrèn.
+- Mấythángsauđếntầng4ĐỈNHPHONGchư aĐẠITHÀNH,chưatăngcảnhgiớiKimTiên. Kếtlốcđenphávệthầnthức,chưachuột/viên/thoáthiểm579–580.
