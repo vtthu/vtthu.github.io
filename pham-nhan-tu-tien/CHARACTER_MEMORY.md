@@ -1261,3 +1261,14 @@ Nguồn: file CHUONG 569.txt do người dùng đính kèm. Mỗi PNG một tran
 
 ## Hoàn thành đợt 559–569
 11 tệp mới đã chuyển thể theo thứ tự559→569, tổng46PNG/11PDF A4;561và562mỗi chương5trang,cácchươngcònlại4trang. Mỗi chương đãpushriêngmain ngaykhixong. Mục lục production/559-569/README.md, model/nguồn/commit từngchươngCHAPTER_REGISTRY.json, kiểmtraVERIFICATION.json. Đãduyệtnộidungtừngảnhvàsửacácthayđổi lệchmodel/nhânvậtxuấthiệnthừatrướcpublish. Modelmới10PNGđãlưutrướcdùng. Tiếp570nếucóngườidùnggửinguồn: cuối569HànCT543/KDđỏẩn dướisôngHồngLoa,KDthảkhídẫnđịch;TBđãthuvàodâychuyền/GDNđãthu567,ÂnThôngtrưởnglãoKimTiênsơkỳ/đạitếtiáođỏpháthiệnkhíTháiẤt,chưagiaochiến. Khôngthêmhoànthành556–558đợtcũ.
+
+
+## Đợt577–580: quy tắc và model trước577
+Nguồn4TXTngườidùnggửi:577→578→579→580,4–5trangA4/chương,pushmaintừngchươngngaykhixong. Khôngtựtạo570–576khithiếunguồn. Đãđọcđủ4nguồn; thôngtinở577vềngườitruyềntin/20nămchỉthoạikhôngtựvẽchândung. Hanvẫ nCT543ảo dungtrungniên/riađen/râucằmngắn/trâmxanh/áotealtrúc, V2gốcgiữnguyên;KDđỏ532/TBtrắng540.577hànđixuốngmộtmình;578mớitriệuGiaiGDN01/KD/TBraởbệđáđầuchương.
+Lưu models/tham-uyen-sat-khi-bo-da-hac-bang-577.png trước577: rừngthưahơisươngngàytrưa/gốccâyTRỤILÁlớn, vựcĐENhẹpđáváchlởmchởm/bệđátrênnhiềuxươngTHÚKHÔcóquangxanhma trơi; càngsâuxươngít/sátkhíđenđặc/băngĐEN/vựchẹplốcđen,chưathấyđáy. Nguồn577suyđoánnguyênnhânrễThụYêukhôngvàovựckhôngxácnhậnđúng;chưađưachânthânThụYêu580ra.
+
+
+## Chương 577 — Tiến thối lưỡng nan: hoàn thành 4 trang
+Nguồn: file CHUONG 577.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/577/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 577 đủ4PNG/PDF A4, dùngmodelCT543/KDđỏ532/TBtrắng540gốc. Khôngtựtạo570–576hayvẽngườitruyềntinbíẩn. TháiẤtđỉnhphong/ĐạiLavà20nămlàđánhgiá/khảnăngquaThoại,khôngxácnhậndanh tính.
+- Gốccâytrụilángàytrưađúngmodel577;12khung/trangthoại/dẫn/suynghĩ. Hanđixuốngmộtmìnhcuốichương,KG/TBkhôngdướivựcchokhitr iệu578,Giảichưađứngngoài. NhậnđịnhrễThụYêuánh sángvànguồngốcxương/sátkhíchỉsuyđoánkhôngvẽxácnhận.
