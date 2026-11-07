@@ -1,0 +1,205 @@
+[
+  {
+    "chapter": 577,
+    "title": "Tiến thối lưỡng nan",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "5941e164bcf1856653bcdd3d9a2fffd5f5b56929",
+    "source_sha256": "b47ed3f5f5be6e3ef164e92e428829f9b3eacaa5fbcfca428d9a17c4485619df",
+    "source_bytes": 14608,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "man-hoang-sa-thu-tieu-bach-540.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+      "tham-uyen-sat-khi-bo-da-hac-bang-577.png"
+    ],
+    "continuity_notes": "- 577 đủ4PNG/PDF A4, dùngmodelCT543/KDđỏ532/TBtrắng540gốc. Khôngtựtạo570–576hayvẽngườitruyềntinbíẩn. TháiẤtđỉnhphong/ĐạiLavà20nămlàđánhgiá/khảnăngquaThoại,khôngxácnhậndanh tính.\n- Gốccâytrụilángàytrưađúngmodel577;12khung/trangthoại/dẫn/suynghĩ. Hanđixuốngmộtmìnhcuốichương,KG/TBkhôngdướivựcchokhitr iệu578,Giảichưađứngngoài. NhậnđịnhrễThụYêuánh sángvànguồngốcxương/sátkhíchỉsuyđoánkhôngvẽxácnhận.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "a0c1713906a3fb96843084dc13786b885e195d9ecdebc4d9c185c709063d5d43"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "5d64d49f030495298b75fa7f9cfe90917a26c73936a556601f91f0681121c1f5"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "51402959df6eef367c0338d7b056b6028e4928935e5acf63389a89c22ffe620c"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "e3c698ed14e84091a7484d40c5cca1e118d2594c2e52d11cc0de4218899b6f0e"
+      }
+    ]
+  },
+  {
+    "chapter": 578,
+    "title": "Dò xét phía dưới",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "1bf6318e22db4dfb1bde164e44cffa7e1bfcb696",
+    "source_sha256": "9ad3d49846b4669c6af070a218c10bb893330f59a30c428cc089cc714a8e27fb",
+    "source_bytes": 14447,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "man-hoang-sa-thu-tieu-bach-540.png",
+      "giai-dao-nhan-gdn01.png",
+      "tham-uyen-sat-khi-bo-da-hac-bang-577.png"
+    ],
+    "continuity_notes": "- 578đủ4trangA4.HanCT543/GDN01/KDđỏ/TBtrắngdùngmodelgốc,trang1hộphápbệđá,khôngđưaKD/TBxuốngtầngsâuhayvẽGiảisuốtquátrìnhrènthầnthức. Cấmchếxanhcờ/trậnbànđượcbốtríhaibờvách.\n- Sátkhí/âmphongđen,băngĐEN;ảocảnhhuyếtsắcchuyểnthểbằngsươngđỏ/bóngtay/xươngthúkhô,khôngthêmnhânvậtcódanhtínhhaymáuthịtchi tiết. HanxuaảogiácbằngLuyệnThầnThuật,pháthiệntinhtiến,chủđộngthửrèn.\n- Mấythángsauđếntầng4ĐỈNHPHONGchư aĐẠITHÀNH,chưatăngcảnhgiớiKimTiên. Kếtlốcđenphávệthầnthức,chưachuột/viên/thoáthiểm579–580.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "feb1facff1012184565131ae49363636a847f76c0a082b85070742f1ca6460ae"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "fe6ad8248babe155ea4a722e06df5ad7d281446323464bf46b5e4987aade1ad7"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c36622588195a41c80c0c61dacc3a636c88d45008c8ade3bdd62757c65deed04"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "adf0551f3f6b247d214169845b7838ac33549cd2a237b9b53ec5e0cf0e5ac901"
+      }
+    ]
+  },
+  {
+    "chapter": 579,
+    "title": "Trầm luân",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "0f86f33e10f605ecfd8306dfb697ea13b3cd4c19",
+    "source_sha256": "45c35232943dc87363714a3739a0364b23e55344bec64a1488c2b296a0b8be96",
+    "source_bytes": 15367,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "han-lap-son-nhac-cu-vien.png",
+      "ao-canh-yeu-lang-luc-thu-khong-gian-579.png"
+    ],
+    "continuity_notes": "- 579đủ4trangA4, modelYêuLang/LụcThửảnhđãlưutrướcdùng. ĐầuHanthânngườiCT543,trang1cuốihóavượnSơnNhạc1đầu2tayGOLDfur/đaiTEALđúngPNGgốc,giữđếncuối579khôngTửKimMaThần3đầu6tay.\n- Giữnhịpxươngđuôicôngtrướcchuộtlộtoànthân;ả oảnhđau/tổnthươngthểhiệnkimquangvàsươngkhôngmáuthịt,phụchồiảoảnhdẫnnhậnraCẢNHGIẢ.Hànchiếutinhquangxuađànthihài,tinhnhậnchỉgợnkhônggianchưapháđược.\n- ChuộtMẬPLỤC4chân/taitròn/đuôixươnglục/ánhđỏlụctrongmắt,khôngcanonsinhvậtthậttạiđáyvực. LưỡinănglượngquấnthânvượnPGkhôngthươngthểthật;khônggianbụngdùngsươngtímđen/lụchỏakhôngtếđàncộtđền. Kếtbịgi amthầnhồnnóngđau,chưađộtphá/thoát580.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "8e0862640fac3ea323344885a231c93acfa8b0de7411a5e74c0dde4552a8a628"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "df46f5dad2be8705b1d991f89e3f92d27c3c5fb2e9b05825e3750f79e45f3400"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "53fde9a146e142d1929e6d59cf4cb30183d0f611c20ac61d5cd20d57863cd498"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "6a52371d3acb9c594897dbe46c28001c80f5fcd206c647d618b222136e1daf31"
+      }
+    ]
+  },
+  {
+    "chapter": 580,
+    "title": "Nhân họa đắc phúc",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "53dca60cb0ae77848d24dbe537ea89cfdd05a94e",
+    "source_sha256": "b53242f0786a4efc9d7d312638174ea20e3e550cc1e59c57d8beba7f3cb88dfe",
+    "source_bytes": 14749,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "han-lap-son-nhac-cu-vien.png",
+      "han-lap-tinh-quang-nguyen-anh-dao-cu.png",
+      "ao-canh-yeu-lang-luc-thu-khong-gian-579.png",
+      "tham-uyen-sat-khi-bo-da-hac-bang-577.png",
+      "thu-yeu-thanh-ung-than-niem-long-giam-580.png"
+    ],
+    "continuity_notes": "- 580đủ4trangA4. Trang1vẫnSơnNhạcCựViên1đầu2tay,NguyênAnhnhỏnamtrưởngthànhquangvàngcộtgiữamodelgốc;chuộtảoảnhvỡtrang2mớitrởhumanCT543,khôngHanthântócbạcV2.Giữthầnhồntăng2–3lầnkhôngtuviKimTiênthăngcảnh.\n- CựưngxanhmodelTU580bịNiệmKiếmquyết/ánhquangkhôngmáu,rụngxuốngrừngdâycuốnkín,khônghồisinh.Kiếmthầnthức/lồngtrắngtrongvânđen,khôngvậtlýkiếmxanhhayCáchNguyênxíchsắtđen36.\n- TY580thâncànhláxanhngọc/mặtgiàtrênthân,uyápTháiẤt,lồngchỉbắthồntạmt hờirồithảkhônggiết.Thửthuậtlàđánhlénkhichưaphòngbị,khôngkhẳngđịnhthắngmọiTháiẤt. Đãsửaba khungđầutrang3vềhắcvựckhôngdaylightsai,ngoàirừngvẫnsángtáchđúnghaivịtrí.\n- Chỉcòn3thànhthầnthức/cần1thánghồilàướctínhchưabỏquamộttháng. CuốingọcgiảnĐENtầng5,nghiêncứuchưaluyệnthành,khôngđưadiễnbiến581vàosớm.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "dedda5d0ffa2ac65bfabb6a12ac8a80083b668fafc1a848c6f8d24f3cdc15b1c"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "e8260c43115365cf614a5524a392e2b86d33143cdda7bda71d65ffc08c5a08db"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "831c8c161427924d289011c78819933105e4f439670f05f5ba914c54e188934c"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "e0b0b647546a6730e281ccbdf31d0429d287efcf686302adf4242a11a09ae6a3"
+      }
+    ]
+  }
+]

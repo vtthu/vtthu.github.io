@@ -2455,18 +2455,18 @@
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 325127,
-      "sha256": "9681dd928fc25a6c70e0e4de61af9b7b36300e98e86836ec894536b7e9ff679b"
+      "bytes": 326267,
+      "sha256": "799af0669b6512aec5a93b7bbf5dedc7f7b0f835653ba3ebee43a923685a20a9"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 276004,
-      "sha256": "50c3a973698062e021c1d99c1bf4747b8050eafe1f48fc353f6f46fda39cd1c0"
+      "bytes": 277144,
+      "sha256": "f5b503df8bfea00b08de72d6b8292c1a9ac6975784884aaab2a3940780454d29"
     },
     {
       "path": "README.md",
-      "bytes": 11495,
-      "sha256": "625ea3a9bd8a4d63830b74c3ee92b5adc83d5c6d48011c612b8a971fd5018166"
+      "bytes": 11669,
+      "sha256": "2a6361660e4f18e37fa965adf528fe442c4ed70753308775a6d75e18b503b032"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -8292,6 +8292,36 @@
       "path": "production/559-569/workflow/package.py",
       "bytes": 4870,
       "sha256": "d70330e484574cd9338d15cfac630843f6e89f41c6976b5f0fefb14136ccf0dc"
+    },
+    {
+      "path": "production/577-580/CHAPTER_REGISTRY.json",
+      "bytes": 8487,
+      "sha256": "26d745cdb217a3b161a0c62416807e3fb17aface7d1c9551853246942f9b996f"
+    },
+    {
+      "path": "production/577-580/README.md",
+      "bytes": 2923,
+      "sha256": "96d12e2cf0fce18990d154afbd6fb935388d4a311c1624ce6cdbcc8fd0b88b7e"
+    },
+    {
+      "path": "production/577-580/STYLE_GUIDE.md",
+      "bytes": 3209,
+      "sha256": "36318e9b039d7432a7d4d6545465a733750973de5d87c946e615c61ba097d1dd"
+    },
+    {
+      "path": "production/577-580/VERIFICATION.json",
+      "bytes": 879,
+      "sha256": "2d4a79fe12a0c27a80ef7cf143573d8c205db38e3c79ea29e9c5fdcbdb0a3069"
+    },
+    {
+      "path": "production/577-580/workflow/finalize.py",
+      "bytes": 7222,
+      "sha256": "6cdd91fbd3643b8150935441761adad7b9caf91f9256c17928d48186bd69b0cc"
+    },
+    {
+      "path": "production/577-580/workflow/package.py",
+      "bytes": 4870,
+      "sha256": "52fb369af14a5aff308ff4dabf990cc9cad4cb510c1de2d5495e3d09ec065b9d"
     },
     {
       "path": "summaries/465/README.md",

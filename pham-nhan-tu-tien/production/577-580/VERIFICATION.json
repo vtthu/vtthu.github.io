@@ -1,0 +1,29 @@
+{
+  "status": "completed",
+  "verified_at_utc": "2026-11-07T04:07:06.218496+00:00",
+  "chapters": 4,
+  "PNG_pages": 16,
+  "PDFs_A4": 4,
+  "PNG_pixels": [
+    1055,
+    1492
+  ],
+  "source_identical_to_user_uploads": true,
+  "PDF_page_counts_and_A4_verified": true,
+  "all_PNG_decodes_and_portrait_A4_verified": true,
+  "ZIP_integrity_verified_locally": true,
+  "new_model_images": [
+    {
+      "path": "models/tham-uyen-sat-khi-bo-da-hac-bang-577.png",
+      "sha256": "ff2bd4a7774f6c542a840ebc38229d62b70251b6e85ee87e2ff188e4caeb6397"
+    },
+    {
+      "path": "models/ao-canh-yeu-lang-luc-thu-khong-gian-579.png",
+      "sha256": "52f6eac9210b192c7bdf64e4911d4dea90715eba8d3470c982ec93996f05b45f"
+    },
+    {
+      "path": "models/thu-yeu-thanh-ung-than-niem-long-giam-580.png",
+      "sha256": "4876839d14f25085402861be555c517131de0678b07119823619d34265445644"
+    }
+  ]
+}
