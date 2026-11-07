@@ -53,6 +53,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 580: Nhân họa đắc phúc](chapters/580/): 4 trang, hoàn thành; [PDF A4](chapters/580/chuong-580.pdf)
+
 - [Chương 579: Trầm luân](chapters/579/): 4 trang, hoàn thành; [PDF A4](chapters/579/chuong-579.pdf)
 
 - [Chương 578: Dò xét phía dưới](chapters/578/): 4 trang, hoàn thành; [PDF A4](chapters/578/chuong-578.pdf)

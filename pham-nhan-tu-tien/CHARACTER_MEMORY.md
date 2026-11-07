@@ -1291,3 +1291,18 @@ Nguồn: file CHUONG 579.txt do người dùng đính kèm. Mỗi PNG một tran
 - 579đủ4trangA4, modelYêuLang/LụcThửảnhđãlưutrướcdùng. ĐầuHanthânngườiCT543,trang1cuốihóavượnSơnNhạc1đầu2tayGOLDfur/đaiTEALđúngPNGgốc,giữđếncuối579khôngTửKimMaThần3đầu6tay.
 - Giữnhịpxươngđuôicôngtrướcchuộtlộtoànthân;ả oảnhđau/tổnthươngthểhiệnkimquangvàsươngkhôngmáuthịt,phụchồiảoảnhdẫnnhậnraCẢNHGIẢ.Hànchiếutinhquangxuađànthihài,tinhnhậnchỉgợnkhônggianchưapháđược.
 - ChuộtMẬPLỤC4chân/taitròn/đuôixươnglục/ánhđỏlụctrongmắt,khôngcanonsinhvậtthậttạiđáyvực. LưỡinănglượngquấnthânvượnPGkhôngthươngthểthật;khônggianbụngdùngsươngtímđen/lụchỏakhôngtếđàncộtđền. Kếtbịgi amthầnhồnnóngđau,chưađộtphá/thoát580.
+
+
+## Model trước580: Thụ Yêu, Thanh Ưng, Thần Niệm lồng giam
+Lưu models/thu-yeu-thanh-ung-than-niem-long-giam-580.png trước580. TY580 đại thụ XANH NGỌC cao hàng trăm trượng, thân/cành/lá xanh, mặt người già trên vỏ thân, không ent đi hai chân. Rễ khắp rừng nhưng ngừng ở mép vực. Hồn TY là thụ nhân lục mờ cùng mặt trong không gian tâm thần xanh, không người riêng. TU580 cự ưng xanh teal hai cánh hai chân/mỏ xám/mắt amber, không Niệm Vũ525 hay Dạ Kiêuđen564/hung cầm xám568.
+Lồng SNLG580 vuông LẬP PHƯƠNG xích TINH THỂ TRẮNG trong suốt vân ĐEN nhỏ/hắc mang, không Cách Nguyên xích sắt đen36. Kiếm ảnh tinh trắng không kiếm vật lý. Ngọc giản tầng5 ĐEN theo580, không ngọc Chân Ngôn trắng vân vàng.
+Nguyên Anh Hàn580 dùng cột GIỮA models/han-lap-tinh-quang-nguyen-anh-dao-cu.png: nam TRƯỞNG THÀNH thu nhỏ15cm áo teal/gold/quang vàng, không trẻ em. Không biến cả Hàn thành V2 tóc bạc. Thân chính đầu580 vẫn Sơn Nhạc Cự Viên một đầu hai tay đến khi chuột ảo ảnh vỡ mới trở ngườiCT543.
+Luyện Thần tầng4 ĐẠI THÀNH chỉ580, thần thức tăng2–3lần không KimTiên tăng cảnh. Lồng bắt hồn Thụ Yêu tạm thời rồi thả, không giết. Thần thức chỉ còn3thành/cần1thánghồi; cuối nghiên cứu tầng5 chưa đại thành tầng5.
+
+
+## Chương 580 — Nhân họa đắc phúc: hoàn thành 4 trang
+Nguồn: file CHUONG 580.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/580/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 580đủ4trangA4. Trang1vẫnSơnNhạcCựViên1đầu2tay,NguyênAnhnhỏnamtrưởngthànhquangvàngcộtgiữamodelgốc;chuộtảoảnhvỡtrang2mớitrởhumanCT543,khôngHanthântócbạcV2.Giữthầnhồntăng2–3lầnkhôngtuviKimTiênthăngcảnh.
+- CựưngxanhmodelTU580bịNiệmKiếmquyết/ánhquangkhôngmáu,rụngxuốngrừngdâycuốnkín,khônghồisinh.Kiếmthầnthức/lồngtrắngtrongvânđen,khôngvậtlýkiếmxanhhayCáchNguyênxíchsắtđen36.
+- TY580thâncànhláxanhngọc/mặtgiàtrênthân,uyápTháiẤt,lồngchỉbắthồntạmt hờirồithảkhônggiết.Thửthuậtlàđánhlénkhichưaphòngbị,khôngkhẳngđịnhthắngmọiTháiẤt. Đãsửaba khungđầutrang3vềhắcvựckhôngdaylightsai,ngoàirừngvẫnsángtáchđúnghaivịtrí.
+- Chỉcòn3thànhthầnthức/cần1thánghồilàướctínhchưabỏquamộttháng. CuốingọcgiảnĐENtầng5,nghiêncứuchưaluyệnthành,khôngđưadiễnbiến581vàosớm.

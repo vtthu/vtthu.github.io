@@ -1,0 +1,44 @@
+{
+  "chapter": 580,
+  "title": "Nhân họa đắc phúc",
+  "images": [
+    "/tmp/comic-batch-577-580/a4-580/trang-01.png",
+    "/tmp/comic-batch-577-580/a4-580/trang-02.png",
+    "/tmp/comic-batch-577-580/a4-580/trang-03.png",
+    "/tmp/comic-batch-577-580/a4-580/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "han-lap-son-nhac-cu-vien.png",
+    "han-lap-tinh-quang-nguyen-anh-dao-cu.png",
+    "ao-canh-yeu-lang-luc-thu-khong-gian-579.png",
+    "tham-uyen-sat-khi-bo-da-hac-bang-577.png",
+    "thu-yeu-thanh-ung-than-niem-long-giam-580.png"
+  ],
+  "summary": "Trong lục hỏa, Hàn Lập đột phá tầng bốn Luyện Thần Thuật, phá tan ảo cảnh và thử công kích thần hồn cùng Thần Niệm Lồng Giam, rồi nghiên cứu khẩu quyết tầng năm.",
+  "notes": "- 580đủ4trangA4. Trang1vẫnSơnNhạcCựViên1đầu2tay,NguyênAnhnhỏnamtrưởngthànhquangvàngcộtgiữamodelgốc;chuộtảoảnhvỡtrang2mớitrởhumanCT543,khôngHanthântócbạcV2.Giữthầnhồntăng2–3lầnkhôngtuviKimTiênthăngcảnh.\n- CựưngxanhmodelTU580bịNiệmKiếmquyết/ánhquangkhôngmáu,rụngxuốngrừngdâycuốnkín,khônghồisinh.Kiếmthầnthức/lồngtrắngtrongvânđen,khôngvậtlýkiếmxanhhayCáchNguyênxíchsắtđen36.\n- TY580thâncànhláxanhngọc/mặtgiàtrênthân,uyápTháiẤt,lồngchỉbắthồntạmt hờirồithảkhônggiết.Thửthuậtlàđánhlénkhichưaphòngbị,khôngkhẳngđịnhthắngmọiTháiẤt. Đãsửaba khungđầutrang3vềhắcvựckhôngdaylightsai,ngoàirừngvẫnsángtáchđúnghaivịtrí.\n- Chỉcòn3thànhthầnthức/cần1thánghồilàướctínhchưabỏquamộttháng. CuốingọcgiảnĐENtầng5,nghiêncứuchưaluyệnthành,khôngđưadiễnbiến581vàosớm.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-577-580/580p1.png",
+    "/tmp/comic-generated-577-580/580p2.png",
+    "/tmp/comic-generated-577-580/580p3-final.png",
+    "/tmp/comic-generated-577-580/580p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
