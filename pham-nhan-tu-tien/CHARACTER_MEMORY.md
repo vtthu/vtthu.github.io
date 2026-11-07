@@ -1279,3 +1279,15 @@ Nguồn: file CHUONG 578.txt do người dùng đính kèm. Mỗi PNG một tran
 - 578đủ4trangA4.HanCT543/GDN01/KDđỏ/TBtrắngdùngmodelgốc,trang1hộphápbệđá,khôngđưaKD/TBxuốngtầngsâuhayvẽGiảisuốtquátrìnhrènthầnthức. Cấmchếxanhcờ/trậnbànđượcbốtríhaibờvách.
 - Sátkhí/âmphongđen,băngĐEN;ảocảnhhuyếtsắcchuyểnthểbằngsươngđỏ/bóngtay/xươngthúkhô,khôngthêmnhânvậtcódanhtínhhaymáuthịtchi tiết. HanxuaảogiácbằngLuyệnThầnThuật,pháthiệntinhtiến,chủđộngthửrèn.
 - Mấythángsauđếntầng4ĐỈNHPHONGchư aĐẠITHÀNH,chưatăngcảnhgiớiKimTiên. Kếtlốcđenphávệthầnthức,chưachuột/viên/thoáthiểm579–580.
+
+
+## Model trước579: ảo cảnh và Sơn Nhạc Cự Viên
+Lưu models/ao-canh-yeu-lang-luc-thu-khong-gian-579.png trước579. YL579yêulangả oảnhbốnchânmộ tđuôixámphủsương/xươngthúkhôtrắng/mắtđỏ. LT579CHUỘTMẬPLỤCcỡnúi4chânngắntaitrònmõmchuột/râudài/đuôidàiXƯƠNGLỤC trămtrượng, mắtánhHỎAĐỎLỤC;lưỡiNĂNGLƯỢNGXANHquấnhỏa,thânphântáclinhquang khôngmáuthịt/rottingcậncảnh. Bốicảnhđỏlàảoảnhhuyếtsắc, xươngkhô/sươngđỏthaychi tiếtmáuthịtvẫncaptionnóihiểmnguy. KhônggiantrongbụngchuộtchuyểnthểtrừutượngSƯƠNGTÍMĐENvàhỏalục,KHÔNGcộtđền/tếđàn/ngọnnến tựsinhtrênsheet;đâykhôngphảicungđiệnthật.
+HanbiếnSơnNhạcCựViên579PHẢIdùngmodels/han-lap-son-nhac-cu-vien.pngđãcó:VƯỢNVÀNGmộtđầuHAItay2chânmặtxám/GOLDmắtđaiTEAL,khoảng12mtrênsheetchỉthiếtkếkhôngcanon;KHÔNGTửKimMaThần3đầ u6tay522hayHắcviên1sừng540. Từbiếnthân579giữvượnđến580pháthỏachỉsauchuộtvỡmớitrởHUMANCT543. Xươngđuôitấn côngtrướcchuộtlộtoànthân,kết579bịgi amtrongảoảnhchưathoát/chưatầng4đạithành.
+
+
+## Chương 579 — Trầm luân: hoàn thành 4 trang
+Nguồn: file CHUONG 579.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/579/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 579đủ4trangA4, modelYêuLang/LụcThửảnhđãlưutrướcdùng. ĐầuHanthânngườiCT543,trang1cuốihóavượnSơnNhạc1đầu2tayGOLDfur/đaiTEALđúngPNGgốc,giữđếncuối579khôngTửKimMaThần3đầu6tay.
+- Giữnhịpxươngđuôicôngtrướcchuộtlộtoànthân;ả oảnhđau/tổnthươngthểhiệnkimquangvàsươngkhôngmáuthịt,phụchồiảoảnhdẫnnhậnraCẢNHGIẢ.Hànchiếutinhquangxuađànthihài,tinhnhậnchỉgợnkhônggianchưapháđược.
+- ChuộtMẬPLỤC4chân/taitròn/đuôixươnglục/ánhđỏlụctrongmắt,khôngcanonsinhvậtthậttạiđáyvực. LưỡinănglượngquấnthânvượnPGkhôngthươngthểthật;khônggianbụngdùngsươngtímđen/lụchỏakhôngtếđàncộtđền. Kếtbịgi amthầnhồnnóngđau,chưađộtphá/thoát580.
