@@ -1166,3 +1166,8 @@ Nguồn: file CHUONG 593.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 594 — Chém: hoàn thành 4 trang
 Nguồn: file CHUONG 594.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/594/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Hàn CT543 18sợi thời gian và hơn400đạo văn theo nguồn. Tám kiếm công trước không thủng; một kiếm hồ lô tạo rạn, chín hợp một rồi361nhát phá giáp. Kim lôi/kiếm khí chặn hồi phục. Bảo Luân bị đánh bật không khẳng định hủy vĩnh viễn; địch thoát giam, còn sống bị thương. MQ-HT588 đã bị đẩy lùi rồi về xa quan sát, KD còn ở cạnh chiến trường; Hàn thần thức gần cạn, không tự phục hồi. Trang2 đã sửa hướng miệng hồ lô và tiêu đề sau lỗi công cụ.
+
+
+## Chương 595 — Liều chết chiến đấu: hoàn thành 4 trang
+Nguồn: file CHUONG 595.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/595/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Bảo Luân quay về nhưng không phát sóng thời gian, chưa rõ nguyên nhân. KD bị thương được thể hiện chân thân giáp trùng/ánh sáng, an toàn tính mạng, ngũ sắc mâu tiêu hóa diễn đạt bằng quang. Địch dùng cánh lông ngũ sắc; GDN tổn hại cơ quan, dùng TrảmĐình đaođen lôivân không rìu. LongTrờiLởĐất chỉ cảm giác đảo, không đổi địa hình thật. KD vào khe giáp địch, bên trong trừu tượng năng lượng không tạng thịt. Saumột khắcSNLGvỡ, Hàn gần cạn thầnthức, kiếm/hồlôđãthu; KDcòntrongthânđịch bị lựcbao vây. Không tựhoànthànhchiếnđấu.

@@ -57,6 +57,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 595: Liều chết chiến đấu](chapters/595/): 4 trang, hoàn thành; [PDF A4](chapters/595/chuong-595.pdf)
+
 - [Chương 594: Chém](chapters/594/): 4 trang, hoàn thành; [PDF A4](chapters/594/chuong-594.pdf)
 
 - [Chương 593: Dụ địch xâm nhập](chapters/593/): 4 trang, hoàn thành; [PDF A4](chapters/593/chuong-593.pdf)

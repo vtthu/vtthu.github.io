@@ -1,0 +1,43 @@
+{
+  "chapter": 595,
+  "title": "Liều chết chiến đấu",
+  "images": [
+    "/tmp/comic-batch-585-599/a4-595/trang-01.png",
+    "/tmp/comic-batch-585-599/a4-595/trang-02.png",
+    "/tmp/comic-batch-585-599/a4-595/trang-03.png",
+    "/tmp/comic-batch-585-599/a4-595/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "ma-quang-hoi-tien-trung-linh-mong-588.png",
+    "trung-linh-ngu-sac-kim-dong-tram-dinh-595.png",
+    "thu-yeu-thanh-ung-than-niem-long-giam-580.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Kim Đồng đỡ đòn cứu Hàn Lập. Giải Đạo Nhân phối hợp Pháp Ngôn Thiên Địa tạo thời cơ khóa thần hồn; Kim Đồng đột nhập, nhưng lồng giam cuối cùng vỡ.",
+  "notes": "- Bảo Luân quay về nhưng không phát sóng thời gian, chưa rõ nguyên nhân. KD bị thương được thể hiện chân thân giáp trùng/ánh sáng, an toàn tính mạng, ngũ sắc mâu tiêu hóa diễn đạt bằng quang. Địch dùng cánh lông ngũ sắc; GDN tổn hại cơ quan, dùng TrảmĐình đaođen lôivân không rìu. LongTrờiLởĐất chỉ cảm giác đảo, không đổi địa hình thật. KD vào khe giáp địch, bên trong trừu tượng năng lượng không tạng thịt. Saumột khắcSNLGvỡ, Hàn gần cạn thầnthức, kiếm/hồlôđãthu; KDcòntrongthânđịch bị lựcbao vây. Không tựhoànthànhchiếnđấu.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-585-599/595p1-fixed.png",
+    "/tmp/comic-generated-585-599/595p2.png",
+    "/tmp/comic-generated-585-599/595p3.png",
+    "/tmp/comic-generated-585-599/595p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
