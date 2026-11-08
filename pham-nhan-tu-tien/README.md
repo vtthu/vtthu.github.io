@@ -57,6 +57,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 586: Biến nguy thành an](chapters/586/): 4 trang, hoàn thành; [PDF A4](chapters/586/chuong-586.pdf)
+
 - [Chương 585: Phân hồn](chapters/585/): 4 trang, hoàn thành; [PDF A4](chapters/585/chuong-585.pdf)
 
 - [Chương 580: Nhân họa đắc phúc](chapters/580/): 4 trang, hoàn thành; [PDF A4](chapters/580/chuong-580.pdf)

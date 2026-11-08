@@ -1,0 +1,43 @@
+{
+  "chapter": 586,
+  "title": "Biến nguy thành an",
+  "images": [
+    "/tmp/comic-batch-585-599/a4-586/trang-01.png",
+    "/tmp/comic-batch-585-599/a4-586/trang-02.png",
+    "/tmp/comic-batch-585-599/a4-586/trang-03.png",
+    "/tmp/comic-batch-585-599/a4-586/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "hoi-tien-cu-thu-long-tu-585.png",
+    "thu-yeu-thanh-ung-than-niem-long-giam-580.png",
+    "han-lap-tinh-quang-nguyen-anh-dao-cu.png",
+    "dong-phu-tam-phap-chuong-thien-binh-547.png"
+  ],
+  "summary": "Bóng xanh xâm nhập thức hải, bị thần niệm giam lại. Huyền Sát Minh Linh Công tự vận chuyển, giúp Hàn Lập khai 107 Tiên khiếu nhưng để lại lo ngại về sát khí.",
+  "notes": "- Kết: bóng xanh tiêu tán, bộ xương còn nguyên; Hàn Lập hồi phục sau khai 107 Tiên khiếu, gần đỉnh phong Kim Tiên, chưa Thái Ất. Thần niệm lồng trắng SNLG580, kiếm tinh thần trắng; Hàn CT543 vẫn giữ cải trang. Ma Quang trong bóng, thi hài còn cất, các bạn không hiện ở đáy vực.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-585-599/586p1.png",
+    "/tmp/comic-generated-585-599/586p2.png",
+    "/tmp/comic-generated-585-599/586p3.png",
+    "/tmp/comic-generated-585-599/586p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

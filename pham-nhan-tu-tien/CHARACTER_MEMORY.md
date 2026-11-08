@@ -1316,3 +1316,8 @@ Nguồn: file CHUONG 580.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 585 — Phân hồn: hoàn thành 4 trang
 Nguồn: file CHUONG 585.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/585/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Giữ Hàn Lập CT543 cải trang, Kim Tiên hậu kỳ; Ma Quang MQ-01 Chân Tiên, chưa nhập thi hài. Long Tứ đỏ được cất, không đeo. Thi hài phong trong kén tinh ti xanh. Cự Thử là xương phỉ thúy, trận hồ lô bốn nút; kết ở kim lôi đánh bóng xanh. Chưa xác nhận thân phận Hôi Tiên.
+
+
+## Chương 586 — Biến nguy thành an: hoàn thành 4 trang
+Nguồn: file CHUONG 586.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/586/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Kết: bóng xanh tiêu tán, bộ xương còn nguyên; Hàn Lập hồi phục sau khai 107 Tiên khiếu, gần đỉnh phong Kim Tiên, chưa Thái Ất. Thần niệm lồng trắng SNLG580, kiếm tinh thần trắng; Hàn CT543 vẫn giữ cải trang. Ma Quang trong bóng, thi hài còn cất, các bạn không hiện ở đáy vực.
