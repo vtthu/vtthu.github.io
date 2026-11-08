@@ -1,0 +1,41 @@
+{
+  "chapter": 596,
+  "title": "Liều mạng",
+  "images": [
+    "/tmp/comic-batch-585-599/a4-596/trang-01.png",
+    "/tmp/comic-batch-585-599/a4-596/trang-02.png",
+    "/tmp/comic-batch-585-599/a4-596/trang-03.png",
+    "/tmp/comic-batch-585-599/a4-596/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "ma-quang-hoi-tien-trung-linh-mong-588.png",
+    "trung-linh-ngu-sac-kim-dong-tram-dinh-595.png"
+  ],
+  "summary": "Kim Đồng tiến tới Thái Ất trung kỳ trong thân địch. Sau vụ bùng nổ, Ma Quang che chắn cho Hàn Lập thoát ra; Phệ Kim Tiên vẫn đuổi tới và tiếng Kim Đồng đột ngột ngắt.",
+  "notes": "- Kim Đồng chân thân trong thân địch, Thái Ất trung kỳ. Bảo Luân nghịch chuyển lại được nhưng chưa hồi phục trọn; Linh Vực Thời Gian do Hàn phát, đã sửa lời dẫn trang2 từng gán nhầm chủ thể. Tự bạo chỉ suy đoán, địch không chết. MQ-HT588 trọng thương PGkhói/áorách che chắnHan, sau hấp sát chữa ngoài, chưa hồi phục hoàn toàn. Vực thành thunglũnglớn, sơncốcThụYêu sụp, không xácnhậnThụYêuchết. KếtKDbịngắtâmchưađịnhsốphận.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-585-599/596p1.png",
+    "/tmp/comic-generated-585-599/596p2-fixed.png",
+    "/tmp/comic-generated-585-599/596p3.png",
+    "/tmp/comic-generated-585-599/596p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

@@ -1366,3 +1366,8 @@ Nguồn: file CHUONG 594.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 595 — Liều chết chiến đấu: hoàn thành 4 trang
 Nguồn: file CHUONG 595.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/595/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Bảo Luân quay về nhưng không phát sóng thời gian, chưa rõ nguyên nhân. KD bị thương được thể hiện chân thân giáp trùng/ánh sáng, an toàn tính mạng, ngũ sắc mâu tiêu hóa diễn đạt bằng quang. Địch dùng cánh lông ngũ sắc; GDN tổn hại cơ quan, dùng TrảmĐình đaođen lôivân không rìu. LongTrờiLởĐất chỉ cảm giác đảo, không đổi địa hình thật. KD vào khe giáp địch, bên trong trừu tượng năng lượng không tạng thịt. Saumột khắcSNLGvỡ, Hàn gần cạn thầnthức, kiếm/hồlôđãthu; KDcòntrongthânđịch bị lựcbao vây. Không tựhoànthànhchiếnđấu.
+
+
+## Chương 596 — Liều mạng: hoàn thành 4 trang
+Nguồn: file CHUONG 596.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/596/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Kim Đồng chân thân trong thân địch, Thái Ất trung kỳ. Bảo Luân nghịch chuyển lại được nhưng chưa hồi phục trọn; Linh Vực Thời Gian do Hàn phát, đã sửa lời dẫn trang2 từng gán nhầm chủ thể. Tự bạo chỉ suy đoán, địch không chết. MQ-HT588 trọng thương PGkhói/áorách che chắnHan, sau hấp sát chữa ngoài, chưa hồi phục hoàn toàn. Vực thành thunglũnglớn, sơncốcThụYêu sụp, không xácnhậnThụYêuchết. KếtKDbịngắtâmchưađịnhsốphận.
