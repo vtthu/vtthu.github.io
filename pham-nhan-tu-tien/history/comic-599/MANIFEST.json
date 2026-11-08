@@ -1,0 +1,46 @@
+{
+  "chapter": 599,
+  "title": "Đệ ngũ suy",
+  "images": [
+    "/tmp/comic-batch-585-599/a4-599/trang-01.png",
+    "/tmp/comic-batch-585-599/a4-599/trang-02.png",
+    "/tmp/comic-batch-585-599/a4-599/trang-03.png",
+    "/tmp/comic-batch-585-599/a4-599/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "ma-quang-hoi-tien-trung-linh-mong-588.png",
+    "trung-linh-ngu-sac-kim-dong-tram-dinh-595.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+    "bach-y-nam-tu-kim-kien-dia-do-598.png",
+    "hung-gia-models.png",
+    "tien-nguc-huyen-dich-linh-quang-599.png"
+  ],
+  "summary": "Tiên Ngục cử Công Thâu Thiên truy xét Luyện Thần Thuật. Hơn nửa năm sau, nhóm phát hiện tác dụng thu liễm sát khí của Hư Nguyên Đan, rồi Hàn Lập đột ngột gặp sát suy.",
+  "notes": "- Hùng dùng HS02 trẻ ánhvàng, Huyền/Địch vàđồngliêu cómodelchelinhquang599trướcvẽ. CôngThâuThiênchỉnhắc chưahiện. Hơnnửanămsau HanCT543hồiphụcnộithương/thầnthứcnhưngchưaTháiẤt;107khiếu gặpĐệNgũSuySátSuy. MQhost588mắtđen/gầngiốngngườinhờHưNguyênĐan,khíxoáyduytrìvàinăm tốida10năm;chưaluyệnmẻmới chỉtreothưởngnguyênliệutrongtruyện. DùngLongNgũTEAL2sừngvàngkhôngLongTứđỏ. KDvẫnké nvàngđục/mâytrắngchưatỉnh;TBtrắngngọcthânthật;Giảiláixe. Trang2đãsửanề nphixaMỞkhôngphòngkínvàké nđụckhônglộngườibêntrong. KếtHanALONEtronghangmớithunglũngsông,GDNMQTBởxe cáchxa,chưagiảiSátSuy.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-585-599/599p1.png",
+    "/tmp/comic-generated-585-599/599p2-fixed.png",
+    "/tmp/comic-generated-585-599/599p3.png",
+    "/tmp/comic-generated-585-599/599p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

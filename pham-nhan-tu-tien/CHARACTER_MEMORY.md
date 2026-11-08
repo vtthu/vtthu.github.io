@@ -1381,3 +1381,8 @@ Nguồn: file CHUONG 597.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 598 — Cắt đứt nhân quả: hoàn thành 4 trang
 Nguồn: file CHUONG 598.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/598/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - BNY598 mới lưu trước trang, tóc đen chùm vàng áo trắng; chưa tên riêng, ĐạiLa/ThiênHồ là suyđoán. Hư ảnh vàng cao gầy thoángqua khônggánmặt/danh tính. KDtrongkénvànggần1trượngđược mâycờtrắngche, TBngọcbộiởthắtlưngHan. GDNđãtrởlạiláiphi xa, giữtổnhạichưa tựchữalành; MQhost588thutúiđen âmthuộc chứa sátkhí200–300cân. Bíchngọcphixa4bánh567, ngọcgiảnXANHtraoGiảikhôngcuộngiấy. Han107khiếuchưaTháiẤt, đangchữanộithương; bốnđạitộcđánhcấmvàlộHắcSơnđãnhận.
+
+
+## Chương 599 — Đệ ngũ suy: hoàn thành 4 trang
+Nguồn: file CHUONG 599.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/599/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Hùng dùng HS02 trẻ ánhvàng, Huyền/Địch vàđồngliêu cómodelchelinhquang599trướcvẽ. CôngThâuThiênchỉnhắc chưahiện. Hơnnửanămsau HanCT543hồiphụcnộithương/thầnthứcnhưngchưaTháiẤt;107khiếu gặpĐệNgũSuySátSuy. MQhost588mắtđen/gầngiốngngườinhờHưNguyênĐan,khíxoáyduytrìvàinăm tốida10năm;chưaluyệnmẻmới chỉtreothưởngnguyênliệutrongtruyện. DùngLongNgũTEAL2sừngvàngkhôngLongTứđỏ. KDvẫnké nvàngđục/mâytrắngchưatỉnh;TBtrắngngọcthânthật;Giảiláixe. Trang2đãsửanề nphixaMỞkhôngphòngkínvàké nđụckhônglộngườibêntrong. KếtHanALONEtronghangmớithunglũngsông,GDNMQTBởxe cáchxa,chưagiảiSátSuy.

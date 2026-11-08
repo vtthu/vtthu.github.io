@@ -57,6 +57,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 599: Đệ ngũ suy](chapters/599/): 4 trang, hoàn thành; [PDF A4](chapters/599/chuong-599.pdf)
+
 - [Chương 598: Cắt đứt nhân quả](chapters/598/): 4 trang, hoàn thành; [PDF A4](chapters/598/chuong-598.pdf)
 
 - [Chương 597: Ngươi chết ta sống](chapters/597/): 4 trang, hoàn thành; [PDF A4](chapters/597/chuong-597.pdf)
