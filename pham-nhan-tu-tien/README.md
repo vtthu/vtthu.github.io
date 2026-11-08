@@ -57,6 +57,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 597: Ngươi chết ta sống](chapters/597/): 4 trang, hoàn thành; [PDF A4](chapters/597/chuong-597.pdf)
+
 - [Chương 596: Liều mạng](chapters/596/): 4 trang, hoàn thành; [PDF A4](chapters/596/chuong-596.pdf)
 
 - [Chương 595: Liều chết chiến đấu](chapters/595/): 4 trang, hoàn thành; [PDF A4](chapters/595/chuong-595.pdf)

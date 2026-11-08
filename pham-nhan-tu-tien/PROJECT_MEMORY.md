@@ -1176,3 +1176,8 @@ Nguồn: file CHUONG 595.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 596 — Liều mạng: hoàn thành 4 trang
 Nguồn: file CHUONG 596.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/596/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Kim Đồng chân thân trong thân địch, Thái Ất trung kỳ. Bảo Luân nghịch chuyển lại được nhưng chưa hồi phục trọn; Linh Vực Thời Gian do Hàn phát, đã sửa lời dẫn trang2 từng gán nhầm chủ thể. Tự bạo chỉ suy đoán, địch không chết. MQ-HT588 trọng thương PGkhói/áorách che chắnHan, sau hấp sát chữa ngoài, chưa hồi phục hoàn toàn. Vực thành thunglũnglớn, sơncốcThụYêu sụp, không xácnhậnThụYêuchết. KếtKDbịngắtâmchưađịnhsốphận.
+
+
+## Chương 597 — Ngươi chết ta sống: hoàn thành 4 trang
+Nguồn: file CHUONG 597.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/597/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Địch thật đã chết sau thắng thần hồn, không cho sống lại; trận sau là hư ảnh oánniệmkhôngphải nguyênthần. KDhóagáiđỏ532xuấthiệnxin hộpháp, hấp thu bằngkimxoáy; HanMQGiảiđứngbaphương, TBtrắngngọc xuất hiện bênHan. KếtKDđãthuquang oánniệmnhưngchưacôngbốĐạiLa/hậukỳ mới. Hàn đã dùng tia tinh tơ cưỡng ép cứuKD, cònbồi hồi bằngđan. MQhost588bàođen, GDNtổnhạicơquan595.
