@@ -57,6 +57,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 590: Chuẩn bị cuối cùng](chapters/590/): 4 trang, hoàn thành; [PDF A4](chapters/590/chuong-590.pdf)
+
 - [Chương 589: Thức tỉnh](chapters/589/): 4 trang, hoàn thành; [PDF A4](chapters/589/chuong-589.pdf)
 
 - [Chương 588: Đánh cược một lần](chapters/588/): 4 trang, hoàn thành; [PDF A4](chapters/588/chuong-588.pdf)

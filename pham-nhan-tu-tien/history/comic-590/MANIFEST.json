@@ -1,0 +1,45 @@
+{
+  "chapter": 590,
+  "title": "Chuẩn bị cuối cùng",
+  "images": [
+    "/tmp/comic-batch-585-599/a4-590/trang-01.png",
+    "/tmp/comic-batch-585-599/a4-590/trang-02.png",
+    "/tmp/comic-batch-585-599/a4-590/trang-03.png",
+    "/tmp/comic-batch-585-599/a4-590/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "ma-quang-hoi-tien-trung-linh-mong-588.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "giai-dao-nhan-gdn01.png",
+    "tuc-luc-u-ho-trung-linh-559.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Phệ Kim Tiên tỉnh sau hai mươi năm và tiếp tục đuổi. Hàn Lập dùng một tháng chuẩn bị trận địa, phối hợp Giải Đạo Nhân và kiểm tra Huyền Thiên hồ lô.",
+  "notes": "- Địch Thái Ất hậu kỳ còn nguyên, chưa Đại La; suy đoán Tứ Thánh thi triển huyễn thuật chỉ là nghi vấn. Kim Đồng Thái Ất sơ kỳ, Tiểu Bạch tu trên bình đài. MQ giữ mặt HT588 nhưng đã thay trường bào đen, Kim Tiên hậu kỳ, hứa sức Thái Ất một nén nhang. Trận đại chiến đã bố trí ẩn hơn mười ngày, chưa kích chiến. Huyền Thiên hồ lô chưa thành thục, dưới trăm năm là ước lượng, không đột nhiên chín.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-585-599/590p1.png",
+    "/tmp/comic-generated-585-599/590p2.png",
+    "/tmp/comic-generated-585-599/590p3.png",
+    "/tmp/comic-generated-585-599/590p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

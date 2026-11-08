@@ -1141,3 +1141,8 @@ Nguồn: file CHUONG 588.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 589 — Thức tỉnh: hoàn thành 4 trang
 Nguồn: file CHUONG 589.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/589/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - MQ-HT588 đã tỉnh, chứng minh Thiên Ma khế ước; khí tức Thái Ất thoáng qua, ổn định Kim Tiên hậu kỳ, không đánh đồng Thái Ất thật của KD. Hàn giữ cấm chế, hộ pháp. Phệ Kim Tiên địch TL559 ở quang đoàn trắng trên núi; TL589-DREAM dạng người là ảo mộng, không khẳng định Đại La thật. Kết ảo cảnh vỡ. Trang1 chuyển câu đùa về thi hài sang lời dẫn, thức tỉnh thể hiện bằng linh lực sau công cụ từ chối hình đầu.
+
+
+## Chương 590 — Chuẩn bị cuối cùng: hoàn thành 4 trang
+Nguồn: file CHUONG 590.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/590/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Địch Thái Ất hậu kỳ còn nguyên, chưa Đại La; suy đoán Tứ Thánh thi triển huyễn thuật chỉ là nghi vấn. Kim Đồng Thái Ất sơ kỳ, Tiểu Bạch tu trên bình đài. MQ giữ mặt HT588 nhưng đã thay trường bào đen, Kim Tiên hậu kỳ, hứa sức Thái Ất một nén nhang. Trận đại chiến đã bố trí ẩn hơn mười ngày, chưa kích chiến. Huyền Thiên hồ lô chưa thành thục, dưới trăm năm là ước lượng, không đột nhiên chín.
