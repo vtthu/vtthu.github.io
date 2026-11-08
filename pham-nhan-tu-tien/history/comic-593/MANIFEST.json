@@ -1,0 +1,44 @@
+{
+  "chapter": 593,
+  "title": "Dụ địch xâm nhập",
+  "images": [
+    "/tmp/comic-batch-585-599/a4-593/trang-01.png",
+    "/tmp/comic-batch-585-599/a4-593/trang-02.png",
+    "/tmp/comic-batch-585-599/a4-593/trang-03.png",
+    "/tmp/comic-batch-585-599/a4-593/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "tuc-luc-u-ho-trung-linh-559.png",
+    "ma-quang-hoi-tien-trung-linh-mong-588.png",
+    "tu-tuong-bach-an-hac-nghien-hac-thuong-593.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Hàn Lập dụ địch xuống đáy vực. Các pháp bảo và Tứ Tượng trận lần lượt thất bại; lầu các ba tầng vỡ, Ma Quang xuất hắc thương nghênh địch.",
+  "notes": "- Địch thu nhỏ dưới trăm trượng, lớp kim quang bảo hộ. Trận lộ ngoài bị gió vàng phá; chặn giấy trắng đã vỡ hai, hắc diễm bị hút hết; trận bạch trụ/Tứ Tượng bị phá, lầu các ba tầng đã vỡ không đưa trở lại hồ lô. MQ-HT588 bào đen xuất hiện sức Thái Ất ngắn hạn, hắc thương đỏ liên quang vừa chạm hai chi trước; kết chưa đánh bật. Hàn CT543, KD đỏ còn nguyên. Giải rút xa, TB không xuất hiện.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-585-599/593p1.png",
+    "/tmp/comic-generated-585-599/593p2.png",
+    "/tmp/comic-generated-585-599/593p3.png",
+    "/tmp/comic-generated-585-599/593p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

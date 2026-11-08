@@ -1156,3 +1156,8 @@ Nguồn: file CHUONG 591.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 592 — Mãnh liệt tới: hoàn thành 4 trang
 Nguồn: file CHUONG 592.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/592/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Kiếm thử xuyên ngàn dặm được gọi về nguyên vẹn và cất lại đúng hồ lô hai bầu; trang2 đã sửa bình vẽ nhầm. Thụ Yêu TY580 còn sống, rút lui; không nhầm Thanh Ưng đã chết. Địch TL559 toàn vẹn. Kiền Thiên Phục Lăng trận đã phá, Giải GDN01 khôi lỗi bị nứt ngực/bụng lộ cơ quan đen, kim lôi rút xa; không máu thịt. Hàn/KD/MQ chưa lộ trong trận này.
+
+
+## Chương 593 — Dụ địch xâm nhập: hoàn thành 4 trang
+Nguồn: file CHUONG 593.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/593/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Địch thu nhỏ dưới trăm trượng, lớp kim quang bảo hộ. Trận lộ ngoài bị gió vàng phá; chặn giấy trắng đã vỡ hai, hắc diễm bị hút hết; trận bạch trụ/Tứ Tượng bị phá, lầu các ba tầng đã vỡ không đưa trở lại hồ lô. MQ-HT588 bào đen xuất hiện sức Thái Ất ngắn hạn, hắc thương đỏ liên quang vừa chạm hai chi trước; kết chưa đánh bật. Hàn CT543, KD đỏ còn nguyên. Giải rút xa, TB không xuất hiện.
