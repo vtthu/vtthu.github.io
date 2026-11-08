@@ -1,0 +1,44 @@
+{
+  "chapter": 594,
+  "title": "Chém",
+  "images": [
+    "/tmp/comic-batch-585-599/a4-594/trang-01.png",
+    "/tmp/comic-batch-585-599/a4-594/trang-02.png",
+    "/tmp/comic-batch-585-599/a4-594/trang-03.png",
+    "/tmp/comic-batch-585-599/a4-594/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "ma-quang-hoi-tien-trung-linh-mong-588.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "tuc-luc-u-ho-trung-linh-559.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+    "dong-phu-tam-phap-chuong-thien-binh-547.png"
+  ],
+  "summary": "Hàn Lập dùng Bảo Luân khống chế địch, phóng kiếm thứ chín bằng hồ lô rồi hợp chín kiếm, dồn 361 nhát vào một điểm phá lớp giáp.",
+  "notes": "- Hàn CT543 18sợi thời gian và hơn400đạo văn theo nguồn. Tám kiếm công trước không thủng; một kiếm hồ lô tạo rạn, chín hợp một rồi361nhát phá giáp. Kim lôi/kiếm khí chặn hồi phục. Bảo Luân bị đánh bật không khẳng định hủy vĩnh viễn; địch thoát giam, còn sống bị thương. MQ-HT588 đã bị đẩy lùi rồi về xa quan sát, KD còn ở cạnh chiến trường; Hàn thần thức gần cạn, không tự phục hồi. Trang2 đã sửa hướng miệng hồ lô và tiêu đề sau lỗi công cụ.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-585-599/594p1.png",
+    "/tmp/comic-generated-585-599/594p2-fixed.png",
+    "/tmp/comic-generated-585-599/594p3.png",
+    "/tmp/comic-generated-585-599/594p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

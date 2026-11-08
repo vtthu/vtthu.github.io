@@ -1356,3 +1356,8 @@ Nguồn: file CHUONG 592.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 593 — Dụ địch xâm nhập: hoàn thành 4 trang
 Nguồn: file CHUONG 593.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/593/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Địch thu nhỏ dưới trăm trượng, lớp kim quang bảo hộ. Trận lộ ngoài bị gió vàng phá; chặn giấy trắng đã vỡ hai, hắc diễm bị hút hết; trận bạch trụ/Tứ Tượng bị phá, lầu các ba tầng đã vỡ không đưa trở lại hồ lô. MQ-HT588 bào đen xuất hiện sức Thái Ất ngắn hạn, hắc thương đỏ liên quang vừa chạm hai chi trước; kết chưa đánh bật. Hàn CT543, KD đỏ còn nguyên. Giải rút xa, TB không xuất hiện.
+
+
+## Chương 594 — Chém: hoàn thành 4 trang
+Nguồn: file CHUONG 594.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/594/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Hàn CT543 18sợi thời gian và hơn400đạo văn theo nguồn. Tám kiếm công trước không thủng; một kiếm hồ lô tạo rạn, chín hợp một rồi361nhát phá giáp. Kim lôi/kiếm khí chặn hồi phục. Bảo Luân bị đánh bật không khẳng định hủy vĩnh viễn; địch thoát giam, còn sống bị thương. MQ-HT588 đã bị đẩy lùi rồi về xa quan sát, KD còn ở cạnh chiến trường; Hàn thần thức gần cạn, không tự phục hồi. Trang2 đã sửa hướng miệng hồ lô và tiêu đề sau lỗi công cụ.
