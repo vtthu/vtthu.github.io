@@ -57,6 +57,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 592: Mãnh liệt tới](chapters/592/): 4 trang, hoàn thành; [PDF A4](chapters/592/chuong-592.pdf)
+
 - [Chương 591: Kiếm trong hồ lô](chapters/591/): 4 trang, hoàn thành; [PDF A4](chapters/591/chuong-591.pdf)
 
 - [Chương 590: Chuẩn bị cuối cùng](chapters/590/): 4 trang, hoàn thành; [PDF A4](chapters/590/chuong-590.pdf)

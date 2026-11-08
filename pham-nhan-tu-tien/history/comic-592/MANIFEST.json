@@ -1,0 +1,43 @@
+{
+  "chapter": 592,
+  "title": "Mãnh liệt tới",
+  "images": [
+    "/tmp/comic-batch-585-599/a4-592/trang-01.png",
+    "/tmp/comic-batch-585-599/a4-592/trang-02.png",
+    "/tmp/comic-batch-585-599/a4-592/trang-03.png",
+    "/tmp/comic-batch-585-599/a4-592/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+    "tuc-luc-u-ho-trung-linh-559.png",
+    "thu-yeu-thanh-ung-than-niem-long-giam-580.png",
+    "giai-dao-nhan-gdn01.png"
+  ],
+  "summary": "Hồ lô bắn đá rồi phi kiếm với uy lực kinh người. Hơn mười ngày sau, Phệ Kim Tiên tới vực, phá trận Kiền Thiên Phục Lăng và làm Giải Đạo Nhân tổn hại.",
+  "notes": "- Kiếm thử xuyên ngàn dặm được gọi về nguyên vẹn và cất lại đúng hồ lô hai bầu; trang2 đã sửa bình vẽ nhầm. Thụ Yêu TY580 còn sống, rút lui; không nhầm Thanh Ưng đã chết. Địch TL559 toàn vẹn. Kiền Thiên Phục Lăng trận đã phá, Giải GDN01 khôi lỗi bị nứt ngực/bụng lộ cơ quan đen, kim lôi rút xa; không máu thịt. Hàn/KD/MQ chưa lộ trong trận này.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-585-599/592p1.png",
+    "/tmp/comic-generated-585-599/592p2-fixed.png",
+    "/tmp/comic-generated-585-599/592p3.png",
+    "/tmp/comic-generated-585-599/592p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
