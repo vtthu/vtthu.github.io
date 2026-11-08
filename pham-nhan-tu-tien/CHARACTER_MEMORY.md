@@ -1341,3 +1341,8 @@ Nguồn: file CHUONG 589.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 590 — Chuẩn bị cuối cùng: hoàn thành 4 trang
 Nguồn: file CHUONG 590.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/590/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Địch Thái Ất hậu kỳ còn nguyên, chưa Đại La; suy đoán Tứ Thánh thi triển huyễn thuật chỉ là nghi vấn. Kim Đồng Thái Ất sơ kỳ, Tiểu Bạch tu trên bình đài. MQ giữ mặt HT588 nhưng đã thay trường bào đen, Kim Tiên hậu kỳ, hứa sức Thái Ất một nén nhang. Trận đại chiến đã bố trí ẩn hơn mười ngày, chưa kích chiến. Huyền Thiên hồ lô chưa thành thục, dưới trăm năm là ước lượng, không đột nhiên chín.
+
+
+## Chương 591 — Kiếm trong hồ lô: hoàn thành 4 trang
+Nguồn: file CHUONG 591.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/591/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Hàn CT543 vẫn ở đáy vực; nội cảnh chỉ thần thức. Chín Thanh Trúc Phong Vân Kiếm được thử rồi thu lại hồ lô, lầu ba tầng vẫn trong tầng đầu. Tầng hai có một quang đoàn xanh, chưa tiếp cận/khống chế được dù dùng thần niệm liên, niệm kiếm, lồng giam. Đã điều khiển tốc độ vòng xoáy tầng đầu, thu đá thành cầu đen, hao hơn nửa tiên linh lực một khắc. Kết vừa đảo chiều, chưa mô tả kết quả.

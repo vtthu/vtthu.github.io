@@ -1,0 +1,41 @@
+{
+  "chapter": 591,
+  "title": "Kiếm trong hồ lô",
+  "images": [
+    "/tmp/comic-batch-585-599/a4-591/trang-01.png",
+    "/tmp/comic-batch-585-599/a4-591/trang-02.png",
+    "/tmp/comic-batch-585-599/a4-591/trang-03.png",
+    "/tmp/comic-batch-585-599/a4-591/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+    "thu-yeu-thanh-ung-than-niem-long-giam-580.png"
+  ],
+  "summary": "Hàn Lập thử uy lực chín phi kiếm, mở thêm tầng nội cảnh hồ lô và tăng khả năng thu nhiếp, rồi thử đảo chiều vòng xoáy.",
+  "notes": "- Hàn CT543 vẫn ở đáy vực; nội cảnh chỉ thần thức. Chín Thanh Trúc Phong Vân Kiếm được thử rồi thu lại hồ lô, lầu ba tầng vẫn trong tầng đầu. Tầng hai có một quang đoàn xanh, chưa tiếp cận/khống chế được dù dùng thần niệm liên, niệm kiếm, lồng giam. Đã điều khiển tốc độ vòng xoáy tầng đầu, thu đá thành cầu đen, hao hơn nửa tiên linh lực một khắc. Kết vừa đảo chiều, chưa mô tả kết quả.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-585-599/591p1.png",
+    "/tmp/comic-generated-585-599/591p2.png",
+    "/tmp/comic-generated-585-599/591p3.png",
+    "/tmp/comic-generated-585-599/591p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
