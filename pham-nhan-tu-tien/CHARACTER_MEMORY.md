@@ -1331,3 +1331,8 @@ Nguồn: file CHUONG 587.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 588 — Đánh cược một lần: hoàn thành 4 trang
 Nguồn: file CHUONG 588.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/588/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Hơn mười cây xanh chưa biết tên được thu vào hộp ngọc trắng dán phù bạc. Luyện thi bằng trận tam giác Hắc Tủy Tinh, khác trận hồ lô585. MQ01 đã nhập HT588; chưa tỉnh, không còn hình gốc đứng ngoài. Kim Đồng Thái Ất sơ kỳ đã ổn định bằng hai đan, Tiểu Bạch còn trong túi; Giải giữ trên vực. Hàn Kim Tiên đỉnh phong mắt xám phát tác không quy luật. Trang2 đã sửa thoại tự sinh để không bịa chi tiết công pháp.
+
+
+## Chương 589 — Thức tỉnh: hoàn thành 4 trang
+Nguồn: file CHUONG 589.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/589/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- MQ-HT588 đã tỉnh, chứng minh Thiên Ma khế ước; khí tức Thái Ất thoáng qua, ổn định Kim Tiên hậu kỳ, không đánh đồng Thái Ất thật của KD. Hàn giữ cấm chế, hộ pháp. Phệ Kim Tiên địch TL559 ở quang đoàn trắng trên núi; TL589-DREAM dạng người là ảo mộng, không khẳng định Đại La thật. Kết ảo cảnh vỡ. Trang1 chuyển câu đùa về thi hài sang lời dẫn, thức tỉnh thể hiện bằng linh lực sau công cụ từ chối hình đầu.

@@ -1,0 +1,42 @@
+{
+  "chapter": 589,
+  "title": "Thức tỉnh",
+  "images": [
+    "/tmp/comic-batch-585-599/a4-589/trang-01.png",
+    "/tmp/comic-batch-585-599/a4-589/trang-02.png",
+    "/tmp/comic-batch-585-599/a4-589/trang-03.png",
+    "/tmp/comic-batch-585-599/a4-589/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "ma-quang-hoi-tien-trung-linh-mong-588.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "tuc-luc-u-ho-trung-linh-559.png"
+  ],
+  "summary": "Hư Nguyên Đan giúp Ma Quang tỉnh trong thân thể Hôi Tiên. Ở nơi khác, Phệ Kim Tiên chìm trong giấc mộng trở lại Đại La, rồi ảo cảnh đột ngột vỡ.",
+  "notes": "- MQ-HT588 đã tỉnh, chứng minh Thiên Ma khế ước; khí tức Thái Ất thoáng qua, ổn định Kim Tiên hậu kỳ, không đánh đồng Thái Ất thật của KD. Hàn giữ cấm chế, hộ pháp. Phệ Kim Tiên địch TL559 ở quang đoàn trắng trên núi; TL589-DREAM dạng người là ảo mộng, không khẳng định Đại La thật. Kết ảo cảnh vỡ. Trang1 chuyển câu đùa về thi hài sang lời dẫn, thức tỉnh thể hiện bằng linh lực sau công cụ từ chối hình đầu.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-585-599/589p1.png",
+    "/tmp/comic-generated-585-599/589p2.png",
+    "/tmp/comic-generated-585-599/589p3.png",
+    "/tmp/comic-generated-585-599/589p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
