@@ -1311,3 +1311,8 @@ Nguồn: file CHUONG 580.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Hoàn thành đợt577–580
 Đã tạo theo thứ tự577→580, mỗi chương4trang, tổng16PNG/4PDF A4, nguồnTXT giữ nguyên byte. Mỗi chươngpushmain riêng ngay khi hoàn thành. Mục lục production/577-580/README.md; registry/model/nguồn/commit CHAPTER_REGISTRY.json, kiểm tra VERIFICATION.json. Ba model mới lưu trước dùng; HànCT543/SơnNhạcCựViên1đầu2tay/KDđỏ/TBtrắng/GDN01 dùng PNG gốc. Không tự thêm hoàn thành570–576 hay các chương cũ còn dở.
 Điểm nối581: HànCT543 ở bệ đá sâu trong vực, Luyện Thần Thuật tầng4đại thành/thần thức tăng2–3lần; sau thử Thần Niệm Lồng Giam chỉ còn3thành thần thức, ít nhất1tháng hồi là ước tính. Cầm ngọc giản ĐEN nghiên cứu tầng5, chưa luyện thành tầng5/chưa thăng cảnh KimTiên. ThụYêuTháiẤt đã được thả, sống; cựưngChânTiên đã bị hạ. KD/TB/Giải ở tuyến hộ pháp đầu578, không tự xuất hiện ở tầng sâu. Nguồn/thoại về người truyền tin bí ẩn vẫn không xác nhận chân dung/danh tính.
+
+
+## Chương 585 — Phân hồn: hoàn thành 4 trang
+Nguồn: file CHUONG 585.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/585/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Giữ Hàn Lập CT543 cải trang, Kim Tiên hậu kỳ; Ma Quang MQ-01 Chân Tiên, chưa nhập thi hài. Long Tứ đỏ được cất, không đeo. Thi hài phong trong kén tinh ti xanh. Cự Thử là xương phỉ thúy, trận hồ lô bốn nút; kết ở kim lôi đánh bóng xanh. Chưa xác nhận thân phận Hôi Tiên.

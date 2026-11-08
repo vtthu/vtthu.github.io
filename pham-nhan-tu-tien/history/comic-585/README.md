@@ -1,0 +1,9 @@
+# Chương 585: Phân hồn
+
+4 trang PNG riêng, tỉ lệ A4 dọc; chuyển thể từ văn bản người dùng đính kèm, có thoại, suy nghĩ và lời dẫn. Dùng model tham chiếu trong bộ nhớ dự án.
+
+[PDF A4](chuong-585.pdf) · [Văn bản nguồn](SOURCE.txt)
+
+Hàn Lập mở di vật Long Tứ, nghe phương pháp phân hồn của Ma Quang nhưng chưa chấp thuận; trận dẫn sát khí làm Cự Thử phát sinh biến cố.
+
+Ảnh ở pages/, model ở models/.

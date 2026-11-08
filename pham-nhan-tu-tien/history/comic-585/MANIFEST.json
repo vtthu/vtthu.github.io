@@ -1,0 +1,41 @@
+{
+  "chapter": 585,
+  "title": "Phân hồn",
+  "images": [
+    "/tmp/comic-batch-585-599/a4-585/trang-01.png",
+    "/tmp/comic-batch-585-599/a4-585/trang-02.png",
+    "/tmp/comic-batch-585-599/a4-585/trang-03.png",
+    "/tmp/comic-batch-585-599/a4-585/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "ma-quang-nhat-quy-duong-hon-lo.png",
+    "hoi-tien-cu-thu-long-tu-585.png"
+  ],
+  "summary": "Hàn Lập mở di vật Long Tứ, nghe phương pháp phân hồn của Ma Quang nhưng chưa chấp thuận; trận dẫn sát khí làm Cự Thử phát sinh biến cố.",
+  "notes": "- Giữ Hàn Lập CT543 cải trang, Kim Tiên hậu kỳ; Ma Quang MQ-01 Chân Tiên, chưa nhập thi hài. Long Tứ đỏ được cất, không đeo. Thi hài phong trong kén tinh ti xanh. Cự Thử là xương phỉ thúy, trận hồ lô bốn nút; kết ở kim lôi đánh bóng xanh. Chưa xác nhận thân phận Hôi Tiên.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-585-599/585p1.png",
+    "/tmp/comic-generated-585-599/585p2.png",
+    "/tmp/comic-generated-585-599/585p3.png",
+    "/tmp/comic-generated-585-599/585p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
