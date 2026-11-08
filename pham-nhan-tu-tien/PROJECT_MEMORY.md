@@ -1126,3 +1126,8 @@ Nguồn: file CHUONG 585.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 586 — Biến nguy thành an: hoàn thành 4 trang
 Nguồn: file CHUONG 586.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/586/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Kết: bóng xanh tiêu tán, bộ xương còn nguyên; Hàn Lập hồi phục sau khai 107 Tiên khiếu, gần đỉnh phong Kim Tiên, chưa Thái Ất. Thần niệm lồng trắng SNLG580, kiếm tinh thần trắng; Hàn CT543 vẫn giữ cải trang. Ma Quang trong bóng, thi hài còn cất, các bạn không hiện ở đáy vực.
+
+
+## Chương 587 — Chia ra ăn: hoàn thành 4 trang
+Nguồn: file CHUONG 587.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/587/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Hàn CT543 107Tiên khiếu Kim Tiên đỉnh phong, mắt xám thoáng qua rồi trở bình thường. Giải giữ trận trên mép vực, không xuống đáy. Kim Đồng và Tiểu Bạch ăn hết hài cốt, vào hai túi riêng bế quan; chưa xác nhận đột phá ở chương này. Giữ đoạn xương ống phỉ thúy bí ẩn chưa luyện hóa. Hôi Tiên còn cất; MQ ở bóng.

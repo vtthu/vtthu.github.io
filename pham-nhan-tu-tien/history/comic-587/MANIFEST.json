@@ -1,0 +1,44 @@
+{
+  "chapter": 587,
+  "title": "Chia ra ăn",
+  "images": [
+    "/tmp/comic-batch-585-599/a4-587/trang-01.png",
+    "/tmp/comic-batch-585-599/a4-587/trang-02.png",
+    "/tmp/comic-batch-585-599/a4-587/trang-03.png",
+    "/tmp/comic-batch-585-599/a4-587/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "giai-dao-nhan-gdn01.png",
+    "hoi-tien-cu-thu-long-tu-585.png",
+    "kim-dong-giap-trung-tien-giai-528.png"
+  ],
+  "summary": "Mắt Hàn Lập xuất hiện hôi quang bất thường. Kim Đồng và Tiểu Bạch chia nhau hài cốt Cự Thử; một đoạn xương chứa dao động không gian được giữ lại.",
+  "notes": "- Hàn CT543 107Tiên khiếu Kim Tiên đỉnh phong, mắt xám thoáng qua rồi trở bình thường. Giải giữ trận trên mép vực, không xuống đáy. Kim Đồng và Tiểu Bạch ăn hết hài cốt, vào hai túi riêng bế quan; chưa xác nhận đột phá ở chương này. Giữ đoạn xương ống phỉ thúy bí ẩn chưa luyện hóa. Hôi Tiên còn cất; MQ ở bóng.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-585-599/587p1.png",
+    "/tmp/comic-generated-585-599/587p2.png",
+    "/tmp/comic-generated-585-599/587p3.png",
+    "/tmp/comic-generated-585-599/587p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
