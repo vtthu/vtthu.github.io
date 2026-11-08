@@ -1,0 +1,44 @@
+{
+  "chapter": 598,
+  "title": "Cắt đứt nhân quả",
+  "images": [
+    "/tmp/comic-batch-585-599/a4-598/trang-01.png",
+    "/tmp/comic-batch-585-599/a4-598/trang-02.png",
+    "/tmp/comic-batch-585-599/a4-598/trang-03.png",
+    "/tmp/comic-batch-585-599/a4-598/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "ma-quang-hoi-tien-trung-linh-mong-588.png",
+    "trung-linh-ngu-sac-kim-dong-tram-dinh-595.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "bach-y-nam-tu-kim-kien-dia-do-598.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Nam tử áo trắng xác nhận đã giúp vì ân tình Liễu Nhạc Nhi, yêu cầu cắt nhân quả và rời đi. Nhóm mang kén Kim Đồng theo địa đồ đến Hắc Sơn tiên vực.",
+  "notes": "- BNY598 mới lưu trước trang, tóc đen chùm vàng áo trắng; chưa tên riêng, ĐạiLa/ThiênHồ là suyđoán. Hư ảnh vàng cao gầy thoángqua khônggánmặt/danh tính. KDtrongkénvànggần1trượngđược mâycờtrắngche, TBngọcbộiởthắtlưngHan. GDNđãtrởlạiláiphi xa, giữtổnhạichưa tựchữalành; MQhost588thutúiđen âmthuộc chứa sátkhí200–300cân. Bíchngọcphixa4bánh567, ngọcgiảnXANHtraoGiảikhôngcuộngiấy. Han107khiếuchưaTháiẤt, đangchữanộithương; bốnđạitộcđánhcấmvàlộHắcSơnđãnhận.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-585-599/598p1.png",
+    "/tmp/comic-generated-585-599/598p2.png",
+    "/tmp/comic-generated-585-599/598p3.png",
+    "/tmp/comic-generated-585-599/598p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
