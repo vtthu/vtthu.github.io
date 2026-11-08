@@ -1326,3 +1326,8 @@ Nguồn: file CHUONG 586.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 587 — Chia ra ăn: hoàn thành 4 trang
 Nguồn: file CHUONG 587.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/587/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Hàn CT543 107Tiên khiếu Kim Tiên đỉnh phong, mắt xám thoáng qua rồi trở bình thường. Giải giữ trận trên mép vực, không xuống đáy. Kim Đồng và Tiểu Bạch ăn hết hài cốt, vào hai túi riêng bế quan; chưa xác nhận đột phá ở chương này. Giữ đoạn xương ống phỉ thúy bí ẩn chưa luyện hóa. Hôi Tiên còn cất; MQ ở bóng.
+
+
+## Chương 588 — Đánh cược một lần: hoàn thành 4 trang
+Nguồn: file CHUONG 588.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/588/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Hơn mười cây xanh chưa biết tên được thu vào hộp ngọc trắng dán phù bạc. Luyện thi bằng trận tam giác Hắc Tủy Tinh, khác trận hồ lô585. MQ01 đã nhập HT588; chưa tỉnh, không còn hình gốc đứng ngoài. Kim Đồng Thái Ất sơ kỳ đã ổn định bằng hai đan, Tiểu Bạch còn trong túi; Giải giữ trên vực. Hàn Kim Tiên đỉnh phong mắt xám phát tác không quy luật. Trang2 đã sửa thoại tự sinh để không bịa chi tiết công pháp.

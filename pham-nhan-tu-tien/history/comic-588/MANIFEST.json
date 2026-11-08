@@ -1,0 +1,44 @@
+{
+  "chapter": 588,
+  "title": "Đánh cược một lần",
+  "images": [
+    "/tmp/comic-batch-585-599/a4-588/trang-01.png",
+    "/tmp/comic-batch-585-599/a4-588/trang-02.png",
+    "/tmp/comic-batch-585-599/a4-588/trang-03.png",
+    "/tmp/comic-batch-585-599/a4-588/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "ma-quang-nhat-quy-duong-hon-lo.png",
+    "hoi-tien-cu-thu-long-tu-585.png",
+    "ma-quang-hoi-tien-trung-linh-mong-588.png",
+    "giai-dao-nhan-gdn01.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png"
+  ],
+  "summary": "Hàn Lập đặt cấm chế rồi đồng ý để Ma Quang nhập thi hài. Sau thời gian luyện hóa dài, thi thể vẫn chưa tỉnh; Kim Đồng đã bước vào Thái Ất sơ kỳ.",
+  "notes": "- Hơn mười cây xanh chưa biết tên được thu vào hộp ngọc trắng dán phù bạc. Luyện thi bằng trận tam giác Hắc Tủy Tinh, khác trận hồ lô585. MQ01 đã nhập HT588; chưa tỉnh, không còn hình gốc đứng ngoài. Kim Đồng Thái Ất sơ kỳ đã ổn định bằng hai đan, Tiểu Bạch còn trong túi; Giải giữ trên vực. Hàn Kim Tiên đỉnh phong mắt xám phát tác không quy luật. Trang2 đã sửa thoại tự sinh để không bịa chi tiết công pháp.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-585-599/588p1.png",
+    "/tmp/comic-generated-585-599/588p2-fixed.png",
+    "/tmp/comic-generated-585-599/588p3.png",
+    "/tmp/comic-generated-585-599/588p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
