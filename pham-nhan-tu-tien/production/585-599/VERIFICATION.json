@@ -1,0 +1,41 @@
+{
+  "status": "completed",
+  "verified_at_utc": "2026-11-08T17:28:50.708061+00:00",
+  "chapters": 15,
+  "PNG_pages": 60,
+  "PDFs_A4": 15,
+  "PNG_pixels": [
+    1055,
+    1492
+  ],
+  "source_identical_to_user_uploads": true,
+  "PDF_page_counts_and_A4_verified": true,
+  "all_PNG_decodes_and_portrait_A4_verified": true,
+  "ZIP_integrity_verified_locally": true,
+  "new_model_images": [
+    {
+      "path": "models/hoi-tien-cu-thu-long-tu-585.png",
+      "sha256": "07cf0aad1a2c2b55c53106536e2dffd438446f40a21461ab4e22225d459f67d0"
+    },
+    {
+      "path": "models/ma-quang-hoi-tien-trung-linh-mong-588.png",
+      "sha256": "7475d339e692c1244c9275225236f19b9fa29d183e805b2575ff856b9c984bf8"
+    },
+    {
+      "path": "models/tu-tuong-bach-an-hac-nghien-hac-thuong-593.png",
+      "sha256": "0d7f2bd7fcb1beebf6ee461c305b78f172192f23579590580a9002da6f37b54e"
+    },
+    {
+      "path": "models/trung-linh-ngu-sac-kim-dong-tram-dinh-595.png",
+      "sha256": "c7dc9bcc94f53eed356f40a997cf8e024017db73a7d4cf7cc3e4b9cf933be417"
+    },
+    {
+      "path": "models/bach-y-nam-tu-kim-kien-dia-do-598.png",
+      "sha256": "ebd9328d7a2ca18d831eae9c3782103feb9b99987c17f93f1f0bc6c51bd83626"
+    },
+    {
+      "path": "models/tien-nguc-huyen-dich-linh-quang-599.png",
+      "sha256": "e14f201a12a4f56a26b10cc9ce9c9272a183b332176d0931bef47b6da2e06945"
+    }
+  ]
+}

@@ -1,0 +1,770 @@
+[
+  {
+    "chapter": 585,
+    "title": "Phân hồn",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "935bf68c025f0cf9337686e807956728800571eb",
+    "source_sha256": "7be4cf2d68645b9779b37dc16ca7eafd90cc501502f6c9111725f33b14d01dde",
+    "source_bytes": 14865,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "ma-quang-nhat-quy-duong-hon-lo.png",
+      "hoi-tien-cu-thu-long-tu-585.png"
+    ],
+    "continuity_notes": "- Giữ Hàn Lập CT543 cải trang, Kim Tiên hậu kỳ; Ma Quang MQ-01 Chân Tiên, chưa nhập thi hài. Long Tứ đỏ được cất, không đeo. Thi hài phong trong kén tinh ti xanh. Cự Thử là xương phỉ thúy, trận hồ lô bốn nút; kết ở kim lôi đánh bóng xanh. Chưa xác nhận thân phận Hôi Tiên.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "baae9312c8cd609eed49f7ef4ce589b4da0f0e010877ae919d888a5f04b5f9ec"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "1f7e09977389c9e8153014957aa25e5509f40dcaaf18c7b49edd227acebc69f9"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "479d922f0d18fd40dbcccc939d1759c114bc9188ab535f5317b6317bc555c8f7"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c0f3f92dcb7b4ba2eb6bf68ceaba0152b391c7fbdbf966f17614cc3b44c6bd47"
+      }
+    ]
+  },
+  {
+    "chapter": 586,
+    "title": "Biến nguy thành an",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "9f7088c303d0612d9186344ef2ebd44161f54164",
+    "source_sha256": "36de7e83385b3c3c0fcb7ad02c839bde674916788f795ae716de55ac294ed3b4",
+    "source_bytes": 15962,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "hoi-tien-cu-thu-long-tu-585.png",
+      "thu-yeu-thanh-ung-than-niem-long-giam-580.png",
+      "han-lap-tinh-quang-nguyen-anh-dao-cu.png",
+      "dong-phu-tam-phap-chuong-thien-binh-547.png"
+    ],
+    "continuity_notes": "- Kết: bóng xanh tiêu tán, bộ xương còn nguyên; Hàn Lập hồi phục sau khai 107 Tiên khiếu, gần đỉnh phong Kim Tiên, chưa Thái Ất. Thần niệm lồng trắng SNLG580, kiếm tinh thần trắng; Hàn CT543 vẫn giữ cải trang. Ma Quang trong bóng, thi hài còn cất, các bạn không hiện ở đáy vực.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d1d9ccbdecd79d4805b15b845badc50b4fbded1a287a93a123e706e811132e31"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "cf719fb33d2879f2bc45b58bcf349a3a1f522e2eed13f57d5f9c3ddeed1019bf"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "04d2549bf34d66d5b01fa2daae48ad763c714b8cb1a0aa44c9f352b57e2e74d9"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "6989692f39474c5bea4e40793a206658cb9761924f12f4c606dcedfd3d20672c"
+      }
+    ]
+  },
+  {
+    "chapter": 587,
+    "title": "Chia ra ăn",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "da94d44f31e8d3343b2116771e10a5613438062e",
+    "source_sha256": "0dfe682aed87613f5ba5af205c9f37ea26451802266793889a2782edc5602963",
+    "source_bytes": 14550,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "man-hoang-sa-thu-tieu-bach-540.png",
+      "giai-dao-nhan-gdn01.png",
+      "hoi-tien-cu-thu-long-tu-585.png",
+      "kim-dong-giap-trung-tien-giai-528.png"
+    ],
+    "continuity_notes": "- Hàn CT543 107Tiên khiếu Kim Tiên đỉnh phong, mắt xám thoáng qua rồi trở bình thường. Giải giữ trận trên mép vực, không xuống đáy. Kim Đồng và Tiểu Bạch ăn hết hài cốt, vào hai túi riêng bế quan; chưa xác nhận đột phá ở chương này. Giữ đoạn xương ống phỉ thúy bí ẩn chưa luyện hóa. Hôi Tiên còn cất; MQ ở bóng.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "13f3f708668161fccda3f66031b1160b24965dc3e796795673877ac2e46a9623"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "5220fa4999ccf3a1bf3db66b14384d57ac227fd314350615b60472ec6ddc06b1"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "be11e68355cdc8e0c268e7de960b006fe34972ad25e70873914a342652e16d9c"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "4578431948f519f12c2019cc68d66ca613c11bfdee7a1fa6b88e3a2fb8c87606"
+      }
+    ]
+  },
+  {
+    "chapter": 588,
+    "title": "Đánh cược một lần",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "0bb1e489ad296aa50928505037209338720782f5",
+    "source_sha256": "dfbfd0d606071cf9a451716c35c6a3bb58ca39da3c93e683b96af999bd15bf4a",
+    "source_bytes": 14953,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "ma-quang-nhat-quy-duong-hon-lo.png",
+      "hoi-tien-cu-thu-long-tu-585.png",
+      "ma-quang-hoi-tien-trung-linh-mong-588.png",
+      "giai-dao-nhan-gdn01.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png"
+    ],
+    "continuity_notes": "- Hơn mười cây xanh chưa biết tên được thu vào hộp ngọc trắng dán phù bạc. Luyện thi bằng trận tam giác Hắc Tủy Tinh, khác trận hồ lô585. MQ01 đã nhập HT588; chưa tỉnh, không còn hình gốc đứng ngoài. Kim Đồng Thái Ất sơ kỳ đã ổn định bằng hai đan, Tiểu Bạch còn trong túi; Giải giữ trên vực. Hàn Kim Tiên đỉnh phong mắt xám phát tác không quy luật. Trang2 đã sửa thoại tự sinh để không bịa chi tiết công pháp.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "70466e81f2254cf22dd0e00be679566d1dbe17c886ef0cd91e173428524fc92e"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "3785d77d1fa61264e87429db87ab8f137a32506141263bfdec505adfaeabceb6"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b8886c2495ac96283587823939e0352579204e3698deb655668c615114f090e0"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "7455c6cb8a0b98b4579eee9a18f1aca2432e210e85624a18c1db715aa12118ff"
+      }
+    ]
+  },
+  {
+    "chapter": 589,
+    "title": "Thức tỉnh",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "bb76fbdb161d074277372e4e54ab9bbcb10a47f9",
+    "source_sha256": "fb031839f44d5750bfd195432ac95e704e22cfab10335f8d2c32f2a28abb22e9",
+    "source_bytes": 15086,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "ma-quang-hoi-tien-trung-linh-mong-588.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "tuc-luc-u-ho-trung-linh-559.png"
+    ],
+    "continuity_notes": "- MQ-HT588 đã tỉnh, chứng minh Thiên Ma khế ước; khí tức Thái Ất thoáng qua, ổn định Kim Tiên hậu kỳ, không đánh đồng Thái Ất thật của KD. Hàn giữ cấm chế, hộ pháp. Phệ Kim Tiên địch TL559 ở quang đoàn trắng trên núi; TL589-DREAM dạng người là ảo mộng, không khẳng định Đại La thật. Kết ảo cảnh vỡ. Trang1 chuyển câu đùa về thi hài sang lời dẫn, thức tỉnh thể hiện bằng linh lực sau công cụ từ chối hình đầu.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "19df80cad082f0c909e2bd8b1ecace127a10a692f6ee1a7af862834a0af8cf9e"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b7702db682132b2c62d66a5139afd5625b90ea4256e998e64f5eb11f953b88e3"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "577815790421f0b5a431adfec05cecbbe52b1430c0983bac65b77855e9ff130a"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "1500e9b39fd1baa0d4fe8703385acb6ed769cef3d0900f62a100314384cefafa"
+      }
+    ]
+  },
+  {
+    "chapter": 590,
+    "title": "Chuẩn bị cuối cùng",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "17341e02c60e6b81f9bb6b58e2e06fc94bfa1f37",
+    "source_sha256": "2fdc14b2f26277041dcd7f99516c5e630d32ad56dc690d7913c8a78e77553872",
+    "source_bytes": 15007,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "ma-quang-hoi-tien-trung-linh-mong-588.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "man-hoang-sa-thu-tieu-bach-540.png",
+      "giai-dao-nhan-gdn01.png",
+      "tuc-luc-u-ho-trung-linh-559.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- Địch Thái Ất hậu kỳ còn nguyên, chưa Đại La; suy đoán Tứ Thánh thi triển huyễn thuật chỉ là nghi vấn. Kim Đồng Thái Ất sơ kỳ, Tiểu Bạch tu trên bình đài. MQ giữ mặt HT588 nhưng đã thay trường bào đen, Kim Tiên hậu kỳ, hứa sức Thái Ất một nén nhang. Trận đại chiến đã bố trí ẩn hơn mười ngày, chưa kích chiến. Huyền Thiên hồ lô chưa thành thục, dưới trăm năm là ước lượng, không đột nhiên chín.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "8b70dc3d9076a50a7bc913680d9a7c63a50d7e710239ea469f1b698c58fd45ec"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "64946121ed48887e1db3f043f6dd39c04739a7827bf5abe45d7fe02b1e0fce4a"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "86304a7c27db46fdd1a85d5ca6ecf0cd460a6e1749e247707ed39d37e5664bc1"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "835c4d697035c87279e011eed9ae3a443ff8cc14ea50e3b7331c8313aa9333ba"
+      }
+    ]
+  },
+  {
+    "chapter": 591,
+    "title": "Kiếm trong hồ lô",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "486857b0153cde7d1a8808eae576823e0c932ca2",
+    "source_sha256": "96c8e753336c2987d98c3c64169af6aeebba94ac3f88b36f0c2166570c5b9e2a",
+    "source_bytes": 14799,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+      "thu-yeu-thanh-ung-than-niem-long-giam-580.png"
+    ],
+    "continuity_notes": "- Hàn CT543 vẫn ở đáy vực; nội cảnh chỉ thần thức. Chín Thanh Trúc Phong Vân Kiếm được thử rồi thu lại hồ lô, lầu ba tầng vẫn trong tầng đầu. Tầng hai có một quang đoàn xanh, chưa tiếp cận/khống chế được dù dùng thần niệm liên, niệm kiếm, lồng giam. Đã điều khiển tốc độ vòng xoáy tầng đầu, thu đá thành cầu đen, hao hơn nửa tiên linh lực một khắc. Kết vừa đảo chiều, chưa mô tả kết quả.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "bc885d9ae379c99562dc8d84dc8d17ef38fc07ea67928b3d40bd924e94e46638"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f7c03c30166001df8f1e6873b0508aee36adf78d8f8f7b0e799cad4fcb956416"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "49ff8ea8098a0d737ee998297b6973bca8b29c94ef43ab2dd17449b2bbbbd117"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "4a719f05336bcfef1bfbaf14ced9648e5312de8f4c6634eed218de18fb605419"
+      }
+    ]
+  },
+  {
+    "chapter": 592,
+    "title": "Mãnh liệt tới",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "8ce99ff8ba1531c7831d38d861af5e2cb955f992",
+    "source_sha256": "90a3342a9011b7a9ce7448a8df2584af1de4bc2690e6a72ac99b63674a38fb4b",
+    "source_bytes": 15833,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+      "tuc-luc-u-ho-trung-linh-559.png",
+      "thu-yeu-thanh-ung-than-niem-long-giam-580.png",
+      "giai-dao-nhan-gdn01.png"
+    ],
+    "continuity_notes": "- Kiếm thử xuyên ngàn dặm được gọi về nguyên vẹn và cất lại đúng hồ lô hai bầu; trang2 đã sửa bình vẽ nhầm. Thụ Yêu TY580 còn sống, rút lui; không nhầm Thanh Ưng đã chết. Địch TL559 toàn vẹn. Kiền Thiên Phục Lăng trận đã phá, Giải GDN01 khôi lỗi bị nứt ngực/bụng lộ cơ quan đen, kim lôi rút xa; không máu thịt. Hàn/KD/MQ chưa lộ trong trận này.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "1c882cc2ee9cf24aad739580628b3104e112efd8241c11c78943f943a105edb3"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "014671104f4d3046f6745521378125f8e45b3f815989303f47a3105eba738439"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "ee62f3f3325841f938003df5a74e1231222fa6b1c230caa96e14e57bc8add91f"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f7e78551056edae99acabd2c6776f4d9d649aff2f42cd920ef992750d3381f25"
+      }
+    ]
+  },
+  {
+    "chapter": 593,
+    "title": "Dụ địch xâm nhập",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "fcb13729a960f81a692e0c9636421035beda503c",
+    "source_sha256": "db600b5ca8ea6be7c590a58362d16e1b78cbb474307a14c118769c888c7817be",
+    "source_bytes": 14886,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "tuc-luc-u-ho-trung-linh-559.png",
+      "ma-quang-hoi-tien-trung-linh-mong-588.png",
+      "tu-tuong-bach-an-hac-nghien-hac-thuong-593.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- Địch thu nhỏ dưới trăm trượng, lớp kim quang bảo hộ. Trận lộ ngoài bị gió vàng phá; chặn giấy trắng đã vỡ hai, hắc diễm bị hút hết; trận bạch trụ/Tứ Tượng bị phá, lầu các ba tầng đã vỡ không đưa trở lại hồ lô. MQ-HT588 bào đen xuất hiện sức Thái Ất ngắn hạn, hắc thương đỏ liên quang vừa chạm hai chi trước; kết chưa đánh bật. Hàn CT543, KD đỏ còn nguyên. Giải rút xa, TB không xuất hiện.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "33796279c56a42450632afd8b8e4440c56357426ada042039b97dec5fa6c5cb2"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "ea202d87db839364fdf77b0d466ef12831859e866d91df2e9fe473cdf2b60d53"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "bab6bcfbd0fd40f01cef26bbcd77d62d953e8c3a48cfe770102a2f0030e75b64"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "2309bac40a23b39ccbc7cdfbd70510a635779928683cb77a2a0d6eef053fa5d0"
+      }
+    ]
+  },
+  {
+    "chapter": 594,
+    "title": "Chém",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "05ee56444f8b6963a02a3f8e01a3249de7e8dcab",
+    "source_sha256": "b8c8cc9c39be427e764113ed47d366c1fb75a15e27917812f069b55c9236ed67",
+    "source_bytes": 14536,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "ma-quang-hoi-tien-trung-linh-mong-588.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "tuc-luc-u-ho-trung-linh-559.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+      "dong-phu-tam-phap-chuong-thien-binh-547.png"
+    ],
+    "continuity_notes": "- Hàn CT543 18sợi thời gian và hơn400đạo văn theo nguồn. Tám kiếm công trước không thủng; một kiếm hồ lô tạo rạn, chín hợp một rồi361nhát phá giáp. Kim lôi/kiếm khí chặn hồi phục. Bảo Luân bị đánh bật không khẳng định hủy vĩnh viễn; địch thoát giam, còn sống bị thương. MQ-HT588 đã bị đẩy lùi rồi về xa quan sát, KD còn ở cạnh chiến trường; Hàn thần thức gần cạn, không tự phục hồi. Trang2 đã sửa hướng miệng hồ lô và tiêu đề sau lỗi công cụ.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "8727c5ae603815cd5921347b535df93260ca5aab0660581ea365f84e5afd65bd"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "3c7b0302d00098ad7da5633bfefbaf234ddbbdf97c71eecfa742425d75c93125"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "334ade2713aca417dc0a28a9bb4e5ad2fa368eaa8f3ce680738004195183c286"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f42243c03734aa34f3eedd899f1e39486d040fd59039290b088e13583a265451"
+      }
+    ]
+  },
+  {
+    "chapter": 595,
+    "title": "Liều chết chiến đấu",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "b9791548bdefd26e5ab45228525bd906e197b9f7",
+    "source_sha256": "da9fe624d2494e3503649e4899cdbe38a998cbb093683a33962ea9c3503437e6",
+    "source_bytes": 14225,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "ma-quang-hoi-tien-trung-linh-mong-588.png",
+      "trung-linh-ngu-sac-kim-dong-tram-dinh-595.png",
+      "thu-yeu-thanh-ung-than-niem-long-giam-580.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- Bảo Luân quay về nhưng không phát sóng thời gian, chưa rõ nguyên nhân. KD bị thương được thể hiện chân thân giáp trùng/ánh sáng, an toàn tính mạng, ngũ sắc mâu tiêu hóa diễn đạt bằng quang. Địch dùng cánh lông ngũ sắc; GDN tổn hại cơ quan, dùng TrảmĐình đaođen lôivân không rìu. LongTrờiLởĐất chỉ cảm giác đảo, không đổi địa hình thật. KD vào khe giáp địch, bên trong trừu tượng năng lượng không tạng thịt. Saumột khắcSNLGvỡ, Hàn gần cạn thầnthức, kiếm/hồlôđãthu; KDcòntrongthânđịch bị lựcbao vây. Không tựhoànthànhchiếnđấu.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "2f868dddf4e09bdfb9e9633e3ceaeb3ef480f52276ff51468f6eaf99bfebe279"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b5da169ba7e9d235b08a65d63c1dacdd9acd8595c43685b3136396ec2a7954c0"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "206ef0aa3dd39845809bf56cd5658b76e6f0dd2cd6c48766b976f505baa5da06"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "02bca75911d8efb74c3254e5219a56b318f22fddc1499aae30782b94c264753e"
+      }
+    ]
+  },
+  {
+    "chapter": 596,
+    "title": "Liều mạng",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "2b658b932602c6f8767498a4272fd5e96de7a212",
+    "source_sha256": "f5457cccfcb79806412deb18a1e9450e71746d99f754d39108c55e32ed5309ef",
+    "source_bytes": 13932,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "ma-quang-hoi-tien-trung-linh-mong-588.png",
+      "trung-linh-ngu-sac-kim-dong-tram-dinh-595.png"
+    ],
+    "continuity_notes": "- Kim Đồng chân thân trong thân địch, Thái Ất trung kỳ. Bảo Luân nghịch chuyển lại được nhưng chưa hồi phục trọn; Linh Vực Thời Gian do Hàn phát, đã sửa lời dẫn trang2 từng gán nhầm chủ thể. Tự bạo chỉ suy đoán, địch không chết. MQ-HT588 trọng thương PGkhói/áorách che chắnHan, sau hấp sát chữa ngoài, chưa hồi phục hoàn toàn. Vực thành thunglũnglớn, sơncốcThụYêu sụp, không xácnhậnThụYêuchết. KếtKDbịngắtâmchưađịnhsốphận.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "3385b37126ae7f40088744b70a11705cb80713bd12382da5382948f3adacf035"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "ff944a3466c55018efa45b36b8177a68cc0785caadf2d3600280bbcebe1fb10f"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c04251ceccf919ccb11e9d571e9fbd932a53c70e33f4b25e77cd1ef225121dfd"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "063a0bd8c40ac11e2cfb14299057d35489ed579c08f3acfbc1ac878fedd57928"
+      }
+    ]
+  },
+  {
+    "chapter": 597,
+    "title": "Ngươi chết ta sống",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "8a1d5bf485abcbaea70e0645724ee88d531fb2bb",
+    "source_sha256": "13244c6395ee6db3ea503e21d7d29ab1bb37572abacc96db887fc6b1e9cacb7c",
+    "source_bytes": 14369,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "ma-quang-hoi-tien-trung-linh-mong-588.png",
+      "trung-linh-ngu-sac-kim-dong-tram-dinh-595.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "man-hoang-sa-thu-tieu-bach-540.png"
+    ],
+    "continuity_notes": "- Địch thật đã chết sau thắng thần hồn, không cho sống lại; trận sau là hư ảnh oánniệmkhôngphải nguyênthần. KDhóagáiđỏ532xuấthiệnxin hộpháp, hấp thu bằngkimxoáy; HanMQGiảiđứngbaphương, TBtrắngngọc xuất hiện bênHan. KếtKDđãthuquang oánniệmnhưngchưacôngbốĐạiLa/hậukỳ mới. Hàn đã dùng tia tinh tơ cưỡng ép cứuKD, cònbồi hồi bằngđan. MQhost588bàođen, GDNtổnhạicơquan595.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "19b59624073d67c9960411faf3c4c1502637819d57fa5a1431af5e1b40e4e68a"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b27c4dc72628d06fd438c21326afcf1c006ce70e3bf67f1f4fe4aea652ccd3b5"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "5604331eee2b12905b412ba275fc6172968cf324ee318dd4044151722ef4611f"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b9aa2b03a9295b1ba4bedf5b0a0cbb77d18bc9e43ae358c4aa58b407acfb8db0"
+      }
+    ]
+  },
+  {
+    "chapter": 598,
+    "title": "Cắt đứt nhân quả",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "d7deac67f3ecff5f5627ecf213d2644fef7a2865",
+    "source_sha256": "17f6ae59a9d18b66f280b06adc24bc1d37a6616a87a8db6cea13908d42498ef6",
+    "source_bytes": 15340,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "ma-quang-hoi-tien-trung-linh-mong-588.png",
+      "trung-linh-ngu-sac-kim-dong-tram-dinh-595.png",
+      "man-hoang-sa-thu-tieu-bach-540.png",
+      "bach-y-nam-tu-kim-kien-dia-do-598.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- BNY598 mới lưu trước trang, tóc đen chùm vàng áo trắng; chưa tên riêng, ĐạiLa/ThiênHồ là suyđoán. Hư ảnh vàng cao gầy thoángqua khônggánmặt/danh tính. KDtrongkénvànggần1trượngđược mâycờtrắngche, TBngọcbộiởthắtlưngHan. GDNđãtrởlạiláiphi xa, giữtổnhạichưa tựchữalành; MQhost588thutúiđen âmthuộc chứa sátkhí200–300cân. Bíchngọcphixa4bánh567, ngọcgiảnXANHtraoGiảikhôngcuộngiấy. Han107khiếuchưaTháiẤt, đangchữanộithương; bốnđạitộcđánhcấmvàlộHắcSơnđãnhận.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "cd1d3a08f53bc6b3cc34c50c024ffd2c162548f6b8609702b04f5d7a1134274f"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "4bcc96f7f95ae428b0398265ed6e158855ded5d29f87b1c6110379ef26a0fba5"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "968988e675c13be2adca60e3749079d115d69085a4d9705ed52d71bfd2bbd3e0"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "af69cf058fc9c8949017db9ed1b26663d6ff03e851b584eb667ddcf9a45a89ec"
+      }
+    ]
+  },
+  {
+    "chapter": 599,
+    "title": "Đệ ngũ suy",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "5d576b677aaf1a324acf70d7e4f7b874fa9c9f6b",
+    "source_sha256": "bedb21fb524ef3ffd43ef25abd5e8050e59987a49fba2316cd4968303adf3168",
+    "source_bytes": 14160,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "ma-quang-hoi-tien-trung-linh-mong-588.png",
+      "trung-linh-ngu-sac-kim-dong-tram-dinh-595.png",
+      "man-hoang-sa-thu-tieu-bach-540.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+      "bach-y-nam-tu-kim-kien-dia-do-598.png",
+      "hung-gia-models.png",
+      "tien-nguc-huyen-dich-linh-quang-599.png"
+    ],
+    "continuity_notes": "- Hùng dùng HS02 trẻ ánhvàng, Huyền/Địch vàđồngliêu cómodelchelinhquang599trướcvẽ. CôngThâuThiênchỉnhắc chưahiện. Hơnnửanămsau HanCT543hồiphụcnộithương/thầnthứcnhưngchưaTháiẤt;107khiếu gặpĐệNgũSuySátSuy. MQhost588mắtđen/gầngiốngngườinhờHưNguyênĐan,khíxoáyduytrìvàinăm tốida10năm;chưaluyệnmẻmới chỉtreothưởngnguyênliệutrongtruyện. DùngLongNgũTEAL2sừngvàngkhôngLongTứđỏ. KDvẫnké nvàngđục/mâytrắngchưatỉnh;TBtrắngngọcthânthật;Giảiláixe. Trang2đãsửanề nphixaMỞkhôngphòngkínvàké nđụckhônglộngườibêntrong. KếtHanALONEtronghangmớithunglũngsông,GDNMQTBởxe cáchxa,chưagiảiSátSuy.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "1d3b74cf132e1d88a0b638f28fdd07964e74715fddb8aaab5a923e920ae0aa83"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d976cb5f395f51b08752b56dcbc4d049a112922651e9925fbc305a5448fe34f3"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "a3ff9ca65bfff3a9041d1117f54a12e1e68a650e8a2a3bc6330afe40de0872c4"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "88e49b5e25e70bc3d5712d7d6fbdd160ac820b4e56b5e1630da717d87f365df1"
+      }
+    ]
+  }
+]
