@@ -1241,3 +1241,12 @@ Nguồn: file CHUONG 606.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 607 — Dòng sông thần bí: hoàn thành 4 trang
 Nguồn: file CHUONG 607.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/607/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - LNG607 là thân xác nhập hồn riêng, tuyệt đối không dùng CT603 làm thân xác chiến đấu. GS607-A cao già giáp vàng băng lam; GS607-B thấp mập trọc giáp vàng ngô câu đỏ. Cả hai TháiẤt, tiểu cảnh giới chỉ suy đoán. Thần hồn nhận nửa nguồn thần thức, mây trắng giữ nửa còn lại. Kết607 lão già bị giam thần thức, chưa bị giết. Không gian sông bạc khác dòng sông vàng chương469.
+
+
+### Nhân vật mới 608 — lưu trước khi vẽ
+- models/lu-quan-tu-phap-khi-608.png: Lư Quan Tử LQT608, lão áo xám râu dê nét lấm la lấm lét, tóc xám búi trâm gỗ, Hướng Dương cốc. Đồ vật minh họa mâm truyền tin vàng, la bàn trắng cảm ứng Luyện Thần Thuật, kim bài Ngục viền rồng, ngọc giản xám đan phương. Số608 trên bài chỉ nhãn thiết kế không số canon; nhãn Hướng Dương cốc gắn ốc đảo ở đáy board là sai, ốc đảo này thuộc sa mạc Khai Nguyên trong cảnh nhập hồn, KHÔNG thuộc Phù Vân. Không bê chú thích tự đặt về công năng ngục/linh khí vào truyện.
+
+
+## Chương 608 — Đoạn ngắn ký ức: hoàn thành 4 trang
+Nguồn: file CHUONG 608.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/608/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- GS607-B bỏ chạy, GS607-A bị kết liễu, không dựng cảnh thương tích cận. LNG607 ở Khai Nguyên, ốc đảo không phải Hướng Dương cốc. Năm pháp khí trữ vật đã sửa đúng năm nhẫn, không có CTB/Tịnh Bình. Chôn đáy hồ, không mang vật chất về; chỉ ghi nhớ đan phương và kinh nghiệm. CT603 trở về cùng giáp tạm rồi thu phòng hộ. Bình linh im lặng. LQT608 lưu trước khi xuất hiện. Trang4 đã sửa bình xanh lá đúng CTB.
