@@ -1232,3 +1232,12 @@ Nguồn: file CHUONG 605.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 606 — Đại đạo quy nhất: hoàn thành 4 trang
 Nguồn: file CHUONG 606.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/606/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - CT603 cùng động phủ605, giáp Huyền Vũ là phòng hộ tạm thời. Bảo Luân720 đạo văn. Cả ba đều thuộc thời gian, chung nguồn gốc mới là suy đoán. Không phá hủy động phủ; CTB lá xanh hút vòng vàng, không nhầm hồ lô. Bình linh chỉ hai mắt đen trên bình, chưa có hình người hay xuyên không thực tế đến cuối606.
+
+
+### Nhân vật mới 607 — lưu trước khi vẽ
+- models/luc-nhan-giap-giam-sat-tien-su-607.png: LNG607 trung niên cao gầy mặt dài sắc như lang sói, tóc đen rối, hắc bào; thân xác đã chết rồi Hàn Lập nhập hồn, không phải ngoại hình CT603. GS607-A lão già cao lớn mày kiếm mũi cao, búi xám, giáp vàng Thiên Đình, băng lam; GS607-B thanh niên thấp mập trọc đầu mặt tròn giáp vàng, đôi ngô câu đỏ. Dáng lông râu/dấu áo giáp là khóa hình ảnh thiết kế, không tự đặt tên người hay xác định tiểu cảnh giới. Mặt đất sa mạc vàng hố khói lưu huỳnh; không gian trước đó đồng hoang đỏ sông bạc bằng chùm sáng.
+
+
+## Chương 607 — Dòng sông thần bí: hoàn thành 4 trang
+Nguồn: file CHUONG 607.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/607/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- LNG607 là thân xác nhập hồn riêng, tuyệt đối không dùng CT603 làm thân xác chiến đấu. GS607-A cao già giáp vàng băng lam; GS607-B thấp mập trọc giáp vàng ngô câu đỏ. Cả hai TháiẤt, tiểu cảnh giới chỉ suy đoán. Thần hồn nhận nửa nguồn thần thức, mây trắng giữ nửa còn lại. Kết607 lão già bị giam thần thức, chưa bị giết. Không gian sông bạc khác dòng sông vàng chương469.

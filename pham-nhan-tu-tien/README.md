@@ -61,6 +61,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 607: Dòng sông thần bí](chapters/607/): 4 trang, hoàn thành; [PDF A4](chapters/607/chuong-607.pdf)
+
 - [Chương 606: Đại đạo quy nhất](chapters/606/): 4 trang, hoàn thành; [PDF A4](chapters/606/chuong-606.pdf)
 
 - [Chương 605: Ở ẩn](chapters/605/): 4 trang, hoàn thành; [PDF A4](chapters/605/chuong-605.pdf)

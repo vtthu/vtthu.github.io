@@ -1,0 +1,41 @@
+{
+  "chapter": 607,
+  "title": "Dòng sông thần bí",
+  "images": [
+    "/tmp/comic-batch-603-613/a4-607/trang-01.png",
+    "/tmp/comic-batch-603-613/a4-607/trang-02.png",
+    "/tmp/comic-batch-603-613/a4-607/trang-03.png",
+    "/tmp/comic-batch-603-613/a4-607/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "huyen-vu-tam-phap-binh-linh-606.png",
+    "luc-nhan-giap-giam-sat-tien-su-607.png"
+  ],
+  "summary": "Thần hồn Hàn Lập vào dòng sông bạc, bị một giọt sáng kéo tới chiến trường và nhập thi thể Lục Nhân Giáp. Nhờ thần thức lưu lại, hắn khống chế một Giám sát tiên sứ.",
+  "notes": "- LNG607 là thân xác nhập hồn riêng, tuyệt đối không dùng CT603 làm thân xác chiến đấu. GS607-A cao già giáp vàng băng lam; GS607-B thấp mập trọc giáp vàng ngô câu đỏ. Cả hai TháiẤt, tiểu cảnh giới chỉ suy đoán. Thần hồn nhận nửa nguồn thần thức, mây trắng giữ nửa còn lại. Kết607 lão già bị giam thần thức, chưa bị giết. Không gian sông bạc khác dòng sông vàng chương469.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-603-613/607p1.png",
+    "/tmp/comic-generated-603-613/607p2.png",
+    "/tmp/comic-generated-603-613/607p3.png",
+    "/tmp/comic-generated-603-613/607p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
