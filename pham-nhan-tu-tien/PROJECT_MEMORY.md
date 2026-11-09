@@ -1259,3 +1259,12 @@ Nguồn: file CHUONG 608.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 609 — Tiến vào Tụ Côn thành: hoàn thành 4 trang
 Nguồn: file CHUONG 609.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/609/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Nhân vật/bối cảnh giữ CT603, LQT608, NH603 và động phủ605. Mấy chục năm sau Nhiệt Hỏa mới trao lệnh ngọc trắng lá đỏ tên Lệ Hàn, không có tinh thạch. Hàn hứa ba trăm năm một lò đan ChânTiên, tông môn cấp vật liệu. Hai tháng sau tới thành; cổng xanh ChânTiên/trắng KimTiên/vàng TháiẤt; người TháiẤt chỉ bóng lưng chưa rõ mặt. Quan TQ609 và chủ tiệm CQ609 đã lưu trước khi xuất hiện. Kết chưa tìm được nguyên liệu.
+
+
+### Model 610 trước khi vẽ
+- models/mac-vo-tuyet-ngu-tu-ky-kim-ngoc-610.png: MVT610 Mạc Vô Tuyết nữ trưởng thành váy tuyết trắng trâm hoa bạc tóc đen, mặt riêng không thay Lục Vũ Tình. NTK610 cùng mặt/tóc xanh NTK603 nhưng đổi bạch bào, đàn cổ tím. Kim Ngọc Lụa mảnh tơ vàng lòng bàn tay thêu chim thú thủy tảo và tháp bát giác, không phải kim bài. Tử Mị Nương rượu tím trong bầu/chén phỉ thúy; Vong Ba đình giữa hồ khác đá bằng ở603. Ngọc Côn lâu tháp bát giác thấp rộng tường đỏ ngói xanh chuông góc cửa nam niêm phong.
+
+
+## Chương 610 — Tấm lụa khó cầu: hoàn thành 4 trang
+Nguồn: file CHUONG 610.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/610/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- MVT610 và NTK610 áo trắng lưu trước khi vẽ; sáu người không có LưQuanTử. NgọcCônlâu đóngniêm phong, ba nghìn năm một lần, còn hai-ba trăm năm. Tìm năm-sáu năm rồi về, dưới năm mươi vạn thạch. VongBađình hồ khác đá603; rượuTửMịNương tím bầu/chénphỉthúy. KimNgọcLụa đã sửa đúng lòngbàntay, không phải tấm lớn. 600thạch là giá bán lại lầntrước, không phải giá mua hiện tại. Kết chỉ Hàn truyềnâmxinđổi, chưa nhận lụa.

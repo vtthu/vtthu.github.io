@@ -1,0 +1,42 @@
+{
+  "chapter": 610,
+  "title": "Tấm lụa khó cầu",
+  "images": [
+    "/tmp/comic-batch-603-613/a4-610/trang-01.png",
+    "/tmp/comic-batch-603-613/a4-610/trang-02.png",
+    "/tmp/comic-batch-603-613/a4-610/trang-03.png",
+    "/tmp/comic-batch-603-613/a4-610/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "tu-con-thanh-hoa-diep-lenh-609.png",
+    "da-hac-coc-bon-ban-603.png",
+    "mac-vo-tuyet-ngu-tu-ky-kim-ngoc-610.png"
+  ],
+  "summary": "Tìm tinh thạch nhiều năm không thành, Hàn Lập về Dã Hạc cốc. Trong cuộc tụ họp, Cảnh Dương khoe Kim Ngọc Lụa khiến hắn tìm cách xin đổi lấy.",
+  "notes": "- MVT610 và NTK610 áo trắng lưu trước khi vẽ; sáu người không có LưQuanTử. NgọcCônlâu đóngniêm phong, ba nghìn năm một lần, còn hai-ba trăm năm. Tìm năm-sáu năm rồi về, dưới năm mươi vạn thạch. VongBađình hồ khác đá603; rượuTửMịNương tím bầu/chénphỉthúy. KimNgọcLụa đã sửa đúng lòngbàntay, không phải tấm lớn. 600thạch là giá bán lại lầntrước, không phải giá mua hiện tại. Kết chỉ Hàn truyềnâmxinđổi, chưa nhận lụa.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-603-613/610p1.png",
+    "/tmp/comic-generated-603-613/610p2.png",
+    "/tmp/comic-generated-603-613/610p3-fixed.png",
+    "/tmp/comic-generated-603-613/610p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
