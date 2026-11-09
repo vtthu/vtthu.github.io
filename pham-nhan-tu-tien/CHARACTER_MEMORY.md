@@ -1418,3 +1418,12 @@ Nguồn: file CHUONG 604.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 605 — Ở ẩn: hoàn thành 4 trang
 Nguồn: file CHUONG 605.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/605/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - CT603 sạch râu là diện mạo hiện tại; chân dung Lệ Phi Vũ trên bảng dùng V2. Cam Cửu Chân chỉ mặt nạ đỏ, 100.000 thạch; Hàn 5.000. Nhiệt Hỏa đã đi, chỉ bốn người uống Hỏa Tiên tửu. DB605 lưu trước khi vẽ. Hai phòng Ma Quang/Giải đóng kín. Các hiểm cảnh Man Hoang là hồi tưởng, không phát sinh diễn biến hiện tại. Kết chỉ hiện Sa Hải, chưa dung hợp ba lực.
+
+
+### Tham chiếu 606 trước khi vẽ
+- models/huyen-vu-tam-phap-binh-linh-606.png: CT603 mặc giáp mai rùa xanh tạm thời, Bảo Luân 720 đạo văn, Tịnh Bình hai quai nguyệt, Sa Hải cát vàng, vòng vàng bất ổn; CTB lá xanh hai mắt đen, không có thân người. Tên các lớp hộ thuẫn/cột tinh thạch và nhan đề phi xa trên board chỉ minh họa do công cụ tự chèn, không là tình tiết/thuật pháp nguyên tác. Dùng cờ xanh và kết giới xanh, không chèn tên tự đặt vào truyện.
+
+
+## Chương 606 — Đại đạo quy nhất: hoàn thành 4 trang
+Nguồn: file CHUONG 606.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/606/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- CT603 cùng động phủ605, giáp Huyền Vũ là phòng hộ tạm thời. Bảo Luân720 đạo văn. Cả ba đều thuộc thời gian, chung nguồn gốc mới là suy đoán. Không phá hủy động phủ; CTB lá xanh hút vòng vàng, không nhầm hồ lô. Bình linh chỉ hai mắt đen trên bình, chưa có hình người hay xuyên không thực tế đến cuối606.

@@ -1,0 +1,43 @@
+{
+  "chapter": 606,
+  "title": "Đại đạo quy nhất",
+  "images": [
+    "/tmp/comic-batch-603-613/a4-606/trang-01.png",
+    "/tmp/comic-batch-603-613/a4-606/trang-02.png",
+    "/tmp/comic-batch-603-613/a4-606/trang-03.png",
+    "/tmp/comic-batch-603-613/a4-606/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "dao-binh-dong-phu-da-hac-605.png",
+    "huyen-vu-tam-phap-binh-linh-606.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+    "moc-duyen-phap-ngon-quang-am-551.png"
+  ],
+  "summary": "Hàn Lập thử hợp nhất ba biểu hiện thời gian. Vòng vàng bất ổn được Chưởng Thiên Bình hút vào, mở ra tinh bích và tiếng nói của bình linh.",
+  "notes": "- CT603 cùng động phủ605, giáp Huyền Vũ là phòng hộ tạm thời. Bảo Luân720 đạo văn. Cả ba đều thuộc thời gian, chung nguồn gốc mới là suy đoán. Không phá hủy động phủ; CTB lá xanh hút vòng vàng, không nhầm hồ lô. Bình linh chỉ hai mắt đen trên bình, chưa có hình người hay xuyên không thực tế đến cuối606.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-603-613/606p1.png",
+    "/tmp/comic-generated-603-613/606p2.png",
+    "/tmp/comic-generated-603-613/606p3.png",
+    "/tmp/comic-generated-603-613/606p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
