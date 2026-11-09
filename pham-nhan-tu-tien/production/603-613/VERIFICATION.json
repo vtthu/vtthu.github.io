@@ -1,0 +1,65 @@
+{
+  "status": "completed",
+  "verified_at_utc": "2026-11-09T18:15:52.614172+00:00",
+  "chapters": 11,
+  "PNG_pages": 44,
+  "PDFs_A4": 11,
+  "PNG_pixels": [
+    1055,
+    1492
+  ],
+  "source_identical_to_user_uploads": true,
+  "PDF_page_counts_and_A4_verified": true,
+  "all_PNG_decodes_and_portrait_A4_verified": true,
+  "ZIP_integrity_verified_locally": true,
+  "new_model_images": [
+    {
+      "path": "models/da-hac-coc-bon-ban-603.png",
+      "sha256": "5a8edb0ef166d1ac180883e4bba28c91c6d1bb3477f71b9a6580083f1ef78b7d"
+    },
+    {
+      "path": "models/han-lap-le-dao-huu-cai-trang-603.png",
+      "sha256": "d5377321edcc8f0f7468644bf9de3ec6581c75519575e02bcef58e0dc524d0d9"
+    },
+    {
+      "path": "models/kho-lac-thao-hoa-tam-thach-dan-tuu-604.png",
+      "sha256": "fb929064824acc3269dab4eab58a8bcf617b0244c48c52e55b70225f78212acb"
+    },
+    {
+      "path": "models/dao-binh-dong-phu-da-hac-605.png",
+      "sha256": "3f3d8608d265ca7fe439ef6318e90c743671484d0f1f27a893dcc8e48350613a"
+    },
+    {
+      "path": "models/huyen-vu-tam-phap-binh-linh-606.png",
+      "sha256": "26b934771097526c7cacab02fb01f4e81f60f95a4dc8eef7f911ee96f2aad834"
+    },
+    {
+      "path": "models/luc-nhan-giap-giam-sat-tien-su-607.png",
+      "sha256": "a5c796976e7688f891401d9083b7187c88ab47903abb438401c2eb11ac6e64a5"
+    },
+    {
+      "path": "models/lu-quan-tu-phap-khi-608.png",
+      "sha256": "ac1ba5dace7c0f5b38d94928c3837db5edda3cb83d22aa1df74b9188d179f8ed"
+    },
+    {
+      "path": "models/tu-con-thanh-hoa-diep-lenh-609.png",
+      "sha256": "e27135baff4fd0ab8d8d9b53f981d61c143df54dc9481dda2197fb9904e82667"
+    },
+    {
+      "path": "models/mac-vo-tuyet-ngu-tu-ky-kim-ngoc-610.png",
+      "sha256": "35941100c4886920451edfb99aa72406241d7cbd966ee8e36b3a89295bf018fe"
+    },
+    {
+      "path": "models/canh-duong-giam-dan-dao-binh-bac-611.png",
+      "sha256": "4a8840d34d21835b0d41cfad0eae9c6cfb550a68941f24cd281e3e6081dd2e23"
+    },
+    {
+      "path": "models/canh-duong-cung-nga-ngoc-con-612.png",
+      "sha256": "e79053b7f8da5d7a88ecd46412aa4fc6fdf11889011492d0b5c49e9164b1adb5"
+    },
+    {
+      "path": "models/pho-ngoc-hai-dau-gia-pham-vat-613.png",
+      "sha256": "996ed31e3693e69896fffed6dfa5c3f419ecdc05481d5836619d55d47dec4ce4"
+    }
+  ]
+}

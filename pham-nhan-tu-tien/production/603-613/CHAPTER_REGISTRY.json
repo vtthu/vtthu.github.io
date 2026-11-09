@@ -1,0 +1,561 @@
+[
+  {
+    "chapter": 603,
+    "title": "Đánh cờ",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "219e66cd0828171ef3ec559e9a2626752b8715bd",
+    "source_sha256": "a174018b7ca8dc211d6fb8d67095455836b8c39623ccdcb1fa9f21fc0a45250f",
+    "source_bytes": 14668,
+    "models": [
+      "han-cai-trang-huong-canh-hoi-thiem-543.png",
+      "lang-hu-tu-van-binh-kim-dong-532.png",
+      "man-hoang-sa-thu-tieu-bach-540.png",
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "da-hac-coc-bon-ban-603.png"
+    ],
+    "continuity_notes": "- Đầu603 chia tay dùngCT543; KDđỏ532đeo vòng phượngXANHtayTRÁI/TBtrắngngọc540đi riêng tớiKimNguyên, chưa xácnhậnPhệKimTiênởđóhiệnnay. Saumốc>400nămHanCT603dungmạophổthôngsạchrâuáoxanh; đãởPhùVângần200năm. NH603/ĐDT603/CY603/NTK603 lưuPNGtrướcdùng. NhiệtHỏaKimTiênhậukỳ, khôngnângcảnhHan. MQ/Giảikhôngngồicùng5ngườitụhội. Không tạo600–602.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f89bebc9ceaa962006615fb0a168839d5053545a145a6dd1667aa2da39f12096"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "37441b3de13d4b52f029b97eb9bad03aea0398f0aeecc3f4b5a67c7c88a51855"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c1ed732a414cae3e3e1dfe00e88ed5ce73953a440ba5f800394f701d48da22c1"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "edd9b2a9475656ff2639efe1b598ea69e496827bc65fa0be7e1fa6f85b444541"
+      }
+    ]
+  },
+  {
+    "chapter": 604,
+    "title": "Nhàn vân dã hạc",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "0aa20ea65d18afd7250c0c1f212768f5476e5cfa",
+    "source_sha256": "6f81f560fcf44b433fb1c63720c1504e4a4ab4b3b027e2424c8427156f091489",
+    "source_bytes": 14941,
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "da-hac-coc-bon-ban-603.png",
+      "kho-lac-thao-hoa-tam-thach-dan-tuu-604.png"
+    ],
+    "continuity_notes": "- CT603sạchrâuáoxanh;DãHạcbốncột603giữnguyên. BốnngườimỗimộtviênNgũThạch, LụcPhôitửuchỉđùađổichưatrao. MạcVôTuyết chỉnhắc/khônglộmặt. KhổLạcThảolàcây588;HuyềnChỉTinhThạch/HoaTâmchưacó, tácdụngTúcSátĐanchỉtinđồn. NHWHITEhair làngườinóitinHoaTâmvàgiảithích,đãsửahai khungnhầmvớiDDT. KếtNhiệtHỏađiTụCôn,DDTnhậnthuađểgiục,4ngườicònlạiởđá.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "1b9ae8d4411eb89caa7055478d7ba6c18f54f232605ee62acb3375e10b00eb77"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "994aca49690abb0f496a79684f33b5272c3b1cf97401c217e2acf1c01aa49837"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d60bacd6efea044c9e89ac5f2d27dae51cd79dd0e33991a6611f746e64dc67a5"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "95fcd3ab3c04ac917c33160281143caef435f06a2d95500d982ade443bc71262"
+      }
+    ]
+  },
+  {
+    "chapter": 605,
+    "title": "Ở ẩn",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "ff4304c8f7efd6b8e93d74a2512771a8fe573418",
+    "source_sha256": "5deabf31325b63b4f568cd0e2b5cdbc6c1a78e1347a42bbde87cf837da411194",
+    "source_bytes": 15170,
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "han-lap-v2.png",
+      "da-hac-coc-bon-ban-603.png",
+      "dao-binh-dong-phu-da-hac-605.png",
+      "ho-ngon-van-nghe-nam-le-models.png",
+      "mac-vu-giao-tam-khi-anh-507.png",
+      "moc-duyen-phap-ngon-quang-am-551.png"
+    ],
+    "continuity_notes": "- CT603 sạch râu là diện mạo hiện tại; chân dung Lệ Phi Vũ trên bảng dùng V2. Cam Cửu Chân chỉ mặt nạ đỏ, 100.000 thạch; Hàn 5.000. Nhiệt Hỏa đã đi, chỉ bốn người uống Hỏa Tiên tửu. DB605 lưu trước khi vẽ. Hai phòng Ma Quang/Giải đóng kín. Các hiểm cảnh Man Hoang là hồi tưởng, không phát sinh diễn biến hiện tại. Kết chỉ hiện Sa Hải, chưa dung hợp ba lực.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "709cb6f9f99016331354eaeb201a75d6bad6b1a38ac0d55ae92f97533e72fd35"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b4e167aa73b983496c257a26a21b24afee9b5fb341186d72d74e863f4a0f5909"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d5372e39b17e4699458a5a8c9da0330a6670213996c1ba43807f1b3bf9b6f407"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "0c7cdc78099c74601ad5d8da225cfecd8d23e778554962fdc386ad7bfbf9fe4a"
+      }
+    ]
+  },
+  {
+    "chapter": 606,
+    "title": "Đại đạo quy nhất",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "14882c34ca35ad22980ea21555e80c5b26ccd5f1",
+    "source_sha256": "1f654d6224c2d152e06726a7a642247be6b6e96762c51c521415f910891c257a",
+    "source_bytes": 15664,
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "dao-binh-dong-phu-da-hac-605.png",
+      "huyen-vu-tam-phap-binh-linh-606.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+      "moc-duyen-phap-ngon-quang-am-551.png"
+    ],
+    "continuity_notes": "- CT603 cùng động phủ605, giáp Huyền Vũ là phòng hộ tạm thời. Bảo Luân720 đạo văn. Cả ba đều thuộc thời gian, chung nguồn gốc mới là suy đoán. Không phá hủy động phủ; CTB lá xanh hút vòng vàng, không nhầm hồ lô. Bình linh chỉ hai mắt đen trên bình, chưa có hình người hay xuyên không thực tế đến cuối606.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "6fb002ef52e1fe50eaf021879e9d10014ce2599aa3c1859c893abc12c21c63c7"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "bcc96d10fd78044957c3917985341478a4acc7f1ad291a3fee558c1b6f0c2746"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d5ab0d1895fdc43d447215760e2729391692808dbea38727d16cfd5d460b42d1"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "114e3ac90d4304531789e5e3b4e6c4e695bb0b5782c7dbe6cc10c66e772e6fa7"
+      }
+    ]
+  },
+  {
+    "chapter": 607,
+    "title": "Dòng sông thần bí",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "6dfb1e9e0adbbfbbace8f7bfccb989bdb94795f0",
+    "source_sha256": "0ba7ef9d37bbb78dd823cebc3988e0888c6b4044a6ad18657fda9963bf63834e",
+    "source_bytes": 15539,
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "huyen-vu-tam-phap-binh-linh-606.png",
+      "luc-nhan-giap-giam-sat-tien-su-607.png"
+    ],
+    "continuity_notes": "- LNG607 là thân xác nhập hồn riêng, tuyệt đối không dùng CT603 làm thân xác chiến đấu. GS607-A cao già giáp vàng băng lam; GS607-B thấp mập trọc giáp vàng ngô câu đỏ. Cả hai TháiẤt, tiểu cảnh giới chỉ suy đoán. Thần hồn nhận nửa nguồn thần thức, mây trắng giữ nửa còn lại. Kết607 lão già bị giam thần thức, chưa bị giết. Không gian sông bạc khác dòng sông vàng chương469.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "291b316a585d46d55b1e6eb85b5d5eede33b8ab410252238dbff3188225343f4"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c217046ce3dfef2efb2e5336b79db830a478591201d2abc6137ab0effba2b1ae"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "9b0d759a4f6def94510397a9c8c4c30ee0952a0eb886fc61a482b13a742944aa"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "cc9a9a71cfd741922c683eb4fdc8cee6d2c3b8aeaf00f15d13959eed6f2b1da8"
+      }
+    ]
+  },
+  {
+    "chapter": 608,
+    "title": "Đoạn ngắn ký ức",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "db83cf590f70e1eb0680e22e1df50057fef1f664",
+    "source_sha256": "3ecc4bd252fa862a5c255cd4c435df57bed3a2e10c7569d847038b0609bb925e",
+    "source_bytes": 14242,
+    "models": [
+      "luc-nhan-giap-giam-sat-tien-su-607.png",
+      "lu-quan-tu-phap-khi-608.png",
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "huyen-vu-tam-phap-binh-linh-606.png",
+      "dao-binh-dong-phu-da-hac-605.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- GS607-B bỏ chạy, GS607-A bị kết liễu, không dựng cảnh thương tích cận. LNG607 ở Khai Nguyên, ốc đảo không phải Hướng Dương cốc. Năm pháp khí trữ vật đã sửa đúng năm nhẫn, không có CTB/Tịnh Bình. Chôn đáy hồ, không mang vật chất về; chỉ ghi nhớ đan phương và kinh nghiệm. CT603 trở về cùng giáp tạm rồi thu phòng hộ. Bình linh im lặng. LQT608 lưu trước khi xuất hiện. Trang4 đã sửa bình xanh lá đúng CTB.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "bc55002841e53afb0d7ff579030f2eb7b7e645bbdfcee5d20c4524b5c832d4f0"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "8a7987386ec474fdbec8b370c1c0f6cc59676e68d0a638a4de5c9f12e14d3b49"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "dc549f0d4e46295b366a6d17d22c2a9aec6ea7738b2e67ea9682f20085fd5ac9"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f5f8f29ed5a326b4ba2a5845c02f5f66392b26d86181971aad1f2138da0c62df"
+      }
+    ]
+  },
+  {
+    "chapter": 609,
+    "title": "Tiến vào Tụ Côn thành",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "707e6d2eccc4fbad36601891406273eaef99065e",
+    "source_sha256": "7968ec9652c474d54e7e49ebc8ca55a82abe1ed48f7ddf468995f11e10d92466",
+    "source_bytes": 15136,
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "lu-quan-tu-phap-khi-608.png",
+      "dao-binh-dong-phu-da-hac-605.png",
+      "da-hac-coc-bon-ban-603.png",
+      "tu-con-thanh-hoa-diep-lenh-609.png"
+    ],
+    "continuity_notes": "- Nhân vật/bối cảnh giữ CT603, LQT608, NH603 và động phủ605. Mấy chục năm sau Nhiệt Hỏa mới trao lệnh ngọc trắng lá đỏ tên Lệ Hàn, không có tinh thạch. Hàn hứa ba trăm năm một lò đan ChânTiên, tông môn cấp vật liệu. Hai tháng sau tới thành; cổng xanh ChânTiên/trắng KimTiên/vàng TháiẤt; người TháiẤt chỉ bóng lưng chưa rõ mặt. Quan TQ609 và chủ tiệm CQ609 đã lưu trước khi xuất hiện. Kết chưa tìm được nguyên liệu.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "77fbedcae69808ab239056e2cbaa26cf1fdc3c69f18d866ca9eeb0232ac898b6"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "32a3b9493fcf9f33403b37dea04aea978231b4685bd7ee91d3e02a6c5f34f029"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "81c542de13922a4f21b53ff9d2b3ee78a8474a89e6893ec91892ffc7a8c43e27"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "2bb410337abc2768d20affae550aa273424a6942ea7c4926462b94ebd5e5fb8a"
+      }
+    ]
+  },
+  {
+    "chapter": 610,
+    "title": "Tấm lụa khó cầu",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "854384cdb2df11556f08613db401f18a0122a0f3",
+    "source_sha256": "86409ae9b6b15e27ddcab5a7486ffe5c126fa5b2cfda20cd7204eb5468a8b786",
+    "source_bytes": 15135,
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "tu-con-thanh-hoa-diep-lenh-609.png",
+      "da-hac-coc-bon-ban-603.png",
+      "mac-vo-tuyet-ngu-tu-ky-kim-ngoc-610.png"
+    ],
+    "continuity_notes": "- MVT610 và NTK610 áo trắng lưu trước khi vẽ; sáu người không có LưQuanTử. NgọcCônlâu đóngniêm phong, ba nghìn năm một lần, còn hai-ba trăm năm. Tìm năm-sáu năm rồi về, dưới năm mươi vạn thạch. VongBađình hồ khác đá603; rượuTửMịNương tím bầu/chénphỉthúy. KimNgọcLụa đã sửa đúng lòngbàntay, không phải tấm lớn. 600thạch là giá bán lại lầntrước, không phải giá mua hiện tại. Kết chỉ Hàn truyềnâmxinđổi, chưa nhận lụa.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "153b1c71d087b249002e912054a3685b91990ab180a24837a7abae7eedd66075"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "83ae117f201576c9cb45321b205b853596b5d80313f2555a719ddd1f71c2ba36"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "0d38fe3989c588cf2e1765acf6f1aee184afe2d5367b9539c55a174010d15dab"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "23c99f4a97d5d1b97bdf13ae89ee6afa95cf213b46f54835eec5838e12255b44"
+      }
+    ]
+  },
+  {
+    "chapter": 611,
+    "title": "Thân phận thật sự",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "702b6bbc4af2a7aad0eeeecc23134f57a7938398",
+    "source_sha256": "87f8b87270972fc9ebd9afb948d9a55a2a1bced91d264715aa8eb8b48cbb7e67",
+    "source_bytes": 14052,
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "da-hac-coc-bon-ban-603.png",
+      "mac-vo-tuyet-ngu-tu-ky-kim-ngoc-610.png",
+      "canh-duong-giam-dan-dao-binh-bac-611.png"
+    ],
+    "continuity_notes": "- Hai lão hồngbàoGĐ611 và đạo binhbạcDB611 mới lưu trước khi vẽ. CY611 cùng khuôn mặt CY603, áođỏ lửa vàng hai búa. Đã sửa mọi khung trang4 nhầm mặt GĐ611-B thành đúng CYkhăn nâu, và sửa thoại trang2 gán nhầm. Luyện hơn năm tháng, một thấtbại sau đó ba viênNgọcThanh. Hàn đủ tư cách/nhậntráchnhiệmgiámđan, không tự thêm cảnh tặng lụa. Thânphận72Phósơnchủchi nhánhHắcThổquảnTứMinh(HắcThổ,HắcSơn,PhụcTrạch,NguyênCạnh), giữbí mậttrongcốc.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c8bbc83e58ed49fc7468212c5757c271fcecbc692b29abfd2a287df4d6ba581c"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c2d58174e7f140809b502a69d697d45dd67cd8efc4c6c09303075c9e6a9d2058"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f5e6e0755d85175cd45a2f24f08f826c08c359cc03e3573991c3463be02c6636"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "696eb94f7e4053f7c2b23e0eff18f4f46db93579769936abd210d8703a64c4ea"
+      }
+    ]
+  },
+  {
+    "chapter": 612,
+    "title": "Tin tức nho nhỏ",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "325575b0c1fc22d413c3243acbfea6384305aeb5",
+    "source_sha256": "bef08f5907d0b42c5124e11221581502ac5bfd8d80279efc31a5446bc0e85baa",
+    "source_bytes": 14809,
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "da-hac-coc-bon-ban-603.png",
+      "mac-vo-tuyet-ngu-tu-ky-kim-ngoc-610.png",
+      "tu-con-thanh-hoa-diep-lenh-609.png",
+      "canh-duong-giam-dan-dao-binh-bac-611.png",
+      "canh-duong-cung-nga-ngoc-con-612.png"
+    ],
+    "continuity_notes": "- CT603/CY611 giữ đúng mặt; CN612 cung nga khôi lỗi lưu trước khi vẽ. Gần200năm, chưa có tinhthạchtrước lễ. Tinhthạch nhập kho ngàycuối, khởiđiểm1000thạch, chưa thuộcHàn. HỏaTiêntửu vòxámcuối tặngCY đổi tin và hứacầmđan theo giá gốc nếu thiếu. Bảyngàylễmở4cổngtựdo, seisngày mới NgọcCôn đấugiá. Tháp thấp bátgiác đã sửa trang1, hai giámđan khácnhau sửa trang2. Không gian đấu giá3tầngVIP; CNkhíKếtĐan khôngngườithật. Nguồn612 có mô tả chu kỳ lễkhác610, ảnh dùng 'lễ mừng xây thành' không tự chốt chu kỳ mâu thuẫn.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b5940828229c6e42d2e38ec3d105026a02b75a8ca9fa76042f8dc3371e8f945a"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "061c28c69861ae73b52a142d4cc44590548aa0323b4200bcebcc93caff91224b"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "97b1d5f7639fdb29c58356632a18258c0a86477001f282760eaa9e94b23a61a9"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "9edba1ac8ad0fb141f0bd62b41e05c1c4f379b475be0c6bd0b62472dad5471fd"
+      }
+    ]
+  },
+  {
+    "chapter": 613,
+    "title": "Phàm vật giá tiên",
+    "pages": 4,
+    "status": "completed",
+    "chapter_commit": "eb31c4a3236359d064cc83c176cb5863880cea88",
+    "source_sha256": "602cdf0e5156cc0de41834bc343bac11ed325711fb363ef7f57f8d3f5d47fb19",
+    "source_bytes": 14318,
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "canh-duong-cung-nga-ngoc-con-612.png",
+      "mac-vo-tuyet-ngu-tu-ky-kim-ngoc-610.png",
+      "canh-duong-giam-dan-dao-binh-bac-611.png",
+      "pho-ngoc-hai-dau-gia-pham-vat-613.png"
+    ],
+    "continuity_notes": "- PNH613,DG613,NT613-A/B,KM613 lưu trước khi vẽ. Đã sửa lão đội mão đi cạnh PhóNgọcHải, không phảiCảnhDương. PNHKimTiênhậukỳ; GiámSátthựcquyềnchưa lộmặt/tuvi. Cầm gỗKêHuyếtđỏphàmvậtkhônglinhlực, tênnguồncuốicóPhượngVỹnhưngdùngthốngnhấtPhượngMinh. BùiKhinhLinhchỉlờikể chưa vẽ chân dung. Cầm50→120thạch thuộc nho sinh; TửDương13viêntím đã chỉnhđếm4+5+4,100→160thạch thuộc áọđen;LôiHỏa130→hơn200. Hàn khôngmua cácmón, vẫn chờtinhthạch.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b5ee5c93693b93ceceb92460b26758200ccd00ec5e87ebb042b8cb8ae3d7d8df"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "0946677ebdc787025cdbda8e6a319595ab3cb670c71f04cb3e0fdc959dd0de2f"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "95c1e26c3b9957edc27e23bc205ccdcda5d0119d331d48aa365e92a294b34fb8"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "905f7ca3e2ca72cc7a3db17349480a1306c7b6d8da87c0cca153ef8aa5e344d7"
+      }
+    ]
+  }
+]
