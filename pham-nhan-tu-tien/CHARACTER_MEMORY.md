@@ -1481,3 +1481,12 @@ Nguồn: file CHUONG 611.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 612 — Tin tức nho nhỏ: hoàn thành 4 trang
 Nguồn: file CHUONG 612.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/612/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - CT603/CY611 giữ đúng mặt; CN612 cung nga khôi lỗi lưu trước khi vẽ. Gần200năm, chưa có tinhthạchtrước lễ. Tinhthạch nhập kho ngàycuối, khởiđiểm1000thạch, chưa thuộcHàn. HỏaTiêntửu vòxámcuối tặngCY đổi tin và hứacầmđan theo giá gốc nếu thiếu. Bảyngàylễmở4cổngtựdo, seisngày mới NgọcCôn đấugiá. Tháp thấp bátgiác đã sửa trang1, hai giámđan khácnhau sửa trang2. Không gian đấu giá3tầngVIP; CNkhíKếtĐan khôngngườithật. Nguồn612 có mô tả chu kỳ lễkhác610, ảnh dùng 'lễ mừng xây thành' không tự chốt chu kỳ mâu thuẫn.
+
+
+### Model 613 lưu trước khi vẽ
+- models/pho-ngoc-hai-dau-gia-pham-vat-613.png: PNH613 PhóNgọcHải bạchbào vânnúibạc búiđen mão bạc râuđen gọn KimTiênhậukỳ; DG613 dịtộc má rộng miệnglớn cổdàimảnh hơnđầu áo5màu, khôngđặt tênriêng. NT613-A nữtrưởngthành áotrắngvàng tócđen dảiđỏ bưngcầm; NT613-B áotímnhạt trâmbạc bưngkhaytím hộpngọc; cảhai ngườithật khácCN612. KM613 kháchmua cầm trungniênnho nhã khănxanh áo lamxám. PhượngMinhCầm gỗKêHuyếtđỏ đầuđuôiphượng7dây phàmvật khôngpháplực; TửDương13viêntím; LôiHỏaLệnh đenđỏlam. BùiKhinhLinh chỉ lời kể không vẽ mặt/tạo người mới. GiámSát tọatrấn chưa rõmặt chưa rõ tuvi không vẽ chânthân.
+
+
+## Chương 613 — Phàm vật giá tiên: hoàn thành 4 trang
+Nguồn: file CHUONG 613.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/613/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- PNH613,DG613,NT613-A/B,KM613 lưu trước khi vẽ. Đã sửa lão đội mão đi cạnh PhóNgọcHải, không phảiCảnhDương. PNHKimTiênhậukỳ; GiámSátthựcquyềnchưa lộmặt/tuvi. Cầm gỗKêHuyếtđỏphàmvậtkhônglinhlực, tênnguồncuốicóPhượngVỹnhưngdùngthốngnhấtPhượngMinh. BùiKhinhLinhchỉlờikể chưa vẽ chân dung. Cầm50→120thạch thuộc nho sinh; TửDương13viêntím đã chỉnhđếm4+5+4,100→160thạch thuộc áọđen;LôiHỏa130→hơn200. Hàn khôngmua cácmón, vẫn chờtinhthạch.

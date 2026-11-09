@@ -61,6 +61,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 613: Phàm vật giá tiên](chapters/613/): 4 trang, hoàn thành; [PDF A4](chapters/613/chuong-613.pdf)
+
 - [Chương 612: Tin tức nho nhỏ](chapters/612/): 4 trang, hoàn thành; [PDF A4](chapters/612/chuong-612.pdf)
 
 - [Chương 611: Thân phận thật sự](chapters/611/): 4 trang, hoàn thành; [PDF A4](chapters/611/chuong-611.pdf)

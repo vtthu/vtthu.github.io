@@ -1,0 +1,43 @@
+{
+  "chapter": 613,
+  "title": "Phàm vật giá tiên",
+  "images": [
+    "/tmp/comic-batch-603-613/a4-613/trang-01.png",
+    "/tmp/comic-batch-603-613/a4-613/trang-02.png",
+    "/tmp/comic-batch-603-613/a4-613/trang-03.png",
+    "/tmp/comic-batch-603-613/a4-613/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "canh-duong-cung-nga-ngoc-con-612.png",
+    "mac-vo-tuyet-ngu-tu-ky-kim-ngoc-610.png",
+    "canh-duong-giam-dan-dao-binh-bac-611.png",
+    "pho-ngoc-hai-dau-gia-pham-vat-613.png"
+  ],
+  "summary": "Ngọc Côn lâu khai mạc đấu giá. Phượng Minh Cầm phàm tục mang giá tiên nhờ chủ cũ Bùi Khinh Linh; tiếp đến Tử Dương Đan và Lôi Hỏa Lệnh.",
+  "notes": "- PNH613,DG613,NT613-A/B,KM613 lưu trước khi vẽ. Đã sửa lão đội mão đi cạnh PhóNgọcHải, không phảiCảnhDương. PNHKimTiênhậukỳ; GiámSátthựcquyềnchưa lộmặt/tuvi. Cầm gỗKêHuyếtđỏphàmvậtkhônglinhlực, tênnguồncuốicóPhượngVỹnhưngdùngthốngnhấtPhượngMinh. BùiKhinhLinhchỉlờikể chưa vẽ chân dung. Cầm50→120thạch thuộc nho sinh; TửDương13viêntím đã chỉnhđếm4+5+4,100→160thạch thuộc áọđen;LôiHỏa130→hơn200. Hàn khôngmua cácmón, vẫn chờtinhthạch.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-603-613/613p1.png",
+    "/tmp/comic-generated-603-613/613p2-fixed.png",
+    "/tmp/comic-generated-603-613/613p3.png",
+    "/tmp/comic-generated-603-613/613p4-fixed.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
