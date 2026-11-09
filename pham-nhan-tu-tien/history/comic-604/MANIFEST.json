@@ -1,0 +1,41 @@
+{
+  "chapter": 604,
+  "title": "Nhàn vân dã hạc",
+  "images": [
+    "/tmp/comic-batch-603-613/a4-604/trang-01.png",
+    "/tmp/comic-batch-603-613/a4-604/trang-02.png",
+    "/tmp/comic-batch-603-613/a4-604/trang-03.png",
+    "/tmp/comic-batch-603-613/a4-604/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "da-hac-coc-bon-ban-603.png",
+    "kho-lac-thao-hoa-tam-thach-dan-tuu-604.png"
+  ],
+  "summary": "Hàn Lập tặng bốn viên Ngũ Thạch Đan, nhờ tìm nguyên liệu Túc Sát Đan. Nhiệt Hỏa nhận ra Hoa Tâm Thạch và lập tức đi Tụ Côn hỏi tin.",
+  "notes": "- CT603sạchrâuáoxanh;DãHạcbốncột603giữnguyên. BốnngườimỗimộtviênNgũThạch, LụcPhôitửuchỉđùađổichưatrao. MạcVôTuyết chỉnhắc/khônglộmặt. KhổLạcThảolàcây588;HuyềnChỉTinhThạch/HoaTâmchưacó, tácdụngTúcSátĐanchỉtinđồn. NHWHITEhair làngườinóitinHoaTâmvàgiảithích,đãsửahai khungnhầmvớiDDT. KếtNhiệtHỏađiTụCôn,DDTnhậnthuađểgiục,4ngườicònlạiởđá.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-603-613/604p1.png",
+    "/tmp/comic-generated-603-613/604p2.png",
+    "/tmp/comic-generated-603-613/604p3-fixed.png",
+    "/tmp/comic-generated-603-613/604p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

@@ -1400,3 +1400,12 @@ Nguồn: file CHUONG 599.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 603 — Đánh cờ: hoàn thành 4 trang
 Nguồn: file CHUONG 603.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/603/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Đầu603 chia tay dùngCT543; KDđỏ532đeo vòng phượngXANHtayTRÁI/TBtrắngngọc540đi riêng tớiKimNguyên, chưa xácnhậnPhệKimTiênởđóhiệnnay. Saumốc>400nămHanCT603dungmạophổthôngsạchrâuáoxanh; đãởPhùVângần200năm. NH603/ĐDT603/CY603/NTK603 lưuPNGtrướcdùng. NhiệtHỏaKimTiênhậukỳ, khôngnângcảnhHan. MQ/Giảikhôngngồicùng5ngườitụhội. Không tạo600–602.
+
+
+## Đạo cụ604 trước dùng
+Lưu models/kho-lac-thao-hoa-tam-thach-dan-tuu-604.png: Khổ Lạc Thảo là cây xanh trong hộp ngọc trắng đã hái588, không phải mới kiếm được. HoaTâm/HuyềnChỉTinhThạch chỉ minh họa lời giải thích, Han chưa có; màu sắc là thiết kế chuyển thể. Bốn bình NgũThạch mỗi người một viên; chưa luyện TúcSátĐan. MạcVôTuyết chỉ nhắc604, không vẽ chân dung khi chưa xuất hiện.
+
+
+## Chương 604 — Nhàn vân dã hạc: hoàn thành 4 trang
+Nguồn: file CHUONG 604.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/604/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- CT603sạchrâuáoxanh;DãHạcbốncột603giữnguyên. BốnngườimỗimộtviênNgũThạch, LụcPhôitửuchỉđùađổichưatrao. MạcVôTuyết chỉnhắc/khônglộmặt. KhổLạcThảolàcây588;HuyềnChỉTinhThạch/HoaTâmchưacó, tácdụngTúcSátĐanchỉtinđồn. NHWHITEhair làngườinóitinHoaTâmvàgiảithích,đãsửahai khungnhầmvớiDDT. KếtNhiệtHỏađiTụCôn,DDTnhậnthuađểgiục,4ngườicònlạiởđá.
