@@ -61,6 +61,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 609: Tiến vào Tụ Côn thành](chapters/609/): 4 trang, hoàn thành; [PDF A4](chapters/609/chuong-609.pdf)
+
 - [Chương 608: Đoạn ngắn ký ức](chapters/608/): 4 trang, hoàn thành; [PDF A4](chapters/608/chuong-608.pdf)
 
 - [Chương 607: Dòng sông thần bí](chapters/607/): 4 trang, hoàn thành; [PDF A4](chapters/607/chuong-607.pdf)

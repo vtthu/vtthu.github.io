@@ -1445,3 +1445,12 @@ Nguồn: file CHUONG 607.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 608 — Đoạn ngắn ký ức: hoàn thành 4 trang
 Nguồn: file CHUONG 608.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/608/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - GS607-B bỏ chạy, GS607-A bị kết liễu, không dựng cảnh thương tích cận. LNG607 ở Khai Nguyên, ốc đảo không phải Hướng Dương cốc. Năm pháp khí trữ vật đã sửa đúng năm nhẫn, không có CTB/Tịnh Bình. Chôn đáy hồ, không mang vật chất về; chỉ ghi nhớ đan phương và kinh nghiệm. CT603 trở về cùng giáp tạm rồi thu phòng hộ. Bình linh im lặng. LQT608 lưu trước khi xuất hiện. Trang4 đã sửa bình xanh lá đúng CTB.
+
+
+### Tham chiếu 609 trước khi vẽ
+- models/tu-con-thanh-hoa-diep-lenh-609.png: TQ609 quan cổng trung niên râu ngắn búi đen trâm bạc áo xanh sẫm viền bạc; CQ609 chưởng quầy mập lớn tuổi sạch râu áo mận viền vàng; đều vô danh không đặt tu vi mới. Lệnh Hỏa Diệp ngọc trắng lá đỏ, trước Ngoại môn Trưởng Lão Lệnh sau Lệ Hàn. Cổng kiểm tra xanh ChânTiên/trắng KimTiên/vàng TháiẤt. Người TháiẤt đi qua chỉ bóng lưng chưa rõ mặt.
+
+
+## Chương 609 — Tiến vào Tụ Côn thành: hoàn thành 4 trang
+Nguồn: file CHUONG 609.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/609/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Nhân vật/bối cảnh giữ CT603, LQT608, NH603 và động phủ605. Mấy chục năm sau Nhiệt Hỏa mới trao lệnh ngọc trắng lá đỏ tên Lệ Hàn, không có tinh thạch. Hàn hứa ba trăm năm một lò đan ChânTiên, tông môn cấp vật liệu. Hai tháng sau tới thành; cổng xanh ChânTiên/trắng KimTiên/vàng TháiẤt; người TháiẤt chỉ bóng lưng chưa rõ mặt. Quan TQ609 và chủ tiệm CQ609 đã lưu trước khi xuất hiện. Kết chưa tìm được nguyên liệu.
