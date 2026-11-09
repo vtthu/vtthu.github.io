@@ -61,6 +61,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 612: Tin tức nho nhỏ](chapters/612/): 4 trang, hoàn thành; [PDF A4](chapters/612/chuong-612.pdf)
+
 - [Chương 611: Thân phận thật sự](chapters/611/): 4 trang, hoàn thành; [PDF A4](chapters/611/chuong-611.pdf)
 
 - [Chương 610: Tấm lụa khó cầu](chapters/610/): 4 trang, hoàn thành; [PDF A4](chapters/610/chuong-610.pdf)

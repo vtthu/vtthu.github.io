@@ -1277,3 +1277,12 @@ Nguồn: file CHUONG 610.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 611 — Thân phận thật sự: hoàn thành 4 trang
 Nguồn: file CHUONG 611.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/611/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Hai lão hồngbàoGĐ611 và đạo binhbạcDB611 mới lưu trước khi vẽ. CY611 cùng khuôn mặt CY603, áođỏ lửa vàng hai búa. Đã sửa mọi khung trang4 nhầm mặt GĐ611-B thành đúng CYkhăn nâu, và sửa thoại trang2 gán nhầm. Luyện hơn năm tháng, một thấtbại sau đó ba viênNgọcThanh. Hàn đủ tư cách/nhậntráchnhiệmgiámđan, không tự thêm cảnh tặng lụa. Thânphận72Phósơnchủchi nhánhHắcThổquảnTứMinh(HắcThổ,HắcSơn,PhụcTrạch,NguyênCạnh), giữbí mậttrongcốc.
+
+
+### Model 612 trước khi vẽ
+- models/canh-duong-cung-nga-ngoc-con-612.png: ảnh CY611 tách riêng để tránh trộn GĐ611-B, khăn nâu tóc nâu rối râu xám ngắn áođỏ hai búa. CN612 cung nga khôi lỗi nữ trưởngthành áođào nhạt viềnvàng búiđen trâmvàng nhỏ khớp cổ/cổtay rấtmờ, khôngphảinữtu bưnghàng613. Khônggian đấu giá vòngtròn3tầngVIP, sànđátròn giữa; VIP2bồđoàn bàntrái cây/rượu/lưhươngphảibàn, kho ngầm trậnpháp.
+
+
+## Chương 612 — Tin tức nho nhỏ: hoàn thành 4 trang
+Nguồn: file CHUONG 612.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/612/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- CT603/CY611 giữ đúng mặt; CN612 cung nga khôi lỗi lưu trước khi vẽ. Gần200năm, chưa có tinhthạchtrước lễ. Tinhthạch nhập kho ngàycuối, khởiđiểm1000thạch, chưa thuộcHàn. HỏaTiêntửu vòxámcuối tặngCY đổi tin và hứacầmđan theo giá gốc nếu thiếu. Bảyngàylễmở4cổngtựdo, seisngày mới NgọcCôn đấugiá. Tháp thấp bátgiác đã sửa trang1, hai giámđan khácnhau sửa trang2. Không gian đấu giá3tầngVIP; CNkhíKếtĐan khôngngườithật. Nguồn612 có mô tả chu kỳ lễkhác610, ảnh dùng 'lễ mừng xây thành' không tự chốt chu kỳ mâu thuẫn.

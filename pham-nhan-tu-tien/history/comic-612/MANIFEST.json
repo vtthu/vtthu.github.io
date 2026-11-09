@@ -1,0 +1,44 @@
+{
+  "chapter": 612,
+  "title": "Tin tức nho nhỏ",
+  "images": [
+    "/tmp/comic-batch-603-613/a4-612/trang-01.png",
+    "/tmp/comic-batch-603-613/a4-612/trang-02.png",
+    "/tmp/comic-batch-603-613/a4-612/trang-03.png",
+    "/tmp/comic-batch-603-613/a4-612/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "da-hac-coc-bon-ban-603.png",
+    "mac-vo-tuyet-ngu-tu-ky-kim-ngoc-610.png",
+    "tu-con-thanh-hoa-diep-lenh-609.png",
+    "canh-duong-giam-dan-dao-binh-bac-611.png",
+    "canh-duong-cung-nga-ngoc-con-612.png"
+  ],
+  "summary": "Gần hai trăm năm sau, Hàn Lập tham gia giám định hàng ở Ngọc Côn lâu. Cảnh Dương báo Hoa Tâm Thạch đã tới; hai người vào phòng khách quý chờ đấu giá.",
+  "notes": "- CT603/CY611 giữ đúng mặt; CN612 cung nga khôi lỗi lưu trước khi vẽ. Gần200năm, chưa có tinhthạchtrước lễ. Tinhthạch nhập kho ngàycuối, khởiđiểm1000thạch, chưa thuộcHàn. HỏaTiêntửu vòxámcuối tặngCY đổi tin và hứacầmđan theo giá gốc nếu thiếu. Bảyngàylễmở4cổngtựdo, seisngày mới NgọcCôn đấugiá. Tháp thấp bátgiác đã sửa trang1, hai giámđan khácnhau sửa trang2. Không gian đấu giá3tầngVIP; CNkhíKếtĐan khôngngườithật. Nguồn612 có mô tả chu kỳ lễkhác610, ảnh dùng 'lễ mừng xây thành' không tự chốt chu kỳ mâu thuẫn.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-603-613/612p1-fixed.png",
+    "/tmp/comic-generated-603-613/612p2-fixed.png",
+    "/tmp/comic-generated-603-613/612p3.png",
+    "/tmp/comic-generated-603-613/612p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
