@@ -1409,3 +1409,12 @@ Lưu models/kho-lac-thao-hoa-tam-thach-dan-tuu-604.png: Khổ Lạc Thảo là c
 ## Chương 604 — Nhàn vân dã hạc: hoàn thành 4 trang
 Nguồn: file CHUONG 604.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/604/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - CT603sạchrâuáoxanh;DãHạcbốncột603giữnguyên. BốnngườimỗimộtviênNgũThạch, LụcPhôitửuchỉđùađổichưatrao. MạcVôTuyết chỉnhắc/khônglộmặt. KhổLạcThảolàcây588;HuyềnChỉTinhThạch/HoaTâmchưacó, tácdụngTúcSátĐanchỉtinđồn. NHWHITEhair làngườinóitinHoaTâmvàgiảithích,đãsửahai khungnhầmvớiDDT. KếtNhiệtHỏađiTụCôn,DDTnhậnthuađểgiục,4ngườicònlạiởđá.
+
+
+### Tham chiếu mới trước chương 605
+- models/dao-binh-dong-phu-da-hac-605.png: biến thể Đạo binh DB545, đầu lớn thêm nửa, phù văn xoắn, mắt linh động; hai lính đồng nhất. Động phủ vách núi rừng trúc, cổng cấm chế xanh nước, hai phòng bên trái đóng kín của Ma Quang/Giải đạo nhân. Nhãn Hàn Môn trên board là ký hiệu thiết kế, không phải tên riêng trong nguyên tác.
+
+
+## Chương 605 — Ở ẩn: hoàn thành 4 trang
+Nguồn: file CHUONG 605.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/605/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- CT603 sạch râu là diện mạo hiện tại; chân dung Lệ Phi Vũ trên bảng dùng V2. Cam Cửu Chân chỉ mặt nạ đỏ, 100.000 thạch; Hàn 5.000. Nhiệt Hỏa đã đi, chỉ bốn người uống Hỏa Tiên tửu. DB605 lưu trước khi vẽ. Hai phòng Ma Quang/Giải đóng kín. Các hiểm cảnh Man Hoang là hồi tưởng, không phát sinh diễn biến hiện tại. Kết chỉ hiện Sa Hải, chưa dung hợp ba lực.

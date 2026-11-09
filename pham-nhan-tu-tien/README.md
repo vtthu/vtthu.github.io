@@ -61,6 +61,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 605: Ở ẩn](chapters/605/): 4 trang, hoàn thành; [PDF A4](chapters/605/chuong-605.pdf)
+
 - [Chương 604: Nhàn vân dã hạc](chapters/604/): 4 trang, hoàn thành; [PDF A4](chapters/604/chuong-604.pdf)
 
 - [Chương 603: Đánh cờ](chapters/603/): 4 trang, hoàn thành; [PDF A4](chapters/603/chuong-603.pdf)

@@ -1,0 +1,45 @@
+{
+  "chapter": 605,
+  "title": "Ở ẩn",
+  "images": [
+    "/tmp/comic-batch-603-613/a4-605/trang-01.png",
+    "/tmp/comic-batch-603-613/a4-605/trang-02.png",
+    "/tmp/comic-batch-603-613/a4-605/trang-03.png",
+    "/tmp/comic-batch-603-613/a4-605/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "han-lap-v2.png",
+    "da-hac-coc-bon-ban-603.png",
+    "dao-binh-dong-phu-da-hac-605.png",
+    "ho-ngon-van-nghe-nam-le-models.png",
+    "mac-vu-giao-tam-khi-anh-507.png",
+    "moc-duyen-phap-ngon-quang-am-551.png"
+  ],
+  "summary": "Hàn Lập hồi tưởng lệnh truy nã ở Tụ Côn, trở về động phủ sau cuộc tụ họp và thử Quang Âm Tịnh Bình, Huyễn Thần Sa Hải.",
+  "notes": "- CT603 sạch râu là diện mạo hiện tại; chân dung Lệ Phi Vũ trên bảng dùng V2. Cam Cửu Chân chỉ mặt nạ đỏ, 100.000 thạch; Hàn 5.000. Nhiệt Hỏa đã đi, chỉ bốn người uống Hỏa Tiên tửu. DB605 lưu trước khi vẽ. Hai phòng Ma Quang/Giải đóng kín. Các hiểm cảnh Man Hoang là hồi tưởng, không phát sinh diễn biến hiện tại. Kết chỉ hiện Sa Hải, chưa dung hợp ba lực.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-603-613/605p1.png",
+    "/tmp/comic-generated-603-613/605p2.png",
+    "/tmp/comic-generated-603-613/605p3.png",
+    "/tmp/comic-generated-603-613/605p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
