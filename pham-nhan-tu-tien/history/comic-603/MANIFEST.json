@@ -1,0 +1,43 @@
+{
+  "chapter": 603,
+  "title": "Đánh cờ",
+  "images": [
+    "/tmp/comic-batch-603-613/a4-603/trang-01.png",
+    "/tmp/comic-batch-603-613/a4-603/trang-02.png",
+    "/tmp/comic-batch-603-613/a4-603/trang-03.png",
+    "/tmp/comic-batch-603-613/a4-603/trang-04.png"
+  ],
+  "models": [
+    "han-cai-trang-huong-canh-hoi-thiem-543.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png",
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "da-hac-coc-bon-ban-603.png"
+  ],
+  "summary": "Kim Đồng cùng Tiểu Bạch rời Hàn Lập tìm Kim Nguyên Tiên Vực. Hơn bốn trăm năm sau, Hàn Lập dùng dung mạo mới gặp bốn người bạn đánh cờ tại Dã Hạc cốc.",
+  "notes": "- Đầu603 chia tay dùngCT543; KDđỏ532đeo vòng phượngXANHtayTRÁI/TBtrắngngọc540đi riêng tớiKimNguyên, chưa xácnhậnPhệKimTiênởđóhiệnnay. Saumốc>400nămHanCT603dungmạophổthôngsạchrâuáoxanh; đãởPhùVângần200năm. NH603/ĐDT603/CY603/NTK603 lưuPNGtrướcdùng. NhiệtHỏaKimTiênhậukỳ, khôngnângcảnhHan. MQ/Giảikhôngngồicùng5ngườitụhội. Không tạo600–602.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-603-613/603p1.png",
+    "/tmp/comic-generated-603-613/603p2.png",
+    "/tmp/comic-generated-603-613/603p3.png",
+    "/tmp/comic-generated-603-613/603p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

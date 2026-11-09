@@ -1196,3 +1196,12 @@ Nguồn: file CHUONG 599.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Hoàn thành đợt585–599
 Đã tạo theo thứ tự585→599, mỗi chương4trang, tổng60PNG/15PDF A4. Mỗi chươngpushmain riêng ngay khi hoàn thành. Mục lục production/585-599/README.md; registry nguồn/model/commit CHAPTER_REGISTRY.json; kiểm tra VERIFICATION.json. Sáu sheet mới lưu trước dùng, model gốc giữ nguyên; nội dung TXT là dữ liệu chuyển thể. Không thêm hoàn thành581–584.
 Điểm nối600: HànCT543/107Tiênkhiếu/KimTiênđỉnhphong, sau nửa năm hồi phục nội thương/thần thức nhưng SÁT SUY phát tác; đang một mình trong hang mới cạnh sông giữa hai núi xanh, cấm chế vàng/khói đen, chưa qua suy/chưa TháiẤt. Giải lái phi xa567 đã dừng xa hang; MQ chủ thể HT588 bàođen/mắtđen, HưNguyênĐan che sátkhí vài năm tốiđa10năm, túiđen sátkhí giữ; TBbạchngọc540 ởxe; KDvẫnkénvàngđục/mâytrắngchưatỉnh. ĐịchTL559vàngđãchết597, oánniệmcũngđãtan; không tái sinh. BNY598áotrắngtócđenxenvàngđãrời, để ngọcgiảnxanhbốn vùngcấm/lộHắcSơn; khôngđặt tên riêng hay vẽLiễuNhạcNhi khi chỉnhắc. HùngHS02ởTiênNgụcánhvàng, Huyềnbạch/Địchhồng che mặt; CôngThâuThiênchỉnhắcđangtruyxétkhônglộmodel. HànđãtreothưởngvậtliệuHưNguyênĐanchưaluyệnmẻmới.
+
+
+## Tham chiếu mới trước chương 603
+Đã lưu models/da-hac-coc-bon-ban-603.png: NH603 Nhiệt Hỏa tóc/râu trắng rối áo lam nhạt hỏa văn; DDT603 Đoàn Dữ Tai tóc đen búi cao chỉnh tề áo navy sạch; CY603 Cảnh Dương áo nâu/râu xám bầu rượu; NTK603 Ngu Tử Kỳ tóc xanh áo sa xanh đàn cổ tím. Dã Hạc cốc: rừng trúc/mai trắng, suối uốn khúc, hồ xanh, đá phẳng cạnh trái hồ, bàn cờ. Đã lưu models/han-lap-le-dao-huu-cai-trang-603.png CT603 biến thể dung mạo bình thường sắc mặt tái, sạch râu, áo xanh trâm ngọc, CHỈ sau nhảy hơn400năm ở603; đầu603 chia tay vẫnCT543. Giữ nguyên HL01V2 và CT543 cũ. KD giữ mẫu đỏ532/tóc vàng búi; TiểuBạch trắngngọc540. Không có nguồn600–602 trong đợt này, không tự tạo hay đánh dấu hoàn thành.
+
+
+## Chương 603 — Đánh cờ: hoàn thành 4 trang
+Nguồn: file CHUONG 603.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/603/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Đầu603 chia tay dùngCT543; KDđỏ532đeo vòng phượngXANHtayTRÁI/TBtrắngngọc540đi riêng tớiKimNguyên, chưa xácnhậnPhệKimTiênởđóhiệnnay. Saumốc>400nămHanCT603dungmạophổthôngsạchrâuáoxanh; đãởPhùVângần200năm. NH603/ĐDT603/CY603/NTK603 lưuPNGtrướcdùng. NhiệtHỏaKimTiênhậukỳ, khôngnângcảnhHan. MQ/Giảikhôngngồicùng5ngườitụhội. Không tạo600–602.
