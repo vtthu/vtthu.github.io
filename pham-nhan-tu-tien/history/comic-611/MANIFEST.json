@@ -1,0 +1,42 @@
+{
+  "chapter": 611,
+  "title": "Thân phận thật sự",
+  "images": [
+    "/tmp/comic-batch-603-613/a4-611/trang-01.png",
+    "/tmp/comic-batch-603-613/a4-611/trang-02.png",
+    "/tmp/comic-batch-603-613/a4-611/trang-03.png",
+    "/tmp/comic-batch-603-613/a4-611/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "da-hac-coc-bon-ban-603.png",
+    "mac-vo-tuyet-ngu-tu-ky-kim-ngoc-610.png",
+    "canh-duong-giam-dan-dao-binh-bac-611.png"
+  ],
+  "summary": "Hàn Lập luyện thành Ngọc Thanh Đan để nhận việc giám đan sư, rồi nhận ra Cảnh Dương là người chủ sự và Phó sơn chủ Bách Tạo sơn.",
+  "notes": "- Hai lão hồngbàoGĐ611 và đạo binhbạcDB611 mới lưu trước khi vẽ. CY611 cùng khuôn mặt CY603, áođỏ lửa vàng hai búa. Đã sửa mọi khung trang4 nhầm mặt GĐ611-B thành đúng CYkhăn nâu, và sửa thoại trang2 gán nhầm. Luyện hơn năm tháng, một thấtbại sau đó ba viênNgọcThanh. Hàn đủ tư cách/nhậntráchnhiệmgiámđan, không tự thêm cảnh tặng lụa. Thânphận72Phósơnchủchi nhánhHắcThổquảnTứMinh(HắcThổ,HắcSơn,PhụcTrạch,NguyênCạnh), giữbí mậttrongcốc.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-603-613/611p1.png",
+    "/tmp/comic-generated-603-613/611p2-fixed.png",
+    "/tmp/comic-generated-603-613/611p3.png",
+    "/tmp/comic-generated-603-613/611p4-fixed.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

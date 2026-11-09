@@ -3048,23 +3048,49 @@
           1492
         ]
       }
+    },
+    {
+      "chapter": 611,
+      "pages": 4,
+      "directory": "chapters/611",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/611/chuong-611.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1492
+        ],
+        "trang-02.png": [
+          1055,
+          1492
+        ],
+        "trang-03.png": [
+          1055,
+          1492
+        ],
+        "trang-04.png": [
+          1055,
+          1492
+        ]
+      }
     }
   ],
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 352160,
-      "sha256": "b0c2f9f98e257b68cee2a58cefdce57285b9dd5c7abd2dd20e3a5dd5967b6e58"
+      "bytes": 353756,
+      "sha256": "9efb698b9a4be376287e5c3a7948f8897410d4da171f65661ea0577e35358598"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 303037,
-      "sha256": "e16e99259a67e75447eadd348071fc6c7f66151c94cb1951f95a45c95cac4764"
+      "bytes": 304633,
+      "sha256": "14c470d6d2202c00c3b1e4020443db4e236fffb32f4b8f4d11973e021b61fa06"
     },
     {
       "path": "README.md",
-      "bytes": 14510,
-      "sha256": "a2e431a7373a238a5c8631ff41fbf902da18fbd2db4ccbc6b62b89cd4ed152df"
+      "bytes": 14631,
+      "sha256": "f57305a902bcbd1f9da83ee38f2831eaad0642c2a923ea39523f9bf0affe2123"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -7522,6 +7548,41 @@
       "sha256": "23c99f4a97d5d1b97bdf13ae89ee6afa95cf213b46f54835eec5838e12255b44"
     },
     {
+      "path": "chapters/611/README.md",
+      "bytes": 573,
+      "sha256": "2162cba4f4e0f9bea2b9de6c1da4933895b07e8908d99d69207d5a50cc37d813"
+    },
+    {
+      "path": "chapters/611/SOURCE.txt",
+      "bytes": 14052,
+      "sha256": "87f8b87270972fc9ebd9afb948d9a55a2a1bced91d264715aa8eb8b48cbb7e67"
+    },
+    {
+      "path": "chapters/611/chuong-611.pdf",
+      "bytes": 18222796,
+      "sha256": "dc947d7f42c1cf3862a3ad120a7f55fe61112938237036a71ae57963e344c98c"
+    },
+    {
+      "path": "chapters/611/trang-01.png",
+      "bytes": 3848402,
+      "sha256": "c8bbc83e58ed49fc7468212c5757c271fcecbc692b29abfd2a287df4d6ba581c"
+    },
+    {
+      "path": "chapters/611/trang-02.png",
+      "bytes": 3490315,
+      "sha256": "c2d58174e7f140809b502a69d697d45dd67cd8efc4c6c09303075c9e6a9d2058"
+    },
+    {
+      "path": "chapters/611/trang-03.png",
+      "bytes": 3448463,
+      "sha256": "f5e6e0755d85175cd45a2f24f08f826c08c359cc03e3573991c3463be02c6636"
+    },
+    {
+      "path": "chapters/611/trang-04.png",
+      "bytes": 3787851,
+      "sha256": "696eb94f7e4053f7c2b23e0eff18f4f46db93579769936abd210d8703a64c4ea"
+    },
+    {
       "path": "drafts/468/README.md",
       "bytes": 844,
       "sha256": "ec62133989ea1c23b6d2d938d8724bded7fcb5238871fe86b25f6132cb2c74c7"
@@ -9322,6 +9383,26 @@
       "sha256": "88346f50831e283dac74605ce7835679c736e37058b245c72c0066063a386d10"
     },
     {
+      "path": "history/comic-611/CHARACTER_MEMORY.md",
+      "bytes": 353756,
+      "sha256": "9efb698b9a4be376287e5c3a7948f8897410d4da171f65661ea0577e35358598"
+    },
+    {
+      "path": "history/comic-611/MANIFEST.json",
+      "bytes": 1704,
+      "sha256": "6f98919170c8f7549da73e041ec8befb492ee280f81a68355c8828dd72ba3eab"
+    },
+    {
+      "path": "history/comic-611/PROJECT_MEMORY.md",
+      "bytes": 304633,
+      "sha256": "14c470d6d2202c00c3b1e4020443db4e236fffb32f4b8f4d11973e021b61fa06"
+    },
+    {
+      "path": "history/comic-611/README.md",
+      "bytes": 507,
+      "sha256": "902ba3630f29806e2271fc2393fe3968635b420c5532b777838f52e9a219376b"
+    },
+    {
       "path": "history/comic-summary-465-470/CHARACTER_MEMORY.md",
       "bytes": 45781,
       "sha256": "79205f469e487ab72667d25ae1746c9e1bd990aed72046842aa6e81c970e951f"
@@ -9415,6 +9496,11 @@
       "path": "models/bien-the-chay-thach-khoi-loi-494.png",
       "bytes": 3446517,
       "sha256": "657e7ed6e8e2ba9e6c3bbdac25378c3a74610102fc759369da50172f0e8b11e5"
+    },
+    {
+      "path": "models/canh-duong-giam-dan-dao-binh-bac-611.png",
+      "bytes": 2964086,
+      "sha256": "4a8840d34d21835b0d41cfad0eae9c6cfb550a68941f24cd281e3e6081dd2e23"
     },
     {
       "path": "models/cot-diem-tan-nhan-v1.png",

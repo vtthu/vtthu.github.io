@@ -1268,3 +1268,12 @@ Nguồn: file CHUONG 609.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 610 — Tấm lụa khó cầu: hoàn thành 4 trang
 Nguồn: file CHUONG 610.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/610/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - MVT610 và NTK610 áo trắng lưu trước khi vẽ; sáu người không có LưQuanTử. NgọcCônlâu đóngniêm phong, ba nghìn năm một lần, còn hai-ba trăm năm. Tìm năm-sáu năm rồi về, dưới năm mươi vạn thạch. VongBađình hồ khác đá603; rượuTửMịNương tím bầu/chénphỉthúy. KimNgọcLụa đã sửa đúng lòngbàntay, không phải tấm lớn. 600thạch là giá bán lại lầntrước, không phải giá mua hiện tại. Kết chỉ Hàn truyềnâmxinđổi, chưa nhận lụa.
+
+
+### Tham chiếu 611 lưu trước khi vẽ
+- models/canh-duong-giam-dan-dao-binh-bac-611.png: CY611 giữ mặt CY603, đổi áo đỏ biểu tượng lửa vàng hai búa giao nhau, vẫn hồlôrượu. GĐ611-A lão gầy cao mão đen râu xám dài, GĐ611-B lão khôi ngô mặt táo đỏ búi đen râu xám dày, cùng hồngbào biểu tượng lửa/hai búa. Hai lão không có tên canon, mã sảnxuất không in truyện. DB611 bạc kín mặt phùvăn cơgiới khác DB605 vàng. Đạiđiện ba ghế trái A phải B giữa trống trước khi CYxuất hiện. Ba viênNgọcThanhĐan xanhngọc là khóađồvật, chưakhẳngđịnhmàu nguyên tác.
+
+
+## Chương 611 — Thân phận thật sự: hoàn thành 4 trang
+Nguồn: file CHUONG 611.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/611/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Hai lão hồngbàoGĐ611 và đạo binhbạcDB611 mới lưu trước khi vẽ. CY611 cùng khuôn mặt CY603, áođỏ lửa vàng hai búa. Đã sửa mọi khung trang4 nhầm mặt GĐ611-B thành đúng CYkhăn nâu, và sửa thoại trang2 gán nhầm. Luyện hơn năm tháng, một thấtbại sau đó ba viênNgọcThanh. Hàn đủ tư cách/nhậntráchnhiệmgiámđan, không tự thêm cảnh tặng lụa. Thânphận72Phósơnchủchi nhánhHắcThổquảnTứMinh(HắcThổ,HắcSơn,PhụcTrạch,NguyênCạnh), giữbí mậttrongcốc.
