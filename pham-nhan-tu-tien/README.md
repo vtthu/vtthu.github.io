@@ -65,6 +65,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 626: Sắp xếp](chapters/626/): 4 trang, hoàn thành; [PDF A4](chapters/626/chuong-626.pdf)
+
 - [Chương 625: Nhị Chỉ Thiền](chapters/625/): 4 trang, hoàn thành; [PDF A4](chapters/625/chuong-625.pdf)
 
 - [Chương 624: Hoa Chi](chapters/624/): 4 trang, hoàn thành; [PDF A4](chapters/624/chuong-624.pdf)

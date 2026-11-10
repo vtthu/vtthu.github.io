@@ -1,0 +1,45 @@
+{
+  "chapter": 626,
+  "title": "Sắp xếp",
+  "images": [
+    "/tmp/comic-batch-624-634/a4-626/trang-01.png",
+    "/tmp/comic-batch-624-634/a4-626/trang-02.png",
+    "/tmp/comic-batch-624-634/a4-626/trang-03.png",
+    "/tmp/comic-batch-624-634/a4-626/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "cu-vien-duoc-vien-nhi-chi-625.png",
+    "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+    "ma-quang-ngan-diem-tuc-sat-626.png",
+    "dao-binh-dong-phu-da-hac-605.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+    "kho-lac-thao-hoa-tam-thach-dan-tuu-604.png"
+  ],
+  "summary": "Hàn Lập sắp xếp dược viên, đưa Ma Quang vào Hoa Chi và cùng Tinh Viêm luyện Túc Sát Đan. Sau ba năm, ba viên đan đen ra lò.",
+  "notes": "- CT603/GDNkhôngxuấttrongchươngnày;CV625nhấtquán. MaQuangHT588mặtxám/hắcbào, KimTiênđỉnhphong, bíthuậtđỉnhTháiẤtsơkỳ3nénnhang khôngcảHanTháiẤt. TV626 cùnglinhhỏaTV502, lòbạc8phùvăn/3chân. HoaChiở2ngóntayphải, khônghoa mọc; đãsửaprop: linhdịchđổlọtrắngriêng, CTBláxanhchỉngưnglụcdịch. Rễnâuvàngchưamọc, đậumẫuLôiTrạch/trúcbạcđúngkhu. HuyềnChỉđãcótheonguồn626,3câyKhổLạcHoa làKLT604. Kết3đenđan chưauống/chữakhẳngđịnhchữaSátsuy.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-624-634/626p1.png",
+    "/tmp/comic-generated-624-634/626p2.png",
+    "/tmp/comic-generated-624-634/626p3.png",
+    "/tmp/comic-generated-624-634/626p4-fixed.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

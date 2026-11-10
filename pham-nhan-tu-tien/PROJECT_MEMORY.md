@@ -1320,3 +1320,12 @@ models/cu-vien-duoc-vien-nhi-chi-625.png: CV625 khôi lỗi cựviên laotác đ
 ## Chương 625 — Nhị Chỉ Thiền: hoàn thành 4 trang
 Nguồn: file CHUONG 625.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/625/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - GiữCT603/GDN01hoàngbào. LôiBộChínhPháp doGiảichọn;3tủtáchlinhtài/côngpháp/phápbảohỏng, túixámnhiềunguyênthạchtrungphẩm. CV625laotác đồngsẫm mới lưu trước dùng. Đấtmới dựkiếntrămnăm tẩmbổ, chưa tựtăngdượclinh. HoaChinhập NGÓNTRỎ+GIỮATAYPHẢI sauhơn30năm, khôngngọccốtrờibênngoàitừđây; cửaHoaChidờivịtríđược, khôngđóngkhiHantrongđộngthiên. Sét thửkiếm ởrừngngoàiPhùVân, khôngphádượcviên. KimĐồngchỉnhắc.
+
+
+### Tham chiếu 626 trước khi vẽ
+models/ma-quang-ngan-diem-tuc-sat-626.png: MaQuang cùng chủthểHT588 mặttrungniênxám tócđen dài mắtđen/chì áobàođen trơn từ590, khôngphảiMQ01dađenmực hayđịchgiáptrùngvàng. TinhViêmTV626 biếnthểbiểucảm cùngTV502 ngântrắng25cm dạnglinhhỏaáolửa, khôngda/tócngườithật; giữmặt/ảnhTV502gốc. Lòbạc3chân2quai8phùvăn, TúcSátĐan3viênđenlongnhãnlấplánh. Rễnâuvàngchưamọc saugiọtlụcdịch, đấtLôiTrạchTứcThổtímđen sétlam/khóitím, mẫuđậuvàng,trúcrootbạc. HuyềnChỉTinhThạch604 nayđãcótheonguồn626, khôngđượctựsuythêmcảnhmuachương614–623.
+
+
+## Chương 626 — Sắp xếp: hoàn thành 4 trang
+Nguồn: file CHUONG 626.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/626/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- CT603/GDNkhôngxuấttrongchươngnày;CV625nhấtquán. MaQuangHT588mặtxám/hắcbào, KimTiênđỉnhphong, bíthuậtđỉnhTháiẤtsơkỳ3nénnhang khôngcảHanTháiẤt. TV626 cùnglinhhỏaTV502, lòbạc8phùvăn/3chân. HoaChiở2ngóntayphải, khônghoa mọc; đãsửaprop: linhdịchđổlọtrắngriêng, CTBláxanhchỉngưnglụcdịch. Rễnâuvàngchưamọc, đậumẫuLôiTrạch/trúcbạcđúngkhu. HuyềnChỉđãcótheonguồn626,3câyKhổLạcHoa làKLT604. Kết3đenđan chưauống/chữakhẳngđịnhchữaSátsuy.
