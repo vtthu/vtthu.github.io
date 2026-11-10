@@ -1563,3 +1563,8 @@ Nguồn: file CHUONG 632.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 633 — Luyện đồng: hoàn thành 4 trang
 Nguồn: file CHUONG 633.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/633/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Giữ Han CT603 mắt xámbạc, MQhost588hắcbào, CV625 cơkhíđồng. HoaChi tăngtrận bỏ1trungphẩmTiênNguyênThạch nởTịnhĐếLiên bảođảmlin hkhítrămnăm. Lưu biếnthểHan luyệnđồng633/634 cùngmặtáo, vảytímvàng trongluyệncông, mắtBLUElúctẩyrửa. Cuốichươngmớitẩyrửa giơngóntay, chưahấpthụhắckhí/chưasơthành634.
+
+
+## Chương 634 — Sự tình kỳ lạ: hoàn thành 4 trang
+Nguồn: file CHUONG 634.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/634/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- PK634 namtửtrẻtúmỹáokhoácđỏôgiấydầuđỏsẫm lưuPNGtrướcdùng. HanCT603cùngmặtáo, sauluyệnđồng634vảyđãbiếnmất, mắttímvàngkhikíchhoạt→xámbạc→đenngụytrangLongNgũ. SátSuychưagiải/tuviKimTiênđỉnhphongkhôngtựTháiẤt. NH603lamhỏavăn/ĐDT603navy/NTK610tócxanhbạchbào/MVT610trắngtrâmhoagiữnguyên. ĐìnhbátgiáctrênmỏmđátuyếtkhácVongBađìnhhồ. CảnhDươngvắnghơn100năm khôngvẽtạibuổihọp. Mất tíchchưarõhungthủkhôngtựsuydiễn.

@@ -65,6 +65,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 634: Sự tình kỳ lạ](chapters/634/): 4 trang, hoàn thành; [PDF A4](chapters/634/chuong-634.pdf)
+
 - [Chương 633: Luyện đồng](chapters/633/): 4 trang, hoàn thành; [PDF A4](chapters/633/chuong-633.pdf)
 
 - [Chương 632: Ma vực](chapters/632/): 4 trang, hoàn thành; [PDF A4](chapters/632/chuong-632.pdf)

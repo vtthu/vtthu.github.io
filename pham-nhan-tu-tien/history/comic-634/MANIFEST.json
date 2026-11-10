@@ -1,0 +1,43 @@
+{
+  "chapter": 634,
+  "title": "Sự tình kỳ lạ",
+  "images": [
+    "/tmp/comic-batch-624-634/a4-634/trang-01.png",
+    "/tmp/comic-batch-624-634/a4-634/trang-02.png",
+    "/tmp/comic-batch-624-634/a4-634/trang-03.png",
+    "/tmp/comic-batch-624-634/a4-634/trang-04.png"
+  ],
+  "models": [
+    "han-lap-cuu-u-ma-dong-633-634.png",
+    "phong-khanh-nguyen-da-hac-tuyet-634.png",
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "da-hac-coc-bon-ban-603.png",
+    "mac-vo-tuyet-ngu-tu-ky-kim-ngoc-610.png"
+  ],
+  "summary": "Cửu U Ma Đồng sơ thành, Hàn Lập che giấu đôi mắt xám bạc rồi xuất quan. Trong mùa tuyết Dã Hạc Cốc, hắn gặp Phong Khánh Nguyên và nghe bằng hữu kể về người mới cùng những vụ mất tích kỳ lạ.",
+  "notes": "- PK634 namtửtrẻtúmỹáokhoácđỏôgiấydầuđỏsẫm lưuPNGtrướcdùng. HanCT603cùngmặtáo, sauluyệnđồng634vảyđãbiếnmất, mắttímvàngkhikíchhoạt→xámbạc→đenngụytrangLongNgũ. SátSuychưagiải/tuviKimTiênđỉnhphongkhôngtựTháiẤt. NH603lamhỏavăn/ĐDT603navy/NTK610tócxanhbạchbào/MVT610trắngtrâmhoagiữnguyên. ĐìnhbátgiáctrênmỏmđátuyếtkhácVongBađìnhhồ. CảnhDươngvắnghơn100năm khôngvẽtạibuổihọp. Mất tíchchưarõhungthủkhôngtựsuydiễn.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-624-634/634p1-fixed.png",
+    "/tmp/comic-generated-624-634/634p2.png",
+    "/tmp/comic-generated-624-634/634p3.png",
+    "/tmp/comic-generated-624-634/634p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
