@@ -1,0 +1,43 @@
+{
+  "chapter": 624,
+  "title": "Hoa Chi",
+  "images": [
+    "/tmp/comic-batch-624-634/a4-624/trang-01.png",
+    "/tmp/comic-batch-624-634/a4-624/trang-02.png",
+    "/tmp/comic-batch-624-634/a4-624/trang-03.png",
+    "/tmp/comic-batch-624-634/a4-624/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "giai-dao-nhan-gdn01.png",
+    "kim-dong-giai-dao-nhan-bien-the.png",
+    "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+    "dao-binh-dong-phu-da-hac-605.png"
+  ],
+  "summary": "Giải Đạo Nhân nhớ ra Bát Nguyên Giải trận, giúp Hàn Lập mở Hoa Chi. Hai người khám phá động thiên và tìm cách mở lầu tử trúc mà không hại căn cơ sen.",
+  "notes": "- Giữ HanCT603 sạch râu TEAL/trâm xanh; GiảiGDN01 hoàngbào mặtkimloại không tóc/ngườithật. MaQuang bếquan khôngxuấtmặt. HoaChi HC624 xươngđuôiphỉthúy hóa trắngbạc hoavănhoa; BátNguyênThược chỉchếsauđủvậtliệu hơn2tháng. Kết624 mớibắtđầugiảicấm lầu, chưavàomởtủ625. Độngthiên đồngcỏ/bíchchướng/rừngđườngxương/tửtrúc/hồsen/cầuc ong/lầu2tầng thốngnhất.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-624-634/624p1.png",
+    "/tmp/comic-generated-624-634/624p2.png",
+    "/tmp/comic-generated-624-634/624p3.png",
+    "/tmp/comic-generated-624-634/624p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

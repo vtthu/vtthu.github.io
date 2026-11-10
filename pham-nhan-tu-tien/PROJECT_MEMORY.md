@@ -1300,3 +1300,14 @@ Nguồn: file CHUONG 613.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Hoàn thành đợt 603–613
 Đã tạo theo thứ tự 603→613, mỗi chương 4 trang A4 dọc, tổng 44 PNG/11 PDF. Từng chương được commit và push main riêng khi hoàn thành. Mục lục production/603-613/README.md, nguồn/model/commit trong CHAPTER_REGISTRY.json và kiểm tra VERIFICATION.json. Mười hai bảng tham chiếu mới lưu trước khi dùng; HL-01 V2 gốc giữ nguyên. Không đánh dấu hoàn thành 600–602.
 Điểm nối sau 613: Hàn CT603 sạch râu áo TEAL trúc vàng trâm xanh, tên Lệ Hàn đăng ký Hỏa Diệp, Kim Tiên đỉnh phong; sát khí chưa hóa giải, chưa Thái Ất. Chưởng Thiên Bình giữ, bình linh sau 608 im lặng. Ma Quang/Giải đạo nhân bế quan ở động phủ Dã Hạc; Kim Đồng/Tiểu Bạch đi riêng từ603. Cảnh Dương đã lộ Phó sơn chủ Bách Tạo sơn chi nhánh Hắc Thổ quản Tứ Minh, giữ bí mật với người trong cốc. Hàn cùng Cảnh Dương ở VIP lầu2 Ngọc Côn lâu. Hoa Tâm Thạch nhập kho, giá khởi điểm1000thạch, CHƯA đấu/CHƯA mua. Ba món bán613: Phượng Minh Cầm120, Tử Dương13viên160, Lôi Hỏa Lệnh hơn200. Phó Ngọc Hải KimTiênhậukỳ, GiámSát thực quyền vẫn chưa lộ chân thân/tuvi. Không tự đưa nhân vật đã chia tay trở lại, không đưa Bùi Khinh Linh chân thân vào khi chỉ được kể tên.
+
+
+## Khởi động đợt 624–634
+Nguồn: 11 TXT người dùng đính kèm. Làm 624→634, mỗi chương 4 trang A4 dọc, từng chương push main riêng. Không tự tạo/đánh dấu 614–623. Hàn hiện dùng CT603 sạch râu áo TEAL trúc vàng trâm xanh; Giải GDN-01 kim loại vàng, hoàng bào, không đổi thành mặt người.
+### Tham chiếu trước chương624
+models/giai-dao-nhan-hoa-chi-bat-nguyen-624.png tái dùng GDN-01 đúng mặt và hoàngbào, HC624 đoạn xươngđuôi phỉthúy từ CựThử585 hóa tuyếttrắng có hoa đồngtiền khi giải; BNT624 hộpbátgiác hợp kim, thiết kế chuyển thể không côngthức. Độngthiên đồngcỏ/rừng đườngxương trắng cổ không máu, tửtrúc bao sân hồsen tí mvàng/cầucong/lầu2tầng rễ nối hồ. TranhThiền, bồđoànđay, phòngtrái giườngtrúc đèn tắt/bộtràđen, thangphải, 3tủlầu2. Nhãn/đèn phát sáng do board sinh không phải dữ kiện; truyện giữ đèn tắt khi mô tả625.
+
+
+## Chương 624 — Hoa Chi: hoàn thành 4 trang
+Nguồn: file CHUONG 624.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/624/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Giữ HanCT603 sạch râu TEAL/trâm xanh; GiảiGDN01 hoàngbào mặtkimloại không tóc/ngườithật. MaQuang bếquan khôngxuấtmặt. HoaChi HC624 xươngđuôiphỉthúy hóa trắngbạc hoavănhoa; BátNguyênThược chỉchếsauđủvậtliệu hơn2tháng. Kết624 mớibắtđầugiảicấm lầu, chưavàomởtủ625. Độngthiên đồngcỏ/bíchchướng/rừngđườngxương/tửtrúc/hồsen/cầuc ong/lầu2tầng thốngnhất.
