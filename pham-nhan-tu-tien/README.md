@@ -1,6 +1,10 @@
 # Phàm Nhân Tu Tiên — Kho truyện và bộ nhớ dự án
 
-## Đợt mới nhất: chương 603–613
+## Đợt mới nhất: chương 624–634
+
+[Đọc lần lượt 11 chương](production/624-634/README.md): **44 trang PNG, 11 PDF A4**, đã đẩy từng chương.
+
+## Đợt chương 603–613
 
 [Đọc lần lượt chương 603–613](production/603-613/README.md): **44 trang PNG, 11 PDF A4**, hoàn thành và đẩy từng chương.
 

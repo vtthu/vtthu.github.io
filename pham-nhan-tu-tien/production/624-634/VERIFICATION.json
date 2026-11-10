@@ -1,0 +1,58 @@
+{
+  "status": "completed",
+  "verified_at_utc": "2026-11-10T18:15:59.281842+00:00",
+  "chapters": 11,
+  "PNG_pages": 44,
+  "PDFs_A4": 11,
+  "PNG_pixels": [
+    1055,
+    1492
+  ],
+  "source_identical_to_user_uploads": true,
+  "PDF_page_counts_and_A4_verified": true,
+  "all_PNG_decodes_and_portrait_A4_verified": true,
+  "ZIP_integrity_verified_locally": true,
+  "root_website_untouched": true,
+  "new_model_images": [
+    {
+      "path": "models/giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+      "sha256": "29d5007126648633f54ea137157a587f45980fd13da8646528920c8d8f967407"
+    },
+    {
+      "path": "models/cu-vien-duoc-vien-nhi-chi-625.png",
+      "sha256": "c4af433e5eedc880dd1325baec613c601eb4e688a51b2cf119460b93aab5f564"
+    },
+    {
+      "path": "models/ma-quang-ngan-diem-tuc-sat-626.png",
+      "sha256": "3c4469969af06456b22d9279c58f2098a1a9cf5e630cb16eb9a1368cf52745d0"
+    },
+    {
+      "path": "models/han-mat-xam-luc-y-thoi-khi-627.png",
+      "sha256": "cd8231467f54ab53aa9c0c0f966c2b6bbeb08fec77d267b1b6d74a6a3ad07047"
+    },
+    {
+      "path": "models/ma-toc-nhap-hon-thien-ma-quan-629.png",
+      "sha256": "0f26ac36b9a763d530a85fdb8d0d48db5535f5aa61c658fa4d3533b838269273"
+    },
+    {
+      "path": "models/thai-thac-cu-ma-loi-than-bo-629.png",
+      "sha256": "155abb5036362c59dd73a7c6f461887dc3f4fcfa9d58131cd6982c5de34e0e01"
+    },
+    {
+      "path": "models/luc-ma-tu-kim-long-chien-ham-630.png",
+      "sha256": "518753f7315cdd499f125996a8c0edb437c248c914593fc833a9862e68092ebd"
+    },
+    {
+      "path": "models/ma-chu-ngan-sac-nhan-anh-631.png",
+      "sha256": "c3b0501a9369bee2b52fdcc897297123f15042999aae4c277545d7285056ba72"
+    },
+    {
+      "path": "models/han-lap-cuu-u-ma-dong-633-634.png",
+      "sha256": "be2e9e8a13e0e81860b70e3470ad84e5dd987625c7d4ff079b8564001ef4b5fe"
+    },
+    {
+      "path": "models/phong-khanh-nguyen-da-hac-tuyet-634.png",
+      "sha256": "0b568497030bb011a6d1ae82a2db37dd4677e7532ab75d89dfc16c997292d477"
+    }
+  ]
+}

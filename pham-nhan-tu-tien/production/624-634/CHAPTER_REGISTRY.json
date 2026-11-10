@@ -1,0 +1,557 @@
+[
+  {
+    "chapter": 624,
+    "title": "Hoa Chi",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "19aff090c1c2b9200d9628e04079196bb7f71fe0",
+    "source_bytes": 13882,
+    "source_sha256": "803aaf1e797fb7baad214f8667674c90ce83faf9979f31a2365207607a654cf7",
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "giai-dao-nhan-gdn01.png",
+      "kim-dong-giai-dao-nhan-bien-the.png",
+      "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+      "dao-binh-dong-phu-da-hac-605.png"
+    ],
+    "continuity_notes": "- Giữ HanCT603 sạch râu TEAL/trâm xanh; GiảiGDN01 hoàngbào mặtkimloại không tóc/ngườithật. MaQuang bếquan khôngxuấtmặt. HoaChi HC624 xươngđuôiphỉthúy hóa trắngbạc hoavănhoa; BátNguyênThược chỉchếsauđủvậtliệu hơn2tháng. Kết624 mớibắtđầugiảicấm lầu, chưavàomởtủ625. Độngthiên đồngcỏ/bíchchướng/rừngđườngxương/tửtrúc/hồsen/cầuc ong/lầu2tầng thốngnhất.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "9c851666afd2c14eaa49addea630f0e71d9532851e21761c4c8a638b6f93e9fb"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "27eda81a92929e16c7c16b01a8f9a5b33a5d7bee06e0bc6b5a120c64f69d77a2"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "460e77005ea6a38743497b3977b5ae03ddac6f3543a6a383ecb9f78dd56ac31d"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "4ab60a79d4e85620ac13f6732278106b4750cb3ae559608934b62ebcfb8c0250"
+      }
+    ]
+  },
+  {
+    "chapter": 625,
+    "title": "Nhị Chỉ Thiền",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "cd11eb2b5b97aae2e75d803e77d24b018fbce6aa",
+    "source_bytes": 14495,
+    "source_sha256": "f7ee1f5dd9f87af8f62762ba23d82a3ec0180ba57b6844f86ddf10def0920613",
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+      "cu-vien-duoc-vien-nhi-chi-625.png",
+      "dao-binh-dong-phu-da-hac-605.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- GiữCT603/GDN01hoàngbào. LôiBộChínhPháp doGiảichọn;3tủtáchlinhtài/côngpháp/phápbảohỏng, túixámnhiềunguyênthạchtrungphẩm. CV625laotác đồngsẫm mới lưu trước dùng. Đấtmới dựkiếntrămnăm tẩmbổ, chưa tựtăngdượclinh. HoaChinhập NGÓNTRỎ+GIỮATAYPHẢI sauhơn30năm, khôngngọccốtrờibênngoàitừđây; cửaHoaChidờivịtríđược, khôngđóngkhiHantrongđộngthiên. Sét thửkiếm ởrừngngoàiPhùVân, khôngphádượcviên. KimĐồngchỉnhắc.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "0dbdbf894ea8ac6575fe0befc7c3f09bcd07dd8b1ed847562b21ae259d8fd752"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "da7b6e1b43792f61c6f27638ca13da4ca4cb11df072966e66f973887982d7d11"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "36936ac51cf341995dabb037120bed912b003d24f153744e41dc765add52d4d7"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "eabfd1c4e37a92990149fd95311c3ccb204e1dff50d09d35edb3d92b89708757"
+      }
+    ]
+  },
+  {
+    "chapter": 626,
+    "title": "Sắp xếp",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "07f7471a98d6dbaa6189eb6475bf1b853cb6b2b5",
+    "source_bytes": 13745,
+    "source_sha256": "7d9180e5fbeeb852ff664e1ae5594165448922bb74debd47cb4d475687fe993b",
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "cu-vien-duoc-vien-nhi-chi-625.png",
+      "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+      "ma-quang-ngan-diem-tuc-sat-626.png",
+      "dao-binh-dong-phu-da-hac-605.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+      "kho-lac-thao-hoa-tam-thach-dan-tuu-604.png"
+    ],
+    "continuity_notes": "- CT603/GDNkhôngxuấttrongchươngnày;CV625nhấtquán. MaQuangHT588mặtxám/hắcbào, KimTiênđỉnhphong, bíthuậtđỉnhTháiẤtsơkỳ3nénnhang khôngcảHanTháiẤt. TV626 cùnglinhhỏaTV502, lòbạc8phùvăn/3chân. HoaChiở2ngóntayphải, khônghoa mọc; đãsửaprop: linhdịchđổlọtrắngriêng, CTBláxanhchỉngưnglụcdịch. Rễnâuvàngchưamọc, đậumẫuLôiTrạch/trúcbạcđúngkhu. HuyềnChỉđãcótheonguồn626,3câyKhổLạcHoa làKLT604. Kết3đenđan chưauống/chữakhẳngđịnhchữaSátsuy.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "862c0de1eb0811cde5c853bc8b02f5d402555ff7b39853d55d60f2d7f1ecc980"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "0afb631b6a88fc9a3ba893d67df38e86a952612a227bf22f25ed3155c9e872c1"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "8932a898377d5f9a1b88e248abf76b04636ee7d7a8a09bfd726778a070b33d97"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "ab3132d35064b59f2455da56c3c590422cfca330bf624f2cd088ff012f242678"
+      }
+    ]
+  },
+  {
+    "chapter": 627,
+    "title": "Tìm phương pháp khác",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "08c239df91748cca42fb0d67d1194ff048887403",
+    "source_bytes": 15288,
+    "source_sha256": "73bc85b5aad2848ba1171c7e572cd3a308986facf3b0314fe774111d91eb0233",
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "han-mat-xam-luc-y-thoi-khi-627.png",
+      "ma-quang-ngan-diem-tuc-sat-626.png",
+      "dao-binh-dong-phu-da-hac-605.png",
+      "canh-duong-cung-nga-ngoc-con-612.png",
+      "huyen-vu-tam-phap-binh-linh-606.png"
+    ],
+    "continuity_notes": "- Mộtviênđầu hơn3năm, hai viêncòn lạithêm10năm; chỉgiảmsátkhítrongcơthểkhôngtrongtiênkhiếu, chưavượtSátSuy/chưaTháiẤt. TừcuốiđiềutrịmắtHanCT603xámbạc khôngmặtngườikhác. LongNgũTEAL2sừngvàng/VôThườnghồngảnh. CY612giữkhănnâu/hồngbào, thịnữLY627mớilưu17tuổiquầnaokín; chi bộTụCôn khôngDãHạc. NgânHồ/CôngThâuThiên/TôLưuchỉnhắc chưa vẽmặt. Kết chỉ chủythủquan sát, ĐoạnThìHồ vàthướcxanh dành628.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f15f19c05024bfd3cb2c2af53acea4d23e92eb228a6cffc504b6d06efb6f3970"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "01c1cee68cb329fcacf0f2f818daec8c4a91e25bfb259572c45b941b3c63b939"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "e1c1f0fbd96984a9bfbcc507c9755e7d15d2dd3f951d36726fa91a8050ec1818"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "96df952bc7f907518ae3f849faa9dc26a30fde6256e20058e2b34cfaa7364889"
+      }
+    ]
+  },
+  {
+    "chapter": 628,
+    "title": "Thử nghiệm",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "3d0e073e4accd776258932af48df497615b403ee",
+    "source_bytes": 14775,
+    "source_sha256": "c207c373dd0df112c3de35e62413e431c34c2fe684a48e76e6c71d7859c90ba7",
+    "models": [
+      "han-mat-xam-luc-y-thoi-khi-627.png",
+      "huyen-vu-tam-phap-binh-linh-606.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+      "luc-nhan-giap-giam-sat-tien-su-607.png"
+    ],
+    "continuity_notes": "- Ba pháp khí bị tiêu hủy, tinh ti tăng 18→26. Vòng vàng nhỏ không mắt khác Bảo Luân lớn có mắt. Chỉ thần hồn qua tinh bích; nhục thân vẫn ở động phủ. Cuối chương chỉ quan sát, chưa chọn giọt nước.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "11e6491329727ab46d660d5f400128ac34e3264be4e4a84d23c15973ac1aff3e"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "1e5e676d7ca6fc34c13bfd2aa20b0dbe3ca8b53aad04a4bff3b359f8c49cf4d8"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d81c5e366201a35aa4b6b4c7770541df68e916e374b77ea20aeda6db6586b86f"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d88cc9a08eb0f82c72dcaecc226ca088f229c49bec5c9bbffb096612b14fe2ca"
+      }
+    ]
+  },
+  {
+    "chapter": 629,
+    "title": "Thiên Ma đấu",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "bb97db404ca201466050d4a926da76fd01f2f777",
+    "source_bytes": 14400,
+    "source_sha256": "e5589412c5137d801cbede44dca485ac99b334c7152d634059edf4e4ddbb76ef",
+    "models": [
+      "ma-toc-nhap-hon-thien-ma-quan-629.png",
+      "thai-thac-cu-ma-loi-than-bo-629.png",
+      "han-mat-xam-luc-y-thoi-khi-627.png"
+    ],
+    "continuity_notes": "- MT629 thân xác nhập hồn khác mặt CT603; nhục thân Han vẫn ở động phủ hiện tại. Pháp tướng ba đầu sáu tay vô danh không xác nhận là Thạch Xuyên Không. TTCM629 gần vạn trượng, LTB629 gần ngàn trượng; model quân chủng dùng chung. Hỏa nhân che mặt, Lực Ma Tử chỉ giọng trong mây; cuối chương chưa nổ huyết châu.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f6826336a700367315a09ad85040290ac20df4e3773a1e80216f891d535351a8"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "9b4353b1e34e4dc52234adc81e360463e6ec24adab7ee65099f8dfdfd596b237"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d69105a34eb869c7d4dc11eedd1066f07ef755d9077323598a95e72d09251dca"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "3a32b7ed3162ea1de5c855d44826819cca2b7079192f2b7164f8864ec7aa8e01"
+      }
+    ]
+  },
+  {
+    "chapter": 630,
+    "title": "Giằng co",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "b903108119e534225b4fa20d720719ccce8999c2",
+    "source_bytes": 14845,
+    "source_sha256": "242ed54c5a0ff8148fe90e03a983e02fe76228b7fe79ab35699bee9b34a5e7c0",
+    "models": [
+      "luc-ma-tu-kim-long-chien-ham-630.png",
+      "ma-toc-nhap-hon-thien-ma-quan-629.png",
+      "thai-thac-cu-ma-loi-than-bo-629.png"
+    ],
+    "continuity_notes": "- Lưu LMT630 mặt tím ma văn mũi ưng áo tím, KL630 nam tóc vàng hai long giác/vảy vàng chưa rõ tên. Lôi Thần Bộ đã chết hết sau huyết nhật. Bốn năm mươi chiến hạm kim sắc/cổ luân thần điểu/phiên hỏa hà giữ model630. Han chỉ nằm quan sát trong MT629. Cuối chương lôi điện trúng lưng KL630, chưa hóa rồng.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "cfbe4166d99622578a42a8b8be3ddc8c6835c1c250acd302ac9db6c03f351927"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "2469538584339ffce1fcbe45fc3a5f5102e189fd5b15868a8136927bcfeb471d"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c0d7a92e6047890fea9bc5afd99a21748f6e009b1b8560000b5037d18c958c2e"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "174ef392990a97398a455a7cd00e84553a80e181eb49e3d0ecd3ab5bd608ff83"
+      }
+    ]
+  },
+  {
+    "chapter": 631,
+    "title": "Lợi thế",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "bdb1d2a245e47d2ef5683dcbd0040371ebb82e67",
+    "source_bytes": 16866,
+    "source_sha256": "ab40d762b92479c5807ce917b463ee85b829b22b79f40e23d13980b5e646aae2",
+    "models": [
+      "luc-ma-tu-kim-long-chien-ham-630.png",
+      "ma-chu-ngan-sac-nhan-anh-631.png",
+      "ma-toc-nhap-hon-thien-ma-quan-629.png"
+    ],
+    "continuity_notes": "- MC631 chỉ nhân ảnh ngân sắc không xác nhận dung mạo. KL630 chết ở trang3; không tái xuất sống. Ma Chủ cứu/chữa LMT, diệt TháiẤt địch, phá thông đạo; chỉ thị giết ba thành giữ số còn lại đến TuLaĐảo. Han nằm MT629 giấu thần hồn, cuối mở mắt sau khi MaChủ rời.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c6b97103dcf83584fd83971f0f1df4c668f4a6b3c3962ad8e15274959f3a30e2"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "ec8ed2a9fc45b37b23f63b2ed8a4aaf49296a985ae5e66b62b1b708e863baacb"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "a0e1e9ac92af81b44374603ad6947084f64d4b5a4be9deef67021aaad04f7a69"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c09058c2b3de40df00410cf83cf7fb342c1f6dfee9b449d8fce302f551514133"
+      }
+    ]
+  },
+  {
+    "chapter": 632,
+    "title": "Ma vực",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "d488dbb041b3b4a6b8ce6f760178b1d2d97103be",
+    "source_bytes": 15579,
+    "source_sha256": "c0a9cfac43bd97d8dfadf7521c822232ba8e98ae6a1e3f3fe009e7ba351b2412",
+    "models": [
+      "ma-toc-nhap-hon-thien-ma-quan-629.png",
+      "luc-ma-tu-kim-long-chien-ham-630.png"
+    ],
+    "continuity_notes": "- MT629 xác nhận tên U Ngạo, TháiẤt hậu kỳ thuộc QuảngNguyênTrai; giữ nguyên model. Bản đồ/tàng thư/cân/rune là minh họa suy nghĩ không phải địa đồ hay đạo cụ canon. MộngMô chỉ mô tả năng lực không tự thêm ngoại hình. TửLinh/NamCungUyển/LamDĩnh chỉ nhắc không xuất hiện ảnh. CửuUMaĐồng chưa luyện; cuối rời U Ngạo chưa tỉnh động phủ.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "7033b91c3e0405b7a96738cf4cb35e72568e27e828b798fe76c2a0a5092c0360"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d86e148ec511ebf369da60f8a4923b043de14c4d43f470be0f5f22e5ab3e0995"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "944ccbd1e94fc280db4db64706cf0d9b40068e9216e61231c4512864f0cc95cb"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "82b0fb73b81ca3943445ba22c55c07e56f0313af6fe30cab71a71bea9b106e86"
+      }
+    ]
+  },
+  {
+    "chapter": 633,
+    "title": "Luyện đồng",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "60f03aa391e4df5a708870bff2e3ca872185461a",
+    "source_bytes": 14050,
+    "source_sha256": "c9e686216b024001dc41e483aaf8f0898b48a142d8336d2348a6f114a3f0fbdd",
+    "models": [
+      "han-lap-cuu-u-ma-dong-633-634.png",
+      "han-mat-xam-luc-y-thoi-khi-627.png",
+      "ma-quang-ngan-diem-tuc-sat-626.png",
+      "cu-vien-duoc-vien-nhi-chi-625.png",
+      "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- Giữ Han CT603 mắt xámbạc, MQhost588hắcbào, CV625 cơkhíđồng. HoaChi tăngtrận bỏ1trungphẩmTiênNguyênThạch nởTịnhĐếLiên bảođảmlin hkhítrămnăm. Lưu biếnthểHan luyệnđồng633/634 cùngmặtáo, vảytímvàng trongluyệncông, mắtBLUElúctẩyrửa. Cuốichươngmớitẩyrửa giơngóntay, chưahấpthụhắckhí/chưasơthành634.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b3de03b9037e7e2a84d29b1c9cae772d4dd2e29e0353dd39cd5d6851399f562c"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "151d8aaec54a3543059eeda5aa5004aee6c84def1316ffc0447d5a7a1b4d4077"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "ec8b9fa365152b15afb21389b43b1f78344d0556d3cf9528f759be13cdab0322"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "8f1f7572381d1721b691cca2d25ed3d3666ecdfac991776c68f879e123b5e97e"
+      }
+    ]
+  },
+  {
+    "chapter": 634,
+    "title": "Sự tình kỳ lạ",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "c0872fdbbe5676ee18479bd303f618e71eeffb68",
+    "source_bytes": 14436,
+    "source_sha256": "afb319978d3e8922ee703966de42bea310655c43993c7ae0784e54d0ca780b12",
+    "models": [
+      "han-lap-cuu-u-ma-dong-633-634.png",
+      "phong-khanh-nguyen-da-hac-tuyet-634.png",
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "da-hac-coc-bon-ban-603.png",
+      "mac-vo-tuyet-ngu-tu-ky-kim-ngoc-610.png"
+    ],
+    "continuity_notes": "- PK634 namtửtrẻtúmỹáokhoácđỏôgiấydầuđỏsẫm lưuPNGtrướcdùng. HanCT603cùngmặtáo, sauluyệnđồng634vảyđãbiếnmất, mắttímvàngkhikíchhoạt→xámbạc→đenngụytrangLongNgũ. SátSuychưagiải/tuviKimTiênđỉnhphongkhôngtựTháiẤt. NH603lamhỏavăn/ĐDT603navy/NTK610tócxanhbạchbào/MVT610trắngtrâmhoagiữnguyên. ĐìnhbátgiáctrênmỏmđátuyếtkhácVongBađìnhhồ. CảnhDươngvắnghơn100năm khôngvẽtạibuổihọp. Mất tíchchưarõhungthủkhôngtựsuydiễn.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "36e51aaaf27517377efd579a88beb496cb0d1308e2c478e70f34dc1888d2e22c"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "db5d1eb1aa6b3b7eee0debb947fcd60d6d3ab2f49ee78ce57bdb409d8089fb89"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "830e0698067caaef9334869ef9a2a2c765d2d86bcb67e6c65d490cd33d103680"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "21ab0fc233fc8f61397970a4d143d21810a034317ef2e52a52b58bf0079e2559"
+      }
+    ]
+  }
+]
