@@ -1524,3 +1524,12 @@ models/ma-quang-ngan-diem-tuc-sat-626.png: MaQuang cùng chủthểHT588 mặttr
 ## Chương 626 — Sắp xếp: hoàn thành 4 trang
 Nguồn: file CHUONG 626.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/626/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - CT603/GDNkhôngxuấttrongchươngnày;CV625nhấtquán. MaQuangHT588mặtxám/hắcbào, KimTiênđỉnhphong, bíthuậtđỉnhTháiẤtsơkỳ3nénnhang khôngcảHanTháiẤt. TV626 cùnglinhhỏaTV502, lòbạc8phùvăn/3chân. HoaChiở2ngóntayphải, khônghoa mọc; đãsửaprop: linhdịchđổlọtrắngriêng, CTBláxanhchỉngưnglụcdịch. Rễnâuvàngchưamọc, đậumẫuLôiTrạch/trúcbạcđúngkhu. HuyềnChỉđãcótheonguồn626,3câyKhổLạcHoa làKLT604. Kết3đenđan chưauống/chữakhẳngđịnhchữaSátsuy.
+
+
+### Model627 trước khi vẽ
+models/han-mat-xam-luc-y-thoi-khi-627.png: cùng CT603 chỉ mắt xám bạc cuối627 do Sát Suy chưa giải; thị nữ LY627 vô danh áo lục 17 tuổi kín đáo nét lão luyện búi tóc đen trâm ngọc xanh không robot. LongNgũ TEAL2sừngvàng tái543. Ba pháp khí: chủy thủ vàng gãy mũi/hình khôi phục, Đoạn Thì Hồ bình ngọc trắng nhỏ cổ ngắn bụng tròn, thước xanh thẳng dẹt không kiếm. Nhãn bottom Dã Hạc cốc trên board SAI: công xưởng Cảnh Dương ở Tụ Côn như nguồn627, không chuyển tới Hoa Chi/Dã Hạc. Nhãn Đoạn Đao chỉ tự sinh, dùng chủy thủ vàng trong truyện; vạch scale chỉ thiết kế không canon. Không vẽ chân thân Ngân Hồ/Công Thâu Thiên/Tô Lưu khi chỉ nhắc.
+
+
+## Chương 627 — Tìm phương pháp khác: hoàn thành 4 trang
+Nguồn: file CHUONG 627.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/627/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Mộtviênđầu hơn3năm, hai viêncòn lạithêm10năm; chỉgiảmsátkhítrongcơthểkhôngtrongtiênkhiếu, chưavượtSátSuy/chưaTháiẤt. TừcuốiđiềutrịmắtHanCT603xámbạc khôngmặtngườikhác. LongNgũTEAL2sừngvàng/VôThườnghồngảnh. CY612giữkhănnâu/hồngbào, thịnữLY627mớilưu17tuổiquầnaokín; chi bộTụCôn khôngDãHạc. NgânHồ/CôngThâuThiên/TôLưuchỉnhắc chưa vẽmặt. Kết chỉ chủythủquan sát, ĐoạnThìHồ vàthướcxanh dành628.
