@@ -1548,3 +1548,8 @@ Nguồn: file CHUONG 629.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 630 — Giằng co: hoàn thành 4 trang
 Nguồn: file CHUONG 630.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/630/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Lưu LMT630 mặt tím ma văn mũi ưng áo tím, KL630 nam tóc vàng hai long giác/vảy vàng chưa rõ tên. Lôi Thần Bộ đã chết hết sau huyết nhật. Bốn năm mươi chiến hạm kim sắc/cổ luân thần điểu/phiên hỏa hà giữ model630. Han chỉ nằm quan sát trong MT629. Cuối chương lôi điện trúng lưng KL630, chưa hóa rồng.
+
+
+## Chương 631 — Lợi thế: hoàn thành 4 trang
+Nguồn: file CHUONG 631.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/631/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- MC631 chỉ nhân ảnh ngân sắc không xác nhận dung mạo. KL630 chết ở trang3; không tái xuất sống. Ma Chủ cứu/chữa LMT, diệt TháiẤt địch, phá thông đạo; chỉ thị giết ba thành giữ số còn lại đến TuLaĐảo. Han nằm MT629 giấu thần hồn, cuối mở mắt sau khi MaChủ rời.

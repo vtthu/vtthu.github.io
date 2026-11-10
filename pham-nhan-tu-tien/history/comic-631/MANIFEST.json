@@ -1,0 +1,41 @@
+{
+  "chapter": 631,
+  "title": "Lợi thế",
+  "images": [
+    "/tmp/comic-batch-624-634/a4-631/trang-01.png",
+    "/tmp/comic-batch-624-634/a4-631/trang-02.png",
+    "/tmp/comic-batch-624-634/a4-631/trang-03.png",
+    "/tmp/comic-batch-624-634/a4-631/trang-04.png"
+  ],
+  "models": [
+    "luc-ma-tu-kim-long-chien-ham-630.png",
+    "ma-chu-ngan-sac-nhan-anh-631.png",
+    "ma-toc-nhap-hon-thien-ma-quan-629.png"
+  ],
+  "summary": "Lực Ma Tử bị kim long áp đảo, Ma Chủ ra tay cứu viện, diệt kim long và phá thông đạo Thiên Đình. Ma quân đảo ngược thế trận nhưng giữ phần lớn tù binh để đàm phán.",
+  "notes": "- MC631 chỉ nhân ảnh ngân sắc không xác nhận dung mạo. KL630 chết ở trang3; không tái xuất sống. Ma Chủ cứu/chữa LMT, diệt TháiẤt địch, phá thông đạo; chỉ thị giết ba thành giữ số còn lại đến TuLaĐảo. Han nằm MT629 giấu thần hồn, cuối mở mắt sau khi MaChủ rời.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-624-634/631p1-fixed.png",
+    "/tmp/comic-generated-624-634/631p2.png",
+    "/tmp/comic-generated-624-634/631p3.png",
+    "/tmp/comic-generated-624-634/631p4-fixed.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
