@@ -1343,3 +1343,8 @@ Nguồn: file CHUONG 627.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 628 — Thử nghiệm: hoàn thành 4 trang
 Nguồn: file CHUONG 628.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/628/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Ba pháp khí bị tiêu hủy, tinh ti tăng 18→26. Vòng vàng nhỏ không mắt khác Bảo Luân lớn có mắt. Chỉ thần hồn qua tinh bích; nhục thân vẫn ở động phủ. Cuối chương chỉ quan sát, chưa chọn giọt nước.
+
+
+## Chương 629 — Thiên Ma đấu: hoàn thành 4 trang
+Nguồn: file CHUONG 629.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/629/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- MT629 thân xác nhập hồn khác mặt CT603; nhục thân Han vẫn ở động phủ hiện tại. Pháp tướng ba đầu sáu tay vô danh không xác nhận là Thạch Xuyên Không. TTCM629 gần vạn trượng, LTB629 gần ngàn trượng; model quân chủng dùng chung. Hỏa nhân che mặt, Lực Ma Tử chỉ giọng trong mây; cuối chương chưa nổ huyết châu.

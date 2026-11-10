@@ -65,6 +65,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 629: Thiên Ma đấu](chapters/629/): 4 trang, hoàn thành; [PDF A4](chapters/629/chuong-629.pdf)
+
 - [Chương 628: Thử nghiệm](chapters/628/): 4 trang, hoàn thành; [PDF A4](chapters/628/chuong-628.pdf)
 
 - [Chương 627: Tìm phương pháp khác](chapters/627/): 4 trang, hoàn thành; [PDF A4](chapters/627/chuong-627.pdf)

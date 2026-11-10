@@ -1,0 +1,41 @@
+{
+  "chapter": 629,
+  "title": "Thiên Ma đấu",
+  "images": [
+    "/tmp/comic-batch-624-634/a4-629/trang-01.png",
+    "/tmp/comic-batch-624-634/a4-629/trang-02.png",
+    "/tmp/comic-batch-624-634/a4-629/trang-03.png",
+    "/tmp/comic-batch-624-634/a4-629/trang-04.png"
+  ],
+  "models": [
+    "ma-toc-nhap-hon-thien-ma-quan-629.png",
+    "thai-thac-cu-ma-loi-than-bo-629.png",
+    "han-mat-xam-luc-y-thoi-khi-627.png"
+  ],
+  "summary": "Thần hồn Hàn Lập nhập vào thi thể ma tộc giữa đại chiến với Thiên Đình, chứng kiến Thái Thạc Cự Ma và Lôi Thần Bộ giao chiến cùng một cạm bẫy huyết châu.",
+  "notes": "- MT629 thân xác nhập hồn khác mặt CT603; nhục thân Han vẫn ở động phủ hiện tại. Pháp tướng ba đầu sáu tay vô danh không xác nhận là Thạch Xuyên Không. TTCM629 gần vạn trượng, LTB629 gần ngàn trượng; model quân chủng dùng chung. Hỏa nhân che mặt, Lực Ma Tử chỉ giọng trong mây; cuối chương chưa nổ huyết châu.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-624-634/629p1.png",
+    "/tmp/comic-generated-624-634/629p2.png",
+    "/tmp/comic-generated-624-634/629p3.png",
+    "/tmp/comic-generated-624-634/629p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
