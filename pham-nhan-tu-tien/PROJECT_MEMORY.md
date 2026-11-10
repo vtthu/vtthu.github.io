@@ -1363,3 +1363,8 @@ Nguồn: file CHUONG 631.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 632 — Ma vực: hoàn thành 4 trang
 Nguồn: file CHUONG 632.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/632/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - MT629 xác nhận tên U Ngạo, TháiẤt hậu kỳ thuộc QuảngNguyênTrai; giữ nguyên model. Bản đồ/tàng thư/cân/rune là minh họa suy nghĩ không phải địa đồ hay đạo cụ canon. MộngMô chỉ mô tả năng lực không tự thêm ngoại hình. TửLinh/NamCungUyển/LamDĩnh chỉ nhắc không xuất hiện ảnh. CửuUMaĐồng chưa luyện; cuối rời U Ngạo chưa tỉnh động phủ.
+
+
+## Chương 633 — Luyện đồng: hoàn thành 4 trang
+Nguồn: file CHUONG 633.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/633/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Giữ Han CT603 mắt xámbạc, MQhost588hắcbào, CV625 cơkhíđồng. HoaChi tăngtrận bỏ1trungphẩmTiênNguyênThạch nởTịnhĐếLiên bảođảmlin hkhítrămnăm. Lưu biếnthểHan luyệnđồng633/634 cùngmặtáo, vảytímvàng trongluyệncông, mắtBLUElúctẩyrửa. Cuốichươngmớitẩyrửa giơngóntay, chưahấpthụhắckhí/chưasơthành634.

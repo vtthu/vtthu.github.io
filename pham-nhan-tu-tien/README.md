@@ -65,6 +65,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 633: Luyện đồng](chapters/633/): 4 trang, hoàn thành; [PDF A4](chapters/633/chuong-633.pdf)
+
 - [Chương 632: Ma vực](chapters/632/): 4 trang, hoàn thành; [PDF A4](chapters/632/chuong-632.pdf)
 
 - [Chương 631: Lợi thế](chapters/631/): 4 trang, hoàn thành; [PDF A4](chapters/631/chuong-631.pdf)

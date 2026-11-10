@@ -1,0 +1,44 @@
+{
+  "chapter": 633,
+  "title": "Luyện đồng",
+  "images": [
+    "/tmp/comic-batch-624-634/a4-633/trang-01.png",
+    "/tmp/comic-batch-624-634/a4-633/trang-02.png",
+    "/tmp/comic-batch-624-634/a4-633/trang-03.png",
+    "/tmp/comic-batch-624-634/a4-633/trang-04.png"
+  ],
+  "models": [
+    "han-lap-cuu-u-ma-dong-633-634.png",
+    "han-mat-xam-luc-y-thoi-khi-627.png",
+    "ma-quang-ngan-diem-tuc-sat-626.png",
+    "cu-vien-duoc-vien-nhi-chi-625.png",
+    "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Hàn Lập trở về, chuẩn bị linh dược luyện đồng, củng cố linh khí Hoa Chi bằng trận pháp và Tịnh Đế Liên. Sau hơn ba mươi năm, hắn bắt đầu tẩy rửa hai mắt bằng nước thuốc.",
+  "notes": "- Giữ Han CT603 mắt xámbạc, MQhost588hắcbào, CV625 cơkhíđồng. HoaChi tăngtrận bỏ1trungphẩmTiênNguyênThạch nởTịnhĐếLiên bảođảmlin hkhítrămnăm. Lưu biếnthểHan luyệnđồng633/634 cùngmặtáo, vảytímvàng trongluyệncông, mắtBLUElúctẩyrửa. Cuốichươngmớitẩyrửa giơngóntay, chưahấpthụhắckhí/chưasơthành634.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-624-634/633p1.png",
+    "/tmp/comic-generated-624-634/633p2.png",
+    "/tmp/comic-generated-624-634/633p3.png",
+    "/tmp/comic-generated-624-634/633p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
