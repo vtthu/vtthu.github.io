@@ -65,6 +65,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 632: Ma vực](chapters/632/): 4 trang, hoàn thành; [PDF A4](chapters/632/chuong-632.pdf)
+
 - [Chương 631: Lợi thế](chapters/631/): 4 trang, hoàn thành; [PDF A4](chapters/631/chuong-631.pdf)
 
 - [Chương 630: Giằng co](chapters/630/): 4 trang, hoàn thành; [PDF A4](chapters/630/chuong-630.pdf)

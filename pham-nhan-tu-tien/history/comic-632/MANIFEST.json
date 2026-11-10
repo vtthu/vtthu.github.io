@@ -1,0 +1,40 @@
+{
+  "chapter": 632,
+  "title": "Ma vực",
+  "images": [
+    "/tmp/comic-batch-624-634/a4-632/trang-01.png",
+    "/tmp/comic-batch-624-634/a4-632/trang-02.png",
+    "/tmp/comic-batch-624-634/a4-632/trang-03.png",
+    "/tmp/comic-batch-624-634/a4-632/trang-04.png"
+  ],
+  "models": [
+    "ma-toc-nhap-hon-thien-ma-quan-629.png",
+    "luc-ma-tu-kim-long-chien-ham-630.png"
+  ],
+  "summary": "Ký ức thi thể hé lộ thân phận U Ngạo, tình thế Ma Vực, Quảng Nguyên Trai và phương pháp nhờ Mộng Mô trừ sát khí. Hàn Lập ghi nhớ Cửu U Ma Đồng trước khi thần hồn bị kéo về.",
+  "notes": "- MT629 xác nhận tên U Ngạo, TháiẤt hậu kỳ thuộc QuảngNguyênTrai; giữ nguyên model. Bản đồ/tàng thư/cân/rune là minh họa suy nghĩ không phải địa đồ hay đạo cụ canon. MộngMô chỉ mô tả năng lực không tự thêm ngoại hình. TửLinh/NamCungUyển/LamDĩnh chỉ nhắc không xuất hiện ảnh. CửuUMaĐồng chưa luyện; cuối rời U Ngạo chưa tỉnh động phủ.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-624-634/632p1-fixed.png",
+    "/tmp/comic-generated-624-634/632p2.png",
+    "/tmp/comic-generated-624-634/632p3.png",
+    "/tmp/comic-generated-624-634/632p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

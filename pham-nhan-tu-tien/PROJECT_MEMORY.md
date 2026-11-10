@@ -1358,3 +1358,8 @@ Nguồn: file CHUONG 630.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 631 — Lợi thế: hoàn thành 4 trang
 Nguồn: file CHUONG 631.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/631/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - MC631 chỉ nhân ảnh ngân sắc không xác nhận dung mạo. KL630 chết ở trang3; không tái xuất sống. Ma Chủ cứu/chữa LMT, diệt TháiẤt địch, phá thông đạo; chỉ thị giết ba thành giữ số còn lại đến TuLaĐảo. Han nằm MT629 giấu thần hồn, cuối mở mắt sau khi MaChủ rời.
+
+
+## Chương 632 — Ma vực: hoàn thành 4 trang
+Nguồn: file CHUONG 632.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/632/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- MT629 xác nhận tên U Ngạo, TháiẤt hậu kỳ thuộc QuảngNguyênTrai; giữ nguyên model. Bản đồ/tàng thư/cân/rune là minh họa suy nghĩ không phải địa đồ hay đạo cụ canon. MộngMô chỉ mô tả năng lực không tự thêm ngoại hình. TửLinh/NamCungUyển/LamDĩnh chỉ nhắc không xuất hiện ảnh. CửuUMaĐồng chưa luyện; cuối rời U Ngạo chưa tỉnh động phủ.
