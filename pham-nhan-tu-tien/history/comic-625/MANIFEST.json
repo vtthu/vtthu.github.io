@@ -1,0 +1,43 @@
+{
+  "chapter": 625,
+  "title": "Nhị Chỉ Thiền",
+  "images": [
+    "/tmp/comic-batch-624-634/a4-625/trang-01.png",
+    "/tmp/comic-batch-624-634/a4-625/trang-02.png",
+    "/tmp/comic-batch-624-634/a4-625/trang-03.png",
+    "/tmp/comic-batch-624-634/a4-625/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+    "cu-vien-duoc-vien-nhi-chi-625.png",
+    "dao-binh-dong-phu-da-hac-605.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Hai người thu tài vật trong lầu tử trúc và dựng dược viên. Sau hơn ba mươi năm, Hàn Lập luyện Hoa Chi vào hai ngón tay, thử sức phòng ngự rồi quay lại chăm linh dược.",
+  "notes": "- GiữCT603/GDN01hoàngbào. LôiBộChínhPháp doGiảichọn;3tủtáchlinhtài/côngpháp/phápbảohỏng, túixámnhiềunguyênthạchtrungphẩm. CV625laotác đồngsẫm mới lưu trước dùng. Đấtmới dựkiếntrămnăm tẩmbổ, chưa tựtăngdượclinh. HoaChinhập NGÓNTRỎ+GIỮATAYPHẢI sauhơn30năm, khôngngọccốtrờibênngoàitừđây; cửaHoaChidờivịtríđược, khôngđóngkhiHantrongđộngthiên. Sét thửkiếm ởrừngngoàiPhùVân, khôngphádượcviên. KimĐồngchỉnhắc.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-624-634/625p1.png",
+    "/tmp/comic-generated-624-634/625p2.png",
+    "/tmp/comic-generated-624-634/625p3.png",
+    "/tmp/comic-generated-624-634/625p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

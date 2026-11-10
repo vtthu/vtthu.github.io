@@ -1311,3 +1311,12 @@ models/giai-dao-nhan-hoa-chi-bat-nguyen-624.png tái dùng GDN-01 đúng mặt v
 ## Chương 624 — Hoa Chi: hoàn thành 4 trang
 Nguồn: file CHUONG 624.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/624/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Giữ HanCT603 sạch râu TEAL/trâm xanh; GiảiGDN01 hoàngbào mặtkimloại không tóc/ngườithật. MaQuang bếquan khôngxuấtmặt. HoaChi HC624 xươngđuôiphỉthúy hóa trắngbạc hoavănhoa; BátNguyênThược chỉchếsauđủvậtliệu hơn2tháng. Kết624 mớibắtđầugiảicấm lầu, chưavàomởtủ625. Độngthiên đồngcỏ/bíchchướng/rừngđườngxương/tửtrúc/hồsen/cầuc ong/lầu2tầng thốngnhất.
+
+
+### Model trước chương625
+models/cu-vien-duoc-vien-nhi-chi-625.png: CV625 khôi lỗi cựviên laotác đồngsẫm/khớptối/mắtlam, cảđộiđồngnhất khôngphảiHàncựviênhayGDN. Dượcviênchữnhật mới ven tửtrúc,2thùnglinhdịch. Từcuối625sauhơn30năm HoaChi nhập xương NGÓNTRỎ+GIỮA TAYPHẢI trắngngọc hoa bạc; khôngcònđoạnxươngrời hiệnngoài. Trướcđó vẫn HC624. Ngọcnguyênthạchtrungphẩmtrongtúixám; kiếmtrắngnứtdàitớimũi; LôiBộChínhPháp sáchcũ doGiảichọn. Nhãn trêntấmbảng khônglàlời thoại.
+
+
+## Chương 625 — Nhị Chỉ Thiền: hoàn thành 4 trang
+Nguồn: file CHUONG 625.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/625/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- GiữCT603/GDN01hoàngbào. LôiBộChínhPháp doGiảichọn;3tủtáchlinhtài/côngpháp/phápbảohỏng, túixámnhiềunguyênthạchtrungphẩm. CV625laotác đồngsẫm mới lưu trước dùng. Đấtmới dựkiếntrămnăm tẩmbổ, chưa tựtăngdượclinh. HoaChinhập NGÓNTRỎ+GIỮATAYPHẢI sauhơn30năm, khôngngọccốtrờibênngoàitừđây; cửaHoaChidờivịtríđược, khôngđóngkhiHantrongđộngthiên. Sét thửkiếm ởrừngngoàiPhùVân, khôngphádượcviên. KimĐồngchỉnhắc.
