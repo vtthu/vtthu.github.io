@@ -1,0 +1,41 @@
+{
+  "chapter": 630,
+  "title": "Giằng co",
+  "images": [
+    "/tmp/comic-batch-624-634/a4-630/trang-01.png",
+    "/tmp/comic-batch-624-634/a4-630/trang-02.png",
+    "/tmp/comic-batch-624-634/a4-630/trang-03.png",
+    "/tmp/comic-batch-624-634/a4-630/trang-04.png"
+  ],
+  "models": [
+    "luc-ma-tu-kim-long-chien-ham-630.png",
+    "ma-toc-nhap-hon-thien-ma-quan-629.png",
+    "thai-thac-cu-ma-loi-than-bo-629.png"
+  ],
+  "summary": "Huyết châu hủy diệt Lôi Thần Bộ. Thiên Đình đưa chiến hạm ép Ma Vực liên thủ chống Luân Hồi Điện; Lực Ma Tử phản kích bằng cổ luân lôi điện.",
+  "notes": "- Lưu LMT630 mặt tím ma văn mũi ưng áo tím, KL630 nam tóc vàng hai long giác/vảy vàng chưa rõ tên. Lôi Thần Bộ đã chết hết sau huyết nhật. Bốn năm mươi chiến hạm kim sắc/cổ luân thần điểu/phiên hỏa hà giữ model630. Han chỉ nằm quan sát trong MT629. Cuối chương lôi điện trúng lưng KL630, chưa hóa rồng.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-624-634/630p1.png",
+    "/tmp/comic-generated-624-634/630p2.png",
+    "/tmp/comic-generated-624-634/630p3.png",
+    "/tmp/comic-generated-624-634/630p4-fixed.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

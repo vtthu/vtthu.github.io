@@ -1543,3 +1543,8 @@ Nguồn: file CHUONG 628.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 629 — Thiên Ma đấu: hoàn thành 4 trang
 Nguồn: file CHUONG 629.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/629/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - MT629 thân xác nhập hồn khác mặt CT603; nhục thân Han vẫn ở động phủ hiện tại. Pháp tướng ba đầu sáu tay vô danh không xác nhận là Thạch Xuyên Không. TTCM629 gần vạn trượng, LTB629 gần ngàn trượng; model quân chủng dùng chung. Hỏa nhân che mặt, Lực Ma Tử chỉ giọng trong mây; cuối chương chưa nổ huyết châu.
+
+
+## Chương 630 — Giằng co: hoàn thành 4 trang
+Nguồn: file CHUONG 630.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/630/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Lưu LMT630 mặt tím ma văn mũi ưng áo tím, KL630 nam tóc vàng hai long giác/vảy vàng chưa rõ tên. Lôi Thần Bộ đã chết hết sau huyết nhật. Bốn năm mươi chiến hạm kim sắc/cổ luân thần điểu/phiên hỏa hà giữ model630. Han chỉ nằm quan sát trong MT629. Cuối chương lôi điện trúng lưng KL630, chưa hóa rồng.
