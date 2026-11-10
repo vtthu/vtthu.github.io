@@ -1,0 +1,42 @@
+{
+  "chapter": 628,
+  "title": "Thử nghiệm",
+  "images": [
+    "/tmp/comic-batch-624-634/a4-628/trang-01.png",
+    "/tmp/comic-batch-624-634/a4-628/trang-02.png",
+    "/tmp/comic-batch-624-634/a4-628/trang-03.png",
+    "/tmp/comic-batch-624-634/a4-628/trang-04.png"
+  ],
+  "models": [
+    "han-mat-xam-luc-y-thoi-khi-627.png",
+    "huyen-vu-tam-phap-binh-linh-606.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+    "luc-nhan-giap-giam-sat-tien-su-607.png"
+  ],
+  "summary": "Hàn Lập thử ba pháp khí thời gian, tái tạo vòng vàng và chủ động thúc giục Chưởng Thiên Bình. Tám tinh ti mới xuất hiện; thần hồn lại tới dòng sông vạn cảnh.",
+  "notes": "- Ba pháp khí bị tiêu hủy, tinh ti tăng 18→26. Vòng vàng nhỏ không mắt khác Bảo Luân lớn có mắt. Chỉ thần hồn qua tinh bích; nhục thân vẫn ở động phủ. Cuối chương chỉ quan sát, chưa chọn giọt nước.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-624-634/628p1-fixed.png",
+    "/tmp/comic-generated-624-634/628p2.png",
+    "/tmp/comic-generated-624-634/628p3-fixed.png",
+    "/tmp/comic-generated-624-634/628p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

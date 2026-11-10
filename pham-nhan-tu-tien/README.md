@@ -65,6 +65,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 628: Thử nghiệm](chapters/628/): 4 trang, hoàn thành; [PDF A4](chapters/628/chuong-628.pdf)
+
 - [Chương 627: Tìm phương pháp khác](chapters/627/): 4 trang, hoàn thành; [PDF A4](chapters/627/chuong-627.pdf)
 
 - [Chương 626: Sắp xếp](chapters/626/): 4 trang, hoàn thành; [PDF A4](chapters/626/chuong-626.pdf)

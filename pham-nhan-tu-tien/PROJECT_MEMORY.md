@@ -1338,3 +1338,8 @@ models/han-mat-xam-luc-y-thoi-khi-627.png: cùng CT603 chỉ mắt xám bạc cu
 ## Chương 627 — Tìm phương pháp khác: hoàn thành 4 trang
 Nguồn: file CHUONG 627.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/627/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Mộtviênđầu hơn3năm, hai viêncòn lạithêm10năm; chỉgiảmsátkhítrongcơthểkhôngtrongtiênkhiếu, chưavượtSátSuy/chưaTháiẤt. TừcuốiđiềutrịmắtHanCT603xámbạc khôngmặtngườikhác. LongNgũTEAL2sừngvàng/VôThườnghồngảnh. CY612giữkhănnâu/hồngbào, thịnữLY627mớilưu17tuổiquầnaokín; chi bộTụCôn khôngDãHạc. NgânHồ/CôngThâuThiên/TôLưuchỉnhắc chưa vẽmặt. Kết chỉ chủythủquan sát, ĐoạnThìHồ vàthướcxanh dành628.
+
+
+## Chương 628 — Thử nghiệm: hoàn thành 4 trang
+Nguồn: file CHUONG 628.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/628/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Ba pháp khí bị tiêu hủy, tinh ti tăng 18→26. Vòng vàng nhỏ không mắt khác Bảo Luân lớn có mắt. Chỉ thần hồn qua tinh bích; nhục thân vẫn ở động phủ. Cuối chương chỉ quan sát, chưa chọn giọt nước.
