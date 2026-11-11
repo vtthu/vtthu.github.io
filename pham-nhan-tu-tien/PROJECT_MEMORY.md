@@ -1485,3 +1485,36 @@ Nguồn: file CHUONG 661.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 662 — Mồi nhử: hoàn thành 4 trang
 Nguồn: file CHUONG 662.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/662/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - PK634 Nguyên Phong=Phong Khánh Nguyên đã chết, xác khô đen nâu bọc áo đỏ bên cầu thang và ô đỏ bị hủy; không tái xuất sống. Người cá hai tay hai chân bàn chân có màng vảy tinh thể lam, chưa rõ lai lịch; khôi lỗi vàng đúng tám tay đã hủy lõi. Phong Lâm giữ MP655 áo tím mạng trắng, mắt tím tinh điểm Cửu U cao hơn Han. Nhâm Hào giữ DK653 mặt vuông áo lam giáp đen, kiếm bản lớn sáng lam. Hắc môn cao hơn mười trượng rộng tổng hai-ba trượng (nhãn model mỗi cánh sai không làm nguyên tác), hai quỷ diện hai vòng khuyên hai tay đỏ kéo mở. Cuối662 người cá còn sống, khiên/sáo chưa lấy, thi thể đầu lớn nguyên vẹn; Han xuất ba Thanh Trúc Phong Vân Kiếm. MQ đã về Hoa Chi, không có mặt. Han CT603 Kim Tiên đỉnh phong chưa giải Sát suy.
+
+
+## Hoàn thành đợt 652–662
+11 chương theo thứ tự, mỗi chương4 trang A4;44 PNG,11 PDF; commit/push riêng từng chương. Mục lục production/652-662/README.md. Không đánh dấu635–651 hoàn thành.
+
+
+Mỗi chương4–5 trang A4 dọc; đợt này4 trang/chương. Một PNG là một trang. Phong cách tiên hiệp bán hiện thực3D, nhiều khung, thoại, suy nghĩ, lời dẫn tiếng Việt. Dùng PNG model trực tiếp, lưu model mới trước lần đầu xuất hiện. Nhãn tự phát trên model không thêm dữ kiện nguyên tác.
+
+Hàn giữ CT603 trung niên sạch râu tóc đen trâm ngọc xanh áo TEAL trúc vàng, không ghi đè HL-01 V2. Tên Lệ Giang Lưu chỉ là bí danh. Kích hoạt Cửu U Ma Đồng mắt tím. Chưa tự nâng Thái Ất hoặc chữa Sát suy. Tay phải ngón trỏ và giữa trắng ngọc hoa bạc khắc chìm, không mọc hoa thật. Sau660 áo rách. Bảo Luân có mắt vàng lớn; không lấy giáp606 chỉ vì dùng bảng tham chiếu Bảo Luân.
+
+Hồ Tam HT652 tóc đen râu nhỏ bạch bào; TXK652 tóc bạc áo tím; Nhiệt Hỏa NH603 già tóc râu trắng áo lam lửa. Xi Dung XD652 tóc đỏ sừng tê giác vòng tai vàng; Công Thâu Thiên CTT652 khác Công Thâu Cửu. Phong Khánh Nguyên PK634 nam trẻ áo choàng đỏ ô đỏ sẫm, bí danh Nguyên Phong; chết662. Đại kiếm sĩ DK653 tự giới thiệu Nhâm Hào658 (nguồn659 có biến thể Nhậm); giữ mặt vuông áo choàng lam giáp đen kiếm bản lớn, phát ánh lam662. Ma nữ MP655 tự xưng Phong Lâm658, áo tím tóc đen trâm hoa bạc mạng trắng che mũi miệng; mắt tím tinh điểm662, không tự gán danh tính khác. Ma Quang giữ MQ-HT588 mặt xám hắc bào; không dùng da đen MQ01.
+
+Tinh kỳ vàng thời gian thuộc Han, bạc không gian thuộc TXK. Ngân Nguyệt 空 là hai mặt MỘT lệnh bài, không phải hai món. Sư tử đá TXK cao ba thước, không theo nhãn model tự ghi ba mét. Pháp tướng không phải nhân vật sống mới. Gậy/cung/giáp tạm không thay model mặt.
+
+Thủy Diễn Cung là hải lam tinh thạch trên quảng trường, không dưới biển. Tam Thủy Tháp đúng ba tầng, tầng một bát giác, hỏa diễm là huyễn cảnh; tầng hai băng thật, Thi Mị là vật âm sát không máu đỏ; tầng ba thư phòng đổ nát và hồ nước. Tượng đầu lớn657 đổ khác tượng đỉnh núi659 đứng nguyên. Năm lối rẽ theo thứ tự Đệ Tử Bãi, Tam Thủy Tháp, Ngũ Linh Các, Thừa Thiên Điện, Thiên Dược Cốc.
+
+Địa Hồn Yêu657–658 là quỷ vật lông đen sừng đỏ, trùm có huyết văn; cánh đỏ chỉ hiện658. Hạch đen cho MQ, không phải máu. Thi Mị ban đầu659 là bóng giống Han; lộ thật660 da lam tím mắt trắng áo rách. Sát thai bảy lỗ ở giao ngực bụng, không đầu/tim/đan điền; MQ diệt661. Đồng thi đầu lớn661 là thi thể hình đồng tử được bảo tồn, không đồng kim loại; thân dưới năm THƯỚC, nhãn trượng trên model sai. Cửa đen662 rộng tổng2–3trượng, không dùng nhãn mỗi cánh trên model. Người cá hai tay hai chân màng vảy lam, khôi lỗi vàng đúng tám tay, không tự gán lai lịch. Khiên vuông lam và sáo lam có7–8lá trúc chưa nhận chủ.
+
+Cuối662: Hàn CT603 áo teal rách, trâm ngọc xanh; Kim Tiên đỉnh phong, chưa giải Sát suy. Cùng Nhâm Hào DK653 áo lam giáp đen và Phong Lâm MP655 áo tím mạng trắng liên thủ đánh người cá trong hồ tầng ba Tam Thủy Tháp. Phong Lâm kích hoạt Cửu U Ma Đồng tinh điểm tím; chưa rõ lai lịch người cá. Nguyên Phong (Phong Khánh Nguyên PK634) đã chết, ô đỏ bị hủy. Người cá còn sống; khiên vuông lam, sáo lam đính lá trúc chưa ai lấy; thi thể đầu lớn nguyên vẹn, chưa rõ danh tính. Chưa xác nhận Quang Âm Chi Thủy. Hắc môn mở phóng hắc quang, Nhâm Hào dùng kiếm lớn lam, Han phóng đúng ba Thanh Trúc Phong Vân Kiếm; chưa có kết quả giao chiến. Thi Mị đã bị Ma Quang diệt661, MQ-HT588 hắc bào đã về trúc lâu tím Hoa Chi, tu vi Thái Ất ổn định theo656. Hồ Tam/Nhiệt Hỏa/Thạch Xuyên Không thất lạc sau655, không tự ghép về tổ đội. Tinh kỳ vàng thời gian Han cất hồ lô xanh; tinh kỳ bạc không gian TXK đã lấy. Không bổ sung diễn biến635–651.
+
+Model mới đã lưu trước dùng:
+- models/bich-xa-dich-bao-ngan-nguyet-653.png
+- models/dong-thi-sat-thai-lam-bao-661.png
+- models/ho-tam-thach-xuyen-khong-nhiet-hoa-652.png
+- models/kim-khoa-nhi-chi-tinh-hach-658.png
+- models/ma-toc-tam-nhan-tran-ban-655.png
+- models/nguoi-ca-khoi-loi-tam-ty-662.png
+- models/pha-cam-phap-tuong-tinh-ky-654.png
+- models/phong-lam-ma-dong-hac-mon-662.png
+- models/tam-thuy-thap-thi-mi-659-660.png
+- models/thuy-dien-cung-dia-hon-vien-657.png
+- models/to-luu-trieu-chan-luc-ngo-luong-653.png
+- models/xi-dung-cong-thau-vuong-phong-652.png

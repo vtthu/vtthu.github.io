@@ -1,0 +1,560 @@
+[
+  {
+    "chapter": 652,
+    "title": "Chữa trị",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "8cb5586c124c5e3f3f23d1039f42931ea1813070",
+    "source_bytes": 14888,
+    "source_sha256": "cddeb1d3b0a47c276b8e7948a3a54033371587e308693d83b4e76d41df2ee6b8",
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "xi-dung-cong-thau-vuong-phong-652.png",
+      "phong-khanh-nguyen-da-hac-tuyet-634.png"
+    ],
+    "continuity_notes": "- HanCT603/NH603 giữảnhgốc; HT652/TXK652/CTT652/VHS652/XD652 lưu modelmới trước vẽ; PK634giữnguyên. Chỉ bốn người chính, HồTamkhổnglồkhôngcóbảnsaonhỏ. Đôithạchsư3thướckhông3m; trậncó11cột7nguyên1nửacònlasụp. HồTamtrảtrungphẩm, truyềnxonglionsnguyênvẹn/phầnlớntrậnkỳcòn. Chưaphácấm cổng; XiDungởđầm khác. Khôngđánh635–651hoànthành.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "7633d8d5cd522bdb5290591c456ac6aa7543c49b88c5929e5183287871a71b50"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d0d8e018bc181cea818e1cc6745f082490cf9bed99c61b89d9405b967eb88ce2"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "516ed6882ee2a121403a56ed09f44038e4f81caab92437b7d50e2df1c07d31a1"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "4949222faedcf9709336ab4d3f0c2d6ba4c8b61756ab9ff454f4fb005483bfe3"
+      }
+    ]
+  },
+  {
+    "chapter": 653,
+    "title": "Rục rịch",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "b3b662b99164fc279f1f9b326bd1beadb74fcd57",
+    "source_bytes": 14535,
+    "source_sha256": "6547783c86e2c600927675d3d4f8f13c02a09a35450754af691ba4d9a3f1aa01",
+    "models": [
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "xi-dung-cong-thau-vuong-phong-652.png",
+      "to-luu-trieu-chan-luc-ngo-luong-653.png",
+      "bich-xa-dich-bao-ngan-nguyet-653.png",
+      "han-lap-le-dao-huu-cai-trang-603.png"
+    ],
+    "continuity_notes": "- Bốnnhómriêng khôngtrộnquân. TL/TZ/HY/LNL vàBX/DK/DL653lưuPNGtrướcdùng; HYchưatênchỉthànhchủ; DịchBào2namvôdanh. DK1kiếmlớn. LệnhbàiTXK là1vậthai mặtngânnguyệt/chữKhông không2vật. Lớpkhônggianbịđánhtan tạmthờichưavỡtoànbộcổng; cuối653gọi3ngườira tay654. Khôngthêmbíthuậtcôngthứctừnguyênbản.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c738ef5ff17b980c24424ea84266e81b969ca35c0c7a3820715179a954868730"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f744bf5e67db77a391e4dc9a95559ee827cbef901a327c55d4a63219d964a18a"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c53c2fca34601b382fe14bfa25318497a14ddb4935e9ab74c711996ed985fbb9"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "642415d4bb23a8ef3ce81cd00f9eb81e2f82d15aae006310373c020b59fbaa3c"
+      }
+    ]
+  },
+  {
+    "chapter": 654,
+    "title": "Ra tay trước",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "93ca1c9178922a073a208c760eb2269c9317ec04",
+    "source_bytes": 15513,
+    "source_sha256": "dc299e1069cfcffcaa10a34fa3a1729fe85cc359a449d2b8824cf9943e9d162f",
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "pha-cam-phap-tuong-tinh-ky-654.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- 9kiếmxanhhợp1/thu9, hồlôhai bầukhôngChưởngThiênBình. HT5phânthân→1khổnglồbónghồlybạc; NHhỏađếlàpháptướngkhôngngườimới; TXK3đầu6taycung2đầurồng. CờVÀNGHanthu tronghồlô, BẠCTXK. Cuốicòntạisơnmônchưachui655; NHhỏaảnhchưathuvìnguồn655mớithu. HanCT603 cùngmặtmắttímkhidùngCửuU khôngtựnângcảnhgiới.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b6c5497a3d8a7eb3a3a327ad9a0b2d95624fe0fa45fddacd6ec9cb260a621d47"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "8864c1e535b591b989dc08c6e31fcfe8c2f81ce229460168794a0345da3dd2ff"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "8a217cb5ac3183c9f0ab0c440f94a104f1bb89ebd8b2033297fe77677d772560"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "432ce302e3a60f70b3357636b6f129f487892355814ffead77c066c5c2846b2f"
+      }
+    ]
+  },
+  {
+    "chapter": 655,
+    "title": "Loạn lưu",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "025bcdf09a0bca92e5094db3c0a6f8d6e6d2e008",
+    "source_bytes": 15482,
+    "source_sha256": "abcddab597c2beaf2f79f981eabb7af3a5bcf7a7cae9a0cc46b3f1204ef81c9e",
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "ma-toc-tam-nhan-tran-ban-655.png"
+    ],
+    "continuity_notes": "- ML/MT/MP655 baMa tộcchưatêncùngáotím: lãotayxươngđen/thanhniêntóctímáolôngđỏ/thiếuphụkhăntrắng. TrướcvàolầnlượtHT,NH,Han,TXK; bítrậnthu tiểucầutím→cổnggọiba người, đợinửakhắc. Hanvàotrọngthânthểkhôngphảinhậphồn, màngtinhquangkhônggiápmới. Tinhkỳbạcquý1chiếccất, phướntrậnthườngkhôngnhâncờquý. Thầnthức300–400trượng/CửuU1000trượng, khaytímTXKkhônghồiâm; chưabiếtnhiệmvụchi tiết.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f734075bc2fd62661a923bb51d4234ff195294d71dbb8a66e0367e304641671d"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "07828d9894829cbb66d1275cd7689caf0b9ca3a7a6ea554d3376c1e7f90d0e81"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "92491be1fa4fd0f68ba6961107454d3495ed1837af575f7852d2576092781e87"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "302c8a8e8362629eca8d15da9b6999bb8795ad2c080d351c7023a14458e7ee64"
+      }
+    ]
+  },
+  {
+    "chapter": 656,
+    "title": "Tử thành",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "31c7d1c9a63bf1e3c3a7e45143354ba281b1c2fe",
+    "source_bytes": 14253,
+    "source_sha256": "c9f6892d80f27bef1a60aba70f3dce19f2fe44203be02c855d3324b8de6dc4e8",
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "pha-cam-phap-tuong-tinh-ky-654.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- MQchỉtruyềnâmHoaChiđãổnđịnhTháiẤtkhônghiệnthân; HanchưaTháiẤt/Sátsuychưagiải. Cờvàngnhậpphẩmđưavàothânluyệnhóa. Khứtthôntíakiếmkhívàlôivàng, cắtKIẾMĐỎthửnghiệmkhôngphảiThanhTrúcxanh; Hancất2đoạntránhđi. Khôngsinhvậtsống/khôngzombie, chỉxươngcũkhôngtrữvật. CuốitớiquảngtrườngchưabiếtThủyDiễnCung657.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "e6767c1944c8a1d7c95a447248edd526684be2243000a9db68ef97393a9147c9"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "0a769947570e787006d4b5f9987db553d44c8e38e8556e21835f53c663ab6583"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "1031bc456e2770e23f4f6b2141beadaeb1164745df47b8732c8af115fa7055d0"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "3e456ab7eaf7e02e030616315408acf20e3e4dd30d94ca20c4abebb894f3dcb9"
+      }
+    ]
+  },
+  {
+    "chapter": 657,
+    "title": "Kịch đấu Thủy Diễn Cung",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "5cd9b330d87ddfd374b82cf4de2cd10e81fab4cb",
+    "source_bytes": 14297,
+    "source_sha256": "93ce20e9c6d63b0121b563530028e1acc02dff0b18bc9a747210b7faa81e4341",
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "thuy-dien-cung-dia-hon-vien-657.png",
+      "bich-xa-dich-bao-ngan-nguyet-653.png",
+      "ma-toc-tam-nhan-tran-ban-655.png",
+      "xi-dung-cong-thau-vuong-phong-652.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- HanrẽPHẢI từ2hànhlangđen; tượngđálamđầuto100trượngchỉtượngkhôngtựđịnhdanhngười. DK653/MP655/PK634tái dùngmặtáođúng khôngBX/TXK. Bossđenhuyếtvăn cóphiênđenKHÔNGcánhtrước658; vếtthươngbàn tayhồiphụcbằngÂmsát. Hantạmẩn thân/khôngtựgiảicứuvìbảovậtkhôngcó. Cuối657phi kiếmđangchémchưadiệtboss/chưaxácđịnhĐịaHồnYêu.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "69af71e19c51f1240e29828de009b47a39384d2b93d110dc87f10496cca11114"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "ef0302d86d2670361292b291b0f7c81ca5c573052fa65a57cc7373a9cbae366d"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "e0e12c7ef03c2470679053d9301e9e33140ac23c0a9854aa2bfbf701ff30f6cf"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "31d569bb9ce8d697fd12130afde291df5ab3b14063640a86085d763bce1f2222"
+      }
+    ]
+  },
+  {
+    "chapter": 658,
+    "title": "Bốn người đi",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "9ee0516b7701f67dd5a1f3f7efea665f3cfbc9cd",
+    "source_bytes": 14699,
+    "source_sha256": "540ab459067cf3178de4ba8df39422d3e86b8fb0e964510cd929d8596a247536",
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "kim-khoa-nhi-chi-tinh-hach-658.png",
+      "thuy-dien-cung-dia-hon-vien-657.png",
+      "bich-xa-dich-bao-ngan-nguyet-653.png",
+      "ma-toc-tam-nhan-tran-ban-655.png",
+      "xi-dung-cong-thau-vuong-phong-652.png"
+    ],
+    "continuity_notes": "- BossphiênĐENbịxé, cánhquangđỏné/vaiTRÁIbịthươngkhôngmáu; 1kiếmthìra3hợp; khóaTAYPHẢI/kýKhóađôngcứng/tayPHẢI2ngónHoaChipointsSAUÓT; bỏkhóamớihóaquỷkhí/TinhhạchđenchoMQtrongHoaChi(khônghiệnthân). DK653xưngNhâmHào/MP655xưngPhongLâm/PK634giảNguyênPhong/HanCT603giảLệGiangLưu khôngđổi mặt. Ba ngườitừnhómgốckhácnaymớikết4, giữkhoảngcách. Cuốiđườngbạchngọc3ngườichưabiểulộnhậnraThờiGianpháptắc.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "329aa7fa73611d6b9a81eb8567a23c052a409d2e1b3f7e7027f30abad548215c"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "057eba065e44476a4bdd0f782da9fc6e5b522163c92cdce3ea81b757bd931b44"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "96862819fece3ccf237c444425bef92cb625b11e7ae44a8faee8c920a5fde282"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "cb87bcdcd533a1d7e302d69bd9a4cfe289ed09dde1183ac7a5b170be8df4b192"
+      }
+    ]
+  },
+  {
+    "chapter": 659,
+    "title": "Năm con đường",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "ab133ca3a2a6c4c20dc8b186bf97f16095c9867b",
+    "source_bytes": 13991,
+    "source_sha256": "c38daa46fcdf20a49dd0bada46f7162c8ab33131327eed62746bf47af10d7e7e",
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "tam-thuy-thap-thi-mi-659-660.png",
+      "bich-xa-dich-bao-ngan-nguyet-653.png",
+      "ma-toc-tam-nhan-tran-ban-655.png",
+      "xi-dung-cong-thau-vuong-phong-652.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- Đường1ĐệTửBãi2TamThủyTháp3NgũLinhCác4ThừaThiênĐiện5ThiênDượcCốc. Nham2/Han3/PK4/PL5banđầurồiHan→PK→PLlầnlượtlénvề2khônggặpnhau. Thápđúng3tầng tầng1bátgiác; lửatầng1huyễn tắtkhôngcháyhỏnggiàythật, lầu2băngthật. Tượngđỉnhnúinguyênvẹnkhácđổ657. CuốibóngdướibănggiốngHan/cườivàxuấtkích,chưaThimịlộthậtmặtchotới660. HanmặtmẫuCT603khôngbịthayvìcáibóng.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "02f3a21828b4c4ae24a557b05b347be81a83ee30cf851ccbc4d28fd8fddcce04"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "7afa9d2e9332a1364a38b480564323a8cc812f0293907748101a5f90f09be368"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c33d744f4bd7de72d44636fd6e02e080de648b442d6c4482154fae7912e72d49"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "07e2697f4c92e555d771ae49f9ef73abb459070ff60e9f24d84c4657d31da9ea"
+      }
+    ]
+  },
+  {
+    "chapter": 660,
+    "title": "Thi Mị",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "ae4d1097fc6ad773e7c00e2d4b39d2a8aebdaaad",
+    "source_bytes": 14819,
+    "source_sha256": "73ae652f21b17a20b687e1e64f4dede77a8bc0f46942730724647be026a4b11f",
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "tam-thuy-thap-thi-mi-659-660.png",
+      "huyen-vu-tam-phap-binh-linh-606.png"
+    ],
+    "continuity_notes": "- Thi Mị cuối chương còn sống, bị Bảo Luân định trụ. Bốn phân thân đã tan. Thi sát được ép ra, Cửu U Ma Đồng phục hồi. Hàn giữ CT603, áo teal bị rách; không đổi sang giáp606. Bảo Luân có mắt vàng ở tâm. Thi Mị không phải Hàn Lập.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "dcf411e26891f0e825006bfc57baed46261b9625a267570229676cfa2f3de24c"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "5d561b1546dd3d85f04fc3243b619f4c1fd7485a5e14e752ee9c2e2d7f8caca6"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "bb9c368396470da7383e3a74092be5c671d1d3b1eff6451196d87ccdaeaa4ef5"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "2f688d43198cf5be08e86d2d2b77921267d6392f67afc364df688e2267eb9daf"
+      }
+    ]
+  },
+  {
+    "chapter": 661,
+    "title": "Đồng thi đầu to",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "96d58c300798a9ba97560d69d462fc1a67514925",
+    "source_bytes": 13930,
+    "source_sha256": "c4b56544f337fc9dbf41430004f192e1923b9046c8732e40b1e459b5c50f6dd2",
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "ma-quang-ngan-diem-tuc-sat-626.png",
+      "dong-thi-sat-thai-lam-bao-661.png",
+      "bich-xa-dich-bao-ngan-nguyet-653.png",
+      "xi-dung-cong-thau-vuong-phong-652.png",
+      "kim-khoa-nhi-chi-tinh-hach-658.png"
+    ],
+    "continuity_notes": "- MQ giữ MQ-HT588 mặt xám hắc bào; sát thai đen bảy lỗ thành hạt tím nhỏ, MQ dùng và trở về lầu trúc tím. Thi Mị đã chết. Thi thể đầu lớn chưa rõ danh tính, thân dưới năm thước (model có nhãn trượng sai: không dùng nhãn này); chưa xác nhận Quang Âm Chi Thủy. Khiên vuông xanh và sáo lam có lá trúc chưa ai lấy. Nhâm Hào là DK653 giáp đen áo choàng lam; ẩn cột tây bắc. Han ẩn xà nhà. Nguyên Phong=Phong Khánh Nguyên PK634 đỏ, còn sống cuối661. Không đổi model Hàn CT603 do tên Lệ Giang Lưu.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "8d9be346dadbb951707c4fecc7a24d6ec9544095dca0469e55a522c27e8abbea"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "e721c38119b0f5675eb3d06e381be7584cc96570e3f3c8a50e22391b166aa359"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c7913b5df74cca1e9211e0b3db9971776a4e5d72940825a1d4091d5de9b3add4"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "934a4101ea93e97b356213d73abb447901b18a859067bd359cc68a9d22bc1535"
+      }
+    ]
+  },
+  {
+    "chapter": 662,
+    "title": "Mồi nhử",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "ac6484b14344729aa3c84b3d51955e7b0230d9ad",
+    "source_bytes": 15575,
+    "source_sha256": "b5d4256359942f35973ccc8d574ed4f77182034ea4347e2950ce3e78a56be06d",
+    "models": [
+      "han-lap-le-dao-huu-cai-trang-603.png",
+      "dong-thi-sat-thai-lam-bao-661.png",
+      "nguoi-ca-khoi-loi-tam-ty-662.png",
+      "phong-lam-ma-dong-hac-mon-662.png",
+      "bich-xa-dich-bao-ngan-nguyet-653.png",
+      "phong-khanh-nguyen-da-hac-tuyet-634.png"
+    ],
+    "continuity_notes": "- PK634 Nguyên Phong=Phong Khánh Nguyên đã chết, xác khô đen nâu bọc áo đỏ bên cầu thang và ô đỏ bị hủy; không tái xuất sống. Người cá hai tay hai chân bàn chân có màng vảy tinh thể lam, chưa rõ lai lịch; khôi lỗi vàng đúng tám tay đã hủy lõi. Phong Lâm giữ MP655 áo tím mạng trắng, mắt tím tinh điểm Cửu U cao hơn Han. Nhâm Hào giữ DK653 mặt vuông áo lam giáp đen, kiếm bản lớn sáng lam. Hắc môn cao hơn mười trượng rộng tổng hai-ba trượng (nhãn model mỗi cánh sai không làm nguyên tác), hai quỷ diện hai vòng khuyên hai tay đỏ kéo mở. Cuối662 người cá còn sống, khiên/sáo chưa lấy, thi thể đầu lớn nguyên vẹn; Han xuất ba Thanh Trúc Phong Vân Kiếm. MQ đã về Hoa Chi, không có mặt. Han CT603 Kim Tiên đỉnh phong chưa giải Sát suy.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "873fd7c89741d8743886d61f7aa3fcf16d737abec5b5cd0cc402b181b21bafe2"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "666e259cd2da42c7238fe9e3edd38188f4eaa6826569c4cbd515ee768f350892"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b5d272c848d66c33942340250bde01626f92b131f1fc196d8d5ef0e28947905f"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "909b1f4c12afbf4db60ee8146e2aac6e5346a4991b1f3748e33afbf4f2888b61"
+      }
+    ]
+  }
+]
