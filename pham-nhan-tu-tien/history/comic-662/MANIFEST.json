@@ -1,0 +1,44 @@
+{
+  "chapter": 662,
+  "title": "Mồi nhử",
+  "images": [
+    "/tmp/comic-batch-652-662/a4-662/trang-01.png",
+    "/tmp/comic-batch-652-662/a4-662/trang-02.png",
+    "/tmp/comic-batch-652-662/a4-662/trang-03.png",
+    "/tmp/comic-batch-652-662/a4-662/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "dong-thi-sat-thai-lam-bao-661.png",
+    "nguoi-ca-khoi-loi-tam-ty-662.png",
+    "phong-lam-ma-dong-hac-mon-662.png",
+    "bich-xa-dich-bao-ngan-nguyet-653.png",
+    "phong-khanh-nguyen-da-hac-tuyet-634.png"
+  ],
+  "summary": "Nguyên Phong dùng khôi lỗi tám tay thử lấy bảo vật, bị người cá giết khi chạy trốn. Phong Lâm nhìn thấu chỗ ẩn của Hàn Lập và Nhâm Hào; ba người liên thủ xuất thủ.",
+  "notes": "- PK634 Nguyên Phong=Phong Khánh Nguyên đã chết, xác khô đen nâu bọc áo đỏ bên cầu thang và ô đỏ bị hủy; không tái xuất sống. Người cá hai tay hai chân bàn chân có màng vảy tinh thể lam, chưa rõ lai lịch; khôi lỗi vàng đúng tám tay đã hủy lõi. Phong Lâm giữ MP655 áo tím mạng trắng, mắt tím tinh điểm Cửu U cao hơn Han. Nhâm Hào giữ DK653 mặt vuông áo lam giáp đen, kiếm bản lớn sáng lam. Hắc môn cao hơn mười trượng rộng tổng hai-ba trượng (nhãn model mỗi cánh sai không làm nguyên tác), hai quỷ diện hai vòng khuyên hai tay đỏ kéo mở. Cuối662 người cá còn sống, khiên/sáo chưa lấy, thi thể đầu lớn nguyên vẹn; Han xuất ba Thanh Trúc Phong Vân Kiếm. MQ đã về Hoa Chi, không có mặt. Han CT603 Kim Tiên đỉnh phong chưa giải Sát suy.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-652-662/662p1.png",
+    "/tmp/comic-generated-652-662/662p2.png",
+    "/tmp/comic-generated-652-662/662p3.png",
+    "/tmp/comic-generated-652-662/662p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
