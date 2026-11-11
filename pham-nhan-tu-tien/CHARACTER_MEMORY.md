@@ -1628,3 +1628,11 @@ models/pha-cam-phap-tuong-tinh-ky-654.png: TXK652 pháp tướngtím3đầu6tayb
 ## Chương 654 — Ra tay trước: hoàn thành 4 trang
 Nguồn: file CHUONG 654.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/654/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - 9kiếmxanhhợp1/thu9, hồlôhai bầukhôngChưởngThiênBình. HT5phânthân→1khổnglồbónghồlybạc; NHhỏađếlàpháptướngkhôngngườimới; TXK3đầu6taycung2đầurồng. CờVÀNGHanthu tronghồlô, BẠCTXK. Cuốicòntạisơnmônchưachui655; NHhỏaảnhchưathuvìnguồn655mớithu. HanCT603 cùngmặtmắttímkhidùngCửuU khôngtựnângcảnhgiới.
+
+### Model655 trước vẽ
+models/ma-toc-tam-nhan-tran-ban-655.png: ML655 lãoMagầymặtđenhốcmắtsâu2tayxươngĐENphùvăntím; MT655 thanhn ê ntóctímcựcdàiáotímngoài/áolôngđỏtrong/giàyngũsắ cđágem; MP655 thiếuphụtócđenáotímkhănTRẮNGche mặt. Cả3chưanêu tên khôngtựgánLựcMaTử/BíchXàhaynhautrẻTXK. Ngọcchâutímnhỏhạtđàophùvănbạc; khayđưa tintímtr ònbàntayTXKtặngHan. Khôngcó3MavàHanđồngtrongloạnlưu.
+
+
+## Chương 655 — Loạn lưu: hoàn thành 4 trang
+Nguồn: file CHUONG 655.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/655/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- ML/MT/MP655 baMa tộcchưatêncùngáotím: lãotayxươngđen/thanhniêntóctímáolôngđỏ/thiếuphụkhăntrắng. TrướcvàolầnlượtHT,NH,Han,TXK; bítrậnthu tiểucầutím→cổnggọiba người, đợinửakhắc. Hanvàotrọngthânthểkhôngphảinhậphồn, màngtinhquangkhônggiápmới. Tinhkỳbạcquý1chiếccất, phướntrậnthườngkhôngnhâncờquý. Thầnthức300–400trượng/CửuU1000trượng, khaytímTXKkhônghồiâm; chưabiếtnhiệmvụchi tiết.

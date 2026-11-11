@@ -1,0 +1,41 @@
+{
+  "chapter": 655,
+  "title": "Loạn lưu",
+  "images": [
+    "/tmp/comic-batch-652-662/a4-655/trang-01.png",
+    "/tmp/comic-batch-652-662/a4-655/trang-02.png",
+    "/tmp/comic-batch-652-662/a4-655/trang-03.png",
+    "/tmp/comic-batch-652-662/a4-655/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "ma-toc-tam-nhan-tran-ban-655.png"
+  ],
+  "summary": "Nhóm đi vào di tích; Thạch Xuyên Không để lại tiểu cầu mở đường cho ba người Ma tộc. Hàn Lập bị loạn lưu chia cắt, đến bình nguyên mù trắng và không thể liên lạc đồng hành.",
+  "notes": "- ML/MT/MP655 baMa tộcchưatêncùngáotím: lãotayxươngđen/thanhniêntóctímáolôngđỏ/thiếuphụkhăntrắng. TrướcvàolầnlượtHT,NH,Han,TXK; bítrậnthu tiểucầutím→cổnggọiba người, đợinửakhắc. Hanvàotrọngthânthểkhôngphảinhậphồn, màngtinhquangkhônggiápmới. Tinhkỳbạcquý1chiếccất, phướntrậnthườngkhôngnhâncờquý. Thầnthức300–400trượng/CửuU1000trượng, khaytímTXKkhônghồiâm; chưabiếtnhiệmvụchi tiết.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-652-662/655p1-fixed.png",
+    "/tmp/comic-generated-652-662/655p2.png",
+    "/tmp/comic-generated-652-662/655p3.png",
+    "/tmp/comic-generated-652-662/655p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
