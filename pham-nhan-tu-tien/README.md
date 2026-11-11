@@ -69,6 +69,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 652: Chữa trị](chapters/652/): 4 trang, hoàn thành; [PDF A4](chapters/652/chuong-652.pdf)
+
 - [Chương 634: Sự tình kỳ lạ](chapters/634/): 4 trang, hoàn thành; [PDF A4](chapters/634/chuong-634.pdf)
 
 - [Chương 633: Luyện đồng](chapters/633/): 4 trang, hoàn thành; [PDF A4](chapters/633/chuong-633.pdf)

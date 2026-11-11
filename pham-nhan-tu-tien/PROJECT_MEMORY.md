@@ -1403,3 +1403,17 @@ Model mới trong đợt:
 - models/ma-chu-ngan-sac-nhan-anh-631.png
 - models/han-lap-cuu-u-ma-dong-633-634.png
 - models/phong-khanh-nguyen-da-hac-tuyet-634.png
+
+
+## Khởi động 652–662
+Nguồn 11 TXT đính kèm; làm tăng dần, mỗi chương4 trang A4 dọc, hoàn thành push riêng. Kho trước dừng634; không tự tạo hoặc đánh dấu635–651. Giữ Han CT603 ngụy trang Lệ đạo hữu, mắt đen thường/tím khi CửuU; NH603 tóc râu trắng áo lam hỏa văn.
+### Model trước652
+models/ho-tam-thach-xuyen-khong-nhiet-hoa-652.png: HT652 HồTam tóc đen râu mép/goatee gọn, áo trắng họa tiết bạc; TXK652 ThạchXuyênKhông tóc bạc dài tai hơi nhọn áo tím viền bạc, mặt riêng; mẫu mới thiết kế chuyển thể vì chưa có trong kho. NH603 tái dùng đúng mặt. Phi chu bạc bốn người, ChânNgônChâu ngà khắc vàng cầm tay không bệ. Thạch sư xám trắng cao BA THƯỚC, nhãn3m trên ảnh chỉ tự sinh sai không dùng làm số liệu. Chưa dựng635–651.
+
+### Model trước cuối652
+models/xi-dung-cong-thau-vuong-phong-652.png: XD652 XiDung khổnglồ tócđỏbúicao mũixanhđen hai sừngtê tai dài hai khoenvàng giápđenđỏ; CTT652 CôngThâuThiên tócđỏ râuđỏ thânđậm áoxanhlụcđậmvàng riêngkhácCôngThâuCửu; VHS652 VươngHiểuSâm caogầymặtốm tócđen áoxanhrêutối; PK634 giữnguyênmặtnamtrẻtúmỹtócđenáokhoácđỏ. Phi xanhbốn bánh/phi chuHỏaLonglửa. Chi tiết trangphục/phụkiện chưa nêu chỉ thiết kế chuyển thể, không thêm tìnhtiết.
+
+
+## Chương 652 — Chữa trị: hoàn thành 4 trang
+Nguồn: file CHUONG 652.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/652/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- HanCT603/NH603 giữảnhgốc; HT652/TXK652/CTT652/VHS652/XD652 lưu modelmới trước vẽ; PK634giữnguyên. Chỉ bốn người chính, HồTamkhổnglồkhôngcóbảnsaonhỏ. Đôithạchsư3thướckhông3m; trậncó11cột7nguyên1nửacònlasụp. HồTamtrảtrungphẩm, truyềnxonglionsnguyênvẹn/phầnlớntrậnkỳcòn. Chưaphácấm cổng; XiDungởđầm khác. Khôngđánh635–651hoànthành.
