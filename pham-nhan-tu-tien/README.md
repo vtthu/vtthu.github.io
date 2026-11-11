@@ -69,6 +69,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 659: Năm con đường](chapters/659/): 4 trang, hoàn thành; [PDF A4](chapters/659/chuong-659.pdf)
+
 - [Chương 658: Bốn người đi](chapters/658/): 4 trang, hoàn thành; [PDF A4](chapters/658/chuong-658.pdf)
 
 - [Chương 657: Kịch đấu Thủy Diễn Cung](chapters/657/): 4 trang, hoàn thành; [PDF A4](chapters/657/chuong-657.pdf)

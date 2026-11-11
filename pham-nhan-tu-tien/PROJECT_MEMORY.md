@@ -1462,3 +1462,11 @@ models/kim-khoa-nhi-chi-tinh-hach-658.png: khóaVÀNGlòngbàntay/phónglớnôm
 ## Chương 658 — Bốn người đi: hoàn thành 4 trang
 Nguồn: file CHUONG 658.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/658/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - BossphiênĐENbịxé, cánhquangđỏné/vaiTRÁIbịthươngkhôngmáu; 1kiếmthìra3hợp; khóaTAYPHẢI/kýKhóađôngcứng/tayPHẢI2ngónHoaChipointsSAUÓT; bỏkhóamớihóaquỷkhí/TinhhạchđenchoMQtrongHoaChi(khônghiệnthân). DK653xưngNhâmHào/MP655xưngPhongLâm/PK634giảNguyênPhong/HanCT603giảLệGiangLưu khôngđổi mặt. Ba ngườitừnhómgốckhácnaymớikết4, giữkhoảngcách. Cuốiđườngbạchngọc3ngườichưabiểulộnhậnraThờiGianpháptắc.
+
+### Model659–660 trước dùng
+models/tam-thuy-thap-thi-mi-659-660.png: tượnglamđầutoNGUYÊNVẸNởđỉnhnúi khácđổgãy657; 5đường1ĐệTửBãi2TamThủyTháp3NgũLinhCác4ThừaThiênĐiện5ThiênDượcCốc. Tháp3tầngtầng1bátgiácgạchlamcửagỗđenmở2thúđámắthỏng. Tầng1sươnglamhuyễnlửakhoatắt; lầu2bănglamtrầnnhũbăng. TM660 thimịnhânhìnhdakhôxanhtímmặttrắngxươngmákhôsạch/mắttuyếttrắng10móngtímđenáoxámtối rách/tócđenxám; đầu659bóngHanCT603dướibăngcười, sang660mới lộthânkhácHankhôngđổiHan. Mọinhãn/kiếntrúcphát sinhkhácnguồnchỉminhhọa; bênngoàikhôngtuyếtmùamớitựthêm.
+
+
+## Chương 659 — Năm con đường: hoàn thành 4 trang
+Nguồn: file CHUONG 659.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/659/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Đường1ĐệTửBãi2TamThủyTháp3NgũLinhCác4ThừaThiênĐiện5ThiênDượcCốc. Nham2/Han3/PK4/PL5banđầurồiHan→PK→PLlầnlượtlénvề2khônggặpnhau. Thápđúng3tầng tầng1bátgiác; lửatầng1huyễn tắtkhôngcháyhỏnggiàythật, lầu2băngthật. Tượngđỉnhnúinguyênvẹnkhácđổ657. CuốibóngdướibănggiốngHan/cườivàxuấtkích,chưaThimịlộthậtmặtchotới660. HanmặtmẫuCT603khôngbịthayvìcáibóng.
