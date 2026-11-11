@@ -1,0 +1,41 @@
+{
+  "chapter": 660,
+  "title": "Thi Mị",
+  "images": [
+    "/tmp/comic-batch-652-662/a4-660/trang-01.png",
+    "/tmp/comic-batch-652-662/a4-660/trang-02.png",
+    "/tmp/comic-batch-652-662/a4-660/trang-03.png",
+    "/tmp/comic-batch-652-662/a4-660/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "tam-thuy-thap-thi-mi-659-660.png",
+    "huyen-vu-tam-phap-binh-linh-606.png"
+  ],
+  "summary": "Hàn Lập đối phó Thi Mị trong tầng băng, bị thi sát che mờ ma đồng rồi dùng Bảo Luân định trụ phân thân và Tế Lôi Thuật công kích chân thân.",
+  "notes": "- Thi Mị cuối chương còn sống, bị Bảo Luân định trụ. Bốn phân thân đã tan. Thi sát được ép ra, Cửu U Ma Đồng phục hồi. Hàn giữ CT603, áo teal bị rách; không đổi sang giáp606. Bảo Luân có mắt vàng ở tâm. Thi Mị không phải Hàn Lập.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-652-662/660p1.png",
+    "/tmp/comic-generated-652-662/660p2.png",
+    "/tmp/comic-generated-652-662/660p3.png",
+    "/tmp/comic-generated-652-662/660p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

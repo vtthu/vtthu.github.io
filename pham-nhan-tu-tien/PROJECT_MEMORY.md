@@ -1470,3 +1470,8 @@ models/tam-thuy-thap-thi-mi-659-660.png: tượnglamđầutoNGUYÊNVẸNởđỉ
 ## Chương 659 — Năm con đường: hoàn thành 4 trang
 Nguồn: file CHUONG 659.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/659/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Đường1ĐệTửBãi2TamThủyTháp3NgũLinhCác4ThừaThiênĐiện5ThiênDượcCốc. Nham2/Han3/PK4/PL5banđầurồiHan→PK→PLlầnlượtlénvề2khônggặpnhau. Thápđúng3tầng tầng1bátgiác; lửatầng1huyễn tắtkhôngcháyhỏnggiàythật, lầu2băngthật. Tượngđỉnhnúinguyênvẹnkhácđổ657. CuốibóngdướibănggiốngHan/cườivàxuấtkích,chưaThimịlộthậtmặtchotới660. HanmặtmẫuCT603khôngbịthayvìcáibóng.
+
+
+## Chương 660 — Thi Mị: hoàn thành 4 trang
+Nguồn: file CHUONG 660.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/660/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Thi Mị cuối chương còn sống, bị Bảo Luân định trụ. Bốn phân thân đã tan. Thi sát được ép ra, Cửu U Ma Đồng phục hồi. Hàn giữ CT603, áo teal bị rách; không đổi sang giáp606. Bảo Luân có mắt vàng ở tâm. Thi Mị không phải Hàn Lập.
