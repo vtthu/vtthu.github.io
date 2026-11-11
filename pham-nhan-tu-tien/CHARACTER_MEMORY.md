@@ -1636,3 +1636,8 @@ models/ma-toc-tam-nhan-tran-ban-655.png: ML655 lãoMagầymặtđenhốcmắtsâ
 ## Chương 655 — Loạn lưu: hoàn thành 4 trang
 Nguồn: file CHUONG 655.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/655/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - ML/MT/MP655 baMa tộcchưatêncùngáotím: lãotayxươngđen/thanhniêntóctímáolôngđỏ/thiếuphụkhăntrắng. TrướcvàolầnlượtHT,NH,Han,TXK; bítrậnthu tiểucầutím→cổnggọiba người, đợinửakhắc. Hanvàotrọngthânthểkhôngphảinhậphồn, màngtinhquangkhônggiápmới. Tinhkỳbạcquý1chiếccất, phướntrậnthườngkhôngnhâncờquý. Thầnthức300–400trượng/CửuU1000trượng, khaytímTXKkhônghồiâm; chưabiếtnhiệmvụchi tiết.
+
+
+## Chương 656 — Tử thành: hoàn thành 4 trang
+Nguồn: file CHUONG 656.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/656/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- MQchỉtruyềnâmHoaChiđãổnđịnhTháiẤtkhônghiệnthân; HanchưaTháiẤt/Sátsuychưagiải. Cờvàngnhậpphẩmđưavàothânluyệnhóa. Khứtthôntíakiếmkhívàlôivàng, cắtKIẾMĐỎthửnghiệmkhôngphảiThanhTrúcxanh; Hancất2đoạntránhđi. Khôngsinhvậtsống/khôngzombie, chỉxươngcũkhôngtrữvật. CuốitớiquảngtrườngchưabiếtThủyDiễnCung657.

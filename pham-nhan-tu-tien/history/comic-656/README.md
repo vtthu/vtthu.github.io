@@ -1,0 +1,9 @@
+# Chương 656: Tử thành
+
+4 trang PNG riêng, tỉ lệ A4 dọc; chuyển thể từ văn bản người dùng đính kèm, có thoại, suy nghĩ và lời dẫn. Dùng model tham chiếu trong bộ nhớ dự án.
+
+[PDF A4](chuong-656.pdf) · [Văn bản nguồn](SOURCE.txt)
+
+Hàn Lập luyện hóa tinh kỳ, nghe Ma Quang báo đã ổn định cảnh giới Thái Ất rồi một mình dò di tích. Sau khi thử khe nứt không gian nguy hiểm, hắn tới một thành cổ ngọc trắng trong sơn cốc.
+
+Ảnh ở pages/, model ở models/.

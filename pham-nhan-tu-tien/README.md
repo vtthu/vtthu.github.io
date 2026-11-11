@@ -69,6 +69,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 656: Tử thành](chapters/656/): 4 trang, hoàn thành; [PDF A4](chapters/656/chuong-656.pdf)
+
 - [Chương 655: Loạn lưu](chapters/655/): 4 trang, hoàn thành; [PDF A4](chapters/655/chuong-655.pdf)
 
 - [Chương 654: Ra tay trước](chapters/654/): 4 trang, hoàn thành; [PDF A4](chapters/654/chuong-654.pdf)

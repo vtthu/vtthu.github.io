@@ -1,0 +1,41 @@
+{
+  "chapter": 656,
+  "title": "Tử thành",
+  "images": [
+    "/tmp/comic-batch-652-662/a4-656/trang-01.png",
+    "/tmp/comic-batch-652-662/a4-656/trang-02.png",
+    "/tmp/comic-batch-652-662/a4-656/trang-03.png",
+    "/tmp/comic-batch-652-662/a4-656/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "pha-cam-phap-tuong-tinh-ky-654.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Hàn Lập luyện hóa tinh kỳ, nghe Ma Quang báo đã ổn định cảnh giới Thái Ất rồi một mình dò di tích. Sau khi thử khe nứt không gian nguy hiểm, hắn tới một thành cổ ngọc trắng trong sơn cốc.",
+  "notes": "- MQchỉtruyềnâmHoaChiđãổnđịnhTháiẤtkhônghiệnthân; HanchưaTháiẤt/Sátsuychưagiải. Cờvàngnhậpphẩmđưavàothânluyệnhóa. Khứtthôntíakiếmkhívàlôivàng, cắtKIẾMĐỎthửnghiệmkhôngphảiThanhTrúcxanh; Hancất2đoạntránhđi. Khôngsinhvậtsống/khôngzombie, chỉxươngcũkhôngtrữvật. CuốitớiquảngtrườngchưabiếtThủyDiễnCung657.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-652-662/656p1.png",
+    "/tmp/comic-generated-652-662/656p2.png",
+    "/tmp/comic-generated-652-662/656p3.png",
+    "/tmp/comic-generated-652-662/656p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
