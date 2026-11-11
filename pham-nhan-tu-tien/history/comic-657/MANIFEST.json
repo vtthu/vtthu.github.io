@@ -1,0 +1,44 @@
+{
+  "chapter": 657,
+  "title": "Kịch đấu Thủy Diễn Cung",
+  "images": [
+    "/tmp/comic-batch-652-662/a4-657/trang-01.png",
+    "/tmp/comic-batch-652-662/a4-657/trang-02.png",
+    "/tmp/comic-batch-652-662/a4-657/trang-03.png",
+    "/tmp/comic-batch-652-662/a4-657/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "thuy-dien-cung-dia-hon-vien-657.png",
+    "bich-xa-dich-bao-ngan-nguyet-653.png",
+    "ma-toc-tam-nhan-tran-ban-655.png",
+    "xi-dung-cong-thau-vuong-phong-652.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Hàn Lập tìm tới Thủy Diễn Cung theo chấn động thời gian. Trong điện sâu, hắn gặp ba tu sĩ bị quỷ viên vây đánh, rồi bất ngờ bị cự viên huyết văn tập kích.",
+  "notes": "- HanrẽPHẢI từ2hànhlangđen; tượngđálamđầuto100trượngchỉtượngkhôngtựđịnhdanhngười. DK653/MP655/PK634tái dùngmặtáođúng khôngBX/TXK. Bossđenhuyếtvăn cóphiênđenKHÔNGcánhtrước658; vếtthươngbàn tayhồiphụcbằngÂmsát. Hantạmẩn thân/khôngtựgiảicứuvìbảovậtkhôngcó. Cuối657phi kiếmđangchémchưadiệtboss/chưaxácđịnhĐịaHồnYêu.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-652-662/657p1.png",
+    "/tmp/comic-generated-652-662/657p2.png",
+    "/tmp/comic-generated-652-662/657p3.png",
+    "/tmp/comic-generated-652-662/657p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

@@ -1446,3 +1446,11 @@ Nguồn: file CHUONG 655.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 656 — Tử thành: hoàn thành 4 trang
 Nguồn: file CHUONG 656.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/656/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - MQchỉtruyềnâmHoaChiđãổnđịnhTháiẤtkhônghiệnthân; HanchưaTháiẤt/Sátsuychưagiải. Cờvàngnhậpphẩmđưavàothânluyệnhóa. Khứtthôntíakiếmkhívàlôivàng, cắtKIẾMĐỎthửnghiệmkhôngphảiThanhTrúcxanh; Hancất2đoạntránhđi. Khôngsinhvậtsống/khôngzombie, chỉxươngcũkhôngtrữvật. CuốitớiquảngtrườngchưabiếtThủyDiễnCung657.
+
+### Model trước657
+models/thuy-dien-cung-dia-hon-vien-657.png: quỷviênDH657 lôngđen2sừngđỏmắtđỏnan htrắng/phunhắchỏa; đầuhuyếtvănBosslớnhơngấpbộicóphiênĐEN1lá, CÁNHQUANGĐỎchỉxuấttừ658 khôngdùng657. Nguồn658xácnhậnĐịaHồnYêu/QuỷVươngkhôngmáuthịt. Tượngđálamđầutođổgãyđế100trượngkhôngngườisống; thiết kế ngoại hìnhminhhọa chưa gán tên người. ThủyDiễnCungHảiLamTinhxanhđậmcósheenlamkhôngdướibiển, cửavào2hànhlangĐENrẽPHẢI, phòngchiếncộtđárunet hô. Chương657nhậnraPK634giữnguyên; namkiếmsĩDK653từ658xưngNhâmHào, nữMaMP655từ658xưngPhongLâm, khôngtạo lạimặt. Nhãnkiếmsĩvôdanhtrước658khônglàtênchínhthức.
+
+
+## Chương 657 — Kịch đấu Thủy Diễn Cung: hoàn thành 4 trang
+Nguồn: file CHUONG 657.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/657/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- HanrẽPHẢI từ2hànhlangđen; tượngđálamđầuto100trượngchỉtượngkhôngtựđịnhdanhngười. DK653/MP655/PK634tái dùngmặtáođúng khôngBX/TXK. Bossđenhuyếtvăn cóphiênđenKHÔNGcánhtrước658; vếtthươngbàn tayhồiphụcbằngÂmsát. Hantạmẩn thân/khôngtựgiảicứuvìbảovậtkhôngcó. Cuối657phi kiếmđangchémchưadiệtboss/chưaxácđịnhĐịaHồnYêu.

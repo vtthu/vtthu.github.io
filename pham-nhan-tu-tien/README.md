@@ -69,6 +69,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 657: Kịch đấu Thủy Diễn Cung](chapters/657/): 4 trang, hoàn thành; [PDF A4](chapters/657/chuong-657.pdf)
+
 - [Chương 656: Tử thành](chapters/656/): 4 trang, hoàn thành; [PDF A4](chapters/656/chuong-656.pdf)
 
 - [Chương 655: Loạn lưu](chapters/655/): 4 trang, hoàn thành; [PDF A4](chapters/655/chuong-655.pdf)
