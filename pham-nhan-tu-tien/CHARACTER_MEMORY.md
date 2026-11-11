@@ -1612,3 +1612,11 @@ models/xi-dung-cong-thau-vuong-phong-652.png: XD652 XiDung khổnglồ tócđỏ
 ## Chương 652 — Chữa trị: hoàn thành 4 trang
 Nguồn: file CHUONG 652.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/652/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - HanCT603/NH603 giữảnhgốc; HT652/TXK652/CTT652/VHS652/XD652 lưu modelmới trước vẽ; PK634giữnguyên. Chỉ bốn người chính, HồTamkhổnglồkhôngcóbảnsaonhỏ. Đôithạchsư3thướckhông3m; trậncó11cột7nguyên1nửacònlasụp. HồTamtrảtrungphẩm, truyềnxonglionsnguyênvẹn/phầnlớntrậnkỳcòn. Chưaphácấm cổng; XiDungởđầm khác. Khôngđánh635–651hoànthành.
+
+### Model trước653
+models/to-luu-trieu-chan-luc-ngo-luong-653.png: TL653 TôLưu dađồngcao giápvàngáochoàngtímvàngtócđen; TZ653 TriệuChânđạobàotrắngquạtxếp; HY653 nữthànhchủHuyễnYênáotímnốtruồiđỏgiữatránchưanêutên; LNL653 LụcNgôLươngthấphóicòngáonâuxám. models/bich-xa-dich-bao-ngan-nguyet-653.png: BX653 da l amnhạttócxanhquănmắtvàngđồngtửdọcgiápvảyáochoànglam; DK653 khôingôgiápđenáochoànglamMỘTkiếmcựđạonhưváncửa, khôngthêmkiếmthứhai; DL653 lãogầyvàngvọtrôikhômôiáochoànglamchưanêu tên. Tokenbạcmặttrăng/chữKhônglàcủaTXKkhôngcủaDịchBào. Nềnthangđáminhhọakhôngtựthêmtòacungđíchđến.
+
+
+## Chương 653 — Rục rịch: hoàn thành 4 trang
+Nguồn: file CHUONG 653.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/653/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Bốnnhómriêng khôngtrộnquân. TL/TZ/HY/LNL vàBX/DK/DL653lưuPNGtrướcdùng; HYchưatênchỉthànhchủ; DịchBào2namvôdanh. DK1kiếmlớn. LệnhbàiTXK là1vậthai mặtngânnguyệt/chữKhông không2vật. Lớpkhônggianbịđánhtan tạmthờichưavỡtoànbộcổng; cuối653gọi3ngườira tay654. Khôngthêmbíthuậtcôngthứctừnguyênbản.

@@ -1,0 +1,43 @@
+{
+  "chapter": 653,
+  "title": "Rục rịch",
+  "images": [
+    "/tmp/comic-batch-652-662/a4-653/trang-01.png",
+    "/tmp/comic-batch-652-662/a4-653/trang-02.png",
+    "/tmp/comic-batch-652-662/a4-653/trang-03.png",
+    "/tmp/comic-batch-652-662/a4-653/trang-04.png"
+  ],
+  "models": [
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "xi-dung-cong-thau-vuong-phong-652.png",
+    "to-luu-trieu-chan-luc-ngo-luong-653.png",
+    "bich-xa-dich-bao-ngan-nguyet-653.png",
+    "han-lap-le-dao-huu-cai-trang-603.png"
+  ],
+  "summary": "Xi Dung lên đường, các tiên sứ địa phương và Dịch Bào Hội cũng nhắm tới di tích. Trước sơn môn, Thạch Xuyên Không lập trận và đánh tan tạm thời lớp cấm chế không gian.",
+  "notes": "- Bốnnhómriêng khôngtrộnquân. TL/TZ/HY/LNL vàBX/DK/DL653lưuPNGtrướcdùng; HYchưatênchỉthànhchủ; DịchBào2namvôdanh. DK1kiếmlớn. LệnhbàiTXK là1vậthai mặtngânnguyệt/chữKhông không2vật. Lớpkhônggianbịđánhtan tạmthờichưavỡtoànbộcổng; cuối653gọi3ngườira tay654. Khôngthêmbíthuậtcôngthứctừnguyênbản.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-652-662/653p1.png",
+    "/tmp/comic-generated-652-662/653p2.png",
+    "/tmp/comic-generated-652-662/653p3-fixed.png",
+    "/tmp/comic-generated-652-662/653p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
