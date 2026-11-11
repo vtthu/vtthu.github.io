@@ -69,6 +69,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 661: Đồng thi đầu to](chapters/661/): 4 trang, hoàn thành; [PDF A4](chapters/661/chuong-661.pdf)
+
 - [Chương 660: Thi Mị](chapters/660/): 4 trang, hoàn thành; [PDF A4](chapters/660/chuong-660.pdf)
 
 - [Chương 659: Năm con đường](chapters/659/): 4 trang, hoàn thành; [PDF A4](chapters/659/chuong-659.pdf)

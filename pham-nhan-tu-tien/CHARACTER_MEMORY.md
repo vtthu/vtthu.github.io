@@ -1670,3 +1670,8 @@ Nguồn: file CHUONG 659.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 660 — Thi Mị: hoàn thành 4 trang
 Nguồn: file CHUONG 660.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/660/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Thi Mị cuối chương còn sống, bị Bảo Luân định trụ. Bốn phân thân đã tan. Thi sát được ép ra, Cửu U Ma Đồng phục hồi. Hàn giữ CT603, áo teal bị rách; không đổi sang giáp606. Bảo Luân có mắt vàng ở tâm. Thi Mị không phải Hàn Lập.
+
+
+## Chương 661 — Đồng thi đầu to: hoàn thành 4 trang
+Nguồn: file CHUONG 661.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/661/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- MQ giữ MQ-HT588 mặt xám hắc bào; sát thai đen bảy lỗ thành hạt tím nhỏ, MQ dùng và trở về lầu trúc tím. Thi Mị đã chết. Thi thể đầu lớn chưa rõ danh tính, thân dưới năm thước (model có nhãn trượng sai: không dùng nhãn này); chưa xác nhận Quang Âm Chi Thủy. Khiên vuông xanh và sáo lam có lá trúc chưa ai lấy. Nhâm Hào là DK653 giáp đen áo choàng lam; ẩn cột tây bắc. Han ẩn xà nhà. Nguyên Phong=Phong Khánh Nguyên PK634 đỏ, còn sống cuối661. Không đổi model Hàn CT603 do tên Lệ Giang Lưu.

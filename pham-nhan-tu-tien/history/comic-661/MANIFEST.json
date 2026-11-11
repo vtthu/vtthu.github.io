@@ -1,0 +1,44 @@
+{
+  "chapter": 661,
+  "title": "Đồng thi đầu to",
+  "images": [
+    "/tmp/comic-batch-652-662/a4-661/trang-01.png",
+    "/tmp/comic-batch-652-662/a4-661/trang-02.png",
+    "/tmp/comic-batch-652-662/a4-661/trang-03.png",
+    "/tmp/comic-batch-652-662/a4-661/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "ma-quang-ngan-diem-tuc-sat-626.png",
+    "dong-thi-sat-thai-lam-bao-661.png",
+    "bich-xa-dich-bao-ngan-nguyet-653.png",
+    "xi-dung-cong-thau-vuong-phong-652.png",
+    "kim-khoa-nhi-chi-tinh-hach-658.png"
+  ],
+  "summary": "Ma Quang lấy sát thai tiêu diệt Thi Mị rồi trở về Hoa Chi. Hàn Lập lên tầng ba, phát hiện hồ nước cùng thi thể đầu lớn và hai bảo vật, nhận ra Nhâm Hào ẩn trong cột rồi tự ẩn trên xà nhà. Nguyên Phong tiến vào sau.",
+  "notes": "- MQ giữ MQ-HT588 mặt xám hắc bào; sát thai đen bảy lỗ thành hạt tím nhỏ, MQ dùng và trở về lầu trúc tím. Thi Mị đã chết. Thi thể đầu lớn chưa rõ danh tính, thân dưới năm thước (model có nhãn trượng sai: không dùng nhãn này); chưa xác nhận Quang Âm Chi Thủy. Khiên vuông xanh và sáo lam có lá trúc chưa ai lấy. Nhâm Hào là DK653 giáp đen áo choàng lam; ẩn cột tây bắc. Han ẩn xà nhà. Nguyên Phong=Phong Khánh Nguyên PK634 đỏ, còn sống cuối661. Không đổi model Hàn CT603 do tên Lệ Giang Lưu.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-652-662/661p1.png",
+    "/tmp/comic-generated-652-662/661p2.png",
+    "/tmp/comic-generated-652-662/661p3.png",
+    "/tmp/comic-generated-652-662/661p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
