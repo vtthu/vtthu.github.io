@@ -1425,3 +1425,11 @@ models/to-luu-trieu-chan-luc-ngo-luong-653.png: TL653 TôLưu dađồngcao giáp
 ## Chương 653 — Rục rịch: hoàn thành 4 trang
 Nguồn: file CHUONG 653.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/653/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Bốnnhómriêng khôngtrộnquân. TL/TZ/HY/LNL vàBX/DK/DL653lưuPNGtrướcdùng; HYchưatênchỉthànhchủ; DịchBào2namvôdanh. DK1kiếmlớn. LệnhbàiTXK là1vậthai mặtngânnguyệt/chữKhông không2vật. Lớpkhônggianbịđánhtan tạmthờichưavỡtoànbộcổng; cuối653gọi3ngườira tay654. Khôngthêmbíthuậtcôngthứctừnguyênbản.
+
+### Biến thể654 trước dùng
+models/pha-cam-phap-tuong-tinh-ky-654.png: TXK652 pháp tướngtím3đầu6taybóngvũkhí, cự cung vảy tím 2đầurồng; HT652 phónglớn cùngmặtáo/bónghồlybạc/cựphủhuyếtsắc, không2thâncùngchỗ; NH603 bónghỏađếmiện/quyềntrượnglửamặtmờ, khôngnhânvậtmới. Kínhvàngtrònkhôngmắt, mâmđenTXK, 2cờtinhthầnvàng/thờigian-bạc/khônggian, kýhiệuđồnghồtrênmodelchỉminhhọa.
+
+
+## Chương 654 — Ra tay trước: hoàn thành 4 trang
+Nguồn: file CHUONG 654.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/654/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 9kiếmxanhhợp1/thu9, hồlôhai bầukhôngChưởngThiênBình. HT5phânthân→1khổnglồbónghồlybạc; NHhỏađếlàpháptướngkhôngngườimới; TXK3đầu6taycung2đầurồng. CờVÀNGHanthu tronghồlô, BẠCTXK. Cuốicòntạisơnmônchưachui655; NHhỏaảnhchưathuvìnguồn655mớithu. HanCT603 cùngmặtmắttímkhidùngCửuU khôngtựnângcảnhgiới.

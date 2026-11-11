@@ -1,0 +1,42 @@
+{
+  "chapter": 654,
+  "title": "Ra tay trước",
+  "images": [
+    "/tmp/comic-batch-652-662/a4-654/trang-01.png",
+    "/tmp/comic-batch-652-662/a4-654/trang-02.png",
+    "/tmp/comic-batch-652-662/a4-654/trang-03.png",
+    "/tmp/comic-batch-652-662/a4-654/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "pha-cam-phap-tuong-tinh-ky-654.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Cả nhóm liên thủ phá cấm bằng cổ kính, cự phủ, pháp tướng và hồ lô. Cấm chế sơn môn tan vỡ, Hàn Lập thu tinh kỳ thời gian vàng, Thạch Xuyên Không lấy tinh kỳ không gian bạc.",
+  "notes": "- 9kiếmxanhhợp1/thu9, hồlôhai bầukhôngChưởngThiênBình. HT5phânthân→1khổnglồbónghồlybạc; NHhỏađếlàpháptướngkhôngngườimới; TXK3đầu6taycung2đầurồng. CờVÀNGHanthu tronghồlô, BẠCTXK. Cuốicòntạisơnmônchưachui655; NHhỏaảnhchưathuvìnguồn655mớithu. HanCT603 cùngmặtmắttímkhidùngCửuU khôngtựnângcảnhgiới.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-652-662/654p1.png",
+    "/tmp/comic-generated-652-662/654p2.png",
+    "/tmp/comic-generated-652-662/654p3.png",
+    "/tmp/comic-generated-652-662/654p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

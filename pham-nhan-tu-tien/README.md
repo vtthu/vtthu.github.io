@@ -69,6 +69,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 654: Ra tay trước](chapters/654/): 4 trang, hoàn thành; [PDF A4](chapters/654/chuong-654.pdf)
+
 - [Chương 653: Rục rịch](chapters/653/): 4 trang, hoàn thành; [PDF A4](chapters/653/chuong-653.pdf)
 
 - [Chương 652: Chữa trị](chapters/652/): 4 trang, hoàn thành; [PDF A4](chapters/652/chuong-652.pdf)
