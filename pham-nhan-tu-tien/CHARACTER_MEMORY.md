@@ -1649,3 +1649,11 @@ models/thuy-dien-cung-dia-hon-vien-657.png: quỷviênDH657 lôngđen2sừngđ�
 ## Chương 657 — Kịch đấu Thủy Diễn Cung: hoàn thành 4 trang
 Nguồn: file CHUONG 657.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/657/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - HanrẽPHẢI từ2hànhlangđen; tượngđálamđầuto100trượngchỉtượngkhôngtựđịnhdanhngười. DK653/MP655/PK634tái dùngmặtáođúng khôngBX/TXK. Bossđenhuyếtvăn cóphiênđenKHÔNGcánhtrước658; vếtthươngbàn tayhồiphụcbằngÂmsát. Hantạmẩn thân/khôngtựgiảicứuvìbảovậtkhôngcó. Cuối657phi kiếmđangchémchưadiệtboss/chưaxácđịnhĐịaHồnYêu.
+
+### Đạo cụ658 trước vẽ
+models/kim-khoa-nhi-chi-tinh-hach-658.png: khóaVÀNGlòngbàntay/phónglớnômCÁNHTAYPHẢIboss chữKhóaquangtrênthân, khôngchiếckey; hoavănchữtrênvậtlàthiếtkếkhôngthêmtên. HaiNGÓNTRỎ+GIỮATAYPHẢI ngọc trắnghoabạckhắcphẳngtái625; khôngmọcbônghoa. TinhhạchĐịaHồnYêuĐENlớnnắmtaytinhthểmặtvát, khônghuyếtchâu. QuỷVươngcánhquangĐỎtừ658, vếtthươngkhôngmáu/headtáchvỡnhưquỷkhíkhôngnộitạng.
+
+
+## Chương 658 — Bốn người đi: hoàn thành 4 trang
+Nguồn: file CHUONG 658.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/658/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- BossphiênĐENbịxé, cánhquangđỏné/vaiTRÁIbịthươngkhôngmáu; 1kiếmthìra3hợp; khóaTAYPHẢI/kýKhóađôngcứng/tayPHẢI2ngónHoaChipointsSAUÓT; bỏkhóamớihóaquỷkhí/TinhhạchđenchoMQtrongHoaChi(khônghiệnthân). DK653xưngNhâmHào/MP655xưngPhongLâm/PK634giảNguyênPhong/HanCT603giảLệGiangLưu khôngđổi mặt. Ba ngườitừnhómgốckhácnaymớikết4, giữkhoảngcách. Cuốiđườngbạchngọc3ngườichưabiểulộnhậnraThờiGianpháptắc.
