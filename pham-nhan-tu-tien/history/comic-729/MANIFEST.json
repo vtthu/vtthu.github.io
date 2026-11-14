@@ -1,0 +1,44 @@
+{
+  "chapter": 729,
+  "title": "Động thủ",
+  "images": [
+    "/tmp/comic-batch-719-732/a4-729/trang-01.png",
+    "/tmp/comic-batch-719-732/a4-729/trang-02.png",
+    "/tmp/comic-batch-719-732/a4-729/trang-03.png",
+    "/tmp/comic-batch-719-732/a4-729/trang-04.png"
+  ],
+  "models": [
+    "ngu-tieu-ho-vi-gia-trang-tran-than-728.png",
+    "xuong-nghiep-hoa-giam-cong-728.png",
+    "xi-dung-nhiet-hoa-tu-binh-doan-kieu-729.png",
+    "ho-the-huyen-quy-long-lan-ngan-ty-ba-729.png",
+    "tam-nhan-ao-choang-am-phung-719.png",
+    "ho-tam-bach-ly-cuu-u-thu-ve-722.png"
+  ],
+  "summary": "Nhóm thu mười sát lôi, tới Hỏa Trì phát hiện Xi Dung và Nhiệt Hỏa bị giam. Họ hạ thủ vệ, bỏ giả trang, hợp lực hộ hồn để vào đường hầm thì kích hoạt cấm chế.",
+  "notes": "- BLYthu10NghiệpHỏaSátLôi, 2tùXD652/NH603chưacứu/còn1lồngVUÔNGdướiđầucầu. MQ5hắclongdiệtGN728/BLYdọnUNÔ, sauđó5thuHồVĩtrảHT→rootCT603/TXK652HT722MQHT588BLY722. ĐãsửaHTtrang3đúngmặtsạchtrâmbạcbàođenFOXkhôngmặtnạnhắcmôn; xóamãGN728khỏilờidẫntruyện. HanHuyềnQuygiápxanhkimlân/BLYlonglângiápđenđỏ/HTU LụcLyChâuxanhbảoquan/TXKngânTỳBà4dây/MQkhônggiáp. ThầnPhùWHITEruneCHỈmi tâmHan, đãsửatrang4không3phù; hưảnhnúituyếttạmche5. CuốibắtvàothìHỏaTrìkíchcấmchế/hỏacầubắn, chưabịbắtđến730–731.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-719-732/729p1.png",
+    "/tmp/comic-generated-719-732/729p2.png",
+    "/tmp/comic-generated-719-732/729p3.png",
+    "/tmp/comic-generated-719-732/729p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

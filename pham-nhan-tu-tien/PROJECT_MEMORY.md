@@ -1605,3 +1605,8 @@ Nguồn: file CHUONG 728.txt do người dùng đính kèm. Mỗi PNG một tran
 
 ### Trạng thái trước729
 models/xi-dung-nhiet-hoa-tu-binh-doan-kieu-729.png táiXD652tócđỏmũitêxanhđenvòngtaivàng/NH603tócrâutrắngáolamthêulửa chỉtổnhao/cấmgiam1lồngVUÔNGtreodướiĐẦUCẦUCỤTtrênHỏaTrìĐEN; cửahangbờđốidiệnchảyHỏaxuốngtrì. models/ho-the-huyen-quy-long-lan-ngan-ty-ba-729.png: saucởiHồVĩHanCT603giápHuyềnQuyxanhlụcmaihexvàng/kimlân; BLY722longlângiápđenđỏ/730haitayhóalongtrảo; HT722quanngọcbạcgắnU LụcLyChâuxanhlụcáogiápmàngphỉthúy tạm; TXK652ngânTỳBà4dâybíchchướngkhônggian; MQHT588khônggiápmới. NgựPhongTrấnThầnPhùRUNEtrắng+hưảnhNÚITUYẾTchứkhônghàngngườitrắng(modelđãsửaTRƯỚCdùng). CáctùXiDung/NHchưacứuđượccuối729.
+
+
+## Chương 729 — Động thủ: hoàn thành 4 trang
+Nguồn: file CHUONG 729.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/729/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- BLYthu10NghiệpHỏaSátLôi, 2tùXD652/NH603chưacứu/còn1lồngVUÔNGdướiđầucầu. MQ5hắclongdiệtGN728/BLYdọnUNÔ, sauđó5thuHồVĩtrảHT→rootCT603/TXK652HT722MQHT588BLY722. ĐãsửaHTtrang3đúngmặtsạchtrâmbạcbàođenFOXkhôngmặtnạnhắcmôn; xóamãGN728khỏilờidẫntruyện. HanHuyềnQuygiápxanhkimlân/BLYlonglângiápđenđỏ/HTU LụcLyChâuxanhbảoquan/TXKngânTỳBà4dây/MQkhônggiáp. ThầnPhùWHITEruneCHỈmi tâmHan, đãsửatrang4không3phù; hưảnhnúituyếttạmche5. CuốibắtvàothìHỏaTrìkíchcấmchế/hỏacầubắn, chưabịbắtđến730–731.
