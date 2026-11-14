@@ -1533,3 +1533,8 @@ Nguồn: file CHUONG 719.txt do người dùng đính kèm. Mỗi PNG một tran
 
 ### Model trước720
 models/dien-dao-nhai-hang-rong-o-tang-720.png: HR720 người bán rong thấp da lam đen tóc xanh, hộp gỗ đen trước ngực; OT720 Ô Tang chưởng quầy cao gầy da than áo nâu xám lọ hít đen. Điên Đảo Nhai cổ thụ đen nhiều cành vặn, ba thang dây trong thân, tiệm hình chuông trên cành mảnh. Hạch đào đen thực là yêu đan Sát Cốt, khác35CấpSátMặcThạch; bản đồ một thạch bàn đen. Không thêm tên riêng người bán chưa nêu.
+
+
+## Chương 720 — Điên Đảo Nhai: hoàn thành 4 trang
+Nguồn: file CHUONG 720.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/720/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Xác nhận719hắc bào làÂmThừaToàn/bạchlãoPhùngThanhThủyĐạoTổthuộcThiênĐình. TXKmua35CấpSátMặcThạch+1SátCốtyêuđan(ngườibánnhầmTụSátThạch)giá15Hôitinh, chưa cóbảnđồ720. ThươngLượngTraiOT720ÔTangcaogầy dathan, khácMQ. Đãsửatrang1khung3ngườivàtrang3khungMQkhôngtrộnHan. Câyđen hàngtrămcành3thangdây, tiệmchuôngtrêncao.

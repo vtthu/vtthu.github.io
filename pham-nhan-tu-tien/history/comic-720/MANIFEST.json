@@ -1,0 +1,40 @@
+{
+  "chapter": 720,
+  "title": "Điên Đảo Nhai",
+  "images": [
+    "/tmp/comic-batch-719-732/a4-720/trang-01.png",
+    "/tmp/comic-batch-719-732/a4-720/trang-02.png",
+    "/tmp/comic-batch-719-732/a4-720/trang-03.png",
+    "/tmp/comic-batch-719-732/a4-720/trang-04.png"
+  ],
+  "models": [
+    "tam-nhan-ao-choang-am-phung-719.png",
+    "dien-dao-nhai-hang-rong-o-tang-720.png"
+  ],
+  "summary": "Âm Thừa Toàn và Phùng Thanh Thủy bàn hợp tác. Thạch Xuyên Không mua mặc thạch và nhặt được yêu đan Sát Cốt; ba người tìm tới Thương Lượng Trai trên cổ thụ Điên Đảo Nhai.",
+  "notes": "- Xác nhận719hắc bào làÂmThừaToàn/bạchlãoPhùngThanhThủyĐạoTổthuộcThiênĐình. TXKmua35CấpSátMặcThạch+1SátCốtyêuđan(ngườibánnhầmTụSátThạch)giá15Hôitinh, chưa cóbảnđồ720. ThươngLượngTraiOT720ÔTangcaogầy dathan, khácMQ. Đãsửatrang1khung3ngườivàtrang3khungMQkhôngtrộnHan. Câyđen hàngtrămcành3thangdây, tiệmchuôngtrêncao.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-719-732/720p1.png",
+    "/tmp/comic-generated-719-732/720p2.png",
+    "/tmp/comic-generated-719-732/720p3.png",
+    "/tmp/comic-generated-719-732/720p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
