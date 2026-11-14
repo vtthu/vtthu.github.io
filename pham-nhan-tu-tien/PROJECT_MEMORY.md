@@ -1610,3 +1610,12 @@ models/xi-dung-nhiet-hoa-tu-binh-doan-kieu-729.png táiXD652tócđỏmũitêxanh
 ## Chương 729 — Động thủ: hoàn thành 4 trang
 Nguồn: file CHUONG 729.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/729/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - BLYthu10NghiệpHỏaSátLôi, 2tùXD652/NH603chưacứu/còn1lồngVUÔNGdướiđầucầu. MQ5hắclongdiệtGN728/BLYdọnUNÔ, sauđó5thuHồVĩtrảHT→rootCT603/TXK652HT722MQHT588BLY722. ĐãsửaHTtrang3đúngmặtsạchtrâmbạcbàođenFOXkhôngmặtnạnhắcmôn; xóamãGN728khỏilờidẫntruyện. HanHuyềnQuygiápxanhkimlân/BLYlonglângiápđenđỏ/HTU LụcLyChâuxanhbảoquan/TXKngânTỳBà4dây/MQkhônggiáp. ThầnPhùWHITEruneCHỈmi tâmHan, đãsửatrang4không3phù; hưảnhnúituyếttạmche5. CuốibắtvàothìHỏaTrìkíchcấmchế/hỏacầubắn, chưabịbắtđến730–731.
+
+### Model mới trước chương 730
+- models/am-quat-khoi-loi-hoa-lo-hac-an-730.png: AQ730 Âm Quát Đại La nam trung niên mặt âm nhu, mắt xám trắng dày, quan đen cao, áo đen bóng. 730 chưa xưng tên, 731 U Lạc mới gọi tên. Hai khôi lỗi sừng trâu có gai xương vai/tay, xích đen; U Nô giáp đen vảy dưới mắt/hỏa lô cơ khí ngực, ấn vuông đen bốn chữ đỏ Bao La Vạn Tượng. Không đồng nhất Quỷ Mộc.
+- models/to-luu-khoi-loi-cu-vien-tu-kim-lan-730.png: TL653 Tô Lưu giữ xương mặt, đã chết/cải tạo khôi lỗi (731 xác nhận), mắt da xám trắng, hỏa lô cầu sắt ngực, rìu song nhận/chùy gai nối xích, không giáp vàng cũ. HL-SNCV01 Cự Viên giữ mặt/lông vàng/khố xanh, thêm tử kim lân, cao hơn mười trượng theo nguồn 730, không dùng nhãn 12m cũ. Biến thể tạm, không thay gốc.
+
+
+## Chương 730 — Gặp biến cố: hoàn thành 4 trang
+Nguồn: file CHUONG 730.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/730/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- MQ dùng tám hắc long; TXK ngân Tỳ Bà mở lỗ; Linh Vực Han dẫn sát khí nên nghịch chân luân kéo bốn người bằng xích xanh. Cấm chế cửa hang tách nhóm/ngắt liên hệ. Hắc ấn Bao La Vạn Tượng; HL-SNCV01 tử kim lân hơn mười trượng, đã sửa mặt vượn đúng model. AQ730 chưa xưng tên; HT hôn mê chưa xác nhận sống chết. Hai U Nô tự bạo hỏa lô phá bích chướng. TL653 giữ xương mặt biến thể khôi lỗi, không giáp vàng. Không cứu tù Xi Dung/NH, không thoát.

@@ -1,0 +1,42 @@
+{
+  "chapter": 730,
+  "title": "Gặp biến cố",
+  "images": [
+    "/tmp/comic-batch-719-732/a4-730/trang-01.png",
+    "/tmp/comic-batch-719-732/a4-730/trang-02.png",
+    "/tmp/comic-batch-719-732/a4-730/trang-03.png",
+    "/tmp/comic-batch-719-732/a4-730/trang-04.png"
+  ],
+  "models": [
+    "am-quat-khoi-loi-hoa-lo-hac-an-730.png",
+    "to-luu-khoi-loi-cu-vien-tu-kim-lan-730.png",
+    "ho-the-huyen-quy-long-lan-ngan-ty-ba-729.png",
+    "tam-nhan-ao-choang-am-phung-719.png"
+  ],
+  "summary": "Năm người vượt tường lửa nhưng trúng phục kích. Hàn Lập bị hắc ấn ép xuống Hỏa Trì, Hồ Tam bị bắt, Thạch Xuyên Không mất bích chướng, Bách Lý Viêm gặp khôi lỗi Tô Lưu.",
+  "notes": "- MQ dùng tám hắc long; TXK ngân Tỳ Bà mở lỗ; Linh Vực Han dẫn sát khí nên nghịch chân luân kéo bốn người bằng xích xanh. Cấm chế cửa hang tách nhóm/ngắt liên hệ. Hắc ấn Bao La Vạn Tượng; HL-SNCV01 tử kim lân hơn mười trượng, đã sửa mặt vượn đúng model. AQ730 chưa xưng tên; HT hôn mê chưa xác nhận sống chết. Hai U Nô tự bạo hỏa lô phá bích chướng. TL653 giữ xương mặt biến thể khôi lỗi, không giáp vàng. Không cứu tù Xi Dung/NH, không thoát.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-719-732/730p1.png",
+    "/tmp/comic-generated-719-732/730p2.png",
+    "/tmp/comic-generated-719-732/730p3.png",
+    "/tmp/comic-generated-719-732/730p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
