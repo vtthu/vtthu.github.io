@@ -1,0 +1,42 @@
+{
+  "chapter": 732,
+  "title": "U Lao",
+  "images": [
+    "/tmp/comic-batch-719-732/a4-732/trang-01.png",
+    "/tmp/comic-batch-719-732/a4-732/trang-02.png",
+    "/tmp/comic-batch-719-732/a4-732/trang-03.png",
+    "/tmp/comic-batch-719-732/a4-732/trang-04.png"
+  ],
+  "models": [
+    "u-lao-giam-nguc-gong-xe-tu-732.png",
+    "u-lac-ao-choang-tinh-hong-731.png",
+    "am-quat-khoi-loi-hoa-lo-hac-an-730.png",
+    "ho-tam-bach-ly-cuu-u-thu-ve-722.png"
+  ],
+  "summary": "U Lạc đổi công lao lấy toàn bộ bảo vật của năm người. Họ bị gông xiềng áp giải vào U Lao, dịch chuyển xuống ngục sâu; Hàn Lập vẫn bình tĩnh chất vấn giám ngục.",
+  "notes": "- UL thu TẤT CẢ trữ vật/tiên khí, đúng chín Thanh Trúc kiếm và một ngân Tỳ Bà; đã sửa đếm kiếm/nhãn trang2. Han/HồTam/BLY bỏ giáp pháp bảo về y phục gốc; MQHT588/TXK652 giữ mặt. Năm người giữ gông đầu/thân và cổ tay chân tự do, đã sửa trang3 để không biến mất gông. Nửa ngày tới nhà vuông đen ngọc đen. Giám ngục áo xám ba u thịt KHÔNG tên/hai U Nô giáp xám. Trận đài cao nửa trượng/tám cột trắng, đủ8người. Cảnh BLY trúng roi chỉ lời dẫn/cắt cảnh, không vẽ cận bạo lực; trang4 kết câu Han, chưa bị đánh/chưa thoát/chưa giải Sát Lôi. Hai tù XiDung/NhiệtHỏa vẫn ở lồng cầu, không tự thêm cứu.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-719-732/732p1.png",
+    "/tmp/comic-generated-719-732/732p2.png",
+    "/tmp/comic-generated-719-732/732p3.png",
+    "/tmp/comic-generated-719-732/732p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

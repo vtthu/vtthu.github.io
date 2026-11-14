@@ -1627,3 +1627,11 @@ models/u-lac-ao-choang-tinh-hong-731.png: UL731 U Lạc, rất thấp chưa nử
 ## Chương 731 — Tình thế nguy hiểm: hoàn thành 4 trang
 Nguồn: file CHUONG 731.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/731/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - AQ xác nhận TL653 đã chết vì không gian, cải tạo thi thể khôi lỗi. UL731 áo tinh hồng/mắt xanh đen/vảy trán/đỏ dưới mí, chưa rõ chủng tộc. MQ bị Cấm, còn sống. Hàn về người CT603 trước phá vây; đúng chín Thanh Trúc kiếm hợp nhất. Ba Thái Ất MQ/HT/BLY và hai Kim Tiên đỉnh phong Han/TXK đều bị bắt. Thủ vệ khôi lỗi làm lộ tung tích, không phải Hồ Vĩ bị khám phá. Hết chương lôi ti khóa Nguyên Anh cả năm; đồ chưa bị tịch thu đến732.
+
+### Model trước732
+models/u-lao-giam-nguc-gong-xe-tu-732.png: giám ngục GN732 CHƯA NÊU TÊN, nam cao áo xám, ba u thịt trên trán không phải sừng/mắt, hắc khí chân; hai U Nô áo giáp xám khác U Nô hỏa lô730. U Lao nhà vuông đen/ngọc đen tường, trận đài nửa trượng nguồn (bảng 0.5m là nhãn sai không dùng) đúng TÁM trụ trắng, hành lang song sắt. Gông đen khóa đầu/thân chân tự do, xe thú kéo lồng sắt do hai khôi lỗi sừng trâu lái. Trâu kéo là hình minh họa loại thú không xác định, không gán tên/chủng canon.
+
+
+## Chương 732 — U Lao: hoàn thành 4 trang
+Nguồn: file CHUONG 732.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/732/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- UL thu TẤT CẢ trữ vật/tiên khí, đúng chín Thanh Trúc kiếm và một ngân Tỳ Bà; đã sửa đếm kiếm/nhãn trang2. Han/HồTam/BLY bỏ giáp pháp bảo về y phục gốc; MQHT588/TXK652 giữ mặt. Năm người giữ gông đầu/thân và cổ tay chân tự do, đã sửa trang3 để không biến mất gông. Nửa ngày tới nhà vuông đen ngọc đen. Giám ngục áo xám ba u thịt KHÔNG tên/hai U Nô giáp xám. Trận đài cao nửa trượng/tám cột trắng, đủ8người. Cảnh BLY trúng roi chỉ lời dẫn/cắt cảnh, không vẽ cận bạo lực; trang4 kết câu Han, chưa bị đánh/chưa thoát/chưa giải Sát Lôi. Hai tù XiDung/NhiệtHỏa vẫn ở lồng cầu, không tự thêm cứu.
