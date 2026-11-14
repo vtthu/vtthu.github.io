@@ -1546,3 +1546,14 @@ models/tieu-bat-da-hac-thang-hoi-minh-721.png: TBD721 TiêuBấtDạ dađenmặt
 ## Chương 721 — Bí mật đi: hoàn thành 4 trang
 Nguồn: file CHUONG 721.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/721/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Han trả28HôiTinh mua1thạchbànđen; MQkiểmchứngbảnđồ. ThátMinh→BáchTàng→LaSinh→TẩyHồn; bêntrongTẩyHồntrốngchi tiết, chưa tớiTẩySátTrì. HộiMinh4cộttrắng/đàitrắng/bàntròn100ghế. MinhVươngđãsửađúngMV721dađenhắcbàokhônggiáp/khácVD721giápđen. GIA721GiaoTamnữáotrắngkhôngmặtnạ, mặtbổsungtheonguồnmặtthonlạnh; chưaxácnhậnCam. KhôngvẽHanvậtlýdựhộiminh.
+
+### Model trước722
+models/ho-tam-bach-ly-cuu-u-thu-ve-722.png: HT722biếnthểtrẻhắcbào sạch râu theonguồndungmạotrẻkháctrước/giữnguyêncấutrúcHT652vàtrâmbạc; BLY722hìnhngườicao áođỏrượulửasẫmáochoàngđenrâungắnđenxám/thiếtkếbổsungkhichưacóảnhnhânhìnhkhônglấymặtÂuDương506; ĐồngTích2vệbinh>10trượngđầuhóimắtto nanh/giápđồng, U Nôgiápđenngựcbụngvai/chân. ẢnhHuyễnTinhcầutrònbảysắc khôngbệkhi dùng. models/chu-vuc-chu-hac-xi-tuy-tung-722.png: MCN722MặcToảnáoxámvàngrâumỏng; HNT722HềNhânTunggiàáolammũđen; VDY722ViệtDươngáođỏsẫmgiáp; HXV722HắcXỉvựcchủtóctếtđenáođenbạcchưanêutên; LB722lãobéotuỳtùngáonâuxám. Cácmặtđều thiết kếchuyểnthểkhichưađượcmôtả, khôngthêmsựkiện.
+
+
+## Chương 722 — Tập hợp lại: hoàn thành 4 trang
+Nguồn: file CHUONG 722.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/722/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 5ngườiHanCT603/MQHT588/TXK652/HT722trẻhắcbào/BLY722nhânhìnhđỏrượuđen; khônglấyÂuDương506làmBLY. HồTamtrộmbíBảoGiớiSa bịbắt,BLYđượcbiếuđểgiao hảoLuânHồi. MQnhậnchechấnđộngđốiphóĐạiLa; cuốimớilấyẢnhHuyễnTinhchưathi pháp723. TườngThátMinh/BáchTànggiápĐồngTích2cựnhânvàthủvệ, ĐạiLachưalộmặt. ATT3khungđãsửađúngtócđenmặtkhôngrâukhôngPhùng.
+
+### Model trước723
+models/bach-tang-luyen-khoi-vat-mau-723.png: khu luyệnkhôi tườngĐENốngkhóixámbăngsươnglạnhkhôngmùatuyết; ao20–30trượngxámtrắngsôibốnlồngsắtngâmtrongao2hôithúvà2dịtộcsừngtrâu; lòhỏaxámlạnhphápvăn/chấtđộc vànhàgiamtổongthấp. Thú/dị tộc vô danh thiết kếchuyểnthể, cảnhẩnhiện/phục trang kín tránhgorekhôngthêmtênloài. Nhãn/modeltựsinhkhôngthayđổisốlồng/vịtrítrongao.
