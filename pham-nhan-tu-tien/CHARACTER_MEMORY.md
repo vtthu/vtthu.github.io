@@ -1778,3 +1778,14 @@ Nguồn: file CHUONG 725.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 726 — Cấp bách: hoàn thành 4 trang
 Nguồn: file CHUONG 726.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/726/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - BốnphùĐôngTâyNamBắcđúng4vách/ND724haiđĩabạcbátgiácthuhồitrướcđi; MQdùngThiênMaloạntâmkhiến1KimTiênHôithúphátcuồng/dấuvếtkhônglộ, QMômVDchạyđi. HanCửuUMaĐồngmắttímphácửaTRÁItầng2/cửacấmchếkhôiphụcsaukhiđóng; 8bệhạch tâm, bệsâunhấtkhônggian. ThạchKhinhHậuchỉTIẾNGkhôngmặt. NT72640–50NgânThaiThạchvănxoắn/dịchbạctạmdừngvàtựhồiphụcsau5ngườibiếnmất, khôngpháhủy. ChưahiệnLaSinhđến727.
+
+### Model trước727
+models/tu-la-quy-nhan-uy-tinh-nghiep-loi-727.png: QN727mắtđỏtươicỡdưahấukhảmđấtvàtường(khôngvẽconđạiyêuvìchỉkể3600mắt). UT727UyTinhngườilùnlamđen khôngvảy,bắp tayto,taingắnnhọnnanhđầutrụicómộtnhúmtócĐENkhôngsừng, nửangườicao; UTT727trưởnglão5đồngcôxanhkhông50vòngtheonhãnsai. NL727NghiệpHỏaSátLôibầudụckhoailangđenrunemờ, lửaĐENkhôngcam. Sânthửtròntườngđenrunegiacố/hắcthạchlỗtổong/cửasànxuốnghầm; thuẫnquangmairùaxanhsẫm. LaSinhNÓNGkhôngsươnglạnhBáchTàng.
+
+
+## Chương 727 — Tin đồn: hoàn thành 4 trang
+Nguồn: file CHUONG 727.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/727/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- QuỷMộctrởvề<3hơithởkhôngpháthiện. LaSinhnóngsátđậm; quỷnhãnđỏkhảmđấttườngchặnhuyễnthuật. ChỉHan/MQ/BLYđithửnghiệm, HT/TXKđợichỗẩn; đãsửatrang4đầukhungđúng3ngườikhông5. UyTinhthấplùnlamđenbắpcơkhôngphảiU Nô, sửađúngcaptiontrang2vàUNôtuầntra. Quảnlão5đồngcôkhông50. NghiệpHỏaĐENnốnlớn/đenhắcthạchchảy/thuẫnmairùaxanhđỡ3rồirút. Cuốimớihỏitinđồnchưađiểmhầmđến728.
+
+### Biến thể trước728
+models/ngu-tieu-ho-vi-gia-trang-tran-than-728.png: 5biếnthểtạm nhờNgọcTiêuHồVĩ WHITEtuftmượnphảitrả. MQ-CU728/BLY-CU7282CửuUđihàngtrước, Han-U728/TXK-U728/HT-U7283U Nôtheosau,tấtcảlơlửng1xích mắtgray/áoxámđenẩntrâmvàmàuáogốc. KhithuHồVĩ729trởlạimodelCT603/TXK652/HT722/MQHT588/BLY722khôngđổidanh tính. NgựPhongTrấnThầnPhùlàRUNEtrắngtừmi tâmHan/projectiontuyếtsơnhơn10trượng, khônggiấyphùnuốtDT724. LuyệnThầnThuậttầng5đạithànhxácnhận728.

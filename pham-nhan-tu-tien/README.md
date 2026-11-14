@@ -73,6 +73,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 727: Tin đồn](chapters/727/): 4 trang, hoàn thành; [PDF A4](chapters/727/chuong-727.pdf)
+
 - [Chương 726: Cấp bách](chapters/726/): 4 trang, hoàn thành; [PDF A4](chapters/726/chuong-726.pdf)
 
 - [Chương 725: Giương đông kích tây](chapters/725/): 4 trang, hoàn thành; [PDF A4](chapters/725/chuong-725.pdf)

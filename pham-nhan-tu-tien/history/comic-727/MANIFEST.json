@@ -1,0 +1,42 @@
+{
+  "chapter": 727,
+  "title": "Tin đồn",
+  "images": [
+    "/tmp/comic-batch-719-732/a4-727/trang-01.png",
+    "/tmp/comic-batch-719-732/a4-727/trang-02.png",
+    "/tmp/comic-batch-719-732/a4-727/trang-03.png",
+    "/tmp/comic-batch-719-732/a4-727/trang-04.png"
+  ],
+  "models": [
+    "tam-nhan-ao-choang-am-phung-719.png",
+    "ho-tam-bach-ly-cuu-u-thu-ve-722.png",
+    "quy-moc-van-doan-thanh-lau-725.png",
+    "tu-la-quy-nhan-uy-tinh-nghiep-loi-727.png"
+  ],
+  "summary": "Tại La Sinh, Tu La Quỷ Nhãn chặn đường vào Tẩy Hồn. Hàn Lập cùng Ma Quang, Bách Lý Viêm chứng kiến thử Nghiệp Hỏa Sát Lôi, phát hiện Uy Tinh tộc bị che giấu để chế khí.",
+  "notes": "- QuỷMộctrởvề<3hơithởkhôngpháthiện. LaSinhnóngsátđậm; quỷnhãnđỏkhảmđấttườngchặnhuyễnthuật. ChỉHan/MQ/BLYđithửnghiệm, HT/TXKđợichỗẩn; đãsửatrang4đầukhungđúng3ngườikhông5. UyTinhthấplùnlamđenbắpcơkhôngphảiU Nô, sửađúngcaptiontrang2vàUNôtuầntra. Quảnlão5đồngcôkhông50. NghiệpHỏaĐENnốnlớn/đenhắcthạchchảy/thuẫnmairùaxanhđỡ3rồirút. Cuốimớihỏitinđồnchưađiểmhầmđến728.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-719-732/727p1.png",
+    "/tmp/comic-generated-719-732/727p2.png",
+    "/tmp/comic-generated-719-732/727p3.png",
+    "/tmp/comic-generated-719-732/727p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
