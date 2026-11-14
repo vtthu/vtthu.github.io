@@ -73,6 +73,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 719: Đều có tư tâm](chapters/719/): 4 trang, hoàn thành; [PDF A4](chapters/719/chuong-719.pdf)
+
 - [Chương 662: Mồi nhử](chapters/662/): 4 trang, hoàn thành; [PDF A4](chapters/662/chuong-662.pdf)
 
 - [Chương 661: Đồng thi đầu to](chapters/661/): 4 trang, hoàn thành; [PDF A4](chapters/661/chuong-661.pdf)

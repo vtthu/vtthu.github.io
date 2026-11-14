@@ -1713,3 +1713,18 @@ Model mới đã lưu trước dùng:
 - models/thuy-dien-cung-dia-hon-vien-657.png
 - models/to-luu-trieu-chan-luc-ngo-luong-653.png
 - models/xi-dung-cong-thau-vuong-phong-652.png
+
+
+### Model trước chương719
+models/mieu-coc-mieu-tu-cuu-u-o-trong-719.png lưu trước khi dựng trang: MC719 Miêu Cốc áo lam xám râu đen, MT719 Miêu Tú nữ trưởng thành áo lilac xám tóc đen; CU719 lão Cửu U vô danh áo đen tóc râu xám; OTS719 Ô Trọng Sơn áo xanh lục sẫm giáp vai bạc. Ngoại hình bổ sung là thiết kế chuyển thể khi nguồn chưa mô tả; không thêm dữ kiện nguyên tác. U Nô dáng người xám lạnh lơ lửng cách đất một xích. Bỏ qua khoảng trống663–718, không tự đánh dấu đã tạo.
+
+### Model bổ sung trước719
+models/tam-nhan-ao-choang-am-phung-719.png: ba cột đầu tái CT603, MQ-HT588, TXK652 chỉ phủ áo choàng, không đổi mặt. Âm Thừa Toàn ATT719 môi rộng mắt xám tóc đen chân trần giáp đồng xanh gỉ áo rồng đen kéo đất/lơ lửng một xích; Phùng Thanh Thủy PTT719 già râu tóc trắng áo trắng pháp tắc nước/bọt trắng, khác Nhiệt Hỏa. Danh tính hai người chỉ xác nhận trong720, trang719 dùng nam tử áo đen/lão áo trắng.
+
+
+## Chương 719 — Đều có tư tâm: hoàn thành 4 trang
+Nguồn: file CHUONG 719.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/719/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Giữ CT603/MQ-HT588/TXK652, chỉ thêm áo choàng theo nguồn719; MQ giả Tương Cổ, Han xưng Lệ. MC719/MT719 thiết kế mới do chưa có model, không thêm dữ kiện. Ba khu Đọa Hồ/Tuy Sơn/Thát Minh được phép, Tẩy Sát Trì chưa định vị. ATT719/PTT719 cuối719 chưa nêu tên trong thoại, xác nhận720. Đã sửa2khung sai người nói trang1 về Miêu Cốc. Không tự tạo663–718.
+
+### Model trước720
+models/dien-dao-nhai-hang-rong-o-tang-720.png: HR720 người bán rong thấp da lam đen tóc xanh, hộp gỗ đen trước ngực; OT720 Ô Tang chưởng quầy cao gầy da than áo nâu xám lọ hít đen. Điên Đảo Nhai cổ thụ đen nhiều cành vặn, ba thang dây trong thân, tiệm hình chuông trên cành mảnh. Hạch đào đen thực là yêu đan Sát Cốt, khác35CấpSátMặcThạch; bản đồ một thạch bàn đen. Không thêm tên riêng người bán chưa nêu.

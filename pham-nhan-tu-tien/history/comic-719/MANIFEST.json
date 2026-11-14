@@ -1,0 +1,43 @@
+{
+  "chapter": 719,
+  "title": "Đều có tư tâm",
+  "images": [
+    "/tmp/comic-batch-719-732/a4-719/trang-01.png",
+    "/tmp/comic-batch-719-732/a4-719/trang-02.png",
+    "/tmp/comic-batch-719-732/a4-719/trang-03.png",
+    "/tmp/comic-batch-719-732/a4-719/trang-04.png"
+  ],
+  "models": [
+    "han-lap-le-dao-huu-cai-trang-603.png",
+    "ma-quang-ngan-diem-tuc-sat-626.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "mieu-coc-mieu-tu-cuu-u-o-trong-719.png",
+    "tam-nhan-ao-choang-am-phung-719.png"
+  ],
+  "summary": "Trưởng lão Cửu U ngăn tư đấu. Ba người Hàn Lập cáo từ Tam Miêu tộc, biết giới hạn đi lại và tới Thát Minh khu tìm tin Tẩy Sát Trì. Hai nhân vật trên Tuy Sơn bàn thế hội minh.",
+  "notes": "- Giữ CT603/MQ-HT588/TXK652, chỉ thêm áo choàng theo nguồn719; MQ giả Tương Cổ, Han xưng Lệ. MC719/MT719 thiết kế mới do chưa có model, không thêm dữ kiện. Ba khu Đọa Hồ/Tuy Sơn/Thát Minh được phép, Tẩy Sát Trì chưa định vị. ATT719/PTT719 cuối719 chưa nêu tên trong thoại, xác nhận720. Đã sửa2khung sai người nói trang1 về Miêu Cốc. Không tự tạo663–718.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-719-732/719p1.png",
+    "/tmp/comic-generated-719-732/719p2.png",
+    "/tmp/comic-generated-719-732/719p3.png",
+    "/tmp/comic-generated-719-732/719p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
