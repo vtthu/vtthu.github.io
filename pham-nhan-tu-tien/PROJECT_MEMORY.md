@@ -1538,3 +1538,11 @@ models/dien-dao-nhai-hang-rong-o-tang-720.png: HR720 người bán rong thấp d
 ## Chương 720 — Điên Đảo Nhai: hoàn thành 4 trang
 Nguồn: file CHUONG 720.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/720/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Xác nhận719hắc bào làÂmThừaToàn/bạchlãoPhùngThanhThủyĐạoTổthuộcThiênĐình. TXKmua35CấpSátMặcThạch+1SátCốtyêuđan(ngườibánnhầmTụSátThạch)giá15Hôitinh, chưa cóbảnđồ720. ThươngLượngTraiOT720ÔTangcaogầy dathan, khácMQ. Đãsửatrang1khung3ngườivàtrang3khungMQkhôngtrộnHan. Câyđen hàngtrămcành3thangdây, tiệmchuôngtrêncao.
+
+### Model trước721
+models/tieu-bat-da-hac-thang-hoi-minh-721.png: TBD721 TiêuBấtDạ dađenmặtvuôngrâuđen15cm áođen; MV721MinhVươngThánhSứ namtrẻto khỏe; TS721ThiênSátThánhSứ giàcòngrâuxámtrượngÔMộc, khôngtrộn3mặt. Hộiminhquảngtrườngtrắngsươngthấp4cộttrắngđài100trượngbàntròn100ghế. ĐọaHồ/ĐọaĐồlàbiếnthểnguồnkhôngtạokhuthứmười. models/hoang-phu-vu-duong-giao-tam-721.png: HPN721 tóc trắng áo than đen vẻ buồn (khácTXK); VD721 vạm vỡ mặt thường tròn giáp đen; GIA721 GiaoTam bạchy khôngmặtnạ mặtthonhơidài lạnhtrâmđỏtócđen, bổsungmặt chưa lộ ởmodel507, khônggánCamCửuChân khi nguồnchưaxácnhận.
+
+
+## Chương 721 — Bí mật đi: hoàn thành 4 trang
+Nguồn: file CHUONG 721.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/721/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Han trả28HôiTinh mua1thạchbànđen; MQkiểmchứngbảnđồ. ThátMinh→BáchTàng→LaSinh→TẩyHồn; bêntrongTẩyHồntrốngchi tiết, chưa tớiTẩySátTrì. HộiMinh4cộttrắng/đàitrắng/bàntròn100ghế. MinhVươngđãsửađúngMV721dađenhắcbàokhônggiáp/khácVD721giápđen. GIA721GiaoTamnữáotrắngkhôngmặtnạ, mặtbổsungtheonguồnmặtthonlạnh; chưaxácnhậnCam. KhôngvẽHanvậtlýdựhộiminh.
