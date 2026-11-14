@@ -73,6 +73,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 724: Chia ra hành động](chapters/724/): 4 trang, hoàn thành; [PDF A4](chapters/724/chuong-724.pdf)
+
 - [Chương 723: Dòm ngó](chapters/723/): 4 trang, hoàn thành; [PDF A4](chapters/723/chuong-723.pdf)
 
 - [Chương 722: Tập hợp lại](chapters/722/): 4 trang, hoàn thành; [PDF A4](chapters/722/chuong-722.pdf)

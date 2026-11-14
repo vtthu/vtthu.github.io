@@ -1565,3 +1565,11 @@ Nguồn: file CHUONG 723.txt do người dùng đính kèm. Mỗi PNG một tran
 
 ### Đạo cụ trước724–726
 models/na-di-don-thien-ngan-thai-724-726.png: ND724haiTiểuNaDiChuyểnLuânBànbạcBÁTGIÁC>1thướccho2nhóm, khôngtròn; DT724baGiớiTửĐộnThiênTiênPhùtrắng3tấcx2tấcvănđennuốtvàothân, giấubảy-támthànhĐạiLakhôngtoànlựcdò/duytrìnửacanhgiờrútngắn725. TP726bốnphùđenĐôngTâyNamBắc; NT72640–50NgânThaiThạchbạctrắngvănxoắnchứakhônggianpháptắctạibệsâunhấttrong8bệ, bìnhbạcdịchbạcđóngbăngvậnhànhTẠMTHỜIkhôngpháhủy.
+
+
+## Chương 724 — Chia ra hành động: hoàn thành 4 trang
+Nguồn: file CHUONG 724.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/724/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- MQ+BLYđivọnglâu; Han+TXK+HTđicửathành. ND724bạcbátgiácgiao1choMQ/TXKgiữ1. TXKkhônggian/ngântócáotím khácHTtócđenáođenSILVERpin/ẢnhHuyễnTinh, đãsửatrang1vai/kỹnăngvàtrang3ngườinóichianhóm. MQmặtxámsạchrâuhắcbàokhácBLYđỏrượurâungắnxámđãsửatrang2. DT7243phùtrắngvănđenchuẩn,chưa nuốttrướccuối724; chưa biếtgiớihạnnửacanhgiờđến725.
+
+### Model trước725
+models/quy-moc-van-doan-thanh-lau-725.png: QM725QuỷMộccaogầytrungniênmắt hẹpdakhônghuyếtsắctócđenáođenxám, khácMQ; VD725VânĐoàntiểuthúbáotrắngdàihơnthướcmắttogầnnửamặt/sóngtrắngdòmắt. U Nôtruyềntináođenphùđen. Thànhlâutrònđentầng1kho2bên/cầuthanggiữa; tầng2cộtphùđiêurồngcửathạchTRÁIhạch tâm/cầuthang3giữa. ModeltựghiQMcao2trượnglàsai/khôngnguồn,chỉcaogầyngười, khônggiants.
