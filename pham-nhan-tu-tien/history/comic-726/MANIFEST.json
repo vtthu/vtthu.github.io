@@ -1,0 +1,42 @@
+{
+  "chapter": 726,
+  "title": "Cấp bách",
+  "images": [
+    "/tmp/comic-batch-719-732/a4-726/trang-01.png",
+    "/tmp/comic-batch-719-732/a4-726/trang-02.png",
+    "/tmp/comic-batch-719-732/a4-726/trang-03.png",
+    "/tmp/comic-batch-719-732/a4-726/trang-04.png"
+  ],
+  "models": [
+    "tam-nhan-ao-choang-am-phung-719.png",
+    "ho-tam-bach-ly-cuu-u-thu-ve-722.png",
+    "na-di-don-thien-ngan-thai-724-726.png",
+    "quy-moc-van-doan-thanh-lau-725.png"
+  ],
+  "summary": "Ma Quang gây biến loạn khu luyện khôi, dẫn Quỷ Mộc rời thành. Cả nhóm tụ hợp, Hàn Lập mở cấm chế cửa; Thạch Xuyên Không dùng ngân dịch tạm dừng hạch tâm không gian để năm người truyền tống đi.",
+  "notes": "- BốnphùĐôngTâyNamBắcđúng4vách/ND724haiđĩabạcbátgiácthuhồitrướcđi; MQdùngThiênMaloạntâmkhiến1KimTiênHôithúphátcuồng/dấuvếtkhônglộ, QMômVDchạyđi. HanCửuUMaĐồngmắttímphácửaTRÁItầng2/cửacấmchếkhôiphụcsaukhiđóng; 8bệhạch tâm, bệsâunhấtkhônggian. ThạchKhinhHậuchỉTIẾNGkhôngmặt. NT72640–50NgânThaiThạchvănxoắn/dịchbạctạmdừngvàtựhồiphụcsau5ngườibiếnmất, khôngpháhủy. ChưahiệnLaSinhđến727.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-719-732/726p1.png",
+    "/tmp/comic-generated-719-732/726p2.png",
+    "/tmp/comic-generated-719-732/726p3.png",
+    "/tmp/comic-generated-719-732/726p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

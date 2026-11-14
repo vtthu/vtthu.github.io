@@ -1773,3 +1773,8 @@ models/quy-moc-van-doan-thanh-lau-725.png: QM725QuỷMộccaogầytrungniênmắ
 ## Chương 725 — Giương đông kích tây: hoàn thành 4 trang
 Nguồn: file CHUONG 725.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/725/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - 3ngườiphysicchỉHan/TXK/HTởthànhlâu; MQ+BLYvọnglâuchưavề. QM725ĐạiLa ômVD725báotrắngmắtlớn, chưa phát hiện3ngườitrongtường. Tầng2TRÁIchấnđộngkhônggian. PhùbịthúcGiớiTửphụlinh/nửacanhgiờrútngắncònkhoảng1khắc. Trang4đãsửaHT722mặttrẻtrâmbạctócđenhắcbào khôngQuỷMộcmặttrắnghẹpmắt/khôngfur. Cuối725mớilậpkếchưa cóbiếnloạn.
+
+
+## Chương 726 — Cấp bách: hoàn thành 4 trang
+Nguồn: file CHUONG 726.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/726/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- BốnphùĐôngTâyNamBắcđúng4vách/ND724haiđĩabạcbátgiácthuhồitrướcđi; MQdùngThiênMaloạntâmkhiến1KimTiênHôithúphátcuồng/dấuvếtkhônglộ, QMômVDchạyđi. HanCửuUMaĐồngmắttímphácửaTRÁItầng2/cửacấmchếkhôiphụcsaukhiđóng; 8bệhạch tâm, bệsâunhấtkhônggian. ThạchKhinhHậuchỉTIẾNGkhôngmặt. NT72640–50NgânThaiThạchvănxoắn/dịchbạctạmdừngvàtựhồiphụcsau5ngườibiếnmất, khôngpháhủy. ChưahiệnLaSinhđến727.
