@@ -1619,3 +1619,11 @@ Nguồn: file CHUONG 729.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 730 — Gặp biến cố: hoàn thành 4 trang
 Nguồn: file CHUONG 730.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/730/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - MQ dùng tám hắc long; TXK ngân Tỳ Bà mở lỗ; Linh Vực Han dẫn sát khí nên nghịch chân luân kéo bốn người bằng xích xanh. Cấm chế cửa hang tách nhóm/ngắt liên hệ. Hắc ấn Bao La Vạn Tượng; HL-SNCV01 tử kim lân hơn mười trượng, đã sửa mặt vượn đúng model. AQ730 chưa xưng tên; HT hôn mê chưa xác nhận sống chết. Hai U Nô tự bạo hỏa lô phá bích chướng. TL653 giữ xương mặt biến thể khôi lỗi, không giáp vàng. Không cứu tù Xi Dung/NH, không thoát.
+
+### Model trước731
+models/u-lac-ao-choang-tinh-hong-731.png: UL731 U Lạc, rất thấp chưa nửa MQ, áo choàng nửa người tinh hồng/áo quần đen kín, da trắng, tóc đen trâm đỏ, mắt xanh đen, một vảy ĐEN dọc trán (không mắt thật), vết đỏ dưới mí. Diện mạo thanh tú vừa phải. Chưa rõ chủng tộc, nhãn bảng nhân tộc là minh họa KHÔNG xác nhận trong truyện; nguồn chưa công bố thân phận. Pháp văn đỏ ngăn MQ hóa khói, ấn Cấm. Giữ cùng model731–732.
+
+
+## Chương 731 — Tình thế nguy hiểm: hoàn thành 4 trang
+Nguồn: file CHUONG 731.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/731/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- AQ xác nhận TL653 đã chết vì không gian, cải tạo thi thể khôi lỗi. UL731 áo tinh hồng/mắt xanh đen/vảy trán/đỏ dưới mí, chưa rõ chủng tộc. MQ bị Cấm, còn sống. Hàn về người CT603 trước phá vây; đúng chín Thanh Trúc kiếm hợp nhất. Ba Thái Ất MQ/HT/BLY và hai Kim Tiên đỉnh phong Han/TXK đều bị bắt. Thủ vệ khôi lỗi làm lộ tung tích, không phải Hồ Vĩ bị khám phá. Hết chương lôi ti khóa Nguyên Anh cả năm; đồ chưa bị tịch thu đến732.

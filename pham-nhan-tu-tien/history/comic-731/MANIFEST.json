@@ -1,0 +1,44 @@
+{
+  "chapter": 731,
+  "title": "Tình thế nguy hiểm",
+  "images": [
+    "/tmp/comic-batch-719-732/a4-731/trang-01.png",
+    "/tmp/comic-batch-719-732/a4-731/trang-02.png",
+    "/tmp/comic-batch-719-732/a4-731/trang-03.png",
+    "/tmp/comic-batch-719-732/a4-731/trang-04.png"
+  ],
+  "models": [
+    "am-quat-khoi-loi-hoa-lo-hac-an-730.png",
+    "to-luu-khoi-loi-cu-vien-tu-kim-lan-730.png",
+    "u-lac-ao-choang-tinh-hong-731.png",
+    "ho-the-huyen-quy-long-lan-ngan-ty-ba-729.png",
+    "tam-nhan-ao-choang-am-phung-719.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "U Lạc khống chế Ma Quang. Hàn Lập liều phá vây nhưng bị Âm Quát bắt; cả năm người chịu cấm chế Sát Lôi khóa Nguyên Anh, pháp lực và thần thức.",
+  "notes": "- AQ xác nhận TL653 đã chết vì không gian, cải tạo thi thể khôi lỗi. UL731 áo tinh hồng/mắt xanh đen/vảy trán/đỏ dưới mí, chưa rõ chủng tộc. MQ bị Cấm, còn sống. Hàn về người CT603 trước phá vây; đúng chín Thanh Trúc kiếm hợp nhất. Ba Thái Ất MQ/HT/BLY và hai Kim Tiên đỉnh phong Han/TXK đều bị bắt. Thủ vệ khôi lỗi làm lộ tung tích, không phải Hồ Vĩ bị khám phá. Hết chương lôi ti khóa Nguyên Anh cả năm; đồ chưa bị tịch thu đến732.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-719-732/731p1.png",
+    "/tmp/comic-generated-719-732/731p2.png",
+    "/tmp/comic-generated-719-732/731p3.png",
+    "/tmp/comic-generated-719-732/731p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

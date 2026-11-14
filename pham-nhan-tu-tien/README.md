@@ -73,6 +73,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 731: Tình thế nguy hiểm](chapters/731/): 4 trang, hoàn thành; [PDF A4](chapters/731/chuong-731.pdf)
+
 - [Chương 730: Gặp biến cố](chapters/730/): 4 trang, hoàn thành; [PDF A4](chapters/730/chuong-730.pdf)
 
 - [Chương 729: Động thủ](chapters/729/): 4 trang, hoàn thành; [PDF A4](chapters/729/chuong-729.pdf)
