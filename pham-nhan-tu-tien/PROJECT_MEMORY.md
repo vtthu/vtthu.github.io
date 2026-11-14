@@ -1557,3 +1557,11 @@ Nguồn: file CHUONG 722.txt do người dùng đính kèm. Mỗi PNG một tran
 
 ### Model trước723
 models/bach-tang-luyen-khoi-vat-mau-723.png: khu luyệnkhôi tườngĐENốngkhóixámbăngsươnglạnhkhôngmùatuyết; ao20–30trượngxámtrắngsôibốnlồngsắtngâmtrongao2hôithúvà2dịtộcsừngtrâu; lòhỏaxámlạnhphápvăn/chấtđộc vànhàgiamtổongthấp. Thú/dị tộc vô danh thiết kếchuyểnthể, cảnhẩnhiện/phục trang kín tránhgorekhôngthêmtênloài. Nhãn/modeltựsinhkhôngthayđổisốlồng/vịtrítrongao.
+
+
+## Chương 723 — Dòm ngó: hoàn thành 4 trang
+Nguồn: file CHUONG 723.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/723/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Thânthể5ngườivượtthànhnhờẢnhHuyễnTinhHT/khônggianTXK/sátkhíMQ; riêngcảnhbêntrongxưởngchỉTHẦNTHỨCHan nhìn, bốnngườikhôngbiết. ThạchKhinhHậuchỉTIẾNGtrongđầukhôngdựngmặt. CửuUĐạiTàngHuyềnCấm pháđượcbằngbípháp. Ao4lồng2thú2sừngtrâu,lòlửaxámlạnh/chấtđộc thànhkhôilỗimấtthầntrí; mô tả gián tiếp khônggore. BáchTàngvọngthápkhácbảnđồcũ nhưngđườngchưađổi. Chưatớinhàgiamtổong724.
+
+### Đạo cụ trước724–726
+models/na-di-don-thien-ngan-thai-724-726.png: ND724haiTiểuNaDiChuyểnLuânBànbạcBÁTGIÁC>1thướccho2nhóm, khôngtròn; DT724baGiớiTửĐộnThiênTiênPhùtrắng3tấcx2tấcvănđennuốtvàothân, giấubảy-támthànhĐạiLakhôngtoànlựcdò/duytrìnửacanhgiờrútngắn725. TP726bốnphùđenĐôngTâyNamBắc; NT72640–50NgânThaiThạchbạctrắngvănxoắnchứakhônggianpháptắctạibệsâunhấttrong8bệ, bìnhbạcdịchbạcđóngbăngvậnhànhTẠMTHỜIkhôngpháhủy.

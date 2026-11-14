@@ -1,0 +1,41 @@
+{
+  "chapter": 723,
+  "title": "Dòm ngó",
+  "images": [
+    "/tmp/comic-batch-719-732/a4-723/trang-01.png",
+    "/tmp/comic-batch-719-732/a4-723/trang-02.png",
+    "/tmp/comic-batch-719-732/a4-723/trang-03.png",
+    "/tmp/comic-batch-719-732/a4-723/trang-04.png"
+  ],
+  "models": [
+    "tam-nhan-ao-choang-am-phung-719.png",
+    "ho-tam-bach-ly-cuu-u-thu-ve-722.png",
+    "bach-tang-luyen-khoi-vat-mau-723.png"
+  ],
+  "summary": "Năm người phối hợp vượt thành, tiến vào Bách Tàng. Thạch Khinh Hậu truyền bí pháp giúp thần thức Hàn Lập xuyên cấm chế, phát hiện nơi luyện khôi bí mật.",
+  "notes": "- Thânthể5ngườivượtthànhnhờẢnhHuyễnTinhHT/khônggianTXK/sátkhíMQ; riêngcảnhbêntrongxưởngchỉTHẦNTHỨCHan nhìn, bốnngườikhôngbiết. ThạchKhinhHậuchỉTIẾNGtrongđầukhôngdựngmặt. CửuUĐạiTàngHuyềnCấm pháđượcbằngbípháp. Ao4lồng2thú2sừngtrâu,lòlửaxámlạnh/chấtđộc thànhkhôilỗimấtthầntrí; mô tả gián tiếp khônggore. BáchTàngvọngthápkhácbảnđồcũ nhưngđườngchưađổi. Chưatớinhàgiamtổong724.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-719-732/723p1.png",
+    "/tmp/comic-generated-719-732/723p2.png",
+    "/tmp/comic-generated-719-732/723p3.png",
+    "/tmp/comic-generated-719-732/723p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
