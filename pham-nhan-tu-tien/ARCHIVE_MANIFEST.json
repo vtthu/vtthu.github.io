@@ -4067,18 +4067,18 @@
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 415084,
-      "sha256": "eb87f1521a41c586583eb21de22a999fd3babd4b3be0c3bbdcedbfb34e0dce27"
+      "bytes": 420832,
+      "sha256": "11eae548c5515b477b8bc69cba126dc9d46fb71371fe1c271721154fde25e8ed"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 365961,
-      "sha256": "719e612549a8fc8f05971150e72db25ada90ba9c8bd5b9af375c86de82b36859"
+      "bytes": 371709,
+      "sha256": "48f32fb3053ba0c3ac8b9f1b4652fa2d2b57d9664781e8ca80458f62b732d411"
     },
     {
       "path": "README.md",
-      "bytes": 19393,
-      "sha256": "0fc1b0069bf2314b0b48044b59f06b39dafac20f152dca039069080dd6412485"
+      "bytes": 19548,
+      "sha256": "faa86aff8ec2cfb41850fccd01e2557f464b8f47e269da4c6678c8693140a1fd"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -13799,6 +13799,41 @@
       "path": "production/652-662/workflow/package.py",
       "bytes": 4998,
       "sha256": "6873614f85d6b998a676683d82ea3fa69f8507395882f17debe6bd70f144b340"
+    },
+    {
+      "path": "production/719-732/CHAPTER_REGISTRY.json",
+      "bytes": 26014,
+      "sha256": "b6b8a03034f05675a04991eb0e356ad6b9df40c9ff1ac2949901fd3bba87ef76"
+    },
+    {
+      "path": "production/719-732/README.md",
+      "bytes": 5444,
+      "sha256": "18cdbbe6da0a6823ef4e9bb55e74aa9622898946418ed55a6f5a094191ab68cd"
+    },
+    {
+      "path": "production/719-732/STYLE_GUIDE.md",
+      "bytes": 3461,
+      "sha256": "b954662a857fb67bdad08de48943da67d8d1eb347aa2ba1854ff20929f41fa57"
+    },
+    {
+      "path": "production/719-732/VERIFICATION.json",
+      "bytes": 3419,
+      "sha256": "997e5a2efb48d14f576ee441dde0b75d9ca706670f49093a283c45b63cc11e04"
+    },
+    {
+      "path": "production/719-732/workflow/finalize.py",
+      "bytes": 10670,
+      "sha256": "82352b3540c3373d576c73ff734a79018365431352ec341726a8daf4148d4d9a"
+    },
+    {
+      "path": "production/719-732/workflow/image_result_save.js",
+      "bytes": 843,
+      "sha256": "16683e6d3fd4b144b850543ab0c4fa83de422333e63349fab80ef7f1bb8ec6d2"
+    },
+    {
+      "path": "production/719-732/workflow/package.py",
+      "bytes": 4998,
+      "sha256": "b54603b4a901b38cf96e721f43cf774a920bf515e0fe2224aefc4d578dbe6f82"
     },
     {
       "path": "summaries/465/README.md",

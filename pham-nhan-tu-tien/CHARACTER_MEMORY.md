@@ -1830,3 +1830,43 @@ models/u-lao-giam-nguc-gong-xe-tu-732.png: giám ngục GN732 CHƯA NÊU TÊN, n
 ## Chương 732 — U Lao: hoàn thành 4 trang
 Nguồn: file CHUONG 732.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/732/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - UL thu TẤT CẢ trữ vật/tiên khí, đúng chín Thanh Trúc kiếm và một ngân Tỳ Bà; đã sửa đếm kiếm/nhãn trang2. Han/HồTam/BLY bỏ giáp pháp bảo về y phục gốc; MQHT588/TXK652 giữ mặt. Năm người giữ gông đầu/thân và cổ tay chân tự do, đã sửa trang3 để không biến mất gông. Nửa ngày tới nhà vuông đen ngọc đen. Giám ngục áo xám ba u thịt KHÔNG tên/hai U Nô giáp xám. Trận đài cao nửa trượng/tám cột trắng, đủ8người. Cảnh BLY trúng roi chỉ lời dẫn/cắt cảnh, không vẽ cận bạo lực; trang4 kết câu Han, chưa bị đánh/chưa thoát/chưa giải Sát Lôi. Hai tù XiDung/NhiệtHỏa vẫn ở lồng cầu, không tự thêm cứu.
+
+
+## Hoàn thành đợt 719–732
+14 chương, mỗi chương4 trang;56 PNG,14 PDF A4; commit/push riêng từng chương. Mục lục production/719-732/README.md. Không đánh dấu663–718 hoàn thành.
+
+Cuối732: Cả năm Han CT603, MQ-HT588, HT722, TXK652, BLY722 bị Sát Lôi của Âm Quát phong tỏa Nguyên Anh, pháp lực, thần thức; đeo gông đầu/thân và cổ tay, chân tự do. U Lạc đã lấy toàn bộ trữ vật và tiên khí, gồm đúng chín Thanh Trúc Phong Vân Kiếm và một ngân Tỳ Bà. Han áo teal trúc vàng trâm ngọc xanh, không còn Huyền Quy giáp; HT áo đen trâm bạc sạch râu không còn quan/châu hộ thể; BLY tóc đen mai xám râu ngắn áo burgundy, không giáp/pháp tướng; TXK tóc bạc áo tím không Tỳ Bà; MQ mặt xám áo đen. Năm người vừa dịch chuyển xuống U Lao theo giám ngục chưa nêu tên, áo xám ba u thịt trán và hai U Nô giáp xám. Hết chương Han hỏi U Lao có cấm mở miệng không; chưa bị đánh sau câu hỏi, chưa thoát/chưa giải cấm. Xi Dung và Nhiệt Hỏa vẫn bị giam dưới cầu Hỏa Trì. Tô Lưu TL653 đã chết vì không gian, thi thể thành khôi lỗi; giữ nguyên xương mặt. Không thêm kết quả cứu tù. U Lạc chưa xác định chủng tộc/lai lịch. Không tự viết nối khoảng663–718.
+
+
+Mỗi chương4–5 trang A4 dọc; đợt này4 trang/chương. Mỗi PNG một trang, phong cách tiên hiệp bán hiện thực3D, nhiều khung, thoại, suy nghĩ và lời dẫn tiếng Việt. Đính kèm trực tiếp model PNG trong lần tạo. Model mới/biến thể được lưu và đăng ký trước khi dùng. Nhãn tự phát trên model không bổ sung dữ kiện nguyên tác.
+
+Giữ HL-01 V2 gốc. Hàn dùng CT603 trung niên sạch râu tóc đen trâm ngọc xanh áo teal trúc vàng; Kim Tiên đỉnh phong chưa giải Sát suy. MQ dùng MQ-HT588 mặt xám nhăn áo đen không da đen MQ01. TXK652 tóc bạc trâm tím áo tím. HT722 là cải trang trẻ sạch râu áo đen/trâm bạc, không HT652 râu trắng bào. BLY722 người trưởng thành tóc đen mai xám râu ngắn đen xám áo burgundy, cùng nhân vật hắc long506; không lấy Âu Dương áo tím trên bảng506 làm BLY. Nhiệt Hỏa NH603 già tóc râu trắng áo lam thêu lửa; Xi Dung XD652 tóc đỏ sừng tê mũi vòng tai vàng. Không đổi mặt căn bản khi bị giam/biến thể.
+
+Tam Miêu/Điên Đảo Nhai là không khí Hôi Giới xám; Bách Tàng lạnh có sương, La Sinh nóng Nghiệp Hỏa ĐEN, không dung nham cam. Hội nghị Hắc Thằng có Minh Vương/Thiên Sát/Tiêu Bất Dạ và người chủ trì Hoàng Phủ Ngọc tóc trắng áo đen; Giao Tam xuất hiện không mặt nạ, chưa gán Cam Cửu Chân. Đọa Hồ/Đọa Đồ là biến thể chữ nguồn, không thêm khu mới.
+
+Tiểu Na Di Chuyển Luân Bàn đúng hai bàn bát giác bạc; Độn Thiên Phù ba tờ giấy trắng phải nuốt. Ngự Phong Trấn Thần Phù là rune trắng chỉ mi tâm Han, hư ảnh núi tuyết hộ năm người, không giấy trắng ở trán. Năm Hồ Vĩ trắng mượn Hồ Tam phải trả; giả dạng728–729 ba U Nô/hai Cửu U chỉ trạng thái tạm, bỏ giữa729. U Nô lơ lửng một xích; Uy Tinh thợ lùn da lam đen khác U Nô da xám. Nghiệp Hỏa Sát Lôi đen dạng củ khoai, không lựu đạn hiện đại.
+
+Ấn Bao La Vạn Tượng vuông đen bốn chữ đỏ. Cự Viên HL-SNCV01 giữ mặt vượn thật/lông vàng/khố teal, thêm tử kim lân, cao hơn mười trượng theo730 không nhãn12m cũ. Bảo Luân dựng đứng có mắt vàng, thời gian vẫn tác động hắc ấn nhưng sức mạnh bẻ cong không gian áp đảo. Tô Lưu khôi lỗi giữ mặt TL653, mắt xám trắng tử khí hỏa lô ngực cơ khí/rìu hai lưỡi/chùy gai xích, không giáp vàng cũ. Âm Quát khác Quỷ Mộc, cao quan áo đen mặt âm nhu mắt xám trắng; U Lạc áo choàng nửa người tinh hồng rất thấp, vảy đen dọc trán không mắt thứ ba, đỏ dưới mí, mắt xanh đen; chưa gán nhân tộc từ nhãn model.
+
+U Lao vuông đen tường ngọc đen, trận đài nửa trượng (không nhãn0.5m), đúng tám cột trắng/tám người dịch chuyển. Giám ngục chưa nêu tên, ba u thịt trán không sừng/mắt. Năm người luôn giữ gông; pháp lực thần thức bị khóa, không tự sinh trang bị/năng lực. Cảnh roi BLY chỉ dùng lời dẫn/cắt cảnh, không cận bạo lực. Đã sửa đếm chín kiếm và gông trang3. Cuối732 chưa cứu tù/chưa mở cấm/chưa thoát ngục.
+
+Model mới:
+- models/am-quat-khoi-loi-hoa-lo-hac-an-730.png
+- models/bach-tang-luyen-khoi-vat-mau-723.png
+- models/chu-vuc-chu-hac-xi-tuy-tung-722.png
+- models/dien-dao-nhai-hang-rong-o-tang-720.png
+- models/ho-tam-bach-ly-cuu-u-thu-ve-722.png
+- models/ho-the-huyen-quy-long-lan-ngan-ty-ba-729.png
+- models/hoang-phu-vu-duong-giao-tam-721.png
+- models/mieu-coc-mieu-tu-cuu-u-o-trong-719.png
+- models/na-di-don-thien-ngan-thai-724-726.png
+- models/ngu-tieu-ho-vi-gia-trang-tran-than-728.png
+- models/quy-moc-van-doan-thanh-lau-725.png
+- models/tam-nhan-ao-choang-am-phung-719.png
+- models/tieu-bat-da-hac-thang-hoi-minh-721.png
+- models/to-luu-khoi-loi-cu-vien-tu-kim-lan-730.png
+- models/tu-la-quy-nhan-uy-tinh-nghiep-loi-727.png
+- models/u-lac-ao-choang-tinh-hong-731.png
+- models/u-lao-giam-nguc-gong-xe-tu-732.png
+- models/xi-dung-nhiet-hoa-tu-binh-doan-kieu-729.png
+- models/xuong-nghiep-hoa-giam-cong-728.png

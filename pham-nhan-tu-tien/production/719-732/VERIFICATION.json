@@ -1,0 +1,94 @@
+{
+  "status": "completed",
+  "verified_at_utc": "2026-11-14T18:27:27.077370+00:00",
+  "chapters": 14,
+  "PNG_pages": 56,
+  "PDFs_A4": 14,
+  "PNG_pixels": [
+    1055,
+    1492
+  ],
+  "source_identical_to_user_uploads": true,
+  "PDF_page_counts_and_A4_verified": true,
+  "all_PNG_decodes_verified": true,
+  "ZIP_integrity_verified_locally": true,
+  "root_website_untouched": true,
+  "new_model_images": [
+    {
+      "path": "models/am-quat-khoi-loi-hoa-lo-hac-an-730.png",
+      "sha256": "296ab861712a62d4cab5d641d725cc730561f463c5e8b57f9817c376b490444e"
+    },
+    {
+      "path": "models/bach-tang-luyen-khoi-vat-mau-723.png",
+      "sha256": "f1a78230c3c0546132920ce4c4496f9775b062fdb359097f40eea4a80bef2b63"
+    },
+    {
+      "path": "models/chu-vuc-chu-hac-xi-tuy-tung-722.png",
+      "sha256": "ee7d1e13b8ebe423873c41f89c8ac6f1f17f2d24e4648a6ba900ac25a02920ef"
+    },
+    {
+      "path": "models/dien-dao-nhai-hang-rong-o-tang-720.png",
+      "sha256": "8b7c20b0cdc4623b2cf604592f57b4b7dbe8e77b9352be0bcc94ef219fac16a5"
+    },
+    {
+      "path": "models/ho-tam-bach-ly-cuu-u-thu-ve-722.png",
+      "sha256": "9660b34efca3665336b66748654af5a01f76c00a080b8e2ca5e01fa9ca515779"
+    },
+    {
+      "path": "models/ho-the-huyen-quy-long-lan-ngan-ty-ba-729.png",
+      "sha256": "86f71dc7fcd4a3a628740b00738e50f463894b0a67106cd98955518f27609562"
+    },
+    {
+      "path": "models/hoang-phu-vu-duong-giao-tam-721.png",
+      "sha256": "b62189a1ab23291331c319f4d65c055d5addd20f00f0ef460eba76dc6ca7a920"
+    },
+    {
+      "path": "models/mieu-coc-mieu-tu-cuu-u-o-trong-719.png",
+      "sha256": "b6592786d2756219e36b9c8a32644ff005e2d3b7a9752b8ac0176b55a6d2968e"
+    },
+    {
+      "path": "models/na-di-don-thien-ngan-thai-724-726.png",
+      "sha256": "a327e9e5ffb52accd8bc6921b0626c1621ace69f400781298b6c3c5e7b3639f9"
+    },
+    {
+      "path": "models/ngu-tieu-ho-vi-gia-trang-tran-than-728.png",
+      "sha256": "e362a1e74f6271cf1ce5301068cff928093237917f0deaf4a380521b95847ac8"
+    },
+    {
+      "path": "models/quy-moc-van-doan-thanh-lau-725.png",
+      "sha256": "e1f9fd6ac44877702a8d22c72014c46212df45d6c6c1b75f6f7e4c7b8a10c3fa"
+    },
+    {
+      "path": "models/tam-nhan-ao-choang-am-phung-719.png",
+      "sha256": "4c82f2f6c85642fa6f0b8a0b167620ae39e0b78f7fd004eeb434cc25c7b3f05e"
+    },
+    {
+      "path": "models/tieu-bat-da-hac-thang-hoi-minh-721.png",
+      "sha256": "c6960559615506b238eaf6d71459bb48ec325472823531b66a741d90ea49c304"
+    },
+    {
+      "path": "models/to-luu-khoi-loi-cu-vien-tu-kim-lan-730.png",
+      "sha256": "e477e8a8bfc071ead1d83709cc809c488565b6ee1d464e47e967096d9a9cf0e4"
+    },
+    {
+      "path": "models/tu-la-quy-nhan-uy-tinh-nghiep-loi-727.png",
+      "sha256": "0364f7fefa94abc8af3aa96aa61c94b090f33838bead0c1021913eb8b28bc1c8"
+    },
+    {
+      "path": "models/u-lac-ao-choang-tinh-hong-731.png",
+      "sha256": "dbc0e12399d41da9c5b1909f1e9d8782fbef0caa105856774f6823535eaac685"
+    },
+    {
+      "path": "models/u-lao-giam-nguc-gong-xe-tu-732.png",
+      "sha256": "c5c3752d51c230e2416fb156d1d5f7bc665cb52e911ddc14f017a9275c326c83"
+    },
+    {
+      "path": "models/xi-dung-nhiet-hoa-tu-binh-doan-kieu-729.png",
+      "sha256": "9caec3c959fb4c618efbc5cc9fbe2ab15b2c5aff5212c7f6603cf59d9b5b1cab"
+    },
+    {
+      "path": "models/xuong-nghiep-hoa-giam-cong-728.png",
+      "sha256": "efa7a0f43204c9fa357222f33e2439161c55a4dc68bc8b46d385916a7c619fa2"
+    }
+  ]
+}
