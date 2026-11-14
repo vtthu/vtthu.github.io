@@ -73,6 +73,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 725: Giương đông kích tây](chapters/725/): 4 trang, hoàn thành; [PDF A4](chapters/725/chuong-725.pdf)
+
 - [Chương 724: Chia ra hành động](chapters/724/): 4 trang, hoàn thành; [PDF A4](chapters/724/chuong-724.pdf)
 
 - [Chương 723: Dòm ngó](chapters/723/): 4 trang, hoàn thành; [PDF A4](chapters/723/chuong-723.pdf)

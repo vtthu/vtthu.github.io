@@ -1768,3 +1768,8 @@ Nguồn: file CHUONG 724.txt do người dùng đính kèm. Mỗi PNG một tran
 
 ### Model trước725
 models/quy-moc-van-doan-thanh-lau-725.png: QM725QuỷMộccaogầytrungniênmắt hẹpdakhônghuyếtsắctócđenáođenxám, khácMQ; VD725VânĐoàntiểuthúbáotrắngdàihơnthướcmắttogầnnửamặt/sóngtrắngdòmắt. U Nôtruyềntináođenphùđen. Thànhlâutrònđentầng1kho2bên/cầuthanggiữa; tầng2cộtphùđiêurồngcửathạchTRÁIhạch tâm/cầuthang3giữa. ModeltựghiQMcao2trượnglàsai/khôngnguồn,chỉcaogầyngười, khônggiants.
+
+
+## Chương 725 — Giương đông kích tây: hoàn thành 4 trang
+Nguồn: file CHUONG 725.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/725/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 3ngườiphysicchỉHan/TXK/HTởthànhlâu; MQ+BLYvọnglâuchưavề. QM725ĐạiLa ômVD725báotrắngmắtlớn, chưa phát hiện3ngườitrongtường. Tầng2TRÁIchấnđộngkhônggian. PhùbịthúcGiớiTửphụlinh/nửacanhgiờrútngắncònkhoảng1khắc. Trang4đãsửaHT722mặttrẻtrâmbạctócđenhắcbào khôngQuỷMộcmặttrắnghẹpmắt/khôngfur. Cuối725mớilậpkếchưa cóbiếnloạn.
