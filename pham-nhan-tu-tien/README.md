@@ -73,6 +73,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 728: Giả làm địch nhân](chapters/728/): 4 trang, hoàn thành; [PDF A4](chapters/728/chuong-728.pdf)
+
 - [Chương 727: Tin đồn](chapters/727/): 4 trang, hoàn thành; [PDF A4](chapters/727/chuong-727.pdf)
 
 - [Chương 726: Cấp bách](chapters/726/): 4 trang, hoàn thành; [PDF A4](chapters/726/chuong-726.pdf)

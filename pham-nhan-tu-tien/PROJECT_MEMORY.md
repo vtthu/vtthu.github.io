@@ -1594,3 +1594,14 @@ Nguồn: file CHUONG 727.txt do người dùng đính kèm. Mỗi PNG một tran
 
 ### Biến thể trước728
 models/ngu-tieu-ho-vi-gia-trang-tran-than-728.png: 5biếnthểtạm nhờNgọcTiêuHồVĩ WHITEtuftmượnphảitrả. MQ-CU728/BLY-CU7282CửuUđihàngtrước, Han-U728/TXK-U728/HT-U7283U Nôtheosau,tấtcảlơlửng1xích mắtgray/áoxámđenẩntrâmvàmàuáogốc. KhithuHồVĩ729trởlạimodelCT603/TXK652/HT722/MQHT588/BLY722khôngđổidanh tính. NgựPhongTrấnThầnPhùlàRUNEtrắngtừmi tâmHan/projectiontuyếtsơnhơn10trượng, khônggiấyphùnuốtDT724. LuyệnThầnThuậttầng5đạithànhxácnhận728.
+
+### Xưởng trước728
+models/xuong-nghiep-hoa-giam-cong-728.png: GN728giámcôngU NômặtxámgiápđenroiNghiệpHỏa, khácUT727laođộnglùndaLamđen. Xưởngngầm lòlửaĐENchínhgiữa/hàngtrămUyTinh/láppháplôi, giápbảohộkíncủathợmúcHỏa/vaimuôidài. Khay10lôithànhphẩmchỉdâng729. KhôngchoBLY/tùbinhxuất hiệntrướcthờitruyện.
+
+
+## Chương 728 — Giả làm địch nhân: hoàn thành 4 trang
+Nguồn: file CHUONG 728.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/728/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- NgheđồnCửuUsốngGẦNNghiệpHỏatừnhỏ/20tuổimớitẩyhồnkhôngnémtrẻvàolửa. HanLuyệnThần5ĐẠITHÀNH/NgựPhongTrấnThầnPhùWHITErune mi tâm. 5biếnthể728: MQ+BLYgiảCửuU/3HanTXKHTgiảUNÔ tấtcảáoxámđen tócđen/khôngrâutrâmđen mắtgray lơlửng1xích; NgọcTiêuHồVĩtrắngmượnphảitrả. UT5cuffnói2tùChânTiênkhôngphốihợpchưalộmặttrước729. BLACKNghiệpHỏaxưởngđãsửakhôngcam, GN728UNÔgiámcôngkhácUyTinhthợlùn. CuốiđổHỏa/diệngiápthợnứt/đauimlặng, MQchưahốt lửađến729.
+
+### Trạng thái trước729
+models/xi-dung-nhiet-hoa-tu-binh-doan-kieu-729.png táiXD652tócđỏmũitêxanhđenvòngtaivàng/NH603tócrâutrắngáolamthêulửa chỉtổnhao/cấmgiam1lồngVUÔNGtreodướiĐẦUCẦUCỤTtrênHỏaTrìĐEN; cửahangbờđốidiệnchảyHỏaxuốngtrì. models/ho-the-huyen-quy-long-lan-ngan-ty-ba-729.png: saucởiHồVĩHanCT603giápHuyềnQuyxanhlụcmaihexvàng/kimlân; BLY722longlângiápđenđỏ/730haitayhóalongtrảo; HT722quanngọcbạcgắnU LụcLyChâuxanhlụcáogiápmàngphỉthúy tạm; TXK652ngânTỳBà4dâybíchchướngkhônggian; MQHT588khônggiápmới. NgựPhongTrấnThầnPhùRUNEtrắng+hưảnhNÚITUYẾTchứkhônghàngngườitrắng(modelđãsửaTRƯỚCdùng). CáctùXiDung/NHchưacứuđượccuối729.
