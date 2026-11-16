@@ -1948,3 +1948,8 @@ Nguồn: file CHUONG 775.txt do người dùng đính kèm. Mỗi PNG một tran
 
 ### Model trước776
 models/tu-linh-kim-phong-ho-ve-776.png: TL776TửLinháotímđậmthêuvàngtócđenpinhoaamethystsilver/phântướngthiếtkếchuyểnthể(khônggántuổi/nốtruồilàcanon). ChỉlàCHÂNDUNGhiệntrênngọcbàiXANHkhôngcóthậtbênHan, khôngLụcVũTìnhV2/GiaoTam. KimPhongSơnváchquặngvàngđỉnhVẠNTRƯỢNGtheonguồn776, nhãnmodel10vạn/100000saiKHÔNGdùng; điệntoànvàng. BV776hộvệHỌBAchưađủtên,mặtrộngsạchrâu;VG776hộvệvôdanhrâucằmngắnxám,haingườigiápVÀNGdàybánkhôilộ nửamặthữucơxámchứkhôngGiảirobotvàng. Bảo vệT INHKIMMANG/áogiáplàthiếtkếminhhọa,khôngxửhìnhtrựctiếptrongtranh.
+
+
+## Chương 776 — Tìm kiếm hồng nhan: hoàn thành 4 trang
+Nguồn: file CHUONG 776.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/776/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- DHvẫnhônmê/BảnNguyênhếtchưacứu,chỉgợicáchĐạiTếTiDạDươngchưadiễnraviệ cchữa. TXKgiảithíchMaChủcanthiệpLaTrálàsuyđoán. HướngBẮCThậpHoạn→HùngCứ→DạDươngsơđồlộtrìnhkhôngbảnđồchuẩn. 10hungthúĐạiLachỉnhắc/điểmcảnhbáokhôngvẽngườimới. TL776TửLinhchỉhìnhngọcbàiXANH,khôngcóthậttrongHoaChi;chưakhẳngđịnhđãphithăng/bạnlữ. HaiHanhbạchbào/TXKáotímlykhaiHoaChihướngbắc,DHkhôngtheora. KimPhongSơnVẠNTRƯỢNG/goldpalace,2hộvệBV776họBa/VG776vôdanh;chuyệnthịthiếpđượckểngắnkhôngminhhọatrừngphạt. KimTêchưavẽthânngườiđến777.
