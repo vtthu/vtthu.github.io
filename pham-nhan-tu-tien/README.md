@@ -77,6 +77,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 780: Trảm thảo trừ căn](chapters/780/): 4 trang, hoàn thành; [PDF A4](chapters/780/chuong-780.pdf)
+
 - [Chương 779: Kiếm giết quần hung](chapters/779/): 4 trang, hoàn thành; [PDF A4](chapters/779/chuong-779.pdf)
 
 - [Chương 778: Chặn đường](chapters/778/): 4 trang, hoàn thành; [PDF A4](chapters/778/chuong-778.pdf)

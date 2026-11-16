@@ -1,0 +1,43 @@
+{
+  "chapter": 780,
+  "title": "Trảm thảo trừ căn",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-780/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-780/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-780/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-780/trang-04.png"
+  ],
+  "models": [
+    "han-lap-bach-bao-ngoc-tien-775.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "kim-te-dai-hoang-tu-thiet-vu-777.png",
+    "thiet-vu-cung-tien-doc-vuc-cau-long-779.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Hồ lô hóa giải độc trên kiếm. Hàn Lập dùng Thời Gian Linh Vực và phi kiếm đánh bại Thiết Vũ; Thạch Xuyên Không truy kích nhóm còn lại.",
+  "notes": "- HuyềnThiênHồLôhaiBẦUngọcxanhKHÔNGChưởngThiênBìnhdạnglá;6kiếmđầuchữasạchđộc,rồi18kiếm/cung/chíntiễncuốicùnglạithuđểhóagiảilụcban. 12kiếmvừacạnlôipháptắckhôngtựđủtức thì,780theonguồn18kiếmvẫntạokiếmsơn. ĐộcVực100dặm/ThờiGianVựchơn10dặm,chậmkhoảng10lần. TXKLaTráthoát100dặm. VựcLinhchặnđượclôiquangnhưngphi kiếmbấtngờ+kiếmkhítiêudiệtThiếtVũTHÁIẤTHẬUKỲ,khôngthaybằngbịthươngthoát;mọicảnhkếtliễuqualờidẫn/cutawaykhônghìnhthểgore. TXKđuổitheonhómcònlạichưaquayvềđến781. Đãsửaactorcầmcungtrang2đúngThiếtVũ.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/780p1.png",
+    "/tmp/comic-generated-766-781/780p2.png",
+    "/tmp/comic-generated-766-781/780p3.png",
+    "/tmp/comic-generated-766-781/780p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

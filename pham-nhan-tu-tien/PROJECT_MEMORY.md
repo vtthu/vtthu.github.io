@@ -1773,3 +1773,8 @@ Nguồn: file CHUONG 778.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 779 — Kiếm giết quần hung: hoàn thành 4 trang
 Nguồn: file CHUONG 779.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/779/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - 18kiếm=12CầuLong+6hộthân,12rồngthuầnnănglượnglôiđiệnkhônglongtộcthật. Nhómbịvây3TháiẤt/vàiKimTiênvẫnlạcquaá nhphép/lờidẫnkhônggore;thuộchạcònlạitrênmâyđensống. LaTrá4dâyTXKchặnThiếtVũ,KHÔNGpháhủysớm. 12kiếmcạnlôipháptắcthuvềđanđiềncầnôndưỡng;6kiếmnhiễmThúyVânChướngchưasạch;cuốichương9tênlạibắntớichưatiêudiệtThiếtVũ.
+
+
+## Chương 780 — Trảm thảo trừ căn: hoàn thành 4 trang
+Nguồn: file CHUONG 780.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/780/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- HuyềnThiênHồLôhaiBẦUngọcxanhKHÔNGChưởngThiênBìnhdạnglá;6kiếmđầuchữasạchđộc,rồi18kiếm/cung/chíntiễncuốicùnglạithuđểhóagiảilụcban. 12kiếmvừacạnlôipháptắckhôngtựđủtức thì,780theonguồn18kiếmvẫntạokiếmsơn. ĐộcVực100dặm/ThờiGianVựchơn10dặm,chậmkhoảng10lần. TXKLaTráthoát100dặm. VựcLinhchặnđượclôiquangnhưngphi kiếmbấtngờ+kiếmkhítiêudiệtThiếtVũTHÁIẤTHẬUKỲ,khôngthaybằngbịthươngthoát;mọicảnhkếtliễuqualờidẫn/cutawaykhônghìnhthểgore. TXKđuổitheonhómcònlạichưaquayvềđến781. Đãsửaactorcầmcungtrang2đúngThiếtVũ.
