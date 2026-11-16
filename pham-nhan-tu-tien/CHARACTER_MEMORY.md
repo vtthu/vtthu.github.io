@@ -1882,3 +1882,11 @@ Model mới lưu trước dùng:
 ## Chương 766 — Chiến đấu với Đại La (2): hoàn thành 4 trang
 Nguồn: file CHUONG 766.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/766/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - HànCT603 mắt đen, sát khí gần hết, NỬA BƯỚCTháiẤt chưachínhthức. HT722 đãsửaảnhmodel sạch râu, chínđuôitrắng, TXK652ngântỳbà4dây. AQ730 chỉTAYPHẢI, taytráimấttừtrước, bạc lôi làmthươngthêm. DH766/LQ766mớiđãlưu ảnhtrướcvẽ, phân hồnATT719cột4. ChínThanhTrúckiếmbịđánhrơichưathu; HuyềnQuygiáprạn, gourdHuyềnThiênsauHan. CuốiHanbịlôixíchkhóatứchi/mũithươngđếnmi tâmchưachạm. Khôngbổsung733–765, khôngphụchồi733–765làmđãxong.
+
+### Model trước767
+models/u-hon-sat-vuc-tinh-viem-minh-hon-767.png: UHT767 U Hồn Trùng đen/rune trong thức hải, khác U Hồ560/các trùng kimđồng. Tinh liên thần niệm pha lê. Sát Linh/Sát Vực là năng lượng hắc lôi, không người mới, portalbụng biểuđạt bằnghốđen phép khôngnộitạng. TV768 ngân hỏađiểu cùngTV502/626 nguyênthểbạc, dạngtiểunhânbạc giữmặt; ba ThấtThảiHỏaĐanSa đãnuốttừtrướckhôngnuốtlạitrong768. BốnnhạckhíMinhHồnKhúc DH769 hìnhminhhọachuông/trống/sáo/đànkhôngtựgántêncanon, khôngnhầmvớingântỳbàTXK. ThiênHồđao giữđỏđen/chuôicáo.
+
+
+## Chương 767 — Sát Vực: hoàn thành 4 trang
+Nguồn: file CHUONG 767.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/767/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Lôi bạc trong HuyềnThiênHồLô đãthu từlôitrì, không pháp tắc mới. UHT767 bịtinhliênLuyệnThần5khóalạichưadiệt. SátLinh làthếthânAQkhôngphảigiếtAQthật. HuyềnQuygiáptanvỡkhôngtựphụchồi, chínkiếm/ThiênHồđaocònrơitrênsàn. HànhưbịhốđenSátVựcnuốt, chưa xácnhậnchết. DHkhôngcứuđượcbịphânhồnATT719chặn, ngãtường bằngánhphép/khóibụi. Cácđònthiệtthươngbiểuđạtlờidẫn khônggore.

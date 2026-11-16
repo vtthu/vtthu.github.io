@@ -77,6 +77,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 767: Sát Vực](chapters/767/): 4 trang, hoàn thành; [PDF A4](chapters/767/chuong-767.pdf)
+
 - [Chương 766: Chiến đấu với Đại La (2)](chapters/766/): 4 trang, hoàn thành; [PDF A4](chapters/766/chuong-766.pdf)
 
 - [Chương 732: U Lao](chapters/732/): 4 trang, hoàn thành; [PDF A4](chapters/732/chuong-732.pdf)

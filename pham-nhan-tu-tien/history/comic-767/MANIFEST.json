@@ -1,0 +1,43 @@
+{
+  "chapter": 767,
+  "title": "Sát Vực",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-767/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-767/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-767/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-767/trang-04.png"
+  ],
+  "models": [
+    "han-ho-thach-am-bien-the-chien-dau-766.png",
+    "de-hon-lieu-ky-tay-sat-tri-766.png",
+    "u-hon-sat-vuc-tinh-viem-minh-hon-767.png",
+    "tam-nhan-ao-choang-am-phung-719.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Hàn Lập dùng thần niệm và lôi bạc thoát trói, phản chế U Hồn Trùng, nhưng Âm Quát dùng Sát Linh thế mạng rồi cuốn hắn vào Sát Vực.",
+  "notes": "- Lôi bạc trong HuyềnThiênHồLô đãthu từlôitrì, không pháp tắc mới. UHT767 bịtinhliênLuyệnThần5khóalạichưadiệt. SátLinh làthếthânAQkhôngphảigiếtAQthật. HuyềnQuygiáptanvỡkhôngtựphụchồi, chínkiếm/ThiênHồđaocònrơitrênsàn. HànhưbịhốđenSátVựcnuốt, chưa xácnhậnchết. DHkhôngcứuđượcbịphânhồnATT719chặn, ngãtường bằngánhphép/khóibụi. Cácđònthiệtthươngbiểuđạtlờidẫn khônggore.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/767p1.png",
+    "/tmp/comic-generated-766-781/767p2.png",
+    "/tmp/comic-generated-766-781/767p3.png",
+    "/tmp/comic-generated-766-781/767p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
