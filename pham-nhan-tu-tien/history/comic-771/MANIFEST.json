@@ -1,0 +1,43 @@
+{
+  "chapter": 771,
+  "title": "Lửa sém lông mày",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-771/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-771/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-771/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-771/trang-04.png"
+  ],
+  "models": [
+    "han-ho-thach-am-bien-the-chien-dau-766.png",
+    "de-hon-lieu-ky-tay-sat-tri-766.png",
+    "thanh-truc-tien-hoa-huyet-dao-tu-di-770.png",
+    "giai-dao-nhan-gdn01.png",
+    "giai-dao-nhan-hoa-chi-bat-nguyen-624.png"
+  ],
+  "summary": "Bộ 72 phi kiếm hoàn tất tiến giai, Thạch Xuyên Không vượt Sát Suy. Nhóm hợp lực dùng Hóa Huyết Đao chém xích vàng, nhưng kim liên chưa đứt thì đại điện bị công kích.",
+  "notes": "- Hanđãnhiễmkhítứclôivàng;72kiếmbảnmệnhxanhngọcgầntrongsuốtvânlôivàngđãtiếngiaiTiênKhí, thuđủ72. TXKquabạclôivượtSátSuy/đanphụchồivớibăngquấnphép/lờidẫnkhôngcậnhuyếtthương. DHphụchơnnửa, GiảiGDN01vànghoàngbàogắntrựcmodel624hồiphụcthạchmớihỗtrợ. ThiênHồđao cóhưảnhThạchKhinhHậuhóalưỡiliềmnhãnvănđỏ/tựbaychémkimliênnhưngCHƯAĐỨT. Cuốiđạiđiệnbịđònđầutiêntừngoài, ATT/PTTchưaxuấthiệnđế n772. Haiđầuratừchốibộlọcđãtạolạicảnhphép/đứngtĩnhhoànchỉnh.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/771p1.png",
+    "/tmp/comic-generated-766-781/771p2.png",
+    "/tmp/comic-generated-766-781/771p3.png",
+    "/tmp/comic-generated-766-781/771p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

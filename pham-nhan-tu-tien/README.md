@@ -77,6 +77,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 771: Lửa sém lông mày](chapters/771/): 4 trang, hoàn thành; [PDF A4](chapters/771/chuong-771.pdf)
+
 - [Chương 770: Tiến hoá](chapters/770/): 4 trang, hoàn thành; [PDF A4](chapters/770/chuong-770.pdf)
 
 - [Chương 769: Gác lại tranh luận](chapters/769/): 4 trang, hoàn thành; [PDF A4](chapters/769/chuong-769.pdf)

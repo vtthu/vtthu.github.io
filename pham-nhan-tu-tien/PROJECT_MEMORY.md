@@ -1713,3 +1713,8 @@ models/thanh-truc-tien-hoa-huyet-dao-tu-di-770.png: cảbộ72ThanhTrúckiếm(8
 ## Chương 770 — Tiến hoá: hoàn thành 4 trang
 Nguồn: file CHUONG 770.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/770/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - TuDiPhânGiớirunexámtrắngkhépđiện; LQđuôicuộnxíchvànggiảmbớtlôiápchoHan. TXKxuốngBẠC/HanVÀNG khôngđổivịtrí. U HồnTrùngbịlôivàngdiệt770 khônghồisinh. Hanmấttựchủlôipháptắc→72kiếmhútlôilàmpháplựctrởlại. Bảnmệnhkiếmmớibắtđầunhậpphẩmkhôngxácnhậnhoànthànhđến771. Đãsửađúng72vàHuyềnThiênhồlô2bầuxanhkhôngChưởngThiênBìnhhoaLá. Thiệthạiẩnquaphépnộicảnh/lờidẫnkhônggore. ChưaHanra/đứtxích.
+
+
+## Chương 771 — Lửa sém lông mày: hoàn thành 4 trang
+Nguồn: file CHUONG 771.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/771/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Hanđãnhiễmkhítứclôivàng;72kiếmbảnmệnhxanhngọcgầntrongsuốtvânlôivàngđãtiếngiaiTiênKhí, thuđủ72. TXKquabạclôivượtSátSuy/đanphụchồivớibăngquấnphép/lờidẫnkhôngcậnhuyếtthương. DHphụchơnnửa, GiảiGDN01vànghoàngbàogắntrựcmodel624hồiphụcthạchmớihỗtrợ. ThiênHồđao cóhưảnhThạchKhinhHậuhóalưỡiliềmnhãnvănđỏ/tựbaychémkimliênnhưngCHƯAĐỨT. Cuốiđạiđiệnbịđònđầutiêntừngoài, ATT/PTTchưaxuấthiệnđế n772. Haiđầuratừchốibộlọcđãtạolạicảnhphép/đứngtĩnhhoànchỉnh.
