@@ -1726,3 +1726,11 @@ models/lieu-ky-la-tra-cu-luan-song-dao-772.png: LQ766giữmặtgiàáoxámtưth�
 ## Chương 772 — Cực kỳ nguy hiểm: hoàn thành 4 trang
 Nguồn: file CHUONG 772.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/772/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - ATT/PTT719bảnthể2ĐạoTổ/khôngAQhoặcNhiệtHỏa. LQ766giữmặtbiếnthểthậptựgiátả772/1taycáoxámtrắngdùngHóaHuyếtđao. Khôngtuyênbốkimliênđứt. PTTlamchưởnghóalamngọc/thờigianchậmkhenứt. GiảiGDN01haoTiênNguyênThạchinactive. LQ2đuôicứuCHỈHT, khôngHanné tấncôngthànhcông. ĐãbổsungDHvàocảnhnhómtrang3/4đểkhôngbiếnmất. 4ngườicònlạiHanTXKDHGiải bịLaTráTỳBàtựmởcửahút→PTTchặnlamquang,cuốimắctạicửaCHƯATHOÁTđế n773. LaTráxácnhậntêncủangântỳbà652khôngphápbảomới.
+
+### Model trước773
+models/son-coc-di-thu-ho-phap-773.png: HV773vượnĐENkhônglôngdan hưđá/mắtđỏ/câykhôđákhôngHanSơnNhạc; TM773mãngxanhkhôngchânkhôngsừngkhóingũsắc; TC773nhệntímxanh8chânmạngngũsắc; BNC774rếttrắngkhổnglồ; DX774rắnđỏ2cánhtrongsuốtmắtlụckhó iđen; TT775cóctuyếttrắng/mistbăng; BM775du diênđen tímtrămmụccấptrưởngKimTiênhậukỳ. Hìnhlàthiếtkếchuyểnthểcủacácloàitảnguồn, khôngtựthêmchủngtênchokhốibóngthúkhác. Chỉ3loàiđầuxuấthiệncuối773, cònlại774–775khôngđưasớm. Cốcxanhđenrừngcổthụmâymù/kènpilàmkhôcharcoalclearing,khôngcungđiệntiênđảo.
+
+
+## Chương 773 — Đại nạn không chết: hoàn thành 4 trang
+Nguồn: file CHUONG 773.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/773/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Cựluân6lỗđentâmđỏ/chưagánchủnhân. DHhônmêhắckhíbịhútkhôngchết, HanthuDH+GDNvàoHoaChi(đãsửamodelnữvàthướcHoaChibạckhôngnhầmngântỳbà). ChỉHanTXKđithôngđạocùngLaTrá4dây,2pháptắcxám/lamgâyrốiloạnđànnứtĐẦU1vệtchưagãy. Rađếnsơnmạchxanhđen/mâymùchưagọiMaVựcđến775. HannguyênkhítrànvàosắpphácảnhchưaTháiẤthoànthành, GDNgoldhoàngbàoxuấtHoaChi/songđaoTrảmĐìnhĐoạnTiêuhộpháp. DHcòntrongHoaChi. Cuối3thúđầu773vượnđáđen/mãngxanh/nhệntímxanhđếnchưabịdiệt/trậnbíchchướngchưadựngđến774.

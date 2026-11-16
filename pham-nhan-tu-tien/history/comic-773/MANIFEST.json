@@ -1,0 +1,44 @@
+{
+  "chapter": 773,
+  "title": "Đại nạn không chết",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-773/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-773/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-773/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-773/trang-04.png"
+  ],
+  "models": [
+    "lieu-ky-la-tra-cu-luan-song-dao-772.png",
+    "han-ho-thach-am-bien-the-chien-dau-766.png",
+    "de-hon-lieu-ky-tay-sat-tri-766.png",
+    "tam-nhan-ao-choang-am-phung-719.png",
+    "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+    "son-coc-di-thu-ho-phap-773.png"
+  ],
+  "summary": "Cự luân đỏ phá phong tỏa, nhóm thoát qua thông đạo. Đề Hồn và Giải vào Hoa Chi; Hàn Lập cùng Thạch Xuyên Không đến sơn cốc lạ, buộc phải lập tức bế quan giữa đàn thú.",
+  "notes": "- Cựluân6lỗđentâmđỏ/chưagánchủnhân. DHhônmêhắckhíbịhútkhôngchết, HanthuDH+GDNvàoHoaChi(đãsửamodelnữvàthướcHoaChibạckhôngnhầmngântỳbà). ChỉHanTXKđithôngđạocùngLaTrá4dây,2pháptắcxám/lamgâyrốiloạnđànnứtĐẦU1vệtchưagãy. Rađếnsơnmạchxanhđen/mâymùchưagọiMaVựcđến775. HannguyênkhítrànvàosắpphácảnhchưaTháiẤthoànthành, GDNgoldhoàngbàoxuấtHoaChi/songđaoTrảmĐìnhĐoạnTiêuhộpháp. DHcòntrongHoaChi. Cuối3thúđầu773vượnđáđen/mãngxanh/nhệntímxanhđếnchưabịdiệt/trậnbíchchướngchưadựngđến774.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/773p1.png",
+    "/tmp/comic-generated-766-781/773p2.png",
+    "/tmp/comic-generated-766-781/773p3.png",
+    "/tmp/comic-generated-766-781/773p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
