@@ -1,0 +1,43 @@
+{
+  "chapter": 778,
+  "title": "Chặn đường",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-778/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-778/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-778/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-778/trang-04.png"
+  ],
+  "models": [
+    "han-lap-bach-bao-ngoc-tien-775.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "kim-te-dai-hoang-tu-thiet-vu-777.png",
+    "kim-te-linh-chan-duong-tham-bao-778.png",
+    "thanh-truc-tien-hoa-huyet-dao-tu-di-770.png"
+  ],
+  "summary": "Thiết Vũ dò tìm qua mộc ngẫu ở Hắc Lân Thụ Hải, phục kích bằng Độc Thần Tiễn. Ba tướng Thái Ất tấn công, Hàn Lập xuất 18 kiếm.",
+  "notes": "- Hai người HanWHITECT603/TXKpurpleonlytravellers, ThiếtVũẩnđếnlộmâyđen;đãsửalỗicóThiếtVũtrongkhungđầutrang3. TXKdùngĐÚNG2bạchđan,HanVạnĐộcHỗnNguyênThânkhôngcầnthuốc. TT778sứgiảkhôngchết,3tướngvôdanhTháiẤtsơkỳ; tiênXANH/bađầuhổĐỎ/kimvũVÀNG. Cuốitrang4mớixuất18kiếm,chưadiễnrakếtquảkiếmtrận779.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/778p1.png",
+    "/tmp/comic-generated-766-781/778p2.png",
+    "/tmp/comic-generated-766-781/778p3.png",
+    "/tmp/comic-generated-766-781/778p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

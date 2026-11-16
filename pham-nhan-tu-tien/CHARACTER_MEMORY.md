@@ -1961,3 +1961,14 @@ models/kim-te-dai-hoang-tu-thiet-vu-777.png đã tạo/kiểm tra ảnh trước
 ## Chương 777 — Đại hoàng tử: hoàn thành 4 trang
 Nguồn: file CHUONG 777.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/777/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - 777 không có Han/TXK thực xuất hiện, chỉ chân dung. Han bạch bào CT603; TXK tóc bạc trâm đơn tím KHÔNG vương miện/ấn tím; Đại hoàng tử tóc trắng đội cao quan/ấn tím. Đã sửa chân dung TXK trang2 cho đúng. Thỏa thuận3 quả tổng,1 đặt trước2 sau; MaChủbếquan/địnhngườikếvịlàlờiĐạihoàngtử. ThiếtVũkhôngđượcbiếtthânphậnhoàngtửcủamụctiêu, chỉbiếttuvivàngoạitộc. ĐồngVũ/NgânVũ/HắcDứuchỉnhắckhôngvẽmới.
+
+### Model trước778–779
+models/kim-te-linh-chan-duong-tham-bao-778.png đã xem trước khi dùng: DG778 nam to cao MỘT sừng tócBẠCmắtXANHáoXANHĐẬMhaiđạiphiênxanh; LD778lãocaogầytócĐỎ/râudêđỏdanhưVỎCÂYKHÔáonâuđỏ/thápđỏ; KD778nữtrưởngthànhtócVÀNGHAIcánhVÀNGáovàngkín/dạnggiápnặng779. Cả3KHÔNGTÊNriêng,tránhgándanhxưngtựtạo thànhcanon, đềuTháiẤtsơkỳtheonguồn778. TT778namáoVÀNGtócđentócbúirâumépmỏng; TB778namvạmvỡmặtĐENáoxámđen/nắmMỘCNGẪUhìnhngườigỗđenmắtsóngđen. SpyHắcLânThụquảđenhìnhngườinửathânngườimộ tquảhiệnmặtmắtsóngđen,khôngphảithậtngườibịtreo. ĐộcThầnTiễnxanhdàiquấnvânrắn; cung/chíntiễnlộ779sau. Tấtcảchi tiếtkhôngnguồntrongmodelchỉlàchuyểnthể.
+
+
+## Chương 778 — Chặn đường: hoàn thành 4 trang
+Nguồn: file CHUONG 778.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/778/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Hai người HanWHITECT603/TXKpurpleonlytravellers, ThiếtVũẩnđếnlộmâyđen;đãsửalỗicóThiếtVũtrongkhungđầutrang3. TXKdùngĐÚNG2bạchđan,HanVạnĐộcHỗnNguyênThânkhôngcầnthuốc. TT778sứgiảkhôngchết,3tướngvôdanhTháiẤtsơkỳ; tiênXANH/bađầuhổĐỎ/kimvũVÀNG. Cuốitrang4mớixuất18kiếm,chưadiễnrakếtquảkiếmtrận779.
+
+### Model trước779–780
+models/thiet-vu-cung-tien-doc-vuc-cau-long-779.png kiểmtraảnh: tinhcungXANH/chínĐộcThầnTiễn;roiXANHhìnhrắn mócngượckimloại;hắcthuẫnđenoval;SÁUkiếmThanhTrúcbịnhiễmThúyVânChướnglụcbansươngxanh;VựcLinhcựnhânTHUẦNKHÍXANHhơn10trượng780khôngphảiThiếtVũbiếnkhổnglồ;CầuLongKiếmTrận12kiếm→12RỒNGthầnlôiVÀNGbằngnănglượngkhônglongtộcthật. ThiếtVũvẫnadultnamXANHthấpvạmvỡTV777,780nguồnchỉrõTháiẤtHẬUKỲ;khôngtựđổiTháiẤtsơkỳ.

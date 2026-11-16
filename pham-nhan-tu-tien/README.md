@@ -77,6 +77,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 778: Chặn đường](chapters/778/): 4 trang, hoàn thành; [PDF A4](chapters/778/chuong-778.pdf)
+
 - [Chương 777: Đại hoàng tử](chapters/777/): 4 trang, hoàn thành; [PDF A4](chapters/777/chuong-777.pdf)
 
 - [Chương 776: Tìm kiếm hồng nhan](chapters/776/): 4 trang, hoàn thành; [PDF A4](chapters/776/chuong-776.pdf)
