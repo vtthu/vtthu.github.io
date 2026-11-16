@@ -1,0 +1,43 @@
+{
+  "chapter": 781,
+  "title": "Bao vây chặn đánh",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-781/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-781/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-781/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-781/trang-04.png"
+  ],
+  "models": [
+    "han-lap-bach-bao-ngoc-tien-775.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "kim-te-dai-hoang-tu-thiet-vu-777.png",
+    "dong-vu-ngan-vu-bach-tu-dia-do-781.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Lấy được địa đồ Thập Hoạn, hai người tiếp tục lên đường. Kim Tê phái Đồng Vũ và Ngân Vũ bắt sống Thạch Xuyên Không; hai cuộc giao chiến mới bắt đầu.",
+  "notes": "- HanCT603mặttrungniên/trâmngọcxanh/BẠCHBÀOvẫnTháiẤtsơkỳ,TXK652tócbạc/trâmtím/áotímKimTiênđỉnhphong. ThiếtVũthầnhồnđãdiệt780khôngtrởlại;TXKxửlýhếtthuộchạ/sưuhồnbáolailịch,HanlấyđịađồxươngXÁM. ĐạihoàngtửđượcxácnhậntênThạchTrảmPhong781,KHÔNGThạchXuyênKhông. KimTêđổiđòibắtsốngTXKđểtănggiá,ĐồngVũhậukỳgiáptímvàngmũiđenrăngnan h/NVđỉnhphongtoànđầurắnTRẮNG. Cảnhbạolựcthịnữ/đedọaxácđượcchuyểnquacutaway/lờidẫnkhônggore. BáchTuThúbịhạ/ngọchạchđãlấy,phixa4bánhngọcxanhkhôngmái/khôngngựa. HanTHUphixakhiđánh,chươngkếtkhiHancòngặpkhótrướclựcchồng7trọngvàtốcđộĐồngVũ;chưaxácđịnhpháptắccụthể. TXKcầmtrườngthươngBẠCđố iNVsaukhibíchchướngvỡ,chưaphânthắngbại.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/781p1.png",
+    "/tmp/comic-generated-766-781/781p2.png",
+    "/tmp/comic-generated-766-781/781p3.png",
+    "/tmp/comic-generated-766-781/781p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

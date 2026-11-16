@@ -1985,3 +1985,8 @@ Nguồn: file CHUONG 780.txt do người dùng đính kèm. Mỗi PNG một tran
 
 ### Model trước781
 models/dong-vu-ngan-vu-bach-tu-dia-do-781.png đãxem/duyệttrướcdùng: DV781ĐồngVũnamvạmvỡthânngườimặtbáonhẹ/mũiđenrăngnanhlộ/tócđen/giápKimÔTỏaTÍMviềnVÀNG,biếnthểánhvàngcùnggiápkhôngđổingười;TháiẤthậukỳcậnchiếnlựcchồngtầng,khônggánpháptắccụthể. NV781NgânVũthâ nngườicaogầyáoTRẮNGtoànĐẦURẮNTRẮNGkhôngtóc/khôngsốngmũi/2lỗmũi,mắtdọc,kiếmBẠCsau lưng;TháiẤtđỉnhphong. BT781BáchTuThúthânđenxámchươngngưdài10trượngvô sốxúctudạngrễ,ảnhmodeldạngsốngcảnh781đãbịgiếtkhôngvẽgore. ĐịađồxươngthúXÁM/lộtrìnhminhhọakhôngmapcanon/vòngtrữvậtXANH;TXKtrườngthươngBẠCđầunhọn/lộ781cuối. Chitiếtthêmtuổichiềucaotrầngiápchỉthiếtkếchuyểnthể.
+
+
+## Chương 781 — Bao vây chặn đánh: hoàn thành 4 trang
+Nguồn: file CHUONG 781.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/781/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- HanCT603mặttrungniên/trâmngọcxanh/BẠCHBÀOvẫnTháiẤtsơkỳ,TXK652tócbạc/trâmtím/áotímKimTiênđỉnhphong. ThiếtVũthầnhồnđãdiệt780khôngtrởlại;TXKxửlýhếtthuộchạ/sưuhồnbáolailịch,HanlấyđịađồxươngXÁM. ĐạihoàngtửđượcxácnhậntênThạchTrảmPhong781,KHÔNGThạchXuyênKhông. KimTêđổiđòibắtsốngTXKđểtănggiá,ĐồngVũhậukỳgiáptímvàngmũiđenrăngnan h/NVđỉnhphongtoànđầurắnTRẮNG. Cảnhbạolựcthịnữ/đedọaxácđượcchuyểnquacutaway/lờidẫnkhônggore. BáchTuThúbịhạ/ngọchạchđãlấy,phixa4bánhngọcxanhkhôngmái/khôngngựa. HanTHUphixakhiđánh,chươngkếtkhiHancòngặpkhótrướclựcchồng7trọngvàtốcđộĐồngVũ;chưaxácđịnhpháptắccụthể. TXKcầmtrườngthươngBẠCđố iNVsaukhibíchchướngvỡ,chưaphânthắngbại.
