@@ -1,0 +1,44 @@
+{
+  "chapter": 772,
+  "title": "Cực kỳ nguy hiểm",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-772/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-772/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-772/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-772/trang-04.png"
+  ],
+  "models": [
+    "lieu-ky-la-tra-cu-luan-song-dao-772.png",
+    "han-ho-thach-am-bien-the-chien-dau-766.png",
+    "de-hon-lieu-ky-tay-sat-tri-766.png",
+    "tam-nhan-ao-choang-am-phung-719.png",
+    "thanh-truc-tien-hoa-huyet-dao-tu-di-770.png",
+    "giai-dao-nhan-hoa-chi-bat-nguyen-624.png"
+  ],
+  "summary": "Âm Thừa Toàn và Phùng Thanh Thủy phá vào đại điện. Liễu Kỳ chỉ cứu Hồ Tam; La Trá Tỳ Bà tự mở thông đạo nhưng nhóm Hàn Lập bị chặn ngay lối vào.",
+  "notes": "- ATT/PTT719bảnthể2ĐạoTổ/khôngAQhoặcNhiệtHỏa. LQ766giữmặtbiếnthểthậptựgiátả772/1taycáoxámtrắngdùngHóaHuyếtđao. Khôngtuyênbốkimliênđứt. PTTlamchưởnghóalamngọc/thờigianchậmkhenứt. GiảiGDN01haoTiênNguyênThạchinactive. LQ2đuôicứuCHỈHT, khôngHanné tấncôngthànhcông. ĐãbổsungDHvàocảnhnhómtrang3/4đểkhôngbiếnmất. 4ngườicònlạiHanTXKDHGiải bịLaTráTỳBàtựmởcửahút→PTTchặnlamquang,cuốimắctạicửaCHƯATHOÁTđế n773. LaTráxácnhậntêncủangântỳbà652khôngphápbảomới.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/772p1.png",
+    "/tmp/comic-generated-766-781/772p2.png",
+    "/tmp/comic-generated-766-781/772p3.png",
+    "/tmp/comic-generated-766-781/772p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

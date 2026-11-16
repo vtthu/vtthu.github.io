@@ -1913,3 +1913,11 @@ Nguồn: file CHUONG 770.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 771 — Lửa sém lông mày: hoàn thành 4 trang
 Nguồn: file CHUONG 771.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/771/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Hanđãnhiễmkhítứclôivàng;72kiếmbảnmệnhxanhngọcgầntrongsuốtvânlôivàngđãtiếngiaiTiênKhí, thuđủ72. TXKquabạclôivượtSátSuy/đanphụchồivớibăngquấnphép/lờidẫnkhôngcậnhuyếtthương. DHphụchơnnửa, GiảiGDN01vànghoàngbàogắntrựcmodel624hồiphụcthạchmớihỗtrợ. ThiênHồđao cóhưảnhThạchKhinhHậuhóalưỡiliềmnhãnvănđỏ/tựbaychémkimliênnhưngCHƯAĐỨT. Cuốiđạiđiệnbịđònđầutiêntừngoài, ATT/PTTchưaxuấthiệnđế n772. Haiđầuratừchốibộlọcđãtạolạicảnhphép/đứngtĩnhhoànchỉnh.
+
+### Model trước772
+models/lieu-ky-la-tra-cu-luan-song-dao-772.png: LQ766giữmặtgiàáoxámtưthếbênthậptựgiálớnnhưđầu772tả,2xíchbạc/vàng/1tayhóalôngcáoxámtrắng. Khôngthayrootđãlưu. LaTráTỳBàlàtênngânTỳBàTXK652xácnhận772 khôngphápbảomới;773chỉnứtđầuđàn1vệtchialinhvăn2phần, khônggãyđàn. Cựluânđỏsậm773đúng6lỗđenxếphexquanhTÂMĐỎĐẶC không7lỗ/chưađặttênchủnhân. GiảiGDN01hoàngbàosongchiếnđaoTrảmĐình/ĐoạnTiêu773giữmặtkimloạivàng, khôngcựphủ. Cácđạocụthamkhảokhôngthêmcanonngoàinguồn.
+
+
+## Chương 772 — Cực kỳ nguy hiểm: hoàn thành 4 trang
+Nguồn: file CHUONG 772.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/772/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- ATT/PTT719bảnthể2ĐạoTổ/khôngAQhoặcNhiệtHỏa. LQ766giữmặtbiếnthểthậptựgiátả772/1taycáoxámtrắngdùngHóaHuyếtđao. Khôngtuyênbốkimliênđứt. PTTlamchưởnghóalamngọc/thờigianchậmkhenứt. GiảiGDN01haoTiênNguyênThạchinactive. LQ2đuôicứuCHỈHT, khôngHanné tấncôngthànhcông. ĐãbổsungDHvàocảnhnhómtrang3/4đểkhôngbiếnmất. 4ngườicònlạiHanTXKDHGiải bịLaTráTỳBàtựmởcửahút→PTTchặnlamquang,cuốimắctạicửaCHƯATHOÁTđế n773. LaTráxácnhậntêncủangântỳbà652khôngphápbảomới.

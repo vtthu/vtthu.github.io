@@ -4218,23 +4218,49 @@
           1492
         ]
       }
+    },
+    {
+      "chapter": 772,
+      "pages": 4,
+      "directory": "chapters/772",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/772/chuong-772.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1492
+        ],
+        "trang-02.png": [
+          1055,
+          1492
+        ],
+        "trang-03.png": [
+          1055,
+          1492
+        ],
+        "trang-04.png": [
+          1055,
+          1492
+        ]
+      }
     }
   ],
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 429265,
-      "sha256": "bd04e93ffe718521d536ea6a1e04b8a0f0627ff4f62632c2f5a661cdd125b8d5"
+      "bytes": 430831,
+      "sha256": "f5b563adeaa8393b91eba4af029eb46ed7048c1f2ef5477688801c92ffe13e95"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 380142,
-      "sha256": "23bec6a5db302c30c6e4d166b8dc11d3b42bffaaea67bd970dd069a52ea588fd"
+      "bytes": 381708,
+      "sha256": "81b7635cb0c66b92b598f57d0b22faf9a9c06c84c28713b9c35c84ec45d70cca"
     },
     {
       "path": "README.md",
-      "bytes": 20254,
-      "sha256": "4142d00c004ac70a7b152ac016c9a220839cfa64ebbf1d647f0479ee93956f60"
+      "bytes": 20373,
+      "sha256": "3401205b52a87f3b80c0d6457f79e6d1d85bf7a0948e4a8f5012afb4088fb62b"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -10267,6 +10293,41 @@
       "sha256": "f8242447e8de641b813a7a17c8715453c8675918b886a8f552b305a47bfc8be8"
     },
     {
+      "path": "chapters/772/README.md",
+      "bytes": 593,
+      "sha256": "38c8755bf004e7c798c3e716fe74230af6ebbfadacfe980bdaf75de8641b2bdc"
+    },
+    {
+      "path": "chapters/772/SOURCE.txt",
+      "bytes": 15873,
+      "sha256": "226f9afdec1d787fedebfaf18b3c1ec3c1424a822d269bc50ea05ae3568e4e44"
+    },
+    {
+      "path": "chapters/772/chuong-772.pdf",
+      "bytes": 20250391,
+      "sha256": "8b6d9460ee8f3f0a25972417540633e6e8ac10c0449860aa7651e3ae83954efd"
+    },
+    {
+      "path": "chapters/772/trang-01.png",
+      "bytes": 3926098,
+      "sha256": "da3bfec07e6dd6fc342dbf06ae30b17d8099060ec317f193443f513e42692c31"
+    },
+    {
+      "path": "chapters/772/trang-02.png",
+      "bytes": 4017035,
+      "sha256": "f85d2e028b7f9f3befc27004051239d3f16fa0c721f6638355ebe7ad4ddf9d0f"
+    },
+    {
+      "path": "chapters/772/trang-03.png",
+      "bytes": 4081277,
+      "sha256": "c734a996bac92d5b13a1ea93d0bc28069be729d59881d5eb284e44116368a0ae"
+    },
+    {
+      "path": "chapters/772/trang-04.png",
+      "bytes": 4175492,
+      "sha256": "10ea3e58da680ec413edc920e0c26147c30f6ddc8012bbd120b27ff30490d0a8"
+    },
+    {
       "path": "drafts/468/README.md",
       "bytes": 844,
       "sha256": "ec62133989ea1c23b6d2d938d8724bded7fcb5238871fe86b25f6132cb2c74c7"
@@ -12967,6 +13028,26 @@
       "sha256": "93f316946ec56b9ac63381f26a09749bcbc272d2809f5e57dcac0695edc96857"
     },
     {
+      "path": "history/comic-772/CHARACTER_MEMORY.md",
+      "bytes": 430831,
+      "sha256": "f5b563adeaa8393b91eba4af029eb46ed7048c1f2ef5477688801c92ffe13e95"
+    },
+    {
+      "path": "history/comic-772/MANIFEST.json",
+      "bytes": 1849,
+      "sha256": "f77d7058968047f7fb4be0e0ac8c92862a66170e6b739bdc8792624bbabb2d0a"
+    },
+    {
+      "path": "history/comic-772/PROJECT_MEMORY.md",
+      "bytes": 381708,
+      "sha256": "81b7635cb0c66b92b598f57d0b22faf9a9c06c84c28713b9c35c84ec45d70cca"
+    },
+    {
+      "path": "history/comic-772/README.md",
+      "bytes": 527,
+      "sha256": "2fe3c8f166c74fc36249f12b0485c878a4017dc33c40086841b229343833c3f0"
+    },
+    {
       "path": "history/comic-summary-465-470/CHARACTER_MEMORY.md",
       "bytes": 45781,
       "sha256": "79205f469e487ab72667d25ae1746c9e1bd990aed72046842aa6e81c970e951f"
@@ -13425,6 +13506,11 @@
       "path": "models/lien-minh-sau-kim-tien-499.png",
       "bytes": 2580333,
       "sha256": "b487d815ae58f8db78220acbeab028df489bd46100ca873e2c1791bc475c242c"
+    },
+    {
+      "path": "models/lieu-ky-la-tra-cu-luan-song-dao-772.png",
+      "bytes": 2593333,
+      "sha256": "5baa0eb033d3d9ab3cbe099fa6becdfbe8c0f0dd791ef46d1a917770dfd2ee30"
     },
     {
       "path": "models/linh-thu-models.png",
