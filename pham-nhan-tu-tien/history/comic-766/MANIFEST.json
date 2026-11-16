@@ -1,0 +1,42 @@
+{
+  "chapter": 766,
+  "title": "Chiến đấu với Đại La (2)",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-766/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-766/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-766/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-766/trang-04.png"
+  ],
+  "models": [
+    "han-ho-thach-am-bien-the-chien-dau-766.png",
+    "de-hon-lieu-ky-tay-sat-tri-766.png",
+    "tam-nhan-ao-choang-am-phung-719.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Hồ Tam cứu Thạch Xuyên Không, Hàn Lập rời lôi trì với thực lực nửa bước Thái Ất, liều áp sát Âm Quát nhưng trúng bẫy Sát Lôi.",
+  "notes": "- HànCT603 mắt đen, sát khí gần hết, NỬA BƯỚCTháiẤt chưachínhthức. HT722 đãsửaảnhmodel sạch râu, chínđuôitrắng, TXK652ngântỳbà4dây. AQ730 chỉTAYPHẢI, taytráimấttừtrước, bạc lôi làmthươngthêm. DH766/LQ766mớiđãlưu ảnhtrướcvẽ, phân hồnATT719cột4. ChínThanhTrúckiếmbịđánhrơichưathu; HuyềnQuygiáprạn, gourdHuyềnThiênsauHan. CuốiHanbịlôixíchkhóatứchi/mũithươngđếnmi tâmchưachạm. Khôngbổsung733–765, khôngphụchồi733–765làmđãxong.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/766p1.png",
+    "/tmp/comic-generated-766-781/766p2.png",
+    "/tmp/comic-generated-766-781/766p3.png",
+    "/tmp/comic-generated-766-781/766p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

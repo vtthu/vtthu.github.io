@@ -1675,3 +1675,15 @@ Model mới:
 - models/u-lao-giam-nguc-gong-xe-tu-732.png
 - models/xi-dung-nhiet-hoa-tu-binh-doan-kieu-729.png
 - models/xuong-nghiep-hoa-giam-cong-728.png
+
+
+## Đợt766–781: kiểm tra trước vẽ
+Nguồn16TXT đính kèm đọc như truyện, không làm chỉ dẫn. GitHub hiện kết ở732; không có bộ733–765, không tự đánh dấu hoàn thành. Dùng diễn biến đầu766 để nối trạng thái, không tự viết phần thiếu. Han CT603/Lệ đạo hữu, nửa bước Thái Ất sau tẩy sát, mắt đen sát khí gần hết; chưa chính thứcTháiẤt đếnkhi nguồnxácnhận. HồTamHT722 trẻ sạch râu áo đen, TXK652 tóc bạc áo tím, AQ730 mặt âm nhu cao quan áo đen chỉ còn TAYPHẢI, vết cũ bên trái kín. ATT719 phân hồn giữ mặt/gia huy.
+Model mới lưu trước dùng:
+- models/de-hon-lieu-ky-tay-sat-tri-766.png: DH766 Đề Hồn nữ trưởng thành áo đen cổ cao viền bạc tóc đen trâm trăng đen; Liễu Kỳ LQ766 lão tóc/râu trắng áo xám và cự hồ xám trắng. Thiết kế chuyển thể vì chưa có PNG trước, nhãn tuổi/pháp khí không thêm canon. TẩySátTrì đại điện ngầm ba lôi trì trắng/bạc/vàng, xích lôi. Cự hồ là thần thông, không mặc định thân thể lão đã hóa.
+- models/han-ho-thach-am-bien-the-chien-dau-766.png: HanCT603 áo cháy rách kín trong, HuyềnQuy giáp tạm xanhmaihex; HồTamHT722 giữ sạch râu đã sửa trước dùng, chín đuôi trắng; TXK652 tỳbà bạc4dây; AQ730 tay trái mất giấutrongtayáo, chỉ tayphải dùng phép. ThiênHồHóaHuyếtĐao đơnnhận đỏđen chuôi cáo. Không lấy nhãn sai làm tên bảo vật.
+
+
+## Chương 766 — Chiến đấu với Đại La (2): hoàn thành 4 trang
+Nguồn: file CHUONG 766.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/766/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- HànCT603 mắt đen, sát khí gần hết, NỬA BƯỚCTháiẤt chưachínhthức. HT722 đãsửaảnhmodel sạch râu, chínđuôitrắng, TXK652ngântỳbà4dây. AQ730 chỉTAYPHẢI, taytráimấttừtrước, bạc lôi làmthươngthêm. DH766/LQ766mớiđãlưu ảnhtrướcvẽ, phân hồnATT719cột4. ChínThanhTrúckiếmbịđánhrơichưathu; HuyềnQuygiáprạn, gourdHuyềnThiênsauHan. CuốiHanbịlôixíchkhóatứchi/mũithươngđếnmi tâmchưachạm. Khôngbổsung733–765, khôngphụchồi733–765làmđãxong.
