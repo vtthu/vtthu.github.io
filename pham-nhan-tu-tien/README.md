@@ -77,6 +77,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 768: Xuất kỳ chế thắng](chapters/768/): 4 trang, hoàn thành; [PDF A4](chapters/768/chuong-768.pdf)
+
 - [Chương 767: Sát Vực](chapters/767/): 4 trang, hoàn thành; [PDF A4](chapters/767/chuong-767.pdf)
 
 - [Chương 766: Chiến đấu với Đại La (2)](chapters/766/): 4 trang, hoàn thành; [PDF A4](chapters/766/chuong-766.pdf)

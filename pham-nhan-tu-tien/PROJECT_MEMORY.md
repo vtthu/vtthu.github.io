@@ -1695,3 +1695,8 @@ models/u-hon-sat-vuc-tinh-viem-minh-hon-767.png: UHT767 U Hồn Trùng đen/rune
 ## Chương 767 — Sát Vực: hoàn thành 4 trang
 Nguồn: file CHUONG 767.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/767/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Lôi bạc trong HuyềnThiênHồLô đãthu từlôitrì, không pháp tắc mới. UHT767 bịtinhliênLuyệnThần5khóalạichưadiệt. SátLinh làthếthânAQkhôngphảigiếtAQthật. HuyềnQuygiáptanvỡkhôngtựphụchồi, chínkiếm/ThiênHồđaocònrơitrênsàn. HànhưbịhốđenSátVựcnuốt, chưa xácnhậnchết. DHkhôngcứuđượcbịphânhồnATT719chặn, ngãtường bằngánhphép/khóibụi. Cácđònthiệtthươngbiểuđạtlờidẫn khônggore.
+
+
+## Chương 768 — Xuất kỳ chế thắng: hoàn thành 4 trang
+Nguồn: file CHUONG 768.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/768/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- TV768 cùngTV502/626 ngân diễm, đãnuốtbaThấtThảiĐanSatừtrước. AQTHÂNđãbịhủy, NguyênAnhchạyKHÔNGxácnhậnchếthẳn. Hanthuđủ9kiếmkhônghưhủy, ThiênHồđao vàmộtcốtbàitrắng; giápđãtan767khôngmặclạibảnmới. DHđãsửakhunglờithoạiđúngmặtnữ, TVtiểunhânbạcđãchỉnhkhôngtrẻemngười. Trang3đãxóangườithừatrongcảnhđiềutứcchỉ4người. Chưavẽchặtxíchthứ3. HộiđàmATT719bảnthểkhôngphânhồn, HPN721tóctrắngáođen/TBD721râudamặtđen/GIA721bạchy. ÂmLâmchỉnhắcchưaxuấthiện. Cuốichưakếtminhđế n769.

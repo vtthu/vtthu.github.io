@@ -1,0 +1,46 @@
+{
+  "chapter": 768,
+  "title": "Xuất kỳ chế thắng",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-768/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-768/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-768/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-768/trang-04.png"
+  ],
+  "models": [
+    "han-ho-thach-am-bien-the-chien-dau-766.png",
+    "de-hon-lieu-ky-tay-sat-tri-766.png",
+    "u-hon-sat-vuc-tinh-viem-minh-hon-767.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+    "tinh-viem-thai-at-dan-502.png",
+    "tam-nhan-ao-choang-am-phung-719.png",
+    "hoang-phu-vu-duong-giao-tam-721.png",
+    "tieu-bat-da-hac-thang-hoi-minh-721.png"
+  ],
+  "summary": "Tinh Viêm phá Sát Vực, hủy thân Âm Quát nhưng Nguyên Anh chạy thoát. Nhóm khôi phục để phá xích; tại hội nghị Âm Thừa Toàn nóng lòng muốn trì hoãn, Hoàng Phủ Ngọc nhận ra biến động.",
+  "notes": "- TV768 cùngTV502/626 ngân diễm, đãnuốtbaThấtThảiĐanSatừtrước. AQTHÂNđãbịhủy, NguyênAnhchạyKHÔNGxácnhậnchếthẳn. Hanthuđủ9kiếmkhônghưhủy, ThiênHồđao vàmộtcốtbàitrắng; giápđãtan767khôngmặclạibảnmới. DHđãsửakhunglờithoạiđúngmặtnữ, TVtiểunhânbạcđãchỉnhkhôngtrẻemngười. Trang3đãxóangườithừatrongcảnhđiềutứcchỉ4người. Chưavẽchặtxíchthứ3. HộiđàmATT719bảnthểkhôngphânhồn, HPN721tóctrắngáođen/TBD721râudamặtđen/GIA721bạchy. ÂmLâmchỉnhắcchưaxuấthiện. Cuốichưakếtminhđế n769.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/768p1.png",
+    "/tmp/comic-generated-766-781/768p2.png",
+    "/tmp/comic-generated-766-781/768p3.png",
+    "/tmp/comic-generated-766-781/768p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
