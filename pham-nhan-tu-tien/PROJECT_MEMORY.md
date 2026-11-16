@@ -1768,3 +1768,8 @@ Nguồn: file CHUONG 777.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 778 — Chặn đường: hoàn thành 4 trang
 Nguồn: file CHUONG 778.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/778/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Hai người HanWHITECT603/TXKpurpleonlytravellers, ThiếtVũẩnđếnlộmâyđen;đãsửalỗicóThiếtVũtrongkhungđầutrang3. TXKdùngĐÚNG2bạchđan,HanVạnĐộcHỗnNguyênThânkhôngcầnthuốc. TT778sứgiảkhôngchết,3tướngvôdanhTháiẤtsơkỳ; tiênXANH/bađầuhổĐỎ/kimvũVÀNG. Cuốitrang4mớixuất18kiếm,chưadiễnrakếtquảkiếmtrận779.
+
+
+## Chương 779 — Kiếm giết quần hung: hoàn thành 4 trang
+Nguồn: file CHUONG 779.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/779/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 18kiếm=12CầuLong+6hộthân,12rồngthuầnnănglượnglôiđiệnkhônglongtộcthật. Nhómbịvây3TháiẤt/vàiKimTiênvẫnlạcquaá nhphép/lờidẫnkhônggore;thuộchạcònlạitrênmâyđensống. LaTrá4dâyTXKchặnThiếtVũ,KHÔNGpháhủysớm. 12kiếmcạnlôipháptắcthuvềđanđiềncầnôndưỡng;6kiếmnhiễmThúyVânChướngchưasạch;cuốichương9tênlạibắntớichưatiêudiệtThiếtVũ.

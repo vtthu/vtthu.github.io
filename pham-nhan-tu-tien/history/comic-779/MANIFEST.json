@@ -1,0 +1,43 @@
+{
+  "chapter": 779,
+  "title": "Kiếm giết quần hung",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-779/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-779/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-779/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-779/trang-04.png"
+  ],
+  "models": [
+    "han-lap-bach-bao-ngoc-tien-775.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "kim-te-dai-hoang-tu-thiet-vu-777.png",
+    "kim-te-linh-chan-duong-tham-bao-778.png",
+    "thiet-vu-cung-tien-doc-vuc-cau-long-779.png"
+  ],
+  "summary": "Mười hai kiếm dựng Cầu Long Kiếm Trận tiêu diệt nhóm tấn công, sáu kiếm hộ thân chặn chín độc tiễn. Thiết Vũ chuẩn bị toàn lực.",
+  "notes": "- 18kiếm=12CầuLong+6hộthân,12rồngthuầnnănglượnglôiđiệnkhônglongtộcthật. Nhómbịvây3TháiẤt/vàiKimTiênvẫnlạcquaá nhphép/lờidẫnkhônggore;thuộchạcònlạitrênmâyđensống. LaTrá4dâyTXKchặnThiếtVũ,KHÔNGpháhủysớm. 12kiếmcạnlôipháptắcthuvềđanđiềncầnôndưỡng;6kiếmnhiễmThúyVânChướngchưasạch;cuốichương9tênlạibắntớichưatiêudiệtThiếtVũ.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/779p1.png",
+    "/tmp/comic-generated-766-781/779p2.png",
+    "/tmp/comic-generated-766-781/779p3.png",
+    "/tmp/comic-generated-766-781/779p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

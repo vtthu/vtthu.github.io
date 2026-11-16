@@ -1972,3 +1972,8 @@ Nguồn: file CHUONG 778.txt do người dùng đính kèm. Mỗi PNG một tran
 
 ### Model trước779–780
 models/thiet-vu-cung-tien-doc-vuc-cau-long-779.png kiểmtraảnh: tinhcungXANH/chínĐộcThầnTiễn;roiXANHhìnhrắn mócngượckimloại;hắcthuẫnđenoval;SÁUkiếmThanhTrúcbịnhiễmThúyVânChướnglụcbansươngxanh;VựcLinhcựnhânTHUẦNKHÍXANHhơn10trượng780khôngphảiThiếtVũbiếnkhổnglồ;CầuLongKiếmTrận12kiếm→12RỒNGthầnlôiVÀNGbằngnănglượngkhônglongtộcthật. ThiếtVũvẫnadultnamXANHthấpvạmvỡTV777,780nguồnchỉrõTháiẤtHẬUKỲ;khôngtựđổiTháiẤtsơkỳ.
+
+
+## Chương 779 — Kiếm giết quần hung: hoàn thành 4 trang
+Nguồn: file CHUONG 779.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/779/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- 18kiếm=12CầuLong+6hộthân,12rồngthuầnnănglượnglôiđiệnkhônglongtộcthật. Nhómbịvây3TháiẤt/vàiKimTiênvẫnlạcquaá nhphép/lờidẫnkhônggore;thuộchạcònlạitrênmâyđensống. LaTrá4dâyTXKchặnThiếtVũ,KHÔNGpháhủysớm. 12kiếmcạnlôipháptắcthuvềđanđiềncầnôndưỡng;6kiếmnhiễmThúyVânChướngchưasạch;cuốichương9tênlạibắntớichưatiêudiệtThiếtVũ.
