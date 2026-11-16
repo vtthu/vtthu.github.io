@@ -1,6 +1,10 @@
 # Phàm Nhân Tu Tiên — Kho truyện và bộ nhớ dự án
 
-## Đợt mới nhất: chương 719–732
+## Đợt mới nhất: chương 766–781
+
+[Đọc lần lượt 16 chương](production/766-781/README.md): **64 trang PNG, 16 PDF A4**, đã đẩy từng chương.
+
+## Đợt chương 719–732
 
 [Đọc lần lượt 14 chương](production/719-732/README.md): **56 trang PNG, 14 PDF A4**, đã đẩy từng chương.
 

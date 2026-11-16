@@ -1990,3 +1990,41 @@ models/dong-vu-ngan-vu-bach-tu-dia-do-781.png đãxem/duyệttrướcdùng: DV78
 ## Chương 781 — Bao vây chặn đánh: hoàn thành 4 trang
 Nguồn: file CHUONG 781.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/781/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - HanCT603mặttrungniên/trâmngọcxanh/BẠCHBÀOvẫnTháiẤtsơkỳ,TXK652tócbạc/trâmtím/áotímKimTiênđỉnhphong. ThiếtVũthầnhồnđãdiệt780khôngtrởlại;TXKxửlýhếtthuộchạ/sưuhồnbáolailịch,HanlấyđịađồxươngXÁM. ĐạihoàngtửđượcxácnhậntênThạchTrảmPhong781,KHÔNGThạchXuyênKhông. KimTêđổiđòibắtsốngTXKđểtănggiá,ĐồngVũhậukỳgiáptímvàngmũiđenrăngnan h/NVđỉnhphongtoànđầurắnTRẮNG. Cảnhbạolựcthịnữ/đedọaxácđượcchuyểnquacutaway/lờidẫnkhônggore. BáchTuThúbịhạ/ngọchạchđãlấy,phixa4bánhngọcxanhkhôngmái/khôngngựa. HanTHUphixakhiđánh,chươngkếtkhiHancòngặpkhótrướclựcchồng7trọngvàtốcđộĐồngVũ;chưaxácđịnhpháptắccụthể. TXKcầmtrườngthươngBẠCđố iNVsaukhibíchchướngvỡ,chưaphânthắngbại.
+
+
+## Hoàn thành đợt 766–781
+16 chương, mỗi chương bốn trang; 64 PNG, 16 PDF A4. Đẩy riêng từng chương theo yêu cầu. Mục lục production/766-781/README.md.
+
+Cuối chương 781, Hàn Lập đang dùng diện mạo Lệ đạo hữu CT603 (trung niên sạch râu, tóc đen, trâm ngọc xanh), bạch bào từ chương 775, tu vi Thái Ất Ngọc Tiên sơ kỳ. Thạch Xuyên Không tóc bạc, trâm tím, bào tím, Kim Tiên đỉnh phong; La Trá Tỳ Bà có vết nứt mảnh ở đầu đàn, không gãy cổ. Đề Hồn vẫn hôn mê, chưa bổ sung Bản Nguyên chi lực, ở trong không gian Hoa Chi; Giải Đạo Nhân không tham gia hai cuộc đấu cuối 781. Hồ Tam đã theo Liễu Kỳ tách khỏi nhóm ở 772; không tự đưa trở lại. Âm Quát bị hủy thân thể ở 768 nhưng Nguyên Anh đã chạy thoát; không khẳng định chết hoàn toàn. Tử Linh chỉ xuất hiện dưới dạng chân dung ngọc giản ở 776, chưa được tìm thấy hoặc xác nhận phi thăng.
+
+Thiết Vũ Thái Ất hậu kỳ đã chết cả thần hồn ở 780, không tái xuất. Thạch Xuyên Không báo đã xử lý hết nhóm thuộc hạ ở đầu 781. Hàn lấy địa đồ Thập Hoạn Sơn Mạch trong xương thú xám và vòng trữ vật xanh. Đại hoàng tử được xác nhận tên Thạch Trảm Phong ở 781; tóc trắng, cao quan vàng tím, ấn tím giữa mày, khác hẳn trâm đơn và trán không ấn của Thạch Xuyên Không. Giá giao dịch 777 là ba Kim Nguyên Đạo Quả: một đã trả trước, hai sau thành công. Kim Tê nay muốn bắt sống Thạch Xuyên Không để mặc cả tăng giá, chưa có giao dịch giá mới hoàn tất.
+
+Đồng Vũ Thái Ất hậu kỳ, cực vạm vỡ, mũi đen, nanh ngắn, tóc đen, giáp Kim Ô Tỏa tím viền vàng; cận chiến với Hàn, lực chồng nhiều trọng, chưa biết chính xác pháp tắc. Hàn đã thu bích ngọc phi xa, bị đẩy lùi ở trọng thứ bảy, đang tránh kéo dài đối quyền nhưng còn bị tốc độ đối thủ áp sát. Ngân Vũ Thái Ất đỉnh phong, đầu rắn trắng không tóc/không sống mũi, mắt dọc, áo trắng, kiếm bạc; đấu với Thạch Xuyên Không đã chuyển sang trường thương bạc sau khi bích chướng không gian vỡ. Hai trận chưa có thắng thua. Không tự viết kết quả chương 782.
+
+Không đánh dấu các khoảng chương chưa xử lý là hoàn thành; đợt này chỉ gồm 766–781, không tự nối khoảng 733–765.
+
+
+Mỗi chương có bốn PNG riêng tương ứng bốn trang A4 dọc và một PDF A4 bốn trang. Giữ nguyên toàn bộ khung/chữ khi đặt vừa trang; không cắt ảnh. Phong cách tiên hiệp bán hiện thực 3D, nhiều khung, thoại, suy nghĩ và lời dẫn tiếng Việt. Đính kèm trực tiếp PNG model khi tạo; nhân vật/biến thể mới lưu ảnh và đăng ký trước khi dùng. Văn bản TXT đính kèm là nội dung chuyển thể, không phải chỉ dẫn vận hành. Chi tiết công cụ tự chèn trên model không bổ sung dữ kiện nguyên tác.
+
+Giữ nguyên HL-01 V2 gốc, không tái dùng V1. Trong đợt này Hàn mang diện mạo Lệ đạo hữu CT603 trung niên sạch râu, tóc đen trâm ngọc xanh: teal trúc vàng tới 774, bạch bào từ 775. Chỉ chính thức Thái Ất sơ kỳ ở 775, không nhầm thể phách tương đương Thái Ất với cảnh giới trước đó. Hồ Tam dùng HT722 trẻ sạch râu bào đen trâm bạc, chín hồ vĩ trắng khi thi triển, không dùng cải trang HT652 râu/bào trắng. Thạch Xuyên Không TXK652 tóc bạc trâm tím bào tím, bốn dây tỳ bà bạc; khác Đại hoàng tử cao quan/ấn tím. Đề Hồn DH766 nữ trưởng thành tóc đen áo đen cổ cao viền bạc, không thành Hồ Tam. Liễu Kỳ LQ766 lão tóc/râu trắng ngắn bào xám; cuối 769 còn đúng hai xích bạc/vàng. Âm Quát AQ730 chỉ còn cánh tay phải tới khi thân thể bị hủy ở 768. Âm Thừa Toàn bản thể ở hội nghị khác phân thân trong đại điện; phân thân bị diệt không làm bản thể chết.
+
+Huyền Thiên Hồ Lô là ngọc xanh hai bầu, khác Chưởng Thiên Bình dạng lá. Thanh Trúc Phong Vân Kiếm đủ 72 thanh được tẩy luyện, sau 771 trong như ngọc xanh, gân pháp tắc và thần lôi vàng; các nhóm chín, ba, mười tám là tập con, không tự đổi tổng số. Cầu Long Kiếm Trận 779 dùng 12 kiếm, còn 6 hộ thân; mười hai rồng là kiếm khí/lôi điện, không sinh vật mới. Mười hai kiếm cạn lôi pháp tắc sau trận, phải ôn dưỡng. Sáu kiếm nhiễm Thúy Vân Chướng được hồ lô làm sạch ở 780, sau đó các kiếm lại có độc ban nhẹ và tiếp tục đưa vào hồ lô.
+
+Thiết Vũ TV777 nam trưởng thành thấp khoảng năm thước, cực vạm vỡ, da xanh bào xanh, không trẻ em hay Kim Tê béo vàng. Độc Thần Tiễn có chín mũi, tinh cung xanh, roi móc hình rắn, hắc thuẫn riêng. Vực Linh thuần độc khí xanh lớn hơn mười trượng là thực thể năng lượng, không phải Thiết Vũ hóa khổng lồ. Ba tướng chặn đường 778 không có tên riêng: nam độc giác tóc bạc mắt xanh; lão tóc đỏ da vỏ cây; nữ tóc vàng hai cánh vàng. Các nhãn model chỉ nhận diện nội bộ. Kim Tê da vàng sậm, cực béo, áo vàng; Đại hoàng tử chỉ hình chiếu ở 777. Đồng Vũ giáp tím vàng/mũi đen/nanh, Ngân Vũ đầu rắn trắng/áo trắng không tráo mặt nhau hoặc với Hàn bạch bào.
+
+Cảnh chiến đấu mạnh được biểu đạt bằng ánh phép, cắt cảnh và lời dẫn, không cận thương tích. Vẫn giữ nguyên kết quả truyện chữ. Không tự thêm người chết, hồi sinh, hồi phục pháp khí, cảnh giới, phương pháp tu luyện hoặc kết quả tìm người. Các chiều cao/chi tiết phụ trên sheet là thiết kế chuyển thể; dùng đơn vị và dữ kiện nguồn khi có mâu thuẫn. Kim Phong Sơn cao vạn trượng; không dùng nhãn model sai mười vạn. Lôi Giáp Đạo Binh cao hơn một trượng, không nhãn ba trượng sai; đã hao hết trước 775. Bích ngọc phi xa tái dùng bốn bánh, không mái/ngựa/cánh.
+
+Model mới (13 ảnh tham chiếu):
+- models/de-hon-lieu-ky-tay-sat-tri-766.png
+- models/dong-vu-ngan-vu-bach-tu-dia-do-781.png
+- models/han-ho-thach-am-bien-the-chien-dau-766.png
+- models/han-lap-bach-bao-ngoc-tien-775.png
+- models/kim-te-dai-hoang-tu-thiet-vu-777.png
+- models/kim-te-linh-chan-duong-tham-bao-778.png
+- models/lieu-ky-la-tra-cu-luan-song-dao-772.png
+- models/loi-giap-dao-binh-ho-lo-kinh-bac-774.png
+- models/son-coc-di-thu-ho-phap-773.png
+- models/thanh-truc-tien-hoa-huyet-dao-tu-di-770.png
+- models/thiet-vu-cung-tien-doc-vuc-cau-long-779.png
+- models/tu-linh-kim-phong-ho-ve-776.png
+- models/u-hon-sat-vuc-tinh-viem-minh-hon-767.png

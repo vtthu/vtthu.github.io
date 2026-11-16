@@ -1,0 +1,821 @@
+[
+  {
+    "chapter": 766,
+    "title": "Chiến đấu với Đại La (2)",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "22a0d117c56187ae88aa4241df715098be2f74fe",
+    "source_sha256": "52357363949d23f9f2c21649a722e097d5990a314e8547e8c30261831ef5eea5",
+    "source_bytes": 16541,
+    "models": [
+      "han-ho-thach-am-bien-the-chien-dau-766.png",
+      "de-hon-lieu-ky-tay-sat-tri-766.png",
+      "tam-nhan-ao-choang-am-phung-719.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- HànCT603 mắt đen, sát khí gần hết, NỬA BƯỚCTháiẤt chưachínhthức. HT722 đãsửaảnhmodel sạch râu, chínđuôitrắng, TXK652ngântỳbà4dây. AQ730 chỉTAYPHẢI, taytráimấttừtrước, bạc lôi làmthươngthêm. DH766/LQ766mớiđãlưu ảnhtrướcvẽ, phân hồnATT719cột4. ChínThanhTrúckiếmbịđánhrơichưathu; HuyềnQuygiáprạn, gourdHuyềnThiênsauHan. CuốiHanbịlôixíchkhóatứchi/mũithươngđếnmi tâmchưachạm. Khôngbổsung733–765, khôngphụchồi733–765làmđãxong.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "ac8fc43040775aa7097b0f6d951f34590df643db3e27bf2c1f7757646f91c4db"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "7f7c128f19de18738e63225cc4da659f4c3b0d2a4782f8f92a16c317b2a2dc81"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "4e3d27deebe8977c09ff57c74f9e04e6e524bd4d16d07d380a140b7cbb92c972"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d542c1871818c5565e8dc0d131a653828e8b70a5ac98d0441f7f0c428e798ee9"
+      }
+    ]
+  },
+  {
+    "chapter": 767,
+    "title": "Sát Vực",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "9ab7bb8dcac981aeef2b5d26a2da9df62026dcb4",
+    "source_sha256": "19f551fadb1b577aad6a0e2e9e2c3d27263484236d273b0cc0acdea16bf2e7a0",
+    "source_bytes": 14991,
+    "models": [
+      "han-ho-thach-am-bien-the-chien-dau-766.png",
+      "de-hon-lieu-ky-tay-sat-tri-766.png",
+      "u-hon-sat-vuc-tinh-viem-minh-hon-767.png",
+      "tam-nhan-ao-choang-am-phung-719.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- Lôi bạc trong HuyềnThiênHồLô đãthu từlôitrì, không pháp tắc mới. UHT767 bịtinhliênLuyệnThần5khóalạichưadiệt. SátLinh làthếthânAQkhôngphảigiếtAQthật. HuyềnQuygiáptanvỡkhôngtựphụchồi, chínkiếm/ThiênHồđaocònrơitrênsàn. HànhưbịhốđenSátVựcnuốt, chưa xácnhậnchết. DHkhôngcứuđượcbịphânhồnATT719chặn, ngãtường bằngánhphép/khóibụi. Cácđònthiệtthươngbiểuđạtlờidẫn khônggore.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "dc9e3dbf331817675387fd5e730902e7188c122745c49b99379aa42c934dce84"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "bd6816931e5ed759b64a6ed1be980cdd61b4af4f2ba5de98ae6d94f3f026dc89"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "1e8d5f4fe3197dce624f63d9bb0bfb8fbed31b24e99595ea1522ebd558a33c70"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "fb91bc069c244011b3e75e10c636803b19eacdadcb8980fa6588e1738fad2409"
+      }
+    ]
+  },
+  {
+    "chapter": 768,
+    "title": "Xuất kỳ chế thắng",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "6fc73daa7bf0ef0eb4bcc54668cde5029858858c",
+    "source_sha256": "a7095b74d34f44dd2737e3ceb8b033e83fe5672f0ad789ed2441b93466ecd717",
+    "source_bytes": 16688,
+    "models": [
+      "han-ho-thach-am-bien-the-chien-dau-766.png",
+      "de-hon-lieu-ky-tay-sat-tri-766.png",
+      "u-hon-sat-vuc-tinh-viem-minh-hon-767.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png",
+      "tinh-viem-thai-at-dan-502.png",
+      "tam-nhan-ao-choang-am-phung-719.png",
+      "hoang-phu-vu-duong-giao-tam-721.png",
+      "tieu-bat-da-hac-thang-hoi-minh-721.png"
+    ],
+    "continuity_notes": "- TV768 cùngTV502/626 ngân diễm, đãnuốtbaThấtThảiĐanSatừtrước. AQTHÂNđãbịhủy, NguyênAnhchạyKHÔNGxácnhậnchếthẳn. Hanthuđủ9kiếmkhônghưhủy, ThiênHồđao vàmộtcốtbàitrắng; giápđãtan767khôngmặclạibảnmới. DHđãsửakhunglờithoạiđúngmặtnữ, TVtiểunhânbạcđãchỉnhkhôngtrẻemngười. Trang3đãxóangườithừatrongcảnhđiềutứcchỉ4người. Chưavẽchặtxíchthứ3. HộiđàmATT719bảnthểkhôngphânhồn, HPN721tóctrắngáođen/TBD721râudamặtđen/GIA721bạchy. ÂmLâmchỉnhắcchưaxuấthiện. Cuốichưakếtminhđế n769.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "11b556ff0c2f9deacd766fe7185d31d2c171ee159f91195efe459ba634f9079f"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "fd501a7cd6438631ad8bce5b6c2470107dc8f3e4a42734daa120e6096e39017d"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "49447fd58a8bab6b09d0978200c6a6db022760c466b110a8cf4922bfc65b22c5"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "be47ef80c08279aab2858aa0595f394e4b2a233d623a066bf80089e3de35a661"
+      }
+    ]
+  },
+  {
+    "chapter": 769,
+    "title": "Gác lại tranh luận",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "a176911dced56075b2c43526e372ed7f53c1b62b",
+    "source_sha256": "8187635cada07eb753db7eb92b68a5dd400c268594de240bea7dece058494a22",
+    "source_bytes": 14810,
+    "models": [
+      "tam-nhan-ao-choang-am-phung-719.png",
+      "hoang-phu-vu-duong-giao-tam-721.png",
+      "tieu-bat-da-hac-thang-hoi-minh-721.png",
+      "mieu-coc-mieu-tu-cuu-u-o-trong-719.png",
+      "de-hon-lieu-ky-tay-sat-tri-766.png",
+      "han-ho-thach-am-bien-the-chien-dau-766.png",
+      "u-hon-sat-vuc-tinh-viem-minh-hon-767.png"
+    ],
+    "continuity_notes": "- GIA721đượcHPN gọilàCửuChântheo769 chưathêmtênhọ. MiêuCốc/MT719giữmặtphụcnóiđừngnhắc3người. PhânhồnATTbịdiệtKHÔNGbảnthể. LQgiữnhânhình/cựhồthu vềmitâm, DHMinhHồnKhúc4nhạckhítiêuhao→LQgiúphồiphục. ĐãsửacảnhLQchỉcòn2xíchbạc/vàngkhông4. Nguồnnhảymạchxích768–769giữtheođãmô tảkhôngtựthêmđònchémngoàivănbản. HanSátSuyđãvượtqua/nhục thânTháiẤtngọctiênthểnhưngtuviNỬABƯỚCTháiẤt, cuốinhảylôitrìvàngchưatiếnhóakiếmđến770.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "696d83b9aef6c242dbb4504edb9efa84962e3f60784a8e3f047aef209df08182"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "4b729e00ce46ea7e25051c24cbf60e325efe6644afb3af34cda9c2505b8c1c17"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "2c6f1d1ade523ca0810f233eb2660ce255dfbb066485653a639a218569f3e143"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "8c47cfe8aad3d3793125955a838e8606785d935f6bd1bf1184ebe2a70c965cfa"
+      }
+    ]
+  },
+  {
+    "chapter": 770,
+    "title": "Tiến hoá",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "2a88b15e122631bce74010c2edbd0a71e2814cfe",
+    "source_sha256": "718e6926157693562e8a389a12fe0aeda0fe7ee5a9adcdaa954871d74683f132",
+    "source_bytes": 15499,
+    "models": [
+      "han-ho-thach-am-bien-the-chien-dau-766.png",
+      "de-hon-lieu-ky-tay-sat-tri-766.png",
+      "u-hon-sat-vuc-tinh-viem-minh-hon-767.png",
+      "thanh-truc-tien-hoa-huyet-dao-tu-di-770.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- TuDiPhânGiớirunexámtrắngkhépđiện; LQđuôicuộnxíchvànggiảmbớtlôiápchoHan. TXKxuốngBẠC/HanVÀNG khôngđổivịtrí. U HồnTrùngbịlôivàngdiệt770 khônghồisinh. Hanmấttựchủlôipháptắc→72kiếmhútlôilàmpháplựctrởlại. Bảnmệnhkiếmmớibắtđầunhậpphẩmkhôngxácnhậnhoànthànhđến771. Đãsửađúng72vàHuyềnThiênhồlô2bầuxanhkhôngChưởngThiênBìnhhoaLá. Thiệthạiẩnquaphépnộicảnh/lờidẫnkhônggore. ChưaHanra/đứtxích.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b62920a207db9302f15305838a757a7ea5f20b8c0ab1b54dffb252b9a70e074f"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "49a2479edae3e9a0099b2c109d5a476001f5385154ff68e742ea0854d80fdf4a"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "05de63be677d2e30b4d8ae90f7d519b40cd8b8ce2cc8a5e5c40b380680f9fbc6"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "e95d8a853d4b0a4e92bd720d80c90deda7256189b02b09daa2911bde5a502a4a"
+      }
+    ]
+  },
+  {
+    "chapter": 771,
+    "title": "Lửa sém lông mày",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "62a349cf5a191f26c90830a61b86fa98ccb7f7de",
+    "source_sha256": "1c62f34f505b942842794d61e6567f4960fa80155139d04afd20a2f42259c06a",
+    "source_bytes": 16057,
+    "models": [
+      "han-ho-thach-am-bien-the-chien-dau-766.png",
+      "de-hon-lieu-ky-tay-sat-tri-766.png",
+      "thanh-truc-tien-hoa-huyet-dao-tu-di-770.png",
+      "giai-dao-nhan-gdn01.png",
+      "giai-dao-nhan-hoa-chi-bat-nguyen-624.png"
+    ],
+    "continuity_notes": "- Hanđãnhiễmkhítứclôivàng;72kiếmbảnmệnhxanhngọcgầntrongsuốtvânlôivàngđãtiếngiaiTiênKhí, thuđủ72. TXKquabạclôivượtSátSuy/đanphụchồivớibăngquấnphép/lờidẫnkhôngcậnhuyếtthương. DHphụchơnnửa, GiảiGDN01vànghoàngbàogắntrựcmodel624hồiphụcthạchmớihỗtrợ. ThiênHồđao cóhưảnhThạchKhinhHậuhóalưỡiliềmnhãnvănđỏ/tựbaychémkimliênnhưngCHƯAĐỨT. Cuốiđạiđiệnbịđònđầutiêntừngoài, ATT/PTTchưaxuấthiệnđế n772. Haiđầuratừchốibộlọcđãtạolạicảnhphép/đứngtĩnhhoànchỉnh.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "5a40771681842b280aee17b276fd1409bfa00a4af60fe2371e5084b829103fae"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "ed90f6c00cc6a1482d4816e960b56d7d80cc2842876a7f8599d90291f46bb24d"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "0e5c4ce83fa1d5c4ec60d124b55eddb7c8822e16ee0845aeac658e9c4adbb1a3"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f8242447e8de641b813a7a17c8715453c8675918b886a8f552b305a47bfc8be8"
+      }
+    ]
+  },
+  {
+    "chapter": 772,
+    "title": "Cực kỳ nguy hiểm",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "802c55689135128ee0715334c6a84045a549ecdd",
+    "source_sha256": "226f9afdec1d787fedebfaf18b3c1ec3c1424a822d269bc50ea05ae3568e4e44",
+    "source_bytes": 15873,
+    "models": [
+      "lieu-ky-la-tra-cu-luan-song-dao-772.png",
+      "han-ho-thach-am-bien-the-chien-dau-766.png",
+      "de-hon-lieu-ky-tay-sat-tri-766.png",
+      "tam-nhan-ao-choang-am-phung-719.png",
+      "thanh-truc-tien-hoa-huyet-dao-tu-di-770.png",
+      "giai-dao-nhan-hoa-chi-bat-nguyen-624.png"
+    ],
+    "continuity_notes": "- ATT/PTT719bảnthể2ĐạoTổ/khôngAQhoặcNhiệtHỏa. LQ766giữmặtbiếnthểthậptựgiátả772/1taycáoxámtrắngdùngHóaHuyếtđao. Khôngtuyênbốkimliênđứt. PTTlamchưởnghóalamngọc/thờigianchậmkhenứt. GiảiGDN01haoTiênNguyênThạchinactive. LQ2đuôicứuCHỈHT, khôngHanné tấncôngthànhcông. ĐãbổsungDHvàocảnhnhómtrang3/4đểkhôngbiếnmất. 4ngườicònlạiHanTXKDHGiải bịLaTráTỳBàtựmởcửahút→PTTchặnlamquang,cuốimắctạicửaCHƯATHOÁTđế n773. LaTráxácnhậntêncủangântỳbà652khôngphápbảomới.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "da3bfec07e6dd6fc342dbf06ae30b17d8099060ec317f193443f513e42692c31"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f85d2e028b7f9f3befc27004051239d3f16fa0c721f6638355ebe7ad4ddf9d0f"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c734a996bac92d5b13a1ea93d0bc28069be729d59881d5eb284e44116368a0ae"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "10ea3e58da680ec413edc920e0c26147c30f6ddc8012bbd120b27ff30490d0a8"
+      }
+    ]
+  },
+  {
+    "chapter": 773,
+    "title": "Đại nạn không chết",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "3d5d602aa4643ed6f0e9740dd7a0fb908e9d7937",
+    "source_sha256": "ffe58b6595f973797444f3d50ff145b01914add778378dea3e231d7811734d96",
+    "source_bytes": 15658,
+    "models": [
+      "lieu-ky-la-tra-cu-luan-song-dao-772.png",
+      "han-ho-thach-am-bien-the-chien-dau-766.png",
+      "de-hon-lieu-ky-tay-sat-tri-766.png",
+      "tam-nhan-ao-choang-am-phung-719.png",
+      "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+      "son-coc-di-thu-ho-phap-773.png"
+    ],
+    "continuity_notes": "- Cựluân6lỗđentâmđỏ/chưagánchủnhân. DHhônmêhắckhíbịhútkhôngchết, HanthuDH+GDNvàoHoaChi(đãsửamodelnữvàthướcHoaChibạckhôngnhầmngântỳbà). ChỉHanTXKđithôngđạocùngLaTrá4dây,2pháptắcxám/lamgâyrốiloạnđànnứtĐẦU1vệtchưagãy. Rađếnsơnmạchxanhđen/mâymùchưagọiMaVựcđến775. HannguyênkhítrànvàosắpphácảnhchưaTháiẤthoànthành, GDNgoldhoàngbàoxuấtHoaChi/songđaoTrảmĐìnhĐoạnTiêuhộpháp. DHcòntrongHoaChi. Cuối3thúđầu773vượnđáđen/mãngxanh/nhệntímxanhđếnchưabịdiệt/trậnbíchchướngchưadựngđến774.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "efc38ffc916348bf924c0c831022cc9d0e3077c47495dc5cebb8fd8469020e9b"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "34de488e83b8f777039bbba7a730404868d2b30e529b554bde54a84a9e5777b3"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "a3312492d5a49307375f531b2a208d19ab092c548a44c477abf4c20d3ee8deaa"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "de3c1a8b3fff737294ee55e9b15551b357fbf8e743d0216a87fd962d1fa4564b"
+      }
+    ]
+  },
+  {
+    "chapter": 774,
+    "title": "Tẩy rửa Ngọc Thể",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "f1ec37c9740b6fc09734bfbc685b9d04a3b25ff0",
+    "source_sha256": "d42c09aa20b8589af720a149cdafd02f205a020e13188e7718433286e96b15ba",
+    "source_bytes": 14732,
+    "models": [
+      "han-ho-thach-am-bien-the-chien-dau-766.png",
+      "lieu-ky-la-tra-cu-luan-song-dao-772.png",
+      "son-coc-di-thu-ho-phap-773.png",
+      "loi-giap-dao-binh-ho-lo-kinh-bac-774.png"
+    ],
+    "continuity_notes": "- TXKmodel652SILVERhairPURPLEpinđãsửakhungđiềutứctrang1khôngHantrâmxanh. TrậnwallBẠC/mạngnhệnNGŨSẮC, LDB7743.5m/hơ n1trượngkhôngnhãnsai10m. GDN01dùnghồlônâuđậuvàng/đạibinhcùngDB545biếnvânlôi,khôngquyếthếtđộiquântrước775. HV773vượnđáđenbịTXKdiệt/NgôCôngtrắngBNC774bịGiảihạquaánhphép/lờidẫn. Hânngọcthểphiêugiữáoteal, chưađổibạchbà ođến775. ThờigianBA THÁNGtrang4,DX774rắnđỏ2cánhtrongsuốt/mắtlục;cuốihaiđaochémcánhchưavẽkếtquảrơichế tđến775.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f71a81f755959def553b420885338d6852a1dbeb3a401ebf33d820bcaa5d79eb"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "1a3f46f49c685c16ed7213276aafd8c64765e51c3f7697e93af1326b789d5a36"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "e434c193d592cf3c7b8dff25473221e20d92751487f96247c0bf34a67096ae42"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b18f7ee6475a5391ca27929a9a6b6b3aac11e690b4c7686a7a756eae96dc8cc6"
+      }
+    ]
+  },
+  {
+    "chapter": 775,
+    "title": "Tiến giai Thái Ất",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "0e30098fe87515cf260121f0c700e6750e042a02",
+    "source_sha256": "90e362d85fb4af87bb2daa43a52fb7ebaf2be20d30ffca5bd3607948c6f7ea3b",
+    "source_bytes": 14949,
+    "models": [
+      "son-coc-di-thu-ho-phap-773.png",
+      "lieu-ky-la-tra-cu-luan-song-dao-772.png",
+      "han-ho-thach-am-bien-the-chien-dau-766.png",
+      "han-lap-bach-bao-ngoc-tien-775.png"
+    ],
+    "continuity_notes": "- HanCHÍNHTHỨCTháiẤtNgọcTiênsơkỳ775, khôngcònnửabước. Bạchbàomới/CT603mặttrungniêntrâmngọcxanh/tócđen, mặt nạLuânHồibiểuđạtảodiệnmờgiữmặtkhôngthayV2. DùngBAkiếmtrong72đãtiếngiai,2quyềnxanhlụcgiảivây. TXKkiệtsứcbịTuyếtThiềmđôngbăngvẫn sống;Giảihộpháphết3tháng, LDBhếtnửathángtrướckhônghồiphục. Cảnhxácthúhuyếthồbiểuđạttừxasương/đátối/ánhphépkhôngcậngore. MaVực/ThánhVựclàtênnơihiệntại, MaChủchỉnhắcđế n khôngtựvẽmặt/cơthể. TXKnghichaphụgiúpLaTrávượtgiớichưagánhiệntượngkhác. DHvẫnhônmêtrongHoaChikhôngquayra.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "5bd6af586fe32a66ad5f1ce683c6dbc76f77a40b62fbf3617cdfd9c2280eef6d"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "6ef6dbcc9204d500b952d350ca7be9ed1dddfdd1e10fe7b36fff6814acd009c4"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "540ddefd0f65f94267c9542a96b94b91bd3cc0b7f6a7ffc4d9b651d4e5e8ee58"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "2accf69d550aac14970bdbe33030d2ac19c4d1259325952c5e4c67eae5304ade"
+      }
+    ]
+  },
+  {
+    "chapter": 776,
+    "title": "Tìm kiếm hồng nhan",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "6924423a5e4f54f6ad82230786920acc61a8347c",
+    "source_sha256": "bf67d16209c9ccf49ae01e02019b02023df304ad0354b140b1f2ef1ed9b4fc8f",
+    "source_bytes": 15134,
+    "models": [
+      "han-lap-bach-bao-ngoc-tien-775.png",
+      "han-ho-thach-am-bien-the-chien-dau-766.png",
+      "de-hon-lieu-ky-tay-sat-tri-766.png",
+      "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+      "tu-linh-kim-phong-ho-ve-776.png"
+    ],
+    "continuity_notes": "- DHvẫnhônmê/BảnNguyênhếtchưacứu,chỉgợicáchĐạiTếTiDạDươngchưadiễnraviệ cchữa. TXKgiảithíchMaChủcanthiệpLaTrálàsuyđoán. HướngBẮCThậpHoạn→HùngCứ→DạDươngsơđồlộtrìnhkhôngbảnđồchuẩn. 10hungthúĐạiLachỉnhắc/điểmcảnhbáokhôngvẽngườimới. TL776TửLinhchỉhìnhngọcbàiXANH,khôngcóthậttrongHoaChi;chưakhẳngđịnhđãphithăng/bạnlữ. HaiHanhbạchbào/TXKáotímlykhaiHoaChihướngbắc,DHkhôngtheora. KimPhongSơnVẠNTRƯỢNG/goldpalace,2hộvệBV776họBa/VG776vôdanh;chuyệnthịthiếpđượckểngắnkhôngminhhọatrừngphạt. KimTêchưavẽthânngườiđến777.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "1bbc410d02d0df07be492280fa63e2da0163a4ec6e4ff7fd7cf1d8ce70a91db3"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "93e7e242dd18b13f26ce616bba0ed183d1c7e51b1c44ad89df7c4e47a6027e28"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "2965612e9f95508cb0c137a7169869683fb3ec74e383e98a6ad5baf77c2f06de"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "ee45d3816c527c4794b7d33a58d7399b203f2d685b4c6f337a13b6a9f26d188f"
+      }
+    ]
+  },
+  {
+    "chapter": 777,
+    "title": "Đại hoàng tử",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "99e89bd706badb1088a8de1717c4552f012a2c11",
+    "source_sha256": "0f4db8afbd16ad86a89393eb30a43512c45ce4bde10a5279bf0a4631a96f8761",
+    "source_bytes": 15258,
+    "models": [
+      "kim-te-dai-hoang-tu-thiet-vu-777.png",
+      "tu-linh-kim-phong-ho-ve-776.png",
+      "han-lap-bach-bao-ngoc-tien-775.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png"
+    ],
+    "continuity_notes": "- 777 không có Han/TXK thực xuất hiện, chỉ chân dung. Han bạch bào CT603; TXK tóc bạc trâm đơn tím KHÔNG vương miện/ấn tím; Đại hoàng tử tóc trắng đội cao quan/ấn tím. Đã sửa chân dung TXK trang2 cho đúng. Thỏa thuận3 quả tổng,1 đặt trước2 sau; MaChủbếquan/địnhngườikếvịlàlờiĐạihoàngtử. ThiếtVũkhôngđượcbiếtthânphậnhoàngtửcủamụctiêu, chỉbiếttuvivàngoạitộc. ĐồngVũ/NgânVũ/HắcDứuchỉnhắckhôngvẽmới.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "9830403c051e92435a3765940f9fc8cfa9ed68cfec33658660ebc36c755384c6"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "772fa40fa234c0016906912e3a08b5902c60fca9e21765197eaa46eb8e127235"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d6498d17f9f9f9be585c2200177d502f8ae99de76301881bc8b2a73712a3d0d0"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "933ec143b9be412df773414f516553c290b61f3ffc7c33e73c6b5056e853b47d"
+      }
+    ]
+  },
+  {
+    "chapter": 778,
+    "title": "Chặn đường",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "14544c379894a038d1158c32c0943acbfb3c2ff2",
+    "source_sha256": "b9a32cc088a54839b6b4ef5ff11039540ee0a3269e0a51b8ddc5af63d0eff3cd",
+    "source_bytes": 17068,
+    "models": [
+      "han-lap-bach-bao-ngoc-tien-775.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "kim-te-dai-hoang-tu-thiet-vu-777.png",
+      "kim-te-linh-chan-duong-tham-bao-778.png",
+      "thanh-truc-tien-hoa-huyet-dao-tu-di-770.png"
+    ],
+    "continuity_notes": "- Hai người HanWHITECT603/TXKpurpleonlytravellers, ThiếtVũẩnđếnlộmâyđen;đãsửalỗicóThiếtVũtrongkhungđầutrang3. TXKdùngĐÚNG2bạchđan,HanVạnĐộcHỗnNguyênThânkhôngcầnthuốc. TT778sứgiảkhôngchết,3tướngvôdanhTháiẤtsơkỳ; tiênXANH/bađầuhổĐỎ/kimvũVÀNG. Cuốitrang4mớixuất18kiếm,chưadiễnrakếtquảkiếmtrận779.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "afeac87075e08626bc3c55292617ae1531787b0fecbfdb97375a1ed57d9ac30f"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "29ec6888af9bee0a0d51256d6e83cd714a1e4cc0a0c1ea90d0edcf60a2442206"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "df6875538c44f7aa6e8d4df8d59cc199c98610d4431a66579d59ebbf59881691"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "667e4fce34244f34428db28f75c991cf1ce1ffa4fcef31cbc260951214174f7b"
+      }
+    ]
+  },
+  {
+    "chapter": 779,
+    "title": "Kiếm giết quần hung",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "9181020ed3f7075315df8f600e2ea353566afe05",
+    "source_sha256": "8a4e9c7118da6bea244f8f136a7cf5bfa3745d8253ba6e3c78bb16acabd4625f",
+    "source_bytes": 15663,
+    "models": [
+      "han-lap-bach-bao-ngoc-tien-775.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "kim-te-dai-hoang-tu-thiet-vu-777.png",
+      "kim-te-linh-chan-duong-tham-bao-778.png",
+      "thiet-vu-cung-tien-doc-vuc-cau-long-779.png"
+    ],
+    "continuity_notes": "- 18kiếm=12CầuLong+6hộthân,12rồngthuầnnănglượnglôiđiệnkhônglongtộcthật. Nhómbịvây3TháiẤt/vàiKimTiênvẫnlạcquaá nhphép/lờidẫnkhônggore;thuộchạcònlạitrênmâyđensống. LaTrá4dâyTXKchặnThiếtVũ,KHÔNGpháhủysớm. 12kiếmcạnlôipháptắcthuvềđanđiềncầnôndưỡng;6kiếmnhiễmThúyVânChướngchưasạch;cuốichương9tênlạibắntớichưatiêudiệtThiếtVũ.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "2d2821665fc89d4856356407517217b572651352acc6885cb0f039a70763bfed"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "3e614e95bfbdd1a1052271e09409953b2676338d72de1069d69704785e805e90"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "8990f01c9ae0d7537d72418c81a11acb2568e5ee7db6b4f605f562c1318a33b3"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "25d1073379708dc48ec8c843e0a04e6e79f015c00bfe2da4e0e7f703b415049d"
+      }
+    ]
+  },
+  {
+    "chapter": 780,
+    "title": "Trảm thảo trừ căn",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "35b0f701303521aa44e8bff2254e60b81e15decc",
+    "source_sha256": "dcbb3d0017f11d7dd23b34ff50150bf01411e485896a725c36843cf176855f4c",
+    "source_bytes": 16106,
+    "models": [
+      "han-lap-bach-bao-ngoc-tien-775.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "kim-te-dai-hoang-tu-thiet-vu-777.png",
+      "thiet-vu-cung-tien-doc-vuc-cau-long-779.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- HuyềnThiênHồLôhaiBẦUngọcxanhKHÔNGChưởngThiênBìnhdạnglá;6kiếmđầuchữasạchđộc,rồi18kiếm/cung/chíntiễncuốicùnglạithuđểhóagiảilụcban. 12kiếmvừacạnlôipháptắckhôngtựđủtức thì,780theonguồn18kiếmvẫntạokiếmsơn. ĐộcVực100dặm/ThờiGianVựchơn10dặm,chậmkhoảng10lần. TXKLaTráthoát100dặm. VựcLinhchặnđượclôiquangnhưngphi kiếmbấtngờ+kiếmkhítiêudiệtThiếtVũTHÁIẤTHẬUKỲ,khôngthaybằngbịthươngthoát;mọicảnhkếtliễuqualờidẫn/cutawaykhônghìnhthểgore. TXKđuổitheonhómcònlạichưaquayvềđến781. Đãsửaactorcầmcungtrang2đúngThiếtVũ.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "2950e329bff536d4ca80ca71e460523f69005ab976dbc9f0bfb07d5c046f6d20"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "538e5d5074f432293993e158ba9dc9cacdde77f8652996cbf234088733d33b20"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c6699390bd7a0466cb63f231cae514710e90cb66eec73afdb8e77a7c7c79a24e"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "8fabfcce2a843167974ca4d78c6fd38a1ca5ea7e4fc9b91455d0b319ddb6d75b"
+      }
+    ]
+  },
+  {
+    "chapter": 781,
+    "title": "Bao vây chặn đánh",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "44960c47fbfd0faa12889e599e091ce54444d3af",
+    "source_sha256": "da569272f40aa78f5455bb5b22f4643e90aa65ec11d0f05c78d885a6c6cdcd53",
+    "source_bytes": 14775,
+    "models": [
+      "han-lap-bach-bao-ngoc-tien-775.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "kim-te-dai-hoang-tu-thiet-vu-777.png",
+      "dong-vu-ngan-vu-bach-tu-dia-do-781.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- HanCT603mặttrungniên/trâmngọcxanh/BẠCHBÀOvẫnTháiẤtsơkỳ,TXK652tócbạc/trâmtím/áotímKimTiênđỉnhphong. ThiếtVũthầnhồnđãdiệt780khôngtrởlại;TXKxửlýhếtthuộchạ/sưuhồnbáolailịch,HanlấyđịađồxươngXÁM. ĐạihoàngtửđượcxácnhậntênThạchTrảmPhong781,KHÔNGThạchXuyênKhông. KimTêđổiđòibắtsốngTXKđểtănggiá,ĐồngVũhậukỳgiáptímvàngmũiđenrăngnan h/NVđỉnhphongtoànđầurắnTRẮNG. Cảnhbạolựcthịnữ/đedọaxácđượcchuyểnquacutaway/lờidẫnkhônggore. BáchTuThúbịhạ/ngọchạchđãlấy,phixa4bánhngọcxanhkhôngmái/khôngngựa. HanTHUphixakhiđánh,chươngkếtkhiHancòngặpkhótrướclựcchồng7trọngvàtốcđộĐồngVũ;chưaxácđịnhpháptắccụthể. TXKcầmtrườngthươngBẠCđố iNVsaukhibíchchướngvỡ,chưaphânthắngbại.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "2bb1d807e6cfffc18253ad1bca2b9502eb55f8dbb26355198f7d28c3715cb8dd"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "35403cf81641c4906e347d061084084efe7084fd80666ce075d4f90df40daf0f"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "468277613863509b3e76a8efe1d581eaba9a0fb6bc01c205778bc6938a65aba5"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "324bbbd63bfe0e6101fa5a1d79e86142eb369f18ce1834e61b85fabe7711540e"
+      }
+    ]
+  }
+]

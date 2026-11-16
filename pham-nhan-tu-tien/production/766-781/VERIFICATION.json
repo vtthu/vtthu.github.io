@@ -1,0 +1,72 @@
+{
+  "status": "completed",
+  "verified_at_utc": "2026-11-16T18:42:30.105589+00:00",
+  "chapters": 16,
+  "PNG_pages": 64,
+  "PDFs_A4": 16,
+  "pages_per_chapter": 4,
+  "PNG_pixels": [
+    1055,
+    1492
+  ],
+  "source_identical_to_user_uploads": true,
+  "PDF_page_counts_and_A4_verified": true,
+  "all_PNG_decodes_verified": true,
+  "ZIP_integrity_verified_locally": true,
+  "root_website_untouched": true,
+  "existing_model_files_unchanged": true,
+  "new_model_images": [
+    {
+      "path": "models/de-hon-lieu-ky-tay-sat-tri-766.png",
+      "sha256": "60321f3c63a74dc88e05612bbb26f0bb4c092a6c3126d2b8517dfa07e7d4f9d2"
+    },
+    {
+      "path": "models/dong-vu-ngan-vu-bach-tu-dia-do-781.png",
+      "sha256": "e40ad79bba664c89a9abb606e8b2da06c19dc5bcd86d896a1555dcf47953e2d7"
+    },
+    {
+      "path": "models/han-ho-thach-am-bien-the-chien-dau-766.png",
+      "sha256": "0a13aba9e368ffb9833e303c577cf005f714898978606e30594e04765f86eda4"
+    },
+    {
+      "path": "models/han-lap-bach-bao-ngoc-tien-775.png",
+      "sha256": "e0c49d7441c7b6ea5f947c8bf9c3dd778915098c766ce88ffc0fcf48f3cc670d"
+    },
+    {
+      "path": "models/kim-te-dai-hoang-tu-thiet-vu-777.png",
+      "sha256": "b17e084870cb7c3ed1936518f56099f8a1926616fb68904d697f358e693bbc57"
+    },
+    {
+      "path": "models/kim-te-linh-chan-duong-tham-bao-778.png",
+      "sha256": "a81749b9f8f6e7fe0034e38f300db305b33471ba3a8cb06dc054d5fa8d2205ba"
+    },
+    {
+      "path": "models/lieu-ky-la-tra-cu-luan-song-dao-772.png",
+      "sha256": "5baa0eb033d3d9ab3cbe099fa6becdfbe8c0f0dd791ef46d1a917770dfd2ee30"
+    },
+    {
+      "path": "models/loi-giap-dao-binh-ho-lo-kinh-bac-774.png",
+      "sha256": "c1cf389d4b0a9604d4312449d74a1f1f7b1c4cbb7d4f01ebe0743a6c21175a36"
+    },
+    {
+      "path": "models/son-coc-di-thu-ho-phap-773.png",
+      "sha256": "e3452b8a536407eb1ce6020ecde6ede658ddd583b800be35d7f82d2423c2a670"
+    },
+    {
+      "path": "models/thanh-truc-tien-hoa-huyet-dao-tu-di-770.png",
+      "sha256": "589afd74af975757aa9871f7daad31c81ff0c167ac3670b7b1ee75567eac0a18"
+    },
+    {
+      "path": "models/thiet-vu-cung-tien-doc-vuc-cau-long-779.png",
+      "sha256": "b0d8a05c3cb0dc5a7433bfa8192e685985acff730be73180e325f972e01edaea"
+    },
+    {
+      "path": "models/tu-linh-kim-phong-ho-ve-776.png",
+      "sha256": "3ef3ae9991ca380f2598f85fcb818cdf4e0884d329d984c51c4592239d9dfc37"
+    },
+    {
+      "path": "models/u-hon-sat-vuc-tinh-viem-minh-hon-767.png",
+      "sha256": "af4ed932751ce113d171068aa2c2f37bb51a90701997492bfb5cea7c8e997243"
+    }
+  ]
+}
