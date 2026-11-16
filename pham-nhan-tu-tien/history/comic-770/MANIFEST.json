@@ -1,0 +1,43 @@
+{
+  "chapter": 770,
+  "title": "Tiến hoá",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-770/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-770/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-770/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-770/trang-04.png"
+  ],
+  "models": [
+    "han-ho-thach-am-bien-the-chien-dau-766.png",
+    "de-hon-lieu-ky-tay-sat-tri-766.png",
+    "u-hon-sat-vuc-tinh-viem-minh-hon-767.png",
+    "thanh-truc-tien-hoa-huyet-dao-tu-di-770.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Liễu Kỳ cô lập đại điện, Thạch Xuyên Không quyết tẩy sát trong lôi bạc. Hàn Lập bị kim lôi phong tỏa nhưng trừ được U Hồn Trùng và gặp cơ duyên tiến hóa 72 phi kiếm.",
+  "notes": "- TuDiPhânGiớirunexámtrắngkhépđiện; LQđuôicuộnxíchvànggiảmbớtlôiápchoHan. TXKxuốngBẠC/HanVÀNG khôngđổivịtrí. U HồnTrùngbịlôivàngdiệt770 khônghồisinh. Hanmấttựchủlôipháptắc→72kiếmhútlôilàmpháplựctrởlại. Bảnmệnhkiếmmớibắtđầunhậpphẩmkhôngxácnhậnhoànthànhđến771. Đãsửađúng72vàHuyềnThiênhồlô2bầuxanhkhôngChưởngThiênBìnhhoaLá. Thiệthạiẩnquaphépnộicảnh/lờidẫnkhônggore. ChưaHanra/đứtxích.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/770p1.png",
+    "/tmp/comic-generated-766-781/770p2.png",
+    "/tmp/comic-generated-766-781/770p3.png",
+    "/tmp/comic-generated-766-781/770p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

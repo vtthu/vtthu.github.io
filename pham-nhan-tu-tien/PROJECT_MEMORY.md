@@ -1705,3 +1705,11 @@ Nguồn: file CHUONG 768.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 769 — Gác lại tranh luận: hoàn thành 4 trang
 Nguồn: file CHUONG 769.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/769/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - GIA721đượcHPN gọilàCửuChântheo769 chưathêmtênhọ. MiêuCốc/MT719giữmặtphụcnóiđừngnhắc3người. PhânhồnATTbịdiệtKHÔNGbảnthể. LQgiữnhânhình/cựhồthu vềmitâm, DHMinhHồnKhúc4nhạckhítiêuhao→LQgiúphồiphục. ĐãsửacảnhLQchỉcòn2xíchbạc/vàngkhông4. Nguồnnhảymạchxích768–769giữtheođãmô tảkhôngtựthêmđònchémngoàivănbản. HanSátSuyđãvượtqua/nhục thânTháiẤtngọctiênthểnhưngtuviNỬABƯỚCTháiẤt, cuốinhảylôitrìvàngchưatiếnhóakiếmđến770.
+
+### Model trước770
+models/thanh-truc-tien-hoa-huyet-dao-tu-di-770.png: cảbộ72ThanhTrúckiếm(8x9) tiếnhoákhác9thanhđãdùngchiến766; bản771xanhngọcgầntrongsuốt vânlôivàng/hồquangvàng/phùvănlôi. Bản770mớibắtđầutiếngiai, khôngtuyênbốhoànthiệnđến771. ThiênHồHóaHuyếtĐao biến771lưỡiliềmđỏđen nhiềunhãnvănđỏ/hưảnhcáoThạchKhinhHậuthuđao, khôngtựvẽngườimớingồingoài. LQ766tạmđuôixámtrắngcuộnxíchvàng/TuDiPhânGiớirunexámtrắngtrênđiện; nhãnbảngphithuyền/hồlôởtiêuđềsaiKHÔNGdùngtrongtruyện. GiảiGDN01giữmặtvànghoàngbàobảng624 khixuấthiện771, khônglấythướcHoaChilàmvũkhí.
+
+
+## Chương 770 — Tiến hoá: hoàn thành 4 trang
+Nguồn: file CHUONG 770.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/770/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- TuDiPhânGiớirunexámtrắngkhépđiện; LQđuôicuộnxíchvànggiảmbớtlôiápchoHan. TXKxuốngBẠC/HanVÀNG khôngđổivịtrí. U HồnTrùngbịlôivàngdiệt770 khônghồisinh. Hanmấttựchủlôipháptắc→72kiếmhútlôilàmpháplựctrởlại. Bảnmệnhkiếmmớibắtđầunhậpphẩmkhôngxácnhậnhoànthànhđến771. Đãsửađúng72vàHuyềnThiênhồlô2bầuxanhkhôngChưởngThiênBìnhhoaLá. Thiệthạiẩnquaphépnộicảnh/lờidẫnkhônggore. ChưaHanra/đứtxích.
