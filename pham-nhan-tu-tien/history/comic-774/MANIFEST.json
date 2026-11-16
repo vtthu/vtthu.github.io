@@ -1,0 +1,42 @@
+{
+  "chapter": 774,
+  "title": "Tẩy rửa Ngọc Thể",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-774/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-774/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-774/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-774/trang-04.png"
+  ],
+  "models": [
+    "han-ho-thach-am-bien-the-chien-dau-766.png",
+    "lieu-ky-la-tra-cu-luan-song-dao-772.png",
+    "son-coc-di-thu-ho-phap-773.png",
+    "loi-giap-dao-binh-ho-lo-kinh-bac-774.png"
+  ],
+  "summary": "Thạch Xuyên Không dựng bích chướng, Giải Đạo Nhân gọi Lôi Giáp Đạo Binh giữ cốc. Hàn Lập tẩy luyện ngọc thể; ba tháng trôi qua, Giải tiếp tục giao chiến với trường xà hai cánh.",
+  "notes": "- TXKmodel652SILVERhairPURPLEpinđãsửakhungđiềutứctrang1khôngHantrâmxanh. TrậnwallBẠC/mạngnhệnNGŨSẮC, LDB7743.5m/hơ n1trượngkhôngnhãnsai10m. GDN01dùnghồlônâuđậuvàng/đạibinhcùngDB545biếnvânlôi,khôngquyếthếtđộiquântrước775. HV773vượnđáđenbịTXKdiệt/NgôCôngtrắngBNC774bịGiảihạquaánhphép/lờidẫn. Hânngọcthểphiêugiữáoteal, chưađổibạchbà ođến775. ThờigianBA THÁNGtrang4,DX774rắnđỏ2cánhtrongsuốt/mắtlục;cuốihaiđaochémcánhchưavẽkếtquảrơichế tđến775.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/774p1.png",
+    "/tmp/comic-generated-766-781/774p2.png",
+    "/tmp/comic-generated-766-781/774p3.png",
+    "/tmp/comic-generated-766-781/774p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

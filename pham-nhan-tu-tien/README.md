@@ -77,6 +77,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 774: Tẩy rửa Ngọc Thể](chapters/774/): 4 trang, hoàn thành; [PDF A4](chapters/774/chuong-774.pdf)
+
 - [Chương 773: Đại nạn không chết](chapters/773/): 4 trang, hoàn thành; [PDF A4](chapters/773/chuong-773.pdf)
 
 - [Chương 772: Cực kỳ nguy hiểm](chapters/772/): 4 trang, hoàn thành; [PDF A4](chapters/772/chuong-772.pdf)

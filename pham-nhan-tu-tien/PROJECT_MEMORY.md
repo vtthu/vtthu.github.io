@@ -1734,3 +1734,11 @@ models/son-coc-di-thu-ho-phap-773.png: HV773vượnĐENkhônglôngdan hưđá/m�
 ## Chương 773 — Đại nạn không chết: hoàn thành 4 trang
 Nguồn: file CHUONG 773.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/773/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Cựluân6lỗđentâmđỏ/chưagánchủnhân. DHhônmêhắckhíbịhútkhôngchết, HanthuDH+GDNvàoHoaChi(đãsửamodelnữvàthướcHoaChibạckhôngnhầmngântỳbà). ChỉHanTXKđithôngđạocùngLaTrá4dây,2pháptắcxám/lamgâyrốiloạnđànnứtĐẦU1vệtchưagãy. Rađếnsơnmạchxanhđen/mâymùchưagọiMaVựcđến775. HannguyênkhítrànvàosắpphácảnhchưaTháiẤthoànthành, GDNgoldhoàngbàoxuấtHoaChi/songđaoTrảmĐìnhĐoạnTiêuhộpháp. DHcòntrongHoaChi. Cuối3thúđầu773vượnđáđen/mãngxanh/nhệntímxanhđếnchưabịdiệt/trậnbíchchướngchưadựngđến774.
+
+### Model trước774
+models/loi-giap-dao-binh-ho-lo-kinh-bac-774.png: LDB774đạobinhcùnghệDB545giápvàngmũkínmắtgiả/cầmthươngkhiên, thêmvânlôi; nguồnCAOHƠNMỘTTRƯỢNG, KHÔNGdùngnhãnbảng3trượng/10m; GiảiGDN01vẫnchiềucaongườithườngkhông9mtheonhãnsai. HồlôchứađậunâugỗtạohìnhminhhọakhácHuyềnThiênhồlôHan. KínhbạcTXK774tròntocỡđầungườilưngquai/rimvânkhônggian; bíchchướngbạcchắncốc/trênbịmạngnhệnngũsắcphủ. Hơn10đạitrậnvuôngmỗiđộihàngtrăm,khôngtựgántổngchínhxác. Đạobinhdùnghếttrước775nửathángkhônghồisinh.
+
+
+## Chương 774 — Tẩy rửa Ngọc Thể: hoàn thành 4 trang
+Nguồn: file CHUONG 774.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/774/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- TXKmodel652SILVERhairPURPLEpinđãsửakhungđiềutứctrang1khôngHantrâmxanh. TrậnwallBẠC/mạngnhệnNGŨSẮC, LDB7743.5m/hơ n1trượngkhôngnhãnsai10m. GDN01dùnghồlônâuđậuvàng/đạibinhcùngDB545biếnvânlôi,khôngquyếthếtđộiquântrước775. HV773vượnđáđenbịTXKdiệt/NgôCôngtrắngBNC774bịGiảihạquaánhphép/lờidẫn. Hânngọcthểphiêugiữáoteal, chưađổibạchbà ođến775. ThờigianBA THÁNGtrang4,DX774rắnđỏ2cánhtrongsuốt/mắtlục;cuốihaiđaochémcánhchưavẽkếtquảrơichế tđến775.
