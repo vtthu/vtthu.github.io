@@ -1,0 +1,42 @@
+{
+  "chapter": 775,
+  "title": "Tiến giai Thái Ất",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-775/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-775/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-775/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-775/trang-04.png"
+  ],
+  "models": [
+    "son-coc-di-thu-ho-phap-773.png",
+    "lieu-ky-la-tra-cu-luan-song-dao-772.png",
+    "han-ho-thach-am-bien-the-chien-dau-766.png",
+    "han-lap-bach-bao-ngoc-tien-775.png"
+  ],
+  "summary": "Sau ba tháng hộ pháp, Hàn Lập xuất quan thành Thái Ất, giải vây cho hai đồng bạn. Họ đã tới Thánh Vực, và Thạch Xuyên Không tiết lộ mình là con Ma Chủ.",
+  "notes": "- HanCHÍNHTHỨCTháiẤtNgọcTiênsơkỳ775, khôngcònnửabước. Bạchbàomới/CT603mặttrungniêntrâmngọcxanh/tócđen, mặt nạLuânHồibiểuđạtảodiệnmờgiữmặtkhôngthayV2. DùngBAkiếmtrong72đãtiếngiai,2quyềnxanhlụcgiảivây. TXKkiệtsứcbịTuyếtThiềmđôngbăngvẫn sống;Giảihộpháphết3tháng, LDBhếtnửathángtrướckhônghồiphục. Cảnhxácthúhuyếthồbiểuđạttừxasương/đátối/ánhphépkhôngcậngore. MaVực/ThánhVựclàtênnơihiệntại, MaChủchỉnhắcđế n khôngtựvẽmặt/cơthể. TXKnghichaphụgiúpLaTrávượtgiớichưagánhiệntượngkhác. DHvẫnhônmêtrongHoaChikhôngquayra.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/775p1.png",
+    "/tmp/comic-generated-766-781/775p2.png",
+    "/tmp/comic-generated-766-781/775p3.png",
+    "/tmp/comic-generated-766-781/775p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

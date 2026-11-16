@@ -77,6 +77,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 775: Tiến giai Thái Ất](chapters/775/): 4 trang, hoàn thành; [PDF A4](chapters/775/chuong-775.pdf)
+
 - [Chương 774: Tẩy rửa Ngọc Thể](chapters/774/): 4 trang, hoàn thành; [PDF A4](chapters/774/chuong-774.pdf)
 
 - [Chương 773: Đại nạn không chết](chapters/773/): 4 trang, hoàn thành; [PDF A4](chapters/773/chuong-773.pdf)

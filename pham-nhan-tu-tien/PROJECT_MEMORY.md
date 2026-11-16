@@ -1742,3 +1742,14 @@ models/loi-giap-dao-binh-ho-lo-kinh-bac-774.png: LDB774đạobinhcùnghệDB545g
 ## Chương 774 — Tẩy rửa Ngọc Thể: hoàn thành 4 trang
 Nguồn: file CHUONG 774.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/774/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - TXKmodel652SILVERhairPURPLEpinđãsửakhungđiềutứctrang1khôngHantrâmxanh. TrậnwallBẠC/mạngnhệnNGŨSẮC, LDB7743.5m/hơ n1trượngkhôngnhãnsai10m. GDN01dùnghồlônâuđậuvàng/đạibinhcùngDB545biếnvânlôi,khôngquyếthếtđộiquântrước775. HV773vượnđáđenbịTXKdiệt/NgôCôngtrắngBNC774bịGiảihạquaánhphép/lờidẫn. Hânngọcthểphiêugiữáoteal, chưađổibạchbà ođến775. ThờigianBA THÁNGtrang4,DX774rắnđỏ2cánhtrongsuốt/mắtlục;cuốihaiđaochémcánhchưavẽkếtquảrơichế tđến775.
+
+### Model trước775
+models/han-lap-bach-bao-ngoc-tien-775.png: CT603giữxươngmặttrungniênsạchrâu/trâmngọcxanhtócđen, sauphácảnhđổiBẠCHBÀOthêutrúcbạccùngcắtáo, khôngthayHLV2. MặtnạLuânHồiđiệnbiểuđạtbằnglớpảodiệntrongsuốtduytrìLệđạohữu, khôngtựthêmmặtnạthúvậtlýrõnguồn; chỉlựachọnminhhọa. Ngọcthểbạchquangvừara→HanthukhíquangvềdiệnmạoCT603binhthườngdahơingămtheo777. Bạchliênnụ/trắngnởdoTIÊNLINHLỰCkhôngcâyhữucơ, giữagiữahồhuyếtsẫmminhhọaxaquatrờisương/đátối,khôngcậnxácthú. BaThanhTrúckiếm775dùng3thanhtrongbộ72đãtiếngiai771khôngtựnhântăngbộkiếm. NhãntiêuđềbảngphixahồlôsaiKHÔNGcanon.
+
+
+## Chương 775 — Tiến giai Thái Ất: hoàn thành 4 trang
+Nguồn: file CHUONG 775.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/775/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- HanCHÍNHTHỨCTháiẤtNgọcTiênsơkỳ775, khôngcònnửabước. Bạchbàomới/CT603mặttrungniêntrâmngọcxanh/tócđen, mặt nạLuânHồibiểuđạtảodiệnmờgiữmặtkhôngthayV2. DùngBAkiếmtrong72đãtiếngiai,2quyềnxanhlụcgiảivây. TXKkiệtsứcbịTuyếtThiềmđôngbăngvẫn sống;Giảihộpháphết3tháng, LDBhếtnửathángtrướckhônghồiphục. Cảnhxácthúhuyếthồbiểuđạttừxasương/đátối/ánhphépkhôngcậngore. MaVực/ThánhVựclàtênnơihiệntại, MaChủchỉnhắcđế n khôngtựvẽmặt/cơthể. TXKnghichaphụgiúpLaTrávượtgiớichưagánhiệntượngkhác. DHvẫnhônmêtrongHoaChikhôngquayra.
+
+### Model trước776
+models/tu-linh-kim-phong-ho-ve-776.png: TL776TửLinháotímđậmthêuvàngtócđenpinhoaamethystsilver/phântướngthiếtkếchuyểnthể(khônggántuổi/nốtruồilàcanon). ChỉlàCHÂNDUNGhiệntrênngọcbàiXANHkhôngcóthậtbênHan, khôngLụcVũTìnhV2/GiaoTam. KimPhongSơnváchquặngvàngđỉnhVẠNTRƯỢNGtheonguồn776, nhãnmodel10vạn/100000saiKHÔNGdùng; điệntoànvàng. BV776hộvệHỌBAchưađủtên,mặtrộngsạchrâu;VG776hộvệvôdanhrâucằmngắnxám,haingườigiápVÀNGdàybánkhôilộ nửamặthữucơxámchứkhôngGiảirobotvàng. Bảo vệT INHKIMMANG/áogiáplàthiếtkếminhhọa,khôngxửhìnhtrựctiếptrongtranh.
