@@ -1,0 +1,42 @@
+{
+  "chapter": 777,
+  "title": "Đại hoàng tử",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-777/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-777/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-777/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-777/trang-04.png"
+  ],
+  "models": [
+    "kim-te-dai-hoang-tu-thiet-vu-777.png",
+    "tu-linh-kim-phong-ho-ve-776.png",
+    "han-lap-bach-bao-ngoc-tien-775.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png"
+  ],
+  "summary": "Đại hoàng tử thuê Kim Tê truy sát Thạch Xuyên Không; ba đạo quả, một quả trả trước. Kim Tê giao Thiết Vũ hành động trong một tháng.",
+  "notes": "- 777 không có Han/TXK thực xuất hiện, chỉ chân dung. Han bạch bào CT603; TXK tóc bạc trâm đơn tím KHÔNG vương miện/ấn tím; Đại hoàng tử tóc trắng đội cao quan/ấn tím. Đã sửa chân dung TXK trang2 cho đúng. Thỏa thuận3 quả tổng,1 đặt trước2 sau; MaChủbếquan/địnhngườikếvịlàlờiĐạihoàngtử. ThiếtVũkhôngđượcbiếtthânphậnhoàngtửcủamụctiêu, chỉbiếttuvivàngoạitộc. ĐồngVũ/NgânVũ/HắcDứuchỉnhắckhôngvẽmới.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/777p1.png",
+    "/tmp/comic-generated-766-781/777p2.png",
+    "/tmp/comic-generated-766-781/777p3.png",
+    "/tmp/comic-generated-766-781/777p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

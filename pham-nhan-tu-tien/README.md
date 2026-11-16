@@ -77,6 +77,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 777: Đại hoàng tử](chapters/777/): 4 trang, hoàn thành; [PDF A4](chapters/777/chuong-777.pdf)
+
 - [Chương 776: Tìm kiếm hồng nhan](chapters/776/): 4 trang, hoàn thành; [PDF A4](chapters/776/chuong-776.pdf)
 
 - [Chương 775: Tiến giai Thái Ất](chapters/775/): 4 trang, hoàn thành; [PDF A4](chapters/775/chuong-775.pdf)
