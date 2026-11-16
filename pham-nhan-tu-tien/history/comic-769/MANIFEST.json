@@ -1,0 +1,45 @@
+{
+  "chapter": 769,
+  "title": "Gác lại tranh luận",
+  "images": [
+    "/tmp/comic-batch-766-781/a4-769/trang-01.png",
+    "/tmp/comic-batch-766-781/a4-769/trang-02.png",
+    "/tmp/comic-batch-766-781/a4-769/trang-03.png",
+    "/tmp/comic-batch-766-781/a4-769/trang-04.png"
+  ],
+  "models": [
+    "tam-nhan-ao-choang-am-phung-719.png",
+    "hoang-phu-vu-duong-giao-tam-721.png",
+    "tieu-bat-da-hac-thang-hoi-minh-721.png",
+    "mieu-coc-mieu-tu-cuu-u-o-trong-719.png",
+    "de-hon-lieu-ky-tay-sat-tri-766.png",
+    "han-ho-thach-am-bien-the-chien-dau-766.png",
+    "u-hon-sat-vuc-tinh-viem-minh-hon-767.png"
+  ],
+  "summary": "Tam vực tạm kết minh, Tiêu Bất Dạ giữ ngôi minh chủ. Phân hồn Âm Thừa Toàn tan biến; Liễu Kỳ cứu Đề Hồn rồi thúc Hàn Lập xuống lôi trì vàng.",
+  "notes": "- GIA721đượcHPN gọilàCửuChântheo769 chưathêmtênhọ. MiêuCốc/MT719giữmặtphụcnóiđừngnhắc3người. PhânhồnATTbịdiệtKHÔNGbảnthể. LQgiữnhânhình/cựhồthu vềmitâm, DHMinhHồnKhúc4nhạckhítiêuhao→LQgiúphồiphục. ĐãsửacảnhLQchỉcòn2xíchbạc/vàngkhông4. Nguồnnhảymạchxích768–769giữtheođãmô tảkhôngtựthêmđònchémngoàivănbản. HanSátSuyđãvượtqua/nhục thânTháiẤtngọctiênthểnhưngtuviNỬABƯỚCTháiẤt, cuốinhảylôitrìvàngchưatiếnhóakiếmđến770.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-766-781/769p1.png",
+    "/tmp/comic-generated-766-781/769p2.png",
+    "/tmp/comic-generated-766-781/769p3.png",
+    "/tmp/comic-generated-766-781/769p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

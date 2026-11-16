@@ -1700,3 +1700,8 @@ Nguồn: file CHUONG 767.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 768 — Xuất kỳ chế thắng: hoàn thành 4 trang
 Nguồn: file CHUONG 768.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/768/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - TV768 cùngTV502/626 ngân diễm, đãnuốtbaThấtThảiĐanSatừtrước. AQTHÂNđãbịhủy, NguyênAnhchạyKHÔNGxácnhậnchếthẳn. Hanthuđủ9kiếmkhônghưhủy, ThiênHồđao vàmộtcốtbàitrắng; giápđãtan767khôngmặclạibảnmới. DHđãsửakhunglờithoạiđúngmặtnữ, TVtiểunhânbạcđãchỉnhkhôngtrẻemngười. Trang3đãxóangườithừatrongcảnhđiềutứcchỉ4người. Chưavẽchặtxíchthứ3. HộiđàmATT719bảnthểkhôngphânhồn, HPN721tóctrắngáođen/TBD721râudamặtđen/GIA721bạchy. ÂmLâmchỉnhắcchưaxuấthiện. Cuốichưakếtminhđế n769.
+
+
+## Chương 769 — Gác lại tranh luận: hoàn thành 4 trang
+Nguồn: file CHUONG 769.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/769/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- GIA721đượcHPN gọilàCửuChântheo769 chưathêmtênhọ. MiêuCốc/MT719giữmặtphụcnóiđừngnhắc3người. PhânhồnATTbịdiệtKHÔNGbảnthể. LQgiữnhânhình/cựhồthu vềmitâm, DHMinhHồnKhúc4nhạckhítiêuhao→LQgiúphồiphục. ĐãsửacảnhLQchỉcòn2xíchbạc/vàngkhông4. Nguồnnhảymạchxích768–769giữtheođãmô tảkhôngtựthêmđònchémngoàivănbản. HanSátSuyđãvượtqua/nhục thânTháiẤtngọctiênthểnhưngtuviNỬABƯỚCTháiẤt, cuốinhảylôitrìvàngchưatiếnhóakiếmđến770.

@@ -77,6 +77,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 769: Gác lại tranh luận](chapters/769/): 4 trang, hoàn thành; [PDF A4](chapters/769/chuong-769.pdf)
+
 - [Chương 768: Xuất kỳ chế thắng](chapters/768/): 4 trang, hoàn thành; [PDF A4](chapters/768/chuong-768.pdf)
 
 - [Chương 767: Sát Vực](chapters/767/): 4 trang, hoàn thành; [PDF A4](chapters/767/chuong-767.pdf)
