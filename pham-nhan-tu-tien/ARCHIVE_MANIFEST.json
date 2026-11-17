@@ -4818,23 +4818,53 @@
           1492
         ]
       }
+    },
+    {
+      "chapter": 806,
+      "pages": 5,
+      "directory": "chapters/806",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/806/chuong-806.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1492
+        ],
+        "trang-02.png": [
+          1055,
+          1492
+        ],
+        "trang-03.png": [
+          1055,
+          1492
+        ],
+        "trang-04.png": [
+          1055,
+          1492
+        ],
+        "trang-05.png": [
+          1055,
+          1492
+        ]
+      }
     }
   ],
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 476708,
-      "sha256": "b5178843cf3f68a354fae72227c49de244eea05233e6c91f1863d13664f7d3f5"
+      "bytes": 478158,
+      "sha256": "e33dbf624502af5ce96087c57b5fbaa3c77561f145d9144075e2d0e2cf17a006"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 424329,
-      "sha256": "f7f9899e0ee3eac5631e18584e516a1f45aba796166426fcf4db194ec58209fe"
+      "bytes": 425779,
+      "sha256": "b6cad39aeaa675fe009ef22eb75879578b8cf0ba87312f2ac4af0d7b6c96d4c0"
     },
     {
       "path": "README.md",
-      "bytes": 23034,
-      "sha256": "2c53d8b5ca583018cb340c870df9900600640daa82e0c00736c96546d0195022"
+      "bytes": 23142,
+      "sha256": "f5d28e2aefc4a87af7cc12095ec1f1528d60ad6dc4bfa9b0ca750f3d4d7e785d"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -11672,6 +11702,46 @@
       "sha256": "b5f1da6e2d989d519446adbc15153eab3683526648d8a16cfbfeda2b55166d20"
     },
     {
+      "path": "chapters/806/README.md",
+      "bytes": 638,
+      "sha256": "6c62db53a6511fe88dfc5c64016bec716d0e7f8ce99bcae5166145b7a3b831cc"
+    },
+    {
+      "path": "chapters/806/SOURCE.txt",
+      "bytes": 16857,
+      "sha256": "f50be1386803a76ee3d2c72a7831fea307016d4570ac76599da0b41f4387e4b8"
+    },
+    {
+      "path": "chapters/806/chuong-806.pdf",
+      "bytes": 25356855,
+      "sha256": "908fe3ec6eed4a3bab958c330e6d10d1a4d01c527205ceb943629318a570bdb9"
+    },
+    {
+      "path": "chapters/806/trang-01.png",
+      "bytes": 4147403,
+      "sha256": "9f369273dfab0824654c87e493f0d93407619af1a744500fb0661fec92a2a6ec"
+    },
+    {
+      "path": "chapters/806/trang-02.png",
+      "bytes": 4073254,
+      "sha256": "db10c466cb27d16c1beec56d467ea6e79db914d3b3376f7ca3bfb06343e0aba3"
+    },
+    {
+      "path": "chapters/806/trang-03.png",
+      "bytes": 4184932,
+      "sha256": "3ae8702443c9e9468e5cf5268aad70ec9ea80939ab6276955ae468110de863ac"
+    },
+    {
+      "path": "chapters/806/trang-04.png",
+      "bytes": 3794290,
+      "sha256": "d4c5fa68b8ed3dbfe7ae3bf488beafe239e6ecbb7baf320c929d220fe7e9a8a8"
+    },
+    {
+      "path": "chapters/806/trang-05.png",
+      "bytes": 4086580,
+      "sha256": "6f9faf7cbefe4703c9f7b3a96632242d87275460a4089e4eb6a0a8021b8f3da3"
+    },
+    {
       "path": "drafts/468/README.md",
       "bytes": 844,
       "sha256": "ec62133989ea1c23b6d2d938d8724bded7fcb5238871fe86b25f6132cb2c74c7"
@@ -14810,6 +14880,26 @@
       "path": "history/comic-805/README.md",
       "bytes": 551,
       "sha256": "05bfbe7fc4651e22c5360b210d169cf4ea02813b5b63587245a9ed9a31a4057f"
+    },
+    {
+      "path": "history/comic-806/CHARACTER_MEMORY.md",
+      "bytes": 478158,
+      "sha256": "e33dbf624502af5ce96087c57b5fbaa3c77561f145d9144075e2d0e2cf17a006"
+    },
+    {
+      "path": "history/comic-806/MANIFEST.json",
+      "bytes": 2515,
+      "sha256": "f913fbeb8e041eb7b94a5aeb58651319d3258512b1cb7f9f730f4e01cd162dd7"
+    },
+    {
+      "path": "history/comic-806/PROJECT_MEMORY.md",
+      "bytes": 425779,
+      "sha256": "b6cad39aeaa675fe009ef22eb75879578b8cf0ba87312f2ac4af0d7b6c96d4c0"
+    },
+    {
+      "path": "history/comic-806/README.md",
+      "bytes": 546,
+      "sha256": "cb776e5d095fda6835c5729ae7dc61c400a53c892774881a26cf4cae4faea060"
     },
     {
       "path": "history/comic-summary-465-470/CHARACTER_MEMORY.md",

@@ -81,6 +81,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 806: Phong hồn](chapters/806/): 5 trang, hoàn thành; [PDF A4](chapters/806/chuong-806.pdf)
+
 - [Chương 805: Trúng chiêu](chapters/805/): 5 trang, hoàn thành; [PDF A4](chapters/805/chuong-805.pdf)
 
 - [Chương 804: Thủ đoạn quỷ dị](chapters/804/): 5 trang, hoàn thành; [PDF A4](chapters/804/chuong-804.pdf)

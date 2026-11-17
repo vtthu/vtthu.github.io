@@ -1,0 +1,49 @@
+{
+  "chapter": 806,
+  "title": "Phong hồn",
+  "images": [
+    "/tmp/comic-batch-794-807/a4-806/trang-01.png",
+    "/tmp/comic-batch-794-807/a4-806/trang-02.png",
+    "/tmp/comic-batch-794-807/a4-806/trang-03.png",
+    "/tmp/comic-batch-794-807/a4-806/trang-04.png",
+    "/tmp/comic-batch-794-807/a4-806/trang-05.png"
+  ],
+  "models": [
+    "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "mac-lao-lo-dong-hoa-phu-nhan-801.png",
+    "hoa-kinh-kim-bao-ban-dien-dong-kinh-804.png",
+    "song-ngoc-thuoc-nghien-muc-tinh-long-hk-805.png"
+  ],
+  "summary": "Hàn Lập dùng lôi triều và xiềng xích thần niệm chế ngự ba người bị thôi miên. Cuộc đấu riêng với Hoa Kính làm vỡ nửa mặt nạ bạc, khiến đối thủ điên cuồng phản kích.",
+  "notes": "- Ba người Thạch, Mặc, Hoa còn sống; Hàn phá hộ thể, tê liệt thân thể rồi dùng xích thần niệm phong hồn, không giết. Chưa giải Hoa Kính thuật cho họ tới 807.\n- Mười tám kiếm tạo lôi triều; Thạch tỳ bà nhật nguyệt/hai ngọc thước, Mặc nghiên mực băng đen, Hoa quyển trục tám Tinh Long hồng; không tái dùng phi kiếm hồng đã bị nuốt.\n- Hoa Kính đoán Hàn còn ba thành nguyên khí, không phải dữ kiện được xác nhận. Dải sáng từ hư ảnh đầu thú xuyên lôi điện; chỉ đánh trúng tàn ảnh Hàn, không gây lỗ ngực thật.\n- Sửa trang 2 tránh gọi phong hồn trước đúng thời điểm; sửa trang 4 tàn ảnh về Hàn lão giả mũ đen tóc/râu trắng áo xám.\n- Cuối chương mặt nạ bạc vỡ, nửa TRÁI chính Hoa Kính (PHẢI người xem chính diện) già như vỏ cây, nửa phải vẫn trẻ trang điểm; không hồi phục mặt nạ trong 807. Mười hư ảnh cự thú phóng dải sáng, chưa dùng Niết Bàn Thánh Thể tới 807.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-794-807/806p1.png",
+    "/tmp/comic-generated-794-807/806p2.png",
+    "/tmp/comic-generated-794-807/806p3.png",
+    "/tmp/comic-generated-794-807/806p4.png",
+    "/tmp/comic-generated-794-807/806p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

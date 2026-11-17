@@ -2147,3 +2147,12 @@ Nguồn: file CHUONG 805.txt do người dùng đính kèm. Mỗi PNG một tran
 - Mặc còn sống nguyên thân được Tinh Viêm đưa về, bị cấm chế. Hoa còn sống hôn mê. Kỳ đã mất do tự bạo, không nhầm Mặc chết.
 - La Trá Tỳ Bà bốn dây bạc, hai trăng không gian phối hợp quyền Hàn nhưng đánh trúng huyễn ảnh. Hàn dùng Luyện Thần thoát bóng đỏ; Thạch không thoát, đánh bạn bằng phong nhận và hai ngọc thước trắng.
 - Sư Tử Hống không hiệu quả. Kết ở ma trảo tím đen nhằm Hàn, chưa giải thôi miên. Sửa trang 4 đúng tên người né đòn là Hàn; trang 5 sửa khung né lôi quang về lão giả áo xám mũ đen, không áo vàng Hoa Kính.
+
+
+## Chương 806 — Phong hồn: hoàn thành 5 trang
+Nguồn: file CHUONG 806.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/806/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Ba người Thạch, Mặc, Hoa còn sống; Hàn phá hộ thể, tê liệt thân thể rồi dùng xích thần niệm phong hồn, không giết. Chưa giải Hoa Kính thuật cho họ tới 807.
+- Mười tám kiếm tạo lôi triều; Thạch tỳ bà nhật nguyệt/hai ngọc thước, Mặc nghiên mực băng đen, Hoa quyển trục tám Tinh Long hồng; không tái dùng phi kiếm hồng đã bị nuốt.
+- Hoa Kính đoán Hàn còn ba thành nguyên khí, không phải dữ kiện được xác nhận. Dải sáng từ hư ảnh đầu thú xuyên lôi điện; chỉ đánh trúng tàn ảnh Hàn, không gây lỗ ngực thật.
+- Sửa trang 2 tránh gọi phong hồn trước đúng thời điểm; sửa trang 4 tàn ảnh về Hàn lão giả mũ đen tóc/râu trắng áo xám.
+- Cuối chương mặt nạ bạc vỡ, nửa TRÁI chính Hoa Kính (PHẢI người xem chính diện) già như vỏ cây, nửa phải vẫn trẻ trang điểm; không hồi phục mặt nạ trong 807. Mười hư ảnh cự thú phóng dải sáng, chưa dùng Niết Bàn Thánh Thể tới 807.
