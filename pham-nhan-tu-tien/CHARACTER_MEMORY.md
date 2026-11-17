@@ -2053,3 +2053,11 @@ models/tu-thanh-song-thu-phe-hon-dang-quan-lan-796.png đãtạo/xem/sửalạip
 ## Chương 796 — Lấy khỏe ứng mệt: hoàn thành 5 trang
 Nguồn: file CHUONG 796.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/796/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
 - 796mớichỉnhhợp9trọng/tươngđương3,ngưngđủ5biểuhiện/lên6TháiẤttrungkỳlàTƯƠNGLAIkhôngđãđạt. GDNvềHoaChi/khôngchiếnđấu. QuanLanngưbáovết/đảotrậnhồ;hơn5–6thángtinnaoggiảđãsắpquáhạn/rồihơnnửatháng. ThanhLăngxanhhóathântớimồiđả ođãchìmchưakhẳngđịnhchết;TửHòatímđếndụHan/chưasplitcolorđến797. ThầnNiệmLồngGiamchỉởthứchải/xiềngxíchtrắngruneđen,khôngxuyênđầugore. TXKchânthânẩnHoaChi/PHẦNHỒNtrênđảolàm mồi. C hươngkếttrướcdịbiếnsonghồnbộclộ,chưaTửHòavẫnlạc. ĐãsửabiểnThanhTiêuViệnvàhướngtailthoạidụhàngtrang3.
+
+
+## Chương 797 — Đồng thể song hồn: hoàn thành 4 trang
+Nguồn: file CHUONG 797.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/797/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- TT797chỉ1thân1đầu2taybàotím/tócnửaxanhnửatím/mắt1xanh1tím/2giọngThanhLăngTửHòa,chưađổi2thânriêng. LuyệnThầntầng5chưađạithành/Hanthoáthuyễnnhờnghịlực. 18ThanhTrúc bịcắtTHẦNNIỆMchưavỡ/chưabịcướp;HanlấyTHÊM1thanhcầmtayđểdùng. Lamp4dịthú1chénsen1lửaxanhđúngbảnsửa,đangrútthầnniệmchưanuốthếtthầnhồnHan. TXKnằmtrongrừnglàthânảnhbịđánhquaCUTAWAYKHÔNGkhẳngđịnhchânthânđãchết. CuốichươngThanhLăngnghikhôngNguyênAnh,chưalộbẫygương798. Đãsửa797p1miệngngườinóinữ/tailthoạiđịch/đảochìmkhôngnhàcònđứng.
+
+### Model trước798
+models/cai-trang-ngan-tieu-song-kinh-o-than-798.png đãtạo/xem/sửamặtcáctạohìnhtrướcdùng: HLCT798HanGIẢDẠNGlãonhogià/tócrâutrắngnếpn hăn/mũthưsinhĐEN/bàoXÁM,KHÔNGV3 haytựlã ohóathânthật;TXCT798TXKGIẢDẠNGthưsinhtrẻ/tócĐENbúitrâmgỗ/bàoXANH/tránkhôngấnkhôngquan,khácmặttủnhịTN798ngườitaphụcXÁMdaTANmặttrònbầumũitròn/tà nnhangnhẹ. TN798nguồnđãchếtmodeltrungtínhkhôngtựkhẳngđịnhc ònsốngtrongcảnh. NgânTiêuSongKínhđúngHAIgươngTRÒNBẠCcổ/2cộtspatialphiếnkhôngphải2NgọcTiểuNaDiBànbátgiác727. PhệHồnLuyệnNguyênsáchMỎNGXANHkhôngTuDi thẻngọ cxanh. ÔThầnphiToaĐENhìnhthoihaimũinhọnsànmởcho2ngườiKHÔN Gphixa4bánh775. Tưổi/hoa văn/ch iềucaothêmbớtchỉthiếtkếchuyểnthể;ảnhKHÔNGthêmcan onthầ nhồn/pháptắc.
