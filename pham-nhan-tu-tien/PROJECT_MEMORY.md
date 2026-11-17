@@ -1890,3 +1890,14 @@ Nguồn: file CHUONG 801.txt do người dùng đính kèm. Mỗi PNG một tran
 - Liên Nhi LN801 trẻ 16–17, áo xanh kín; khác nữ chủ quán NB794.
 - Đăng ký ML801 ma giáp xanh, LD801 rất béo áo vàng đất, HP801 áo đỏ cài hoa hồng; cùng PNG mac-lao-lo-dong-hoa-phu-nhan-801.png đã gắn trực tiếp trước trang đầu xuất hiện.
 - Rượu Hồng Thậm Tửu, sáu chén đen, công thức ngọc trắng; Hồng Thậm Quả mới nhắc tên, chưa thu mua. Chưa có phản bội/công kích chương 802.
+
+
+## Tham chiếu mới trước chương 802
+PNG models/truyen-tong-dien-bat-vi-ma-nguyen-802.png: tám vận hành viên ma tộc áo xám V01–V08; điện tinh thạch đen nguyên khối hình tròn, pháp trận bạc 7–8 trượng, gần trăm Ma Nguyên thạch đen, đèn ngọc trắng. Chính xác chín lệnh bài = Kỳ + tám người; ngọc bội tím bị phá, khiên đen phù tím; ba xoáy lục quang. Kích thước mét chỉ ước lệ. Đã sửa đủ 3x3 lệnh bài trước sử dụng.
+
+
+## Chương 802 — Phản bội?: hoàn thành 5 trang
+Nguồn: file CHUONG 802.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/802/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Han giữ lão giả áo xám mũ đen; Thạch tóc bạc áo tím. Tám vận hành viên áo xám; chín lệnh bài bạc kể cả Kỳ.
+- Đích Sở Vũ Thành trăm vạn dặm, chưa truyền tống thành công. Ngọc bội tím và khiên đen phù tím bị phá; Thạch trúng độc, chưa chữa tới cuối chương.
+- Sửa trang 3 loại lời tự thêm khiến Kỳ nhận ra Thạch: chưa kết luận phản bội tự nguyện. Đại điện sụp nhưng chưa xác nhận ai chết; Hàn cứu Thạch ra ngoài bằng kim quang.

@@ -1,0 +1,49 @@
+{
+  "chapter": 802,
+  "title": "Phản bội?",
+  "images": [
+    "/tmp/comic-batch-794-807/a4-802/trang-01.png",
+    "/tmp/comic-batch-794-807/a4-802/trang-02.png",
+    "/tmp/comic-batch-794-807/a4-802/trang-03.png",
+    "/tmp/comic-batch-794-807/a4-802/trang-04.png",
+    "/tmp/comic-batch-794-807/a4-802/trang-05.png"
+  ],
+  "models": [
+    "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+    "ky-lao-lien-nhi-nham-son-tuan-tra-800.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "mac-lao-lo-dong-hoa-phu-nhan-801.png",
+    "truyen-tong-dien-bat-vi-ma-nguyen-802.png"
+  ],
+  "summary": "Không nhận được tin tiếp ứng, Thạch Xuyên Không quyết định truyền tống rời thành. Kỳ lão và các khách khanh bất ngờ ra tay; Hàn Lập cứu Thạch khỏi đại điện đang sụp đổ.",
+  "notes": "- Han giữ lão giả áo xám mũ đen; Thạch tóc bạc áo tím. Tám vận hành viên áo xám; chín lệnh bài bạc kể cả Kỳ.\n- Đích Sở Vũ Thành trăm vạn dặm, chưa truyền tống thành công. Ngọc bội tím và khiên đen phù tím bị phá; Thạch trúng độc, chưa chữa tới cuối chương.\n- Sửa trang 3 loại lời tự thêm khiến Kỳ nhận ra Thạch: chưa kết luận phản bội tự nguyện. Đại điện sụp nhưng chưa xác nhận ai chết; Hàn cứu Thạch ra ngoài bằng kim quang.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-794-807/802p1.png",
+    "/tmp/comic-generated-794-807/802p2.png",
+    "/tmp/comic-generated-794-807/802p3.png",
+    "/tmp/comic-generated-794-807/802p4.png",
+    "/tmp/comic-generated-794-807/802p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

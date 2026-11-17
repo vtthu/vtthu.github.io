@@ -81,6 +81,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 802: Phản bội?](chapters/802/): 5 trang, hoàn thành; [PDF A4](chapters/802/chuong-802.pdf)
+
 - [Chương 801: Vắng mặt](chapters/801/): 4 trang, hoàn thành; [PDF A4](chapters/801/chuong-801.pdf)
 
 - [Chương 800: Thương đô Ma Vực](chapters/800/): 4 trang, hoàn thành; [PDF A4](chapters/800/chuong-800.pdf)
