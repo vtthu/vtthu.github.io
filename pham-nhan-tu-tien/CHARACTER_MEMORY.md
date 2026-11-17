@@ -2066,3 +2066,13 @@ models/cai-trang-ngan-tieu-song-kinh-o-than-798.png đãtạo/xem/sửamặtcác
 ## Chương 798 — Địa bàn nhà mình: hoàn thành 4 trang
 Nguồn: file CHUONG 798.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/798/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - TXKchânthânsống/ve sầuthoátxác/phầnhồnởthângiả,NgânTiêuSongKínhTamcagửimớiquaHànhCướcchưaluyệnhóa/chỉdùngnhờtrận. TT797thân&NguyênAnhpháhủyquaánhphépkhônggore;TÀNHỒN xanh/tímcònthuđènchưabịxóahoàntoàn. HanthuTOÀNBỘkiếmmangđèn+sáchmỏngXANHPhệHồnLuyệnNguyên,đan/liệuchiađôi/khôngtựluyệnsáchngay. Kháchsạnkhôngcanthiệp→quyếtrời. P3từkhung7HangiảLÃONHOXÁM/ TXKgiảTHƯSINHXANHtócĐEN;khôngthaymodelgốc. TiểunhịHànhCướcđãchếtthứchảikhôngngoạithương/trậntru yềntinbịphá/khônggửithưthànhcông. CuốicùngraBẮC/HùngCứlênÔThầnĐENhướngNhẫmSơnchưađến.
+
+### Model trước799
+models/kim-dong-truong-thanh-ty-huu-truy-binh-799.png đãtạo/xem. KD799giữnéttừKDđỏ532nhưnglớn17–18theonguồn/chuyểnthể18: tócvàngDÀInửa búiáoVÀNGkín/rìuLIÊMĐAOVÀNGcaongườikhắcvângiunkim/hưảnhngườivàngcầmliêmđaochỉphápthuật;khônglấyCÁILIỀMXÁMtựsinhgócPHẢIDƯỚImodel(trongtruyệnbắtbuộcGOLDnhưcáitrêntay). TB799táimặtTB540TỳHưubạchngọc/1sừng4chânmaneđuôicuộ n,hiệntạiTRẮNGTHUẦNkhôngviềnvàng,TRÁNchữVƯƠNG王BẠC/2cánhTRẮNGlúcxòethầnthông,phóngđạivàichụctrượngkhông3.3m. BụngphìnhdoThônKhôngkhôngmangthai/thươngtích. HN799namTRUYBINH CỬUNG UYÊNQUANchưađủtêngọi/khôngđặtthêm;trungniên mặtvuông/tócđen/quanVÀNG/bàoĐỎrồngVÀNG5móng/ráuđenngắnthiếtkếkhôngcanon. HồngvânthạchđàiĐỎhỏavăn/ảnhbinhmãchỉphápthuậtkhôngtựthêmngườimớithật. KDTháiẤtTRUNGKỲ,TBđãTháiẤt;chươngởCHÂNTIÊNGIỚIkhôngMaVựcHan.
+
+Sửa model799 trước trang1: góc phải dưới đã đổi thành LIÊM ĐAO VÀNG đúng cây Kim Đồng cầm; bản liềm xám lỗi đã bị thay, không dùng.
+
+
+## Chương 799 — Nuốt không gian mà đi: hoàn thành 5 trang
+Nguồn: file CHUONG 799.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/799/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- KD79917–18tócvàngdài/bàoVÀNGTháiẤtTRUNGKỲ,TB799TỳHưutrắngthuần/VƯƠNGBẠC/TháiẤt/2cánhTRẮNGphépxuấthiệnbiếnmất. LiêmđaoVÀNGduynhất(sửamodelliềmxám). HN799chỉtruybinhCửuNguyênQuanvôdanh/khônggánlàMaChủ/đạicaTXK. ChươngởCHÂNTIÊNGIỚIkhôngMaVực;Hankhôngxuấthiện. TBhúthưkhông→phìnhbụng/tăngtốc→phunphongbạophảnlựcrồiquayđầuchạy. KDchémđôikiêudươngchưagiếtđịch,cạnlựchấpTIÊNKHÍphụchồikhôngđandược. Đãsửatrang3để2ngườiluôntrênkhôngkhôngđápxuốngnúi. TBđoánHanvềTiênGiớichỉsuyđoán,khôngthànhsựthật/nóichuyệ ntâmthầnt hựctế. KDkhôngnhờHangiúp/đềnghịTBđitìmđạithúcđểtựthoát,TBkhôngchịurời;cuốitiếptụcchạychưathoáthẳn.

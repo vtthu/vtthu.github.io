@@ -1,0 +1,47 @@
+{
+  "chapter": 799,
+  "title": "Nuốt không gian mà đi",
+  "images": [
+    "/tmp/comic-batch-794-807/a4-799/trang-01.png",
+    "/tmp/comic-batch-794-807/a4-799/trang-02.png",
+    "/tmp/comic-batch-794-807/a4-799/trang-03.png",
+    "/tmp/comic-batch-794-807/a4-799/trang-04.png",
+    "/tmp/comic-batch-794-807/a4-799/trang-05.png"
+  ],
+  "models": [
+    "kim-dong-truong-thanh-ty-huu-truy-binh-799.png",
+    "lang-hu-tu-van-binh-kim-dong-532.png",
+    "man-hoang-sa-thu-tieu-bach-540.png"
+  ],
+  "summary": "Tại Chân Tiên Giới, Kim Đồng và Tiểu Bạch bị truy sát. Thôn Không Thuật cùng liêm đao giúp tạm thoát thế ép, nhưng cuộc đuổi bắt vẫn tiếp diễn.",
+  "notes": "- KD79917–18tócvàngdài/bàoVÀNGTháiẤtTRUNGKỲ,TB799TỳHưutrắngthuần/VƯƠNGBẠC/TháiẤt/2cánhTRẮNGphépxuấthiệnbiếnmất. LiêmđaoVÀNGduynhất(sửamodelliềmxám). HN799chỉtruybinhCửuNguyênQuanvôdanh/khônggánlàMaChủ/đạicaTXK. ChươngởCHÂNTIÊNGIỚIkhôngMaVực;Hankhôngxuấthiện. TBhúthưkhông→phìnhbụng/tăngtốc→phunphongbạophảnlựcrồiquayđầuchạy. KDchémđôikiêudươngchưagiếtđịch,cạnlựchấpTIÊNKHÍphụchồikhôngđandược. Đãsửatrang3để2ngườiluôntrênkhôngkhôngđápxuốngnúi. TBđoánHanvềTiênGiớichỉsuyđoán,khôngthànhsựthật/nóichuyệ ntâmthầnt hựctế. KDkhôngnhờHangiúp/đềnghịTBđitìmđạithúcđểtựthoát,TBkhôngchịurời;cuốitiếptụcchạychưathoáthẳn.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-794-807/799p1.png",
+    "/tmp/comic-generated-794-807/799p2.png",
+    "/tmp/comic-generated-794-807/799p3.png",
+    "/tmp/comic-generated-794-807/799p4.png",
+    "/tmp/comic-generated-794-807/799p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}
