@@ -2108,3 +2108,16 @@ Nguồn: file CHUONG 802.txt do người dùng đính kèm. Mỗi PNG một tran
 - Han giữ lão giả áo xám mũ đen; Thạch tóc bạc áo tím. Tám vận hành viên áo xám; chín lệnh bài bạc kể cả Kỳ.
 - Đích Sở Vũ Thành trăm vạn dặm, chưa truyền tống thành công. Ngọc bội tím và khiên đen phù tím bị phá; Thạch trúng độc, chưa chữa tới cuối chương.
 - Sửa trang 3 loại lời tự thêm khiến Kỳ nhận ra Thạch: chưa kết luận phản bội tự nguyện. Đại điện sụp nhưng chưa xác nhận ai chết; Hàn cứu Thạch ra ngoài bằng kim quang.
+
+
+## Model mới trước 803–804
+models/mac-lao-luc-nhan-cu-quy-lo-dong-kim-su-803.png: Mặc biến cự quy đen cỡ căn phòng, bốn chân, gai băng đen, đúng sáu mắt trên trán (hai hàng ba). 803 một quy, 804 thêm năm tổng sáu/36 mắt. Lỗ Đồng có kim sư QUYỀN ẢNH năng lượng bao người, không đổi thành sư tử thịt. Kỳ với tám người = chín kết trận, ba xoáy xanh; màu xám đại trận theo nguồn. Không chép chữ phụ model làm tình tiết. Mặc và Hoa còn sống tới 807; 804 chỉ thể hiện bị đánh bại/chế ngự, không khẳng định chết.
+
+
+## Chương 803 — Dị thường: hoàn thành 5 trang
+Nguồn: file CHUONG 803.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/803/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Thạch dùng đan xanh chữa độc, không tự chữa khỏi ở 802. Hàn giữ cải trang lão giả xám.
+- Kim sư là quyền ảnh; Lỗ Đồng chết khi kiếm trận phá quyền ảnh, biểu đạt cắt cảnh; Kỳ và tám người bị phủ ánh kiếm nhưng chưa khẳng định Nguyên Anh Kỳ chết (804 mới diễn biến).
+- Mặc cự quy đen sáu mắt trán, gai băng đen; Hoa quạt ngọc hồng bướm, nhẫn trắng. Nhắc Cao Phong không tạo người mới xuất hiện.
+- Sửa lời dẫn trang 3 khẳng định Cầu Long Kiếm Trận thuộc Hàn Lập, không sao chép tên Thiết Vũ từ sheet pháp khí 779.
+- Cuối chương hai loại pháp tắc và hương lạ xuyên lôi quang làm Hàn suy yếu; chưa có Tinh Viêm Hỏa Điểu tới 804.

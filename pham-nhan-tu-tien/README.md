@@ -81,6 +81,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 803: Dị thường](chapters/803/): 5 trang, hoàn thành; [PDF A4](chapters/803/chuong-803.pdf)
+
 - [Chương 802: Phản bội?](chapters/802/): 5 trang, hoàn thành; [PDF A4](chapters/802/chuong-802.pdf)
 
 - [Chương 801: Vắng mặt](chapters/801/): 4 trang, hoàn thành; [PDF A4](chapters/801/chuong-801.pdf)

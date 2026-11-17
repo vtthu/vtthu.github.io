@@ -1,0 +1,50 @@
+{
+  "chapter": 803,
+  "title": "Dị thường",
+  "images": [
+    "/tmp/comic-batch-794-807/a4-803/trang-01.png",
+    "/tmp/comic-batch-794-807/a4-803/trang-02.png",
+    "/tmp/comic-batch-794-807/a4-803/trang-03.png",
+    "/tmp/comic-batch-794-807/a4-803/trang-04.png",
+    "/tmp/comic-batch-794-807/a4-803/trang-05.png"
+  ],
+  "models": [
+    "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+    "ky-lao-lien-nhi-nham-son-tuan-tra-800.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "mac-lao-lo-dong-hoa-phu-nhan-801.png",
+    "mac-lao-luc-nhan-cu-quy-lo-dong-kim-su-803.png",
+    "thiet-vu-cung-tien-doc-vuc-cau-long-779.png"
+  ],
+  "summary": "Hàn Lập dùng mười hai kiếm phá trận đối phương. Tiếng gọi Cao Phong gây nghi ngờ, còn công kích của Mặc lão và Hoa phu nhân mang tới một loại lực lượng bất thường.",
+  "notes": "- Thạch dùng đan xanh chữa độc, không tự chữa khỏi ở 802. Hàn giữ cải trang lão giả xám.\n- Kim sư là quyền ảnh; Lỗ Đồng chết khi kiếm trận phá quyền ảnh, biểu đạt cắt cảnh; Kỳ và tám người bị phủ ánh kiếm nhưng chưa khẳng định Nguyên Anh Kỳ chết (804 mới diễn biến).\n- Mặc cự quy đen sáu mắt trán, gai băng đen; Hoa quạt ngọc hồng bướm, nhẫn trắng. Nhắc Cao Phong không tạo người mới xuất hiện.\n- Sửa lời dẫn trang 3 khẳng định Cầu Long Kiếm Trận thuộc Hàn Lập, không sao chép tên Thiết Vũ từ sheet pháp khí 779.\n- Cuối chương hai loại pháp tắc và hương lạ xuyên lôi quang làm Hàn suy yếu; chưa có Tinh Viêm Hỏa Điểu tới 804.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-794-807/803p1.png",
+    "/tmp/comic-generated-794-807/803p2.png",
+    "/tmp/comic-generated-794-807/803p3.png",
+    "/tmp/comic-generated-794-807/803p4.png",
+    "/tmp/comic-generated-794-807/803p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}
