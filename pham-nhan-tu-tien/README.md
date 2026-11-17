@@ -81,6 +81,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 798: Địa bàn nhà mình](chapters/798/): 4 trang, hoàn thành; [PDF A4](chapters/798/chuong-798.pdf)
+
 - [Chương 797: Đồng thể song hồn](chapters/797/): 4 trang, hoàn thành; [PDF A4](chapters/797/chuong-797.pdf)
 
 - [Chương 796: Lấy khỏe ứng mệt](chapters/796/): 5 trang, hoàn thành; [PDF A4](chapters/796/chuong-796.pdf)

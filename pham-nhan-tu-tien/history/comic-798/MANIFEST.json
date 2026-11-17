@@ -1,0 +1,42 @@
+{
+  "chapter": 798,
+  "title": "Địa bàn nhà mình",
+  "images": [
+    "/tmp/comic-batch-794-807/a4-798/trang-01.png",
+    "/tmp/comic-batch-794-807/a4-798/trang-02.png",
+    "/tmp/comic-batch-794-807/a4-798/trang-03.png",
+    "/tmp/comic-batch-794-807/a4-798/trang-04.png"
+  ],
+  "models": [
+    "han-lap-bach-bao-ngoc-tien-775.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "tu-thanh-song-thu-phe-hon-dang-quan-lan-796.png",
+    "cai-trang-ngan-tieu-song-kinh-o-than-798.png"
+  ],
+  "summary": "Thạch Xuyên Không dùng Song Kính giải vây, hai người xử lý đối thủ và thu chiến lợi phẩm. Phát hiện đường liên lạc bị phá, họ cải trang rời Hùng Cứ đi Nhẫm Sơn.",
+  "notes": "- TXKchânthânsống/ve sầuthoátxác/phầnhồnởthângiả,NgânTiêuSongKínhTamcagửimớiquaHànhCướcchưaluyệnhóa/chỉdùngnhờtrận. TT797thân&NguyênAnhpháhủyquaánhphépkhônggore;TÀNHỒN xanh/tímcònthuđènchưabịxóahoàntoàn. HanthuTOÀNBỘkiếmmangđèn+sáchmỏngXANHPhệHồnLuyệnNguyên,đan/liệuchiađôi/khôngtựluyệnsáchngay. Kháchsạnkhôngcanthiệp→quyếtrời. P3từkhung7HangiảLÃONHOXÁM/ TXKgiảTHƯSINHXANHtócĐEN;khôngthaymodelgốc. TiểunhịHànhCướcđãchếtthứchảikhôngngoạithương/trậntru yềntinbịphá/khônggửithưthànhcông. CuốicùngraBẮC/HùngCứlênÔThầnĐENhướngNhẫmSơnchưađến.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-794-807/798p1.png",
+    "/tmp/comic-generated-794-807/798p2.png",
+    "/tmp/comic-generated-794-807/798p3.png",
+    "/tmp/comic-generated-794-807/798p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

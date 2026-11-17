@@ -2061,3 +2061,8 @@ Nguồn: file CHUONG 797.txt do người dùng đính kèm. Mỗi PNG một tran
 
 ### Model trước798
 models/cai-trang-ngan-tieu-song-kinh-o-than-798.png đãtạo/xem/sửamặtcáctạohìnhtrướcdùng: HLCT798HanGIẢDẠNGlãonhogià/tócrâutrắngnếpn hăn/mũthưsinhĐEN/bàoXÁM,KHÔNGV3 haytựlã ohóathânthật;TXCT798TXKGIẢDẠNGthưsinhtrẻ/tócĐENbúitrâmgỗ/bàoXANH/tránkhôngấnkhôngquan,khácmặttủnhịTN798ngườitaphụcXÁMdaTANmặttrònbầumũitròn/tà nnhangnhẹ. TN798nguồnđãchếtmodeltrungtínhkhôngtựkhẳngđịnhc ònsốngtrongcảnh. NgânTiêuSongKínhđúngHAIgươngTRÒNBẠCcổ/2cộtspatialphiếnkhôngphải2NgọcTiểuNaDiBànbátgiác727. PhệHồnLuyệnNguyênsáchMỎNGXANHkhôngTuDi thẻngọ cxanh. ÔThầnphiToaĐENhìnhthoihaimũinhọnsànmởcho2ngườiKHÔN Gphixa4bánh775. Tưổi/hoa văn/ch iềucaothêmbớtchỉthiếtkếchuyểnthể;ảnhKHÔNGthêmcan onthầ nhồn/pháptắc.
+
+
+## Chương 798 — Địa bàn nhà mình: hoàn thành 4 trang
+Nguồn: file CHUONG 798.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/798/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- TXKchânthânsống/ve sầuthoátxác/phầnhồnởthângiả,NgânTiêuSongKínhTamcagửimớiquaHànhCướcchưaluyệnhóa/chỉdùngnhờtrận. TT797thân&NguyênAnhpháhủyquaánhphépkhônggore;TÀNHỒN xanh/tímcònthuđènchưabịxóahoàntoàn. HanthuTOÀNBỘkiếmmangđèn+sáchmỏngXANHPhệHồnLuyệnNguyên,đan/liệuchiađôi/khôngtựluyệnsáchngay. Kháchsạnkhôngcanthiệp→quyếtrời. P3từkhung7HangiảLÃONHOXÁM/ TXKgiảTHƯSINHXANHtócĐEN;khôngthaymodelgốc. TiểunhịHànhCướcđãchếtthứchảikhôngngoạithương/trậntru yềntinbịphá/khônggửithưthànhcông. CuốicùngraBẮC/HùngCứlênÔThầnĐENhướngNhẫmSơnchưađến.
