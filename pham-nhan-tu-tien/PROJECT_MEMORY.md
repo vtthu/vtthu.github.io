@@ -1830,3 +1830,11 @@ ModelmớiTRƯỚC794: models/de-hon-hong-y-van-son-nhieu-nhan-su-794.png. DH794
 ## Chương 794 — Giải thích điều khó hiểu: hoàn thành 5 trang
 Nguồn: file CHUONG 794.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/794/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
 - Năm trang với góc siêu cận/cận/trung/toàn, nội dung tới đúng câu hỏi cuối794 chưa trả lời795. ThạchXuyênKhông/Đạica cùng cha khácmẹ,Tamca cùngmẹ từngđượccứu;phủThiênViệtHầukhôngđángtin/tâmphúcQuảngNguyênbịthanh tẩy;HắcDứu báo tin giả/cượcTXK. Chưa nhận viện binh. Hai院 U Hà/ThanhTiêu đãthuê,SơLiễuviệngiữriêngkhôngthuê. HanbạchbàoCT603/TXKpurple/GDN01mặtkimloạivànghoàngbào. DHđổihồngytheonguồn794giữmặtcũ,vẫnthiếuBảnNguyên,chưa dùng2thượngphẩm/cứutỉnh. TíchLânkhôngcảnhchỉtênnhắcchưavẽthếgiớithật/chủnhânGDNmới.
+
+### Model trước795–796
+models/ngu-bo-cong-phap-tu-di-cam-ung-795.png đãxem: BảoLuânmắtVÀNG/TịnhBìnhVÀNG2quaiTRĂNG/HuyễnThầnSacátVÀNGtáimẫu606;ĐoạnThờiLưuHỏaĐỎ/ĐôngẤtThầnMộcXANHchỉminhhọatiềmnăngcôngpháp795chưangưngđạithành. ThẻTRÚCXANHNGỌCkhắckimtriện/chíntrọngChânNgôn&TuDiCảmỨng. KHÔNGdùngcácdiễngiảicôngdụngtựchènởdướibiểutượnglàcanon;đặcbiệtsơđồcácmũitênmodelkhôngchuẩnchu kỳngũhànhKHÔNGcopyvàotruyện,chỉlấymàuvà5biểutượng/tên;giảithíchtươngsinhkhắcbằnglờidẫntheonguồn. 795mớihiểutổngcương,796chỉnhhợptươngđươngđệtamtrọng,chưalênTháiẤttrungkỳ/đệlụctrọng.
+
+
+## Chương 795 — Vạn vật đều ẩn chứa thời gian: hoàn thành 4 trang
+Nguồn: file CHUONG 795.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/795/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- TíchLânchỉtênmanhmối,GDNsuyđoánchủnhânMaVựctừnglàmLuyệnKhíSưKhôiLỗiBáchTạoSơnkhôngvẽmặtchủnhân. HanLuyệnThầnThuậttầng5chưađạithành;hơn3thánggặpmâuthuẫnrồithêmmấythángnghiêncứuTuDi,795chưahoànthànhhợpnhất9trọnghaylênTháiẤttrungkỳ. 5biểutượngtrongthoughtframe/minhhọatiềmnăng,ĐôngẤtThầnMộcchưatrồngthật/khôngthúcdượcthật. Sơđồ5ngũhànhKHÔNGcopymũitênsai trênsheet;dùnglờidẫnnguyêntắc. TXKnhắnGDNbáogặpsauxuấtquan,đãsửatailbóngthoạitrang4đúngTXKhỏi.

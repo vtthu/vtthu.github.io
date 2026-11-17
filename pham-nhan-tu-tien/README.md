@@ -81,6 +81,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 795: Vạn vật đều ẩn chứa thời gian](chapters/795/): 4 trang, hoàn thành; [PDF A4](chapters/795/chuong-795.pdf)
+
 - [Chương 794: Giải thích điều khó hiểu](chapters/794/): 5 trang, hoàn thành; [PDF A4](chapters/794/chuong-794.pdf)
 
 - [Chương 781: Bao vây chặn đánh](chapters/781/): 4 trang, hoàn thành; [PDF A4](chapters/781/chuong-781.pdf)
