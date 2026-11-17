@@ -1,0 +1,41 @@
+{
+  "chapter": 800,
+  "title": "Thương đô Ma Vực",
+  "images": [
+    "/tmp/comic-batch-794-807/a4-800/trang-01.png",
+    "/tmp/comic-batch-794-807/a4-800/trang-02.png",
+    "/tmp/comic-batch-794-807/a4-800/trang-03.png",
+    "/tmp/comic-batch-794-807/a4-800/trang-04.png"
+  ],
+  "models": [
+    "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+    "ky-lao-lien-nhi-nham-son-tuan-tra-800.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png"
+  ],
+  "summary": "Qua cao nguyên Hắc Thổ, hai người tới Nhẫm Sơn Thành và gặp Kỳ lão. Sau vẻ phồn hoa là nội gián và dòng chảy ngầm; Thạch Xuyên Không tự có kế hoạch ứng phó.",
+  "notes": "- 800HanGIỮcảitrangHLCT798lãonhomũđenáoxám suốtchương. TXKgiảthưsinhGREENđếnphủgặpKỳmớibỏ→TXK652tócbạcbàotím. KyLãoBLUEtóctrắngbúikhôngmũkhácHan/nguồnmẫuthântừnghầuhạTXK;tuviítnhấtTháiẤtcaoHanchỉđánhgiá/tiênlinhlựccăn nguyênchưanêurace. 2núiVẠNtrượng/hơn10JADEpillarBLACKrune/mànĐENngăn1000dặm/8cửa/tradetraffic. ÔThầndãTHUkhibịđộituầndừng,trang2khung13đãsửaxóaphiToaxuấthiệnlạikhôngđúngnguồn. ĐộitrưởngchỉxưngkháchquýphủThànhChủkhônggọi13hoàngtử. Phủkhônghộvệcanhcổnggi a nhânchàođónbêntrong. Hiệubuô ntănghơn1thành/Ky loSpy/TXKtrấnanlấyluilàmlờiTXKkhôngkhẳngđịnhhoàntoànantoàn. CuốihỏiTamcachưatrảlời801.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-794-807/800p1.png",
+    "/tmp/comic-generated-794-807/800p2.png",
+    "/tmp/comic-generated-794-807/800p3.png",
+    "/tmp/comic-generated-794-807/800p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
