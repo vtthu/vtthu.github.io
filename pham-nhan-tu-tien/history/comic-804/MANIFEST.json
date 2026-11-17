@@ -1,0 +1,51 @@
+{
+  "chapter": 804,
+  "title": "Thủ đoạn quỷ dị",
+  "images": [
+    "/tmp/comic-batch-794-807/a4-804/trang-01.png",
+    "/tmp/comic-batch-794-807/a4-804/trang-02.png",
+    "/tmp/comic-batch-794-807/a4-804/trang-03.png",
+    "/tmp/comic-batch-794-807/a4-804/trang-04.png",
+    "/tmp/comic-batch-794-807/a4-804/trang-05.png"
+  ],
+  "models": [
+    "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+    "ky-lao-lien-nhi-nham-son-tuan-tra-800.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "mac-lao-lo-dong-hoa-phu-nhan-801.png",
+    "mac-lao-luc-nhan-cu-quy-lo-dong-kim-su-803.png",
+    "u-hon-sat-vuc-tinh-viem-minh-hon-767.png",
+    "hoa-kinh-kim-bao-ban-dien-dong-kinh-804.png"
+  ],
+  "summary": "Tinh Viêm Hỏa Điểu phá thế công của hai khách khanh. Nguyên Anh Kỳ lão tự bạo trong hiểu lầm; Hàn Lập bảo vệ Thạch Xuyên Không rồi phát hiện người điều khiển đứng sau.",
+  "notes": "- Han vẫn lão giả xám, không bỏ cải trang; phân thân giống hệt nhập bản thể cuối chương. Thạch tóc bạc bào tím.\n- Sáu cự quy/36 mắt, Hỏa Điểu bạc đúng model TV768 trên sheet 767; phi kiếm hồng bị nuốt, không tái dùng.\n- Mặc bị ngân diễm đánh gục nhưng còn sống (805 xác nhận). Hoa bị trói và đánh ngất, chưa chết; thu mê hương bằng ánh xanh trong tay áo, không khẳng định hết huyễn thuật.\n- Kỳ chỉ còn Nguyên Anh xanh; tự bạo rồi mất hẳn. Hai kiếm giao nhau che chắn Thạch an toàn; không đưa Kỳ trở lại.\n- Kẻ áo vàng toàn mặt che kim quang, chưa lộ tên/diện mạo tới 805. Model HK804–807 đã lưu và sửa đúng bên mặt nạ trước khi dùng; sáu kiếm bị gương phản chấn, không gãy. Cuối chương thu lại mười hai kiếm bố trận.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-794-807/804p1.png",
+    "/tmp/comic-generated-794-807/804p2.png",
+    "/tmp/comic-generated-794-807/804p3.png",
+    "/tmp/comic-generated-794-807/804p4.png",
+    "/tmp/comic-generated-794-807/804p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

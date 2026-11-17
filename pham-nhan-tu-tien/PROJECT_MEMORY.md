@@ -1914,3 +1914,17 @@ Nguồn: file CHUONG 803.txt do người dùng đính kèm. Mỗi PNG một tran
 - Mặc cự quy đen sáu mắt trán, gai băng đen; Hoa quạt ngọc hồng bướm, nhẫn trắng. Nhắc Cao Phong không tạo người mới xuất hiện.
 - Sửa lời dẫn trang 3 khẳng định Cầu Long Kiếm Trận thuộc Hàn Lập, không sao chép tên Thiết Vũ từ sheet pháp khí 779.
 - Cuối chương hai loại pháp tắc và hương lạ xuyên lôi quang làm Hàn suy yếu; chưa có Tinh Viêm Hỏa Điểu tới 804.
+
+
+## Hoa Kính HK804–807: đăng ký trước khi xuất hiện
+PNG models/hoa-kinh-kim-bao-ban-dien-dong-kinh-804.png: nam trưởng thành dáng thanh, tóc đen búi trâm vàng đơn, bào vàng hoa đai đen. 804 toàn mặt che kim quang, chưa gọi tên trong tranh. 805 nửa mặt BÊN TRÁI nhân vật đeo mặt nạ bạc (bên PHẢI người xem khi chính diện), bên phải phấn trắng má hồng môi đỏ. 806 mặt nạ bị phá: nửa trái nhăn nheo như vỏ cây; nửa phải vẫn trẻ trang điểm; không vết thương hở. Đã sửa sheet đúng bên trước khi sử dụng.
+Gương đồng tròn vàng viền văn nòng nọc, hoa đỏ nở giữa mặt; chuông vàng đất và hư ảnh chuông lớn; phù điêu đầu thú vàng đất giống hổ/rồng bằng chất xương, dải sáng vàng; nội giáp đen và vòng trữ vật vàng. Chi tiết phụ model không bổ sung nguyên tác. Không dùng gương này thay cặp Ngân Tiêu Song Kính.
+
+
+## Chương 804 — Thủ đoạn quỷ dị: hoàn thành 5 trang
+Nguồn: file CHUONG 804.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/804/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Han vẫn lão giả xám, không bỏ cải trang; phân thân giống hệt nhập bản thể cuối chương. Thạch tóc bạc bào tím.
+- Sáu cự quy/36 mắt, Hỏa Điểu bạc đúng model TV768 trên sheet 767; phi kiếm hồng bị nuốt, không tái dùng.
+- Mặc bị ngân diễm đánh gục nhưng còn sống (805 xác nhận). Hoa bị trói và đánh ngất, chưa chết; thu mê hương bằng ánh xanh trong tay áo, không khẳng định hết huyễn thuật.
+- Kỳ chỉ còn Nguyên Anh xanh; tự bạo rồi mất hẳn. Hai kiếm giao nhau che chắn Thạch an toàn; không đưa Kỳ trở lại.
+- Kẻ áo vàng toàn mặt che kim quang, chưa lộ tên/diện mạo tới 805. Model HK804–807 đã lưu và sửa đúng bên mặt nạ trước khi dùng; sáu kiếm bị gương phản chấn, không gãy. Cuối chương thu lại mười hai kiếm bố trận.
