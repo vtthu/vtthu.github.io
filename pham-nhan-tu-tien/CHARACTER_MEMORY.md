@@ -2135,3 +2135,15 @@ Nguồn: file CHUONG 804.txt do người dùng đính kèm. Mỗi PNG một tran
 - Mặc bị ngân diễm đánh gục nhưng còn sống (805 xác nhận). Hoa bị trói và đánh ngất, chưa chết; thu mê hương bằng ánh xanh trong tay áo, không khẳng định hết huyễn thuật.
 - Kỳ chỉ còn Nguyên Anh xanh; tự bạo rồi mất hẳn. Hai kiếm giao nhau che chắn Thạch an toàn; không đưa Kỳ trở lại.
 - Kẻ áo vàng toàn mặt che kim quang, chưa lộ tên/diện mạo tới 805. Model HK804–807 đã lưu và sửa đúng bên mặt nạ trước khi dùng; sáu kiếm bị gương phản chấn, không gãy. Cuối chương thu lại mười hai kiếm bố trận.
+
+
+## Bổ sung model 805–807 trước khi dùng
+models/song-ngoc-thuoc-nghien-muc-tinh-long-hk-805.png: La Trá Tỳ Bà giữ thiết kế 772, bốn dây bạc, đầu có nứt mảnh không gãy; hai ngọc thước trắng; nghiên mực băng đen của Mặc; quyển trục trắng hóa hồng và đúng tám Tinh Long năng lượng; Nguyên Anh Hoa Kính là tiểu ảnh người trưởng thành áo vàng, không trẻ em. Đã sửa cận mặt đồng bộ nửa trái nhân vật già vỏ cây/bên phải trẻ trang điểm (trái phải theo chính nhân vật). Các ô nhãn cận chỉ chỉ phía nhấn mạnh, đều là cùng một người.
+
+
+## Chương 805 — Trúng chiêu: hoàn thành 5 trang
+Nguồn: file CHUONG 805.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/805/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Hoa Kính Thái Ất hậu kỳ, thuộc hạ Ngũ tỷ Thạch Cạnh Nghiên (chỉ nhắc tên, không tạo mặt công chúa). Mặt nạ bạc che bên trái chính nhân vật, bên phải phấn trắng má hồng môi đỏ; chưa phá mặt nạ tới 806.
+- Mặc còn sống nguyên thân được Tinh Viêm đưa về, bị cấm chế. Hoa còn sống hôn mê. Kỳ đã mất do tự bạo, không nhầm Mặc chết.
+- La Trá Tỳ Bà bốn dây bạc, hai trăng không gian phối hợp quyền Hàn nhưng đánh trúng huyễn ảnh. Hàn dùng Luyện Thần thoát bóng đỏ; Thạch không thoát, đánh bạn bằng phong nhận và hai ngọc thước trắng.
+- Sư Tử Hống không hiệu quả. Kết ở ma trảo tím đen nhằm Hàn, chưa giải thôi miên. Sửa trang 4 đúng tên người né đòn là Hàn; trang 5 sửa khung né lôi quang về lão giả áo xám mũ đen, không áo vàng Hoa Kính.

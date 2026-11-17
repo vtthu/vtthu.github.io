@@ -81,6 +81,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 805: Trúng chiêu](chapters/805/): 5 trang, hoàn thành; [PDF A4](chapters/805/chuong-805.pdf)
+
 - [Chương 804: Thủ đoạn quỷ dị](chapters/804/): 5 trang, hoàn thành; [PDF A4](chapters/804/chuong-804.pdf)
 
 - [Chương 803: Dị thường](chapters/803/): 5 trang, hoàn thành; [PDF A4](chapters/803/chuong-803.pdf)

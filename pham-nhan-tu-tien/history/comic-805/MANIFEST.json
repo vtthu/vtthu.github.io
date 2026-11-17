@@ -1,0 +1,50 @@
+{
+  "chapter": 805,
+  "title": "Trúng chiêu",
+  "images": [
+    "/tmp/comic-batch-794-807/a4-805/trang-01.png",
+    "/tmp/comic-batch-794-807/a4-805/trang-02.png",
+    "/tmp/comic-batch-794-807/a4-805/trang-03.png",
+    "/tmp/comic-batch-794-807/a4-805/trang-04.png",
+    "/tmp/comic-batch-794-807/a4-805/trang-05.png"
+  ],
+  "models": [
+    "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "mac-lao-lo-dong-hoa-phu-nhan-801.png",
+    "hoa-kinh-kim-bao-ban-dien-dong-kinh-804.png",
+    "song-ngoc-thuoc-nghien-muc-tinh-long-hk-805.png",
+    "u-hon-sat-vuc-tinh-viem-minh-hon-767.png"
+  ],
+  "summary": "Hoa Kính lộ danh tính và mục đích lấy La Trá Tỳ Bà. Đòn phối hợp của hai người chỉ đánh trúng huyễn ảnh; Hàn thoát khỏi thôi miên, nhưng Thạch Xuyên Không đã bị điều khiển.",
+  "notes": "- Hoa Kính Thái Ất hậu kỳ, thuộc hạ Ngũ tỷ Thạch Cạnh Nghiên (chỉ nhắc tên, không tạo mặt công chúa). Mặt nạ bạc che bên trái chính nhân vật, bên phải phấn trắng má hồng môi đỏ; chưa phá mặt nạ tới 806.\n- Mặc còn sống nguyên thân được Tinh Viêm đưa về, bị cấm chế. Hoa còn sống hôn mê. Kỳ đã mất do tự bạo, không nhầm Mặc chết.\n- La Trá Tỳ Bà bốn dây bạc, hai trăng không gian phối hợp quyền Hàn nhưng đánh trúng huyễn ảnh. Hàn dùng Luyện Thần thoát bóng đỏ; Thạch không thoát, đánh bạn bằng phong nhận và hai ngọc thước trắng.\n- Sư Tử Hống không hiệu quả. Kết ở ma trảo tím đen nhằm Hàn, chưa giải thôi miên. Sửa trang 4 đúng tên người né đòn là Hàn; trang 5 sửa khung né lôi quang về lão giả áo xám mũ đen, không áo vàng Hoa Kính.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-794-807/805p1.png",
+    "/tmp/comic-generated-794-807/805p2.png",
+    "/tmp/comic-generated-794-807/805p3.png",
+    "/tmp/comic-generated-794-807/805p4.png",
+    "/tmp/comic-generated-794-807/805p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}
