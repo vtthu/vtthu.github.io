@@ -2084,3 +2084,16 @@ models/ky-lao-lien-nhi-nham-son-tuan-tra-800.png đãtạo/xemtrướcdùng. KL8
 ## Chương 800 — Thương đô Ma Vực: hoàn thành 4 trang
 Nguồn: file CHUONG 800.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/800/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - 800HanGIỮcảitrangHLCT798lãonhomũđenáoxám suốtchương. TXKgiảthưsinhGREENđếnphủgặpKỳmớibỏ→TXK652tócbạcbàotím. KyLãoBLUEtóctrắngbúikhôngmũkhácHan/nguồnmẫuthântừnghầuhạTXK;tuviítnhấtTháiẤtcaoHanchỉđánhgiá/tiênlinhlựccăn nguyênchưanêurace. 2núiVẠNtrượng/hơn10JADEpillarBLACKrune/mànĐENngăn1000dặm/8cửa/tradetraffic. ÔThầndãTHUkhibịđộituầndừng,trang2khung13đãsửaxóaphiToaxuấthiệnlạikhôngđúngnguồn. ĐộitrưởngchỉxưngkháchquýphủThànhChủkhônggọi13hoàngtử. Phủkhônghộvệcanhcổnggi a nhânchàođónbêntrong. Hiệubuô ntănghơn1thành/Ky loSpy/TXKtrấnanlấyluilàmlờiTXKkhôngkhẳngđịnhhoàntoànantoàn. CuốihỏiTamcachưatrảlời801.
+
+### Model trước chương 801–803
+Đã tạo và kiểm tra models/mac-lao-lo-dong-hoa-phu-nhan-801.png trước khi đưa vào truyện. Mặc lão ML801: lão gầy, mặt nâu đen, tóc/râu xám ngắn, ma giáp xanh teal viền bạc. Lỗ Đồng LD801: người rất to béo, da tự nhiên, tóc đen búi trâm đồng, áo vàng đất đai nâu, tính tình hào sảng; khác Kim Tê da vàng và quan vương. Hoa phu nhân HP801: khoảng ba mươi, tóc đen búi cài đóa hoa HỒNG TƯƠI lớn, váy ĐỎ THẪM đai hồng; ánh phép hồng làm màu váy biến sắc theo ánh sáng, không tự thay đồ giữa trận. Cả ba là khách khanh Thái Ất, không tự thêm tên đầy đủ hoặc coi hành động sau này là phản bội có chủ ý trước khi truyện giải thích.
+Hồng Thậm Tửu là vò ĐỎ TÍM, sáu chén đen viền bạc; tửu phương ngọc giản trắng. Hồng Thậm Quả mới là tên nguyên liệu, chưa mua/ủ thành mẻ mới. Ba Ma khí: cự trảo ám kim, kiếm ngọc hồng phấn, mâm tròn đen. Ngọc phiến hồng khắc hồ điệp và ban chỉ trắng chuẩn bị cho803, chưa đem dùng ở tiệc801.
+Đã đọc toàn văn đến804: các lời gọi Cao Phong và việc Kỳ lão vẫn nói bảo vệ Thiếu chủ là manh mối bị bí thuật nhận nhầm, không tự tạo khuôn mặt Cao Phong khi chỉ nhắc tên. Không hé lộ nguyên nhân ấy sớm trong trang801–802.
+
+
+## Chương 801 — Vắng mặt: hoàn thành 4 trang
+Nguồn: file CHUONG 801.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/801/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Han giữ cải trang HLCT798, tên Lệ Phi Vũ; Thạch trở lại tóc bạc áo tím. Kỳ áo xanh không đội mũ đen.
+- Liên Nhi LN801 trẻ 16–17, áo xanh kín; khác nữ chủ quán NB794.
+- Đăng ký ML801 ma giáp xanh, LD801 rất béo áo vàng đất, HP801 áo đỏ cài hoa hồng; cùng PNG mac-lao-lo-dong-hoa-phu-nhan-801.png đã gắn trực tiếp trước trang đầu xuất hiện.
+- Rượu Hồng Thậm Tửu, sáu chén đen, công thức ngọc trắng; Hồng Thậm Quả mới nhắc tên, chưa thu mua. Chưa có phản bội/công kích chương 802.

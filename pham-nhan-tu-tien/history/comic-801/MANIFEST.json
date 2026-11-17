@@ -1,0 +1,42 @@
+{
+  "chapter": 801,
+  "title": "Vắng mặt",
+  "images": [
+    "/tmp/comic-batch-794-807/a4-801/trang-01.png",
+    "/tmp/comic-batch-794-807/a4-801/trang-02.png",
+    "/tmp/comic-batch-794-807/a4-801/trang-03.png",
+    "/tmp/comic-batch-794-807/a4-801/trang-04.png"
+  ],
+  "models": [
+    "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+    "ky-lao-lien-nhi-nham-son-tuan-tra-800.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "mac-lao-lo-dong-hoa-phu-nhan-801.png"
+  ],
+  "summary": "Hàn Lập tìm hiểu Thạch Xuyên Không, bế quan nửa tháng rồi dự buổi gặp ba khách khanh. Hồng Thậm Tửu đem lại một công thức hữu ích, nhưng người tiếp ứng vẫn bặt tin.",
+  "notes": "- Han giữ cải trang HLCT798, tên Lệ Phi Vũ; Thạch trở lại tóc bạc áo tím. Kỳ áo xanh không đội mũ đen.\n- Liên Nhi LN801 trẻ 16–17, áo xanh kín; khác nữ chủ quán NB794.\n- Đăng ký ML801 ma giáp xanh, LD801 rất béo áo vàng đất, HP801 áo đỏ cài hoa hồng; cùng PNG mac-lao-lo-dong-hoa-phu-nhan-801.png đã gắn trực tiếp trước trang đầu xuất hiện.\n- Rượu Hồng Thậm Tửu, sáu chén đen, công thức ngọc trắng; Hồng Thậm Quả mới nhắc tên, chưa thu mua. Chưa có phản bội/công kích chương 802.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-794-807/801p1.png",
+    "/tmp/comic-generated-794-807/801p2.png",
+    "/tmp/comic-generated-794-807/801p3.png",
+    "/tmp/comic-generated-794-807/801p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
