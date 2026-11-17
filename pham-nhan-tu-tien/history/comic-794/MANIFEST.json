@@ -1,0 +1,48 @@
+{
+  "chapter": 794,
+  "title": "Giải thích điều khó hiểu",
+  "images": [
+    "/tmp/comic-batch-794-807/a4-794/trang-01.png",
+    "/tmp/comic-batch-794-807/a4-794/trang-02.png",
+    "/tmp/comic-batch-794-807/a4-794/trang-03.png",
+    "/tmp/comic-batch-794-807/a4-794/trang-04.png",
+    "/tmp/comic-batch-794-807/a4-794/trang-05.png"
+  ],
+  "models": [
+    "han-lap-bach-bao-ngoc-tien-775.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "de-hon-hong-y-van-son-nhieu-nhan-su-794.png",
+    "giai-dao-nhan-hoa-chi-bat-nguyen-624.png"
+  ],
+  "summary": "Hàn Lập và Thạch Xuyên Không giải tỏa khúc mắc về truy sát và cuộc tranh quyền; Đề Hồn vẫn hôn mê, Giải Đạo Nhân nhắc Tích Lân không cảnh.",
+  "notes": "- Năm trang với góc siêu cận/cận/trung/toàn, nội dung tới đúng câu hỏi cuối794 chưa trả lời795. ThạchXuyênKhông/Đạica cùng cha khácmẹ,Tamca cùngmẹ từngđượccứu;phủThiênViệtHầukhôngđángtin/tâmphúcQuảngNguyênbịthanh tẩy;HắcDứu báo tin giả/cượcTXK. Chưa nhận viện binh. Hai院 U Hà/ThanhTiêu đãthuê,SơLiễuviệngiữriêngkhôngthuê. HanbạchbàoCT603/TXKpurple/GDN01mặtkimloạivànghoàngbào. DHđổihồngytheonguồn794giữmặtcũ,vẫnthiếuBảnNguyên,chưa dùng2thượngphẩm/cứutỉnh. TíchLânkhôngcảnhchỉtênnhắcchưavẽthếgiớithật/chủnhânGDNmới.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-794-807/794p1.png",
+    "/tmp/comic-generated-794-807/794p2.png",
+    "/tmp/comic-generated-794-807/794p3.png",
+    "/tmp/comic-generated-794-807/794p4.png",
+    "/tmp/comic-generated-794-807/794p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

@@ -1821,3 +1821,12 @@ Model mới (13 ảnh tham chiếu):
 - models/thiet-vu-cung-tien-doc-vuc-cau-long-779.png
 - models/tu-linh-kim-phong-ho-ve-776.png
 - models/u-hon-sat-vuc-tinh-viem-minh-hon-767.png
+
+## Đợt 794–807 — chuẩn bị ngày 17/11/2026
+Nguồn: 14 TXT đính kèm, thực hiện tăng dần, 4–5 trang tùy độ dài/diễn biến; nhiều thoại và lời dẫn, đổi góc siêu cận/cận/trung/toàn và cảm xúc theo tình huống. Đã đọc toàn văn794–796 và model PNG trước khi dựng794. Bộ nhớ GitHub hiện kết ở781, không có782–793; không tự đánh dấu khoảng đó hoàn thành hay bịa diễn biến. Tiếp tục theo dữ kiện794 và model hiện có: HanCT603/bạchbào775, TXK652/tócbạcáotím, GDN01/hoàngbào624.
+ModelmớiTRƯỚC794: models/de-hon-hong-y-van-son-nhieu-nhan-su-794.png. DH794 giữđúngmặtDH766/tócđen/trâmlưỡiliềmobsidian chỉđổiHỒNGYtheonguồn794, vẫn hôn mê; không hồi phụcBảnNguyên. NB794nữbộcvôdanhtócđenbúihoa ngọcđơ n/áotealnhạttạpdềtrắng; XP794xaphuvôdanhnamtrungniênmũvảinâu/áonâu. Thúkéo6chângraythiếtkếminhhọakhônggánchủngtộcchuẩn. HànhCướcTrainhỏbiểnVẢI; VânSơnNhiễucổngcũvườntrongnướcróc rách/hồsương/cửukhúchànhlang; ThanhTiêuViện2tầngGỖxámnâugiữakhómtrúcXANHkhácHoaChitrúcTÍM. TửDươngNoãnNgọcmảnhTÍMcỡkhácnhau;2thượngphẩmcấtgiữkhôngtựđemchữa/cứutỉnh. HoaChitrúcTÍM/giaivàngGDN01khôngthànhda người. Các tuổi/chiều cao/nétthêmsheetlàthiếtkếchuyểnthể.
+
+
+## Chương 794 — Giải thích điều khó hiểu: hoàn thành 5 trang
+Nguồn: file CHUONG 794.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/794/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Năm trang với góc siêu cận/cận/trung/toàn, nội dung tới đúng câu hỏi cuối794 chưa trả lời795. ThạchXuyênKhông/Đạica cùng cha khácmẹ,Tamca cùngmẹ từngđượccứu;phủThiênViệtHầukhôngđángtin/tâmphúcQuảngNguyênbịthanh tẩy;HắcDứu báo tin giả/cượcTXK. Chưa nhận viện binh. Hai院 U Hà/ThanhTiêu đãthuê,SơLiễuviệngiữriêngkhôngthuê. HanbạchbàoCT603/TXKpurple/GDN01mặtkimloạivànghoàngbào. DHđổihồngytheonguồn794giữmặtcũ,vẫnthiếuBảnNguyên,chưa dùng2thượngphẩm/cứutỉnh. TíchLânkhôngcảnhchỉtênnhắcchưavẽthếgiớithật/chủnhânGDNmới.
