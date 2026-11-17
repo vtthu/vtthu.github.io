@@ -4853,18 +4853,18 @@
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 478158,
-      "sha256": "e33dbf624502af5ce96087c57b5fbaa3c77561f145d9144075e2d0e2cf17a006"
+      "bytes": 482598,
+      "sha256": "232242995740141893efdd50b8d299a87edb0995018dec937681440fda48da15"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 425779,
-      "sha256": "b6cad39aeaa675fe009ef22eb75879578b8cf0ba87312f2ac4af0d7b6c96d4c0"
+      "bytes": 430219,
+      "sha256": "3de7f3457e1eee7a4b6ce37192ded89f2344f8d5b64a4ed9e42c82bbde5fd76e"
     },
     {
       "path": "README.md",
-      "bytes": 23142,
-      "sha256": "f5d28e2aefc4a87af7cc12095ec1f1528d60ad6dc4bfa9b0ca750f3d4d7e785d"
+      "bytes": 23352,
+      "sha256": "0012f3b3634f0cc6cd3321d2bff5fe98fe49516e874884e37fc0b684d4c6bf23"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -16410,6 +16410,86 @@
       "path": "production/766-781/workflow/package.py",
       "bytes": 4998,
       "sha256": "4e3325cdd394a3ded6cd87453e0b8e20e6824a7aad47b6d386de8e6d4ddc47cb"
+    },
+    {
+      "path": "production/794-807/CHAPTER_REGISTRY.json",
+      "bytes": 31674,
+      "sha256": "e48fe62ed8d93aa091add2e9f620452c425c71ed6e1250cf81b4c91c6deb1471"
+    },
+    {
+      "path": "production/794-807/README.md",
+      "bytes": 6986,
+      "sha256": "72c08cc691649aacfd49e558dade2d637eac92b98dccae8bf52afc0257681122"
+    },
+    {
+      "path": "production/794-807/STYLE_GUIDE.md",
+      "bytes": 1492,
+      "sha256": "5abfca189a97902ec094efdfa1abb456302cec1648199fa333271b2ef5bf5383"
+    },
+    {
+      "path": "production/794-807/VERIFICATION.json",
+      "bytes": 3147,
+      "sha256": "7aec6d077685249a0e71ec52cd3e0f22081c72bd3083d21d6e79809b6a496b6b"
+    },
+    {
+      "path": "production/794-807/in-progress/807/CHECKPOINT.json",
+      "bytes": 649,
+      "sha256": "7f930cce3d4e5e65478e0a0d1d34eeb941672876ea821e56968c0c6f881f2d85"
+    },
+    {
+      "path": "production/794-807/in-progress/807/README.md",
+      "bytes": 681,
+      "sha256": "c30e597f31320c0739760eb3ccbe58ebda450d40f7417859e677bff2de06f05d"
+    },
+    {
+      "path": "production/794-807/in-progress/807/SOURCE.txt",
+      "bytes": 16140,
+      "sha256": "9d2d2fa0ee374ec5fa884206bd81ab20d31386b991d74e066610d80cf4dc961c"
+    },
+    {
+      "path": "production/794-807/in-progress/807/STORYBOARD.md",
+      "bytes": 8121,
+      "sha256": "22f57b058beb6d7384a5917100b56559d02db4d8f9552920bcbfe14f85ae602e"
+    },
+    {
+      "path": "production/794-807/in-progress/807/ban-nhap-trang-01.pdf",
+      "bytes": 5169763,
+      "sha256": "a5d78d465e22dea53d49760b6abd0fe1165d0f6adfaa66ef7443920e9cde3778"
+    },
+    {
+      "path": "production/794-807/in-progress/807/trang-01-generated.png",
+      "bytes": 3324978,
+      "sha256": "9a96fa6b394cb855d2d163e14d074db2ce65892ddf47b0697b7f68e67d237245"
+    },
+    {
+      "path": "production/794-807/in-progress/807/trang-01.png",
+      "bytes": 4120070,
+      "sha256": "0abfa5176181c46130c3c8f473966d6fb8d6297b9ebf50fcab3af95ed0de2268"
+    },
+    {
+      "path": "production/794-807/workflow/CONTINUITY_SOURCE_807_NOT_YET_ILLUSTRATED.txt",
+      "bytes": 5307,
+      "sha256": "f64171de3d627f82ff845119c0a1ec5ca385b16bde872d80d500f2c106eba086"
+    },
+    {
+      "path": "production/794-807/workflow/checkpoint.py",
+      "bytes": 11029,
+      "sha256": "bb0db97b90648ccf436f7707bfa7ac882a8f5aa068750c1a0a7fd37a1e548286"
+    },
+    {
+      "path": "production/794-807/workflow/finalize.py",
+      "bytes": 8554,
+      "sha256": "77bf75ac73c52213037258f6f3df6c2a754314455e242e480d291517e7a1107d"
+    },
+    {
+      "path": "production/794-807/workflow/image_result_save.js",
+      "bytes": 844,
+      "sha256": "b32660eb37cb2353af1ace1b27e005573a2f274bf117cd1af83daa0b0e54fd69"
+    },
+    {
+      "path": "production/794-807/workflow/package.py",
+      "bytes": 4998,
+      "sha256": "a59c8674d1d173728314f71fcca44de3de469a9c65f8449cc2860da1b87edb17"
     },
     {
       "path": "summaries/465/README.md",

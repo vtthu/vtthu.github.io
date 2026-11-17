@@ -1949,3 +1949,35 @@ Nguồn: file CHUONG 806.txt do người dùng đính kèm. Mỗi PNG một tran
 - Hoa Kính đoán Hàn còn ba thành nguyên khí, không phải dữ kiện được xác nhận. Dải sáng từ hư ảnh đầu thú xuyên lôi điện; chỉ đánh trúng tàn ảnh Hàn, không gây lỗ ngực thật.
 - Sửa trang 2 tránh gọi phong hồn trước đúng thời điểm; sửa trang 4 tàn ảnh về Hàn lão giả mũ đen tóc/râu trắng áo xám.
 - Cuối chương mặt nạ bạc vỡ, nửa TRÁI chính Hoa Kính (PHẢI người xem chính diện) già như vỏ cây, nửa phải vẫn trẻ trang điểm; không hồi phục mặt nạ trong 807. Mười hư ảnh cự thú phóng dải sáng, chưa dùng Niết Bàn Thánh Thể tới 807.
+
+
+## Tái dùng model trước 807
+Tử Kim Ma Thần/Niết Bàn Thánh Thể lấy hình ba đầu sáu tay vảy tím vàng từ models/tu-kim-ma-than-nguyen-anh-522.png, chỉ phần trái và Bảo Luân; Thu/Thiết Nguyên Anh và đạo cụ khác sheet không xuất hiện. Quy mô phóng lớn theo truyện 807, không sao chép nhãn 3,6m cũ. Sau khi giải biến thân Hàn trở lại cải trang lão giả xám. Huyền Thiên Hồ Lô lấy phần trên phải models/luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png, ngọc xanh hai bầu, khác hồ lô nâu chứa đạo binh/Chưởng Thiên Bình.
+
+
+## Checkpoint đợt 794–807: hoàn thành 794–806, 807 chưa xong
+
+Đã hoàn thành và đẩy riêng các chương 794–806: 13 chương, 60 PNG trang A4 và 13 PDF A4. Chương 807 mới tạo trang 1/5, không đánh dấu hoàn thành. Gọi tạo trang 2 gặp usage_limit_reached (HTTP 429), công cụ báo mở lại lúc 2026-11-18 15:02:38 UTC, tức 22:02:38 giờ Việt Nam ngày 18/11/2026. Chưa tạo các trang 2–5. Bản nháp và kế hoạch tiếp tục ở in-progress/807/.
+
+Tại điểm chuyển thể hiện tại, Hàn Lập dùng lão giả áo xám, tóc/râu trắng, mũ mềm đen HLCT798, tên Lệ Phi Vũ; không thay HL-01 V2 gốc. Thạch Xuyên Không đã bỏ cải trang ở 800, tóc bạc trâm tím bào tím. Cả Thạch, Mặc lão và Hoa phu nhân còn sống nhưng bị Hàn phong bế thần hồn ở 806, chưa giải Hoa Kính thuật hoặc tỉnh lại trong các trang đã hoàn thành. Kỳ lão mất thân thể rồi Nguyên Anh xanh tự bạo ở 804, không trở lại. Lỗ Đồng và tám người vận hành đã chết.
+
+Hoa Kính mặc bào vàng, tóc đen trâm vàng, nội giáp đen. Mặt nạ bạc che nửa trái chính nhân vật đã vỡ ở cuối 806: nửa trái già như vỏ cây (bên phải người xem chính diện), nửa phải trẻ trang điểm phấn trắng má hồng môi đỏ. Không khôi phục mặt nạ. Trang nháp 807/1 mới tới lúc Hàn mở thời gian linh vực, Hoa Kính mở tinh quang/cánh hoa, dựng gương đồng hoa đỏ và chuông phòng ngự, mười tám kiếm đánh thử làm chuông rung nhẹ. Chưa thể hiện biến thân Niết Bàn, kết quả giao chiến, thu gương hoặc giải thôi miên. Những diễn biến đó chỉ có trong văn bản nguồn/kế hoạch trang 2–5.
+
+Truyền tống điện Nhẫm Sơn tinh thạch đen đã sụp ở 802. Chưa truyền tống tới Sở Vũ Thành, chưa có người tiếp ứng Tam ca tới. Nhẫm Sơn thuộc Cao Nguyên Hắc Thổ Ma Vực; không nhầm Hắc Thổ Tiên Vực. Hoa Chi trúc tím khác viện ở trọ trúc xanh và Nhẫm Sơn. Đề Hồn áo đỏ vẫn hôn mê ở Hoa Chi, chưa được bổ sung Bản Nguyên; Giải Đạo Nhân không tự tham chiến. Kim Đồng/Tiểu Bạch chương 799 ở tuyến Chân Tiên Giới riêng, vẫn bị truy đuổi, chưa gặp Hàn.
+
+La Trá Tỳ Bà bốn dây bạc, đầu đàn có nứt mảnh từ 773, không gãy cổ; hai ngọc thước trắng là vật khác. Hoa phu nhân dùng quyển trục sinh tám Tinh Long ở 806; phi kiếm hồng đã bị Tinh Viêm nuốt ở 804, không tái xuất. Mười tám kiếm là tập con của bộ 72 kiếm; Cầu Long Kiếm Trận dùng mười hai kiếm. Không biến phản chấn kiếm ảnh thành gãy kiếm thật. Gương đồng hoa đỏ Hoa Kính khác cặp Ngân Tiêu Song Kính bạc. Huyền Thiên Hồ Lô ngọc xanh hai bầu khác hồ lô nâu chứa đạo binh/Chưởng Thiên Bình.
+
+Không đánh dấu khoảng 782–793 chưa xử lý là hoàn thành. Giữ toàn bộ các chương và model trước đợt.
+
+Model mới đã lưu:
+- models/cai-trang-ngan-tieu-song-kinh-o-than-798.png
+- models/de-hon-hong-y-van-son-nhieu-nhan-su-794.png
+- models/hoa-kinh-kim-bao-ban-dien-dong-kinh-804.png
+- models/kim-dong-truong-thanh-ty-huu-truy-binh-799.png
+- models/ky-lao-lien-nhi-nham-son-tuan-tra-800.png
+- models/mac-lao-lo-dong-hoa-phu-nhan-801.png
+- models/mac-lao-luc-nhan-cu-quy-lo-dong-kim-su-803.png
+- models/ngu-bo-cong-phap-tu-di-cam-ung-795.png
+- models/song-ngoc-thuoc-nghien-muc-tinh-long-hk-805.png
+- models/truyen-tong-dien-bat-vi-ma-nguyen-802.png
+- models/tu-thanh-song-thu-phe-hon-dang-quan-lan-796.png

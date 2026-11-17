@@ -1,0 +1,95 @@
+{
+  "status": "partial_image_generation_quota",
+  "verified_at_utc": "2026-11-17T20:26:56.851003+00:00",
+  "requested_chapters": 14,
+  "completed_chapters": 13,
+  "completed_range": [
+    794,
+    806
+  ],
+  "PNG_pages_completed": 60,
+  "PDFs_A4_completed": 13,
+  "pages_per_completed_chapter": [
+    4,
+    5
+  ],
+  "PNG_pixels": [
+    1055,
+    1492
+  ],
+  "source_identical_to_user_uploads": true,
+  "PDF_page_counts_and_A4_verified": true,
+  "all_completed_PNG_decodes_verified": true,
+  "ZIP_integrity_verified_locally": true,
+  "root_website_untouched": true,
+  "existing_model_files_unchanged": true,
+  "new_model_images": [
+    {
+      "path": "models/cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+      "sha256": "0d80bee7a3019c4fda0001ea1ebecc058e05649a25959cf81005cab33c743075"
+    },
+    {
+      "path": "models/de-hon-hong-y-van-son-nhieu-nhan-su-794.png",
+      "sha256": "725d8b776d32cc09e2252c02cf353e0e2e3f0915c80256d55190e776fe33a439"
+    },
+    {
+      "path": "models/hoa-kinh-kim-bao-ban-dien-dong-kinh-804.png",
+      "sha256": "7cee79a9cabe2024e8e769fa7bf30082f1b06a5f42d729bf25e4bf707e7404be"
+    },
+    {
+      "path": "models/kim-dong-truong-thanh-ty-huu-truy-binh-799.png",
+      "sha256": "8807d0c4a82f12a3dbaf07aecb561e56d5d56e230aa21978e36859cd05f5f5df"
+    },
+    {
+      "path": "models/ky-lao-lien-nhi-nham-son-tuan-tra-800.png",
+      "sha256": "87c135b605ab28c798888d93978adcd5300faa7a95c88957b1257704bf615b67"
+    },
+    {
+      "path": "models/mac-lao-lo-dong-hoa-phu-nhan-801.png",
+      "sha256": "a236fc48ee1e7419eb740de8a8da55c9374bff74f8b263307e79dc894ce03e33"
+    },
+    {
+      "path": "models/mac-lao-luc-nhan-cu-quy-lo-dong-kim-su-803.png",
+      "sha256": "129cec175c6cf15bc795731965dbf87121754c7532274705e7ba272056846e8e"
+    },
+    {
+      "path": "models/ngu-bo-cong-phap-tu-di-cam-ung-795.png",
+      "sha256": "1fde79c4d83e1d02e48fed8d4895aa7df0408346a9cc6f8cbaac8c7e00d56aef"
+    },
+    {
+      "path": "models/song-ngoc-thuoc-nghien-muc-tinh-long-hk-805.png",
+      "sha256": "38f58d2b3d4debf7ed2f63cbe5420da5294ae4f55b02be920be0b7cec02d80a7"
+    },
+    {
+      "path": "models/truyen-tong-dien-bat-vi-ma-nguyen-802.png",
+      "sha256": "4181db0063cbf98504b8e96b6d61b1da02ee986b356e70ab1d62c919ecddeb19"
+    },
+    {
+      "path": "models/tu-thanh-song-thu-phe-hon-dang-quan-lan-796.png",
+      "sha256": "928f1abcc6913cc1922826e17d286cb80935cd48032b10432b539247d3ad3eed"
+    }
+  ],
+  "pending": {
+    "chapter": 807,
+    "title": "Lực phá Hoa Kính",
+    "status": "in_progress_blocked_image_generation_quota",
+    "generated_pages": 1,
+    "planned_pages": 5,
+    "pending_pages": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "draft_directory": "production/794-807/in-progress/807",
+    "source_sha256": "9d2d2fa0ee374ec5fa884206bd81ab20d31386b991d74e066610d80cf4dc961c",
+    "draft_png_sha256": "0abfa5176181c46130c3c8f473966d6fb8d6297b9ebf50fcab3af95ed0de2268",
+    "draft_png_pixels": [
+      1055,
+      1492
+    ],
+    "image_tool_error": "HTTP 429 usage_limit_reached",
+    "reset_at_utc": "2026-11-18T15:02:38+00:00",
+    "reset_at_Vietnam": "2026-11-18T22:02:38+07:00"
+  }
+}

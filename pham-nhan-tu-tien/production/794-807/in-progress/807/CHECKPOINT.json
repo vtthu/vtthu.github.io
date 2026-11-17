@@ -1,0 +1,23 @@
+{
+  "chapter": 807,
+  "title": "Lực phá Hoa Kính",
+  "status": "in_progress_blocked_image_generation_quota",
+  "generated_pages": 1,
+  "planned_pages": 5,
+  "pending_pages": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "draft_directory": "production/794-807/in-progress/807",
+  "source_sha256": "9d2d2fa0ee374ec5fa884206bd81ab20d31386b991d74e066610d80cf4dc961c",
+  "draft_png_sha256": "0abfa5176181c46130c3c8f473966d6fb8d6297b9ebf50fcab3af95ed0de2268",
+  "draft_png_pixels": [
+    1055,
+    1492
+  ],
+  "image_tool_error": "HTTP 429 usage_limit_reached",
+  "reset_at_utc": "2026-11-18T15:02:38+00:00",
+  "reset_at_Vietnam": "2026-11-18T22:02:38+07:00"
+}

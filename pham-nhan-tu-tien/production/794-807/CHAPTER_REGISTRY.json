@@ -1,0 +1,751 @@
+{
+  "completed": [
+    {
+      "chapter": 794,
+      "title": "Giải thích điều khó hiểu",
+      "status": "completed",
+      "pages": 5,
+      "chapter_commit": "7beee4ead93b882a198eb60189d841090428ea80",
+      "source_sha256": "6618c11b526078cf952e32e34b3023cbd0dc1d0112a19fa8a29a20f84f6dfed1",
+      "source_bytes": 14876,
+      "models": [
+        "han-lap-bach-bao-ngoc-tien-775.png",
+        "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+        "de-hon-hong-y-van-son-nhieu-nhan-su-794.png",
+        "giai-dao-nhan-hoa-chi-bat-nguyen-624.png"
+      ],
+      "continuity_notes": "- Năm trang với góc siêu cận/cận/trung/toàn, nội dung tới đúng câu hỏi cuối794 chưa trả lời795. ThạchXuyênKhông/Đạica cùng cha khácmẹ,Tamca cùngmẹ từngđượccứu;phủThiênViệtHầukhôngđángtin/tâmphúcQuảngNguyênbịthanh tẩy;HắcDứu báo tin giả/cượcTXK. Chưa nhận viện binh. Hai院 U Hà/ThanhTiêu đãthuê,SơLiễuviệngiữriêngkhôngthuê. HanbạchbàoCT603/TXKpurple/GDN01mặtkimloạivànghoàngbào. DHđổihồngytheonguồn794giữmặtcũ,vẫnthiếuBảnNguyên,chưa dùng2thượngphẩm/cứutỉnh. TíchLânkhôngcảnhchỉtênnhắcchưavẽthếgiớithật/chủnhânGDNmới.",
+      "pngs": [
+        {
+          "file": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "bd68f40553924589572ce169f8560dcae60742a44039824c90e355b436831a6d"
+        },
+        {
+          "file": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "ac0d577b682f474110cd3bc4860fd2d80dbc4f3a822aabd1d6aad64671833997"
+        },
+        {
+          "file": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "388b3047af174b7bc586e61770c0c626c0e7dc5df1fd0a47a3c84310d403d9a5"
+        },
+        {
+          "file": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "cec91a296d24df14be16632b112123e862bf437e971727f69882926f0402e68d"
+        },
+        {
+          "file": "trang-05.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "abfdf2a14593347ac37ef55138cd73725b46a2e988096685fdf8a34a0da2de85"
+        }
+      ]
+    },
+    {
+      "chapter": 795,
+      "title": "Vạn vật đều ẩn chứa thời gian",
+      "status": "completed",
+      "pages": 4,
+      "chapter_commit": "b1e80fcee05db02c1f498760c332f90d6fcbe650",
+      "source_sha256": "bd8148ad1aa7be77a5fb7faf39ebdda30b35eb3e4ae5cc3c3f216397072c0c8f",
+      "source_bytes": 14811,
+      "models": [
+        "han-lap-bach-bao-ngoc-tien-775.png",
+        "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+        "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+        "ngu-bo-cong-phap-tu-di-cam-ung-795.png"
+      ],
+      "continuity_notes": "- TíchLânchỉtênmanhmối,GDNsuyđoánchủnhânMaVựctừnglàmLuyệnKhíSưKhôiLỗiBáchTạoSơnkhôngvẽmặtchủnhân. HanLuyệnThầnThuậttầng5chưađạithành;hơn3thánggặpmâuthuẫnrồithêmmấythángnghiêncứuTuDi,795chưahoànthànhhợpnhất9trọnghaylênTháiẤttrungkỳ. 5biểutượngtrongthoughtframe/minhhọatiềmnăng,ĐôngẤtThầnMộcchưatrồngthật/khôngthúcdượcthật. Sơđồ5ngũhànhKHÔNGcopymũitênsai trênsheet;dùnglờidẫnnguyêntắc. TXKnhắnGDNbáogặpsauxuấtquan,đãsửatailbóngthoạitrang4đúngTXKhỏi.",
+      "pngs": [
+        {
+          "file": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "fdd0bfafa26fca57fdc4c7f128eae2a230863536bf0c0df54b18ed802c7e3641"
+        },
+        {
+          "file": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "eca2cd6dea582add8daaaffe813e4833522d0901afa7a3b0dac5e19835e8e406"
+        },
+        {
+          "file": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "36e60303f92403dbf518aa30c1f175c335ecf6787fd1c29b1144277fb4f93417"
+        },
+        {
+          "file": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "09db25e78c5781cf2d380d4aca29723284cb5fb9bab59d6d49c40aaed2d2a770"
+        }
+      ]
+    },
+    {
+      "chapter": 796,
+      "title": "Lấy khỏe ứng mệt",
+      "status": "completed",
+      "pages": 5,
+      "chapter_commit": "dfb87fc40e280eac4ddbd022678ad03f8a6ccc57",
+      "source_sha256": "b759f34b048f00c334a5eb87bcd308b51470f1d88567d3b24d34f6c809582f19",
+      "source_bytes": 14484,
+      "models": [
+        "han-lap-bach-bao-ngoc-tien-775.png",
+        "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+        "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+        "ngu-bo-cong-phap-tu-di-cam-ung-795.png",
+        "tu-thanh-song-thu-phe-hon-dang-quan-lan-796.png"
+      ],
+      "continuity_notes": "- 796mớichỉnhhợp9trọng/tươngđương3,ngưngđủ5biểuhiện/lên6TháiẤttrungkỳlàTƯƠNGLAIkhôngđãđạt. GDNvềHoaChi/khôngchiếnđấu. QuanLanngưbáovết/đảotrậnhồ;hơn5–6thángtinnaoggiảđãsắpquáhạn/rồihơnnửatháng. ThanhLăngxanhhóathântớimồiđả ođãchìmchưakhẳngđịnhchết;TửHòatímđếndụHan/chưasplitcolorđến797. ThầnNiệmLồngGiamchỉởthứchải/xiềngxíchtrắngruneđen,khôngxuyênđầugore. TXKchânthânẩnHoaChi/PHẦNHỒNtrênđảolàm mồi. C hươngkếttrướcdịbiếnsonghồnbộclộ,chưaTửHòavẫnlạc. ĐãsửabiểnThanhTiêuViệnvàhướngtailthoạidụhàngtrang3.",
+      "pngs": [
+        {
+          "file": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "d51751abc35968857eb94ba7d7c6684e1363d84ff8a2b17cc3b3851c428e7224"
+        },
+        {
+          "file": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "bb164c6e1c75cea8066288e2a1cc06ed08c1e30d0af2e9d09ddb617a6a81a132"
+        },
+        {
+          "file": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "c814c82884be88cbffdb1332b6bf7fdafccb505baceecf0cb26c79305c71f689"
+        },
+        {
+          "file": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "4ca2afda6df95bd24192dedf3fb42d5d0b6cc2c015191778ea52c2c574dc7a6a"
+        },
+        {
+          "file": "trang-05.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "ce8f421c8c219698330c63510d5915e534304cb1ff82ecd66e24dd8b51625176"
+        }
+      ]
+    },
+    {
+      "chapter": 797,
+      "title": "Đồng thể song hồn",
+      "status": "completed",
+      "pages": 4,
+      "chapter_commit": "227556b6e9810f1be3db31e0993917f6e758c5b6",
+      "source_sha256": "5070bc8e1863f33f091355d2efe83523bd78d4945befbb637074427361375ffa",
+      "source_bytes": 14980,
+      "models": [
+        "han-lap-bach-bao-ngoc-tien-775.png",
+        "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+        "tu-thanh-song-thu-phe-hon-dang-quan-lan-796.png",
+        "ngu-bo-cong-phap-tu-di-cam-ung-795.png"
+      ],
+      "continuity_notes": "- TT797chỉ1thân1đầu2taybàotím/tócnửaxanhnửatím/mắt1xanh1tím/2giọngThanhLăngTửHòa,chưađổi2thânriêng. LuyệnThầntầng5chưađạithành/Hanthoáthuyễnnhờnghịlực. 18ThanhTrúc bịcắtTHẦNNIỆMchưavỡ/chưabịcướp;HanlấyTHÊM1thanhcầmtayđểdùng. Lamp4dịthú1chénsen1lửaxanhđúngbảnsửa,đangrútthầnniệmchưanuốthếtthầnhồnHan. TXKnằmtrongrừnglàthânảnhbịđánhquaCUTAWAYKHÔNGkhẳngđịnhchânthânđãchết. CuốichươngThanhLăngnghikhôngNguyênAnh,chưalộbẫygương798. Đãsửa797p1miệngngườinóinữ/tailthoạiđịch/đảochìmkhôngnhàcònđứng.",
+      "pngs": [
+        {
+          "file": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "36a60bdd8e74b66b993757eb0dc3bb8adba69e62610eb52011f392d36faf093b"
+        },
+        {
+          "file": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "c3c5bb8f16e78b9bba2ceda2fa886d64d8a00a744558889e8235b7dc663d600c"
+        },
+        {
+          "file": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "ac28cf2fcca7cb4adaa46b67b49b93ce14909b08fad844970a7a9d86ba936641"
+        },
+        {
+          "file": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "a884d7106f242d1b70c359380c1c9bef70f35d49804d6349da37cece53f86322"
+        }
+      ]
+    },
+    {
+      "chapter": 798,
+      "title": "Địa bàn nhà mình",
+      "status": "completed",
+      "pages": 4,
+      "chapter_commit": "7d43caaa1d2582d0d63efcd3789f248748bbad89",
+      "source_sha256": "37773de0460fb06db5e111575adb64d93c9b924097ed2b974eea71661351d57b",
+      "source_bytes": 14091,
+      "models": [
+        "han-lap-bach-bao-ngoc-tien-775.png",
+        "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+        "tu-thanh-song-thu-phe-hon-dang-quan-lan-796.png",
+        "cai-trang-ngan-tieu-song-kinh-o-than-798.png"
+      ],
+      "continuity_notes": "- TXKchânthânsống/ve sầuthoátxác/phầnhồnởthângiả,NgânTiêuSongKínhTamcagửimớiquaHànhCướcchưaluyệnhóa/chỉdùngnhờtrận. TT797thân&NguyênAnhpháhủyquaánhphépkhônggore;TÀNHỒN xanh/tímcònthuđènchưabịxóahoàntoàn. HanthuTOÀNBỘkiếmmangđèn+sáchmỏngXANHPhệHồnLuyệnNguyên,đan/liệuchiađôi/khôngtựluyệnsáchngay. Kháchsạnkhôngcanthiệp→quyếtrời. P3từkhung7HangiảLÃONHOXÁM/ TXKgiảTHƯSINHXANHtócĐEN;khôngthaymodelgốc. TiểunhịHànhCướcđãchếtthứchảikhôngngoạithương/trậntru yềntinbịphá/khônggửithưthànhcông. CuốicùngraBẮC/HùngCứlênÔThầnĐENhướngNhẫmSơnchưađến.",
+      "pngs": [
+        {
+          "file": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "10b3c0476f5ce82a4fc8d9829725f156a6cc5301e5d21e1248a5be3885bf66a8"
+        },
+        {
+          "file": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "ea36d7baed20b7941368240e26059a5e5f9495b821d9bcee29c754c40237b342"
+        },
+        {
+          "file": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "0459102bbcc8e0754629fb83b729de916eb493a7ed52c9edb32e7d9ed5d64be2"
+        },
+        {
+          "file": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "dc5e9ae23fe796b8f774988b461b735599b4e98683846d57083ad9e9e6dd794b"
+        }
+      ]
+    },
+    {
+      "chapter": 799,
+      "title": "Nuốt không gian mà đi",
+      "status": "completed",
+      "pages": 5,
+      "chapter_commit": "3555726c081871838d9b7c5cd8861cba2ce307f2",
+      "source_sha256": "9782df2e1de9c9d19c6fadf92d496beddd82e20bd5c609d76f96983ee15a353f",
+      "source_bytes": 16796,
+      "models": [
+        "kim-dong-truong-thanh-ty-huu-truy-binh-799.png",
+        "lang-hu-tu-van-binh-kim-dong-532.png",
+        "man-hoang-sa-thu-tieu-bach-540.png"
+      ],
+      "continuity_notes": "- KD79917–18tócvàngdài/bàoVÀNGTháiẤtTRUNGKỲ,TB799TỳHưutrắngthuần/VƯƠNGBẠC/TháiẤt/2cánhTRẮNGphépxuấthiệnbiếnmất. LiêmđaoVÀNGduynhất(sửamodelliềmxám). HN799chỉtruybinhCửuNguyênQuanvôdanh/khônggánlàMaChủ/đạicaTXK. ChươngởCHÂNTIÊNGIỚIkhôngMaVực;Hankhôngxuấthiện. TBhúthưkhông→phìnhbụng/tăngtốc→phunphongbạophảnlựcrồiquayđầuchạy. KDchémđôikiêudươngchưagiếtđịch,cạnlựchấpTIÊNKHÍphụchồikhôngđandược. Đãsửatrang3để2ngườiluôntrênkhôngkhôngđápxuốngnúi. TBđoánHanvềTiênGiớichỉsuyđoán,khôngthànhsựthật/nóichuyệ ntâmthầnt hựctế. KDkhôngnhờHangiúp/đềnghịTBđitìmđạithúcđểtựthoát,TBkhôngchịurời;cuốitiếptụcchạychưathoáthẳn.",
+      "pngs": [
+        {
+          "file": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "118c1f11063dd6269356b7ce5a7c8a73600da7d296feed6363c01145155e3d71"
+        },
+        {
+          "file": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "21f9c1a4f5848eea943304da800d9b4ad551c79cf6aae9673431aebef2509836"
+        },
+        {
+          "file": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "2705d6335fd7447ae55e652e5f75221245cec09e747cfbff7480eb7178f72c66"
+        },
+        {
+          "file": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "253435e39bccad147ba3e4c4f08c389c7b27e411352e5c5075a3f8b811edef06"
+        },
+        {
+          "file": "trang-05.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "43b915c448fca20aca15d67fac6a8464165a7fb4a8df89209a773ddeaf3ba110"
+        }
+      ]
+    },
+    {
+      "chapter": 800,
+      "title": "Thương đô Ma Vực",
+      "status": "completed",
+      "pages": 4,
+      "chapter_commit": "2eebae975fa6c6e8f1fcfeb41adac35508df57f0",
+      "source_sha256": "b25cfa92145515095925b2e3338973e3473e52243285b698cf127b2608a84eb9",
+      "source_bytes": 14825,
+      "models": [
+        "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+        "ky-lao-lien-nhi-nham-son-tuan-tra-800.png",
+        "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png"
+      ],
+      "continuity_notes": "- 800HanGIỮcảitrangHLCT798lãonhomũđenáoxám suốtchương. TXKgiảthưsinhGREENđếnphủgặpKỳmớibỏ→TXK652tócbạcbàotím. KyLãoBLUEtóctrắngbúikhôngmũkhácHan/nguồnmẫuthântừnghầuhạTXK;tuviítnhấtTháiẤtcaoHanchỉđánhgiá/tiênlinhlựccăn nguyênchưanêurace. 2núiVẠNtrượng/hơn10JADEpillarBLACKrune/mànĐENngăn1000dặm/8cửa/tradetraffic. ÔThầndãTHUkhibịđộituầndừng,trang2khung13đãsửaxóaphiToaxuấthiệnlạikhôngđúngnguồn. ĐộitrưởngchỉxưngkháchquýphủThànhChủkhônggọi13hoàngtử. Phủkhônghộvệcanhcổnggi a nhânchàođónbêntrong. Hiệubuô ntănghơn1thành/Ky loSpy/TXKtrấnanlấyluilàmlờiTXKkhôngkhẳngđịnhhoàntoànantoàn. CuốihỏiTamcachưatrảlời801.",
+      "pngs": [
+        {
+          "file": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "8f10be790be1c76df50ae69805da686130c755633c24c8265290cd92d45dde85"
+        },
+        {
+          "file": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "4884419d876f0cee7697a39ccb7062423d617cd15a6dff981935c33fdd88933e"
+        },
+        {
+          "file": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "566c6aa0cc76e926fcd27864624e5c939d4db0eaa5a32e0fb621241aa0e14533"
+        },
+        {
+          "file": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "6db023135e88bf04b04f90da975d2d0c9e9a2a9a766b8f85fdea4ee06c48a9c0"
+        }
+      ]
+    },
+    {
+      "chapter": 801,
+      "title": "Vắng mặt",
+      "status": "completed",
+      "pages": 4,
+      "chapter_commit": "c120480b99ced4207d6469787febb0decfc9c962",
+      "source_sha256": "29aeab953a6f22fc6712c979e3c9172e3218421672dd79ece6dfe62fa6f5e35b",
+      "source_bytes": 14833,
+      "models": [
+        "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+        "ky-lao-lien-nhi-nham-son-tuan-tra-800.png",
+        "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+        "mac-lao-lo-dong-hoa-phu-nhan-801.png"
+      ],
+      "continuity_notes": "- Han giữ cải trang HLCT798, tên Lệ Phi Vũ; Thạch trở lại tóc bạc áo tím. Kỳ áo xanh không đội mũ đen.\n- Liên Nhi LN801 trẻ 16–17, áo xanh kín; khác nữ chủ quán NB794.\n- Đăng ký ML801 ma giáp xanh, LD801 rất béo áo vàng đất, HP801 áo đỏ cài hoa hồng; cùng PNG mac-lao-lo-dong-hoa-phu-nhan-801.png đã gắn trực tiếp trước trang đầu xuất hiện.\n- Rượu Hồng Thậm Tửu, sáu chén đen, công thức ngọc trắng; Hồng Thậm Quả mới nhắc tên, chưa thu mua. Chưa có phản bội/công kích chương 802.",
+      "pngs": [
+        {
+          "file": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "2019024d8ca28841ba57617080d46c6070dae10153f1af08f6a1fdd276d95a4d"
+        },
+        {
+          "file": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "c7621f981fe75de47eea63c507d2db42735ee3619e000b5eef67aaa74f1a1bf0"
+        },
+        {
+          "file": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "5a05fb6f567b1803ecbc28741d79eb51bfe7680ce8ca03be2e23f8fa28fb2d60"
+        },
+        {
+          "file": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "d37f4c9c9a82d85991b5a8ac3fceb31dd67cc01fdb4f17807b2b27ca7d629d8b"
+        }
+      ]
+    },
+    {
+      "chapter": 802,
+      "title": "Phản bội?",
+      "status": "completed",
+      "pages": 5,
+      "chapter_commit": "aeacea671cde40fc359de7e97ac0c266dd50a503",
+      "source_sha256": "127c6dac2821f2cef22550571e94515af9aa8dd220a66a9e6fc6dca856aa5a82",
+      "source_bytes": 15094,
+      "models": [
+        "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+        "ky-lao-lien-nhi-nham-son-tuan-tra-800.png",
+        "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+        "mac-lao-lo-dong-hoa-phu-nhan-801.png",
+        "truyen-tong-dien-bat-vi-ma-nguyen-802.png"
+      ],
+      "continuity_notes": "- Han giữ lão giả áo xám mũ đen; Thạch tóc bạc áo tím. Tám vận hành viên áo xám; chín lệnh bài bạc kể cả Kỳ.\n- Đích Sở Vũ Thành trăm vạn dặm, chưa truyền tống thành công. Ngọc bội tím và khiên đen phù tím bị phá; Thạch trúng độc, chưa chữa tới cuối chương.\n- Sửa trang 3 loại lời tự thêm khiến Kỳ nhận ra Thạch: chưa kết luận phản bội tự nguyện. Đại điện sụp nhưng chưa xác nhận ai chết; Hàn cứu Thạch ra ngoài bằng kim quang.",
+      "pngs": [
+        {
+          "file": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "f7d839a2b0b8052c0eb3b692ebb2047b51128f798ca086e6c7202b173632ee48"
+        },
+        {
+          "file": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "e84c34d044c36e59b820074afbccaa74103e5897dbf87203c876ce787be010b5"
+        },
+        {
+          "file": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "8a40b15de20a537634b694b7f280257d3cbc9a636915f87566ddbc306e6c4e46"
+        },
+        {
+          "file": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "8a9034b231f661dde73c4d55ec315fff3472c7fc49d42a375cabfc7d98b2616b"
+        },
+        {
+          "file": "trang-05.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "d18d7235213c13fde78714ee518d363a0370b30fa1df2987dcd63632edf2d1b8"
+        }
+      ]
+    },
+    {
+      "chapter": 803,
+      "title": "Dị thường",
+      "status": "completed",
+      "pages": 5,
+      "chapter_commit": "aae8e2ff940c105f1707be53a4f6faf04ce052b6",
+      "source_sha256": "6a322f6a1bbab6fdc1816a1a2493c3c836435ff328c5ad5c7a9cb0b82c1a1a50",
+      "source_bytes": 16183,
+      "models": [
+        "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+        "ky-lao-lien-nhi-nham-son-tuan-tra-800.png",
+        "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+        "mac-lao-lo-dong-hoa-phu-nhan-801.png",
+        "mac-lao-luc-nhan-cu-quy-lo-dong-kim-su-803.png",
+        "thiet-vu-cung-tien-doc-vuc-cau-long-779.png"
+      ],
+      "continuity_notes": "- Thạch dùng đan xanh chữa độc, không tự chữa khỏi ở 802. Hàn giữ cải trang lão giả xám.\n- Kim sư là quyền ảnh; Lỗ Đồng chết khi kiếm trận phá quyền ảnh, biểu đạt cắt cảnh; Kỳ và tám người bị phủ ánh kiếm nhưng chưa khẳng định Nguyên Anh Kỳ chết (804 mới diễn biến).\n- Mặc cự quy đen sáu mắt trán, gai băng đen; Hoa quạt ngọc hồng bướm, nhẫn trắng. Nhắc Cao Phong không tạo người mới xuất hiện.\n- Sửa lời dẫn trang 3 khẳng định Cầu Long Kiếm Trận thuộc Hàn Lập, không sao chép tên Thiết Vũ từ sheet pháp khí 779.\n- Cuối chương hai loại pháp tắc và hương lạ xuyên lôi quang làm Hàn suy yếu; chưa có Tinh Viêm Hỏa Điểu tới 804.",
+      "pngs": [
+        {
+          "file": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "a5f792ced83cbb2bc13cf8410025ceea006eed6a2fa70343274d832997cefba7"
+        },
+        {
+          "file": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "3a10111f2388332464df9816e1abb96968be4c7919ca4239e73935c34519ebda"
+        },
+        {
+          "file": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "fe66a97f7841a25c9c7b5ad41456fd1553aa5f0d50dbb8e272a2d6f9695a142b"
+        },
+        {
+          "file": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "a843740744dc0d1a0e499c373c81eae0a9e589dfa0c34ab96e5a60ba99ec88e8"
+        },
+        {
+          "file": "trang-05.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "529dde026a04f156bf83c41e825599c10a8a07604e95bd5b01ada214ccb99e06"
+        }
+      ]
+    },
+    {
+      "chapter": 804,
+      "title": "Thủ đoạn quỷ dị",
+      "status": "completed",
+      "pages": 5,
+      "chapter_commit": "aaee0b5ae0ff7e5d546dd1dae07913186c270cbe",
+      "source_sha256": "f64e5cd6357c8f5570a86a74fcb6aff4057df77fa211449b84ce5335c5eca0ad",
+      "source_bytes": 15578,
+      "models": [
+        "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+        "ky-lao-lien-nhi-nham-son-tuan-tra-800.png",
+        "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+        "mac-lao-lo-dong-hoa-phu-nhan-801.png",
+        "mac-lao-luc-nhan-cu-quy-lo-dong-kim-su-803.png",
+        "u-hon-sat-vuc-tinh-viem-minh-hon-767.png",
+        "hoa-kinh-kim-bao-ban-dien-dong-kinh-804.png"
+      ],
+      "continuity_notes": "- Han vẫn lão giả xám, không bỏ cải trang; phân thân giống hệt nhập bản thể cuối chương. Thạch tóc bạc bào tím.\n- Sáu cự quy/36 mắt, Hỏa Điểu bạc đúng model TV768 trên sheet 767; phi kiếm hồng bị nuốt, không tái dùng.\n- Mặc bị ngân diễm đánh gục nhưng còn sống (805 xác nhận). Hoa bị trói và đánh ngất, chưa chết; thu mê hương bằng ánh xanh trong tay áo, không khẳng định hết huyễn thuật.\n- Kỳ chỉ còn Nguyên Anh xanh; tự bạo rồi mất hẳn. Hai kiếm giao nhau che chắn Thạch an toàn; không đưa Kỳ trở lại.\n- Kẻ áo vàng toàn mặt che kim quang, chưa lộ tên/diện mạo tới 805. Model HK804–807 đã lưu và sửa đúng bên mặt nạ trước khi dùng; sáu kiếm bị gương phản chấn, không gãy. Cuối chương thu lại mười hai kiếm bố trận.",
+      "pngs": [
+        {
+          "file": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "414da2267de2d704450bd208907554c017bf22654eccbba19c8918898ca741d4"
+        },
+        {
+          "file": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "75d4a4ba765f4d7ab8a0a2b69f80f1461ab03ae475b78c9899e2feb68b4b3c75"
+        },
+        {
+          "file": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "f635d1ac006e884b740fd4d93e8631090e2aaba254a7624fba2927d6740fac91"
+        },
+        {
+          "file": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "1fc9384a7d043921aa9f9302059df0be87e3561605189f07272918a4fcd26e45"
+        },
+        {
+          "file": "trang-05.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "ecbc25567d1ae5a4098f023e6e70d370186f44465828d9a97d45323777d547c1"
+        }
+      ]
+    },
+    {
+      "chapter": 805,
+      "title": "Trúng chiêu",
+      "status": "completed",
+      "pages": 5,
+      "chapter_commit": "11c29ffb02f20d21b1dd28cf7d92dc953720c23b",
+      "source_sha256": "cafd5c3c25a763a896e9966c2f77f73f969f4c84fcae2accbf29be2fdd45fc7a",
+      "source_bytes": 16349,
+      "models": [
+        "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+        "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+        "mac-lao-lo-dong-hoa-phu-nhan-801.png",
+        "hoa-kinh-kim-bao-ban-dien-dong-kinh-804.png",
+        "song-ngoc-thuoc-nghien-muc-tinh-long-hk-805.png",
+        "u-hon-sat-vuc-tinh-viem-minh-hon-767.png"
+      ],
+      "continuity_notes": "- Hoa Kính Thái Ất hậu kỳ, thuộc hạ Ngũ tỷ Thạch Cạnh Nghiên (chỉ nhắc tên, không tạo mặt công chúa). Mặt nạ bạc che bên trái chính nhân vật, bên phải phấn trắng má hồng môi đỏ; chưa phá mặt nạ tới 806.\n- Mặc còn sống nguyên thân được Tinh Viêm đưa về, bị cấm chế. Hoa còn sống hôn mê. Kỳ đã mất do tự bạo, không nhầm Mặc chết.\n- La Trá Tỳ Bà bốn dây bạc, hai trăng không gian phối hợp quyền Hàn nhưng đánh trúng huyễn ảnh. Hàn dùng Luyện Thần thoát bóng đỏ; Thạch không thoát, đánh bạn bằng phong nhận và hai ngọc thước trắng.\n- Sư Tử Hống không hiệu quả. Kết ở ma trảo tím đen nhằm Hàn, chưa giải thôi miên. Sửa trang 4 đúng tên người né đòn là Hàn; trang 5 sửa khung né lôi quang về lão giả áo xám mũ đen, không áo vàng Hoa Kính.",
+      "pngs": [
+        {
+          "file": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "7655b38ec054ffc45d984d93d57d4ad817e6f59595ea19a15ccdbf85941aa4eb"
+        },
+        {
+          "file": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "95b310793642fdbe05919ce50643f21dfcc7cca7df786542320a493cf7ef9b3a"
+        },
+        {
+          "file": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "65d9d50f55d277f751f9068b2e9a6d1b31cdecc6842d36b27cd2b71f3647d8f4"
+        },
+        {
+          "file": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "bbad6636282b1b96a60e1cbd740a91b4fe10f5b3cee37a19fe4943e2e4dbfa83"
+        },
+        {
+          "file": "trang-05.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "b5f1da6e2d989d519446adbc15153eab3683526648d8a16cfbfeda2b55166d20"
+        }
+      ]
+    },
+    {
+      "chapter": 806,
+      "title": "Phong hồn",
+      "status": "completed",
+      "pages": 5,
+      "chapter_commit": "1d4844a56f346a02c879cb17f792aa9d982cf9bd",
+      "source_sha256": "f50be1386803a76ee3d2c72a7831fea307016d4570ac76599da0b41f4387e4b8",
+      "source_bytes": 16857,
+      "models": [
+        "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+        "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+        "mac-lao-lo-dong-hoa-phu-nhan-801.png",
+        "hoa-kinh-kim-bao-ban-dien-dong-kinh-804.png",
+        "song-ngoc-thuoc-nghien-muc-tinh-long-hk-805.png"
+      ],
+      "continuity_notes": "- Ba người Thạch, Mặc, Hoa còn sống; Hàn phá hộ thể, tê liệt thân thể rồi dùng xích thần niệm phong hồn, không giết. Chưa giải Hoa Kính thuật cho họ tới 807.\n- Mười tám kiếm tạo lôi triều; Thạch tỳ bà nhật nguyệt/hai ngọc thước, Mặc nghiên mực băng đen, Hoa quyển trục tám Tinh Long hồng; không tái dùng phi kiếm hồng đã bị nuốt.\n- Hoa Kính đoán Hàn còn ba thành nguyên khí, không phải dữ kiện được xác nhận. Dải sáng từ hư ảnh đầu thú xuyên lôi điện; chỉ đánh trúng tàn ảnh Hàn, không gây lỗ ngực thật.\n- Sửa trang 2 tránh gọi phong hồn trước đúng thời điểm; sửa trang 4 tàn ảnh về Hàn lão giả mũ đen tóc/râu trắng áo xám.\n- Cuối chương mặt nạ bạc vỡ, nửa TRÁI chính Hoa Kính (PHẢI người xem chính diện) già như vỏ cây, nửa phải vẫn trẻ trang điểm; không hồi phục mặt nạ trong 807. Mười hư ảnh cự thú phóng dải sáng, chưa dùng Niết Bàn Thánh Thể tới 807.",
+      "pngs": [
+        {
+          "file": "trang-01.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "9f369273dfab0824654c87e493f0d93407619af1a744500fb0661fec92a2a6ec"
+        },
+        {
+          "file": "trang-02.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "db10c466cb27d16c1beec56d467ea6e79db914d3b3376f7ca3bfb06343e0aba3"
+        },
+        {
+          "file": "trang-03.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "3ae8702443c9e9468e5cf5268aad70ec9ea80939ab6276955ae468110de863ac"
+        },
+        {
+          "file": "trang-04.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "d4c5fa68b8ed3dbfe7ae3bf488beafe239e6ecbb7baf320c929d220fe7e9a8a8"
+        },
+        {
+          "file": "trang-05.png",
+          "pixels": [
+            1055,
+            1492
+          ],
+          "sha256": "6f9faf7cbefe4703c9f7b3a96632242d87275460a4089e4eb6a0a8021b8f3da3"
+        }
+      ]
+    }
+  ],
+  "pending": [
+    {
+      "chapter": 807,
+      "title": "Lực phá Hoa Kính",
+      "status": "in_progress_blocked_image_generation_quota",
+      "generated_pages": 1,
+      "planned_pages": 5,
+      "pending_pages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "draft_directory": "production/794-807/in-progress/807",
+      "source_sha256": "9d2d2fa0ee374ec5fa884206bd81ab20d31386b991d74e066610d80cf4dc961c",
+      "draft_png_sha256": "0abfa5176181c46130c3c8f473966d6fb8d6297b9ebf50fcab3af95ed0de2268",
+      "draft_png_pixels": [
+        1055,
+        1492
+      ],
+      "image_tool_error": "HTTP 429 usage_limit_reached",
+      "reset_at_utc": "2026-11-18T15:02:38+00:00",
+      "reset_at_Vietnam": "2026-11-18T22:02:38+07:00"
+    }
+  ]
+}
