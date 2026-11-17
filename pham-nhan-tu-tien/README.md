@@ -81,6 +81,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 796: Lấy khỏe ứng mệt](chapters/796/): 5 trang, hoàn thành; [PDF A4](chapters/796/chuong-796.pdf)
+
 - [Chương 795: Vạn vật đều ẩn chứa thời gian](chapters/795/): 4 trang, hoàn thành; [PDF A4](chapters/795/chuong-795.pdf)
 
 - [Chương 794: Giải thích điều khó hiểu](chapters/794/): 5 trang, hoàn thành; [PDF A4](chapters/794/chuong-794.pdf)
