@@ -2114,3 +2114,16 @@ Nguồn: file CHUONG 832.txt do người dùng đính kèm. Mỗi PNG một tran
 - Năm pháp vật đều vàng, cây chỉ phôi thai; sửa trang 3 bỏ mắt vàng trên mặt Hàn, thay bằng bảo vật nằm trong tay. Không thay mắt hay model V2.
 - Thạch đã xuất quan hơn nửa tháng, tu vi Thái Ất; kế hoạch xin Ma Chủ cứu Đề Hồn chưa thực hiện, Đề Hồn vẫn hôn mê.
 - Hơn nửa năm sau sóng chuông bạc tẩy nguyên khí; Thạch cuối chương chỉ kính tượng bạc hơi mờ 1–2 thành thực lực. Ma Chủ chỉ hồi tưởng bằng suy nghĩ, không vẽ chân dung mới.
+
+
+## Đăng ký trước833
+models/le-phuc-hai-hoang-tu-huyet-tich-hau-833.png: Tam/TXK giữ đúng mặt tóc cũ, nay cùng lễ phục tím đai ngọc/tử kim hoa quan. Tam đúng BA minh châu, Thạch không viên nào. HTH833 Huyết Tích Hầu nam trưởng thành mặt góc cạnh tóc đen pha bạc thái dương/ria râu ngắn áo ĐỎ sẫm viền bạc, không phải Huyết Hàn. Xe trước vàng/cờ vàng/đúng MỘT sư tử vàng cho hai hoàng tử; xe sau thường to hơn cho Hàn+Huyết Hầu, hai thú kéo xe sau là lựa chọn minh họa nguồn không nêu số/chủng.
+models/u-minh-thien-sat-te-dan-833.png: U Minh Thánh Mẫu tượng TRẮNG nữ từ mẫu áo kín; Thiên Sát tượng ĐEN đúng12đầu/24tay, đã sửa sheet trước dùng để bỏ đầu dư, ba hàng bốn đầu và 12tay mỗi bên. Đai ngọc khắc cùng hệ cổ văn phù điêu827, chưa đọc được. Cách xếp đầu là thiết kế hình ảnh, không xác nhận chi tiết nguyên tác. Tế đàn xanh đen/quảng trường trắng/cung điện hắc tinh thạch, pháp trận trên đỉnh HÌNH BẦU DỤC. Hai tượng không phải người sống; chuyện sáng tạo Ma Vực chỉ truyền thuyết, Hàn không tin.
+
+
+## Chương 833 — Yết kiến: hoàn thành 5 trang
+Nguồn: file CHUONG 833.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/833/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Hai hoàng tử cùng lễ phục tím, Tam hoa quan ba minh châu, Thạch không minh châu. Hàn vẫn V2 teal/trâm xanh, Huyết Tích Hầu giữ model áo đỏ mới, khác Huyết Hàn.
+- Hai xe tách theo lễ nghi: vàng một sư tử cho hoàng tử; xe thường lớn hơn cho Hàn/Huyết. Dân ngồi tế tự, không chào đoàn.
+- Tượng U Minh trắng, Thiên Sát đen 12đầu/24tay; sheet đã sửa số lượng trước sử dụng. Đai ngọc cùng hệ cổ văn phù điêu827; chưa giải mã. Sửa trang3 bỏ đạo cụ trên tay Hàn và số trang, trang4 trả đai về tượng đá đen.
+- Hắc quang chỉ cảm nhận riêng Hàn trong tích tắc, hắn lùi một bước rồi che giấu bằng lý do lo yết kiến. Cuối chương bốn người lên tế đàn pháp trận bầu dục, chưa gặp Ma Chủ/chưa cứu Đề Hồn.

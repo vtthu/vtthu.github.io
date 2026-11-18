@@ -85,6 +85,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 833: Yết kiến](chapters/833/): 5 trang, hoàn thành; [PDF A4](chapters/833/chuong-833.pdf)
+
 - [Chương 832: Xuất quan](chapters/832/): 5 trang, hoàn thành; [PDF A4](chapters/832/chuong-832.pdf)
 
 - [Chương 831: Tìm thầy hỏi thuốc](chapters/831/): 5 trang, hoàn thành; [PDF A4](chapters/831/chuong-831.pdf)

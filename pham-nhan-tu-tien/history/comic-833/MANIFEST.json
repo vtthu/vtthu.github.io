@@ -1,0 +1,50 @@
+{
+  "chapter": 833,
+  "title": "Yết kiến",
+  "images": [
+    "/tmp/comic-batch-822-833/a4-833/trang-01.png",
+    "/tmp/comic-batch-822-833/a4-833/trang-02.png",
+    "/tmp/comic-batch-822-833/a4-833/trang-03.png",
+    "/tmp/comic-batch-822-833/a4-833/trang-04.png",
+    "/tmp/comic-batch-822-833/a4-833/trang-05.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "han-lap-ngu-hanh-thach-kinh-tuong-832.png",
+    "le-phuc-hai-hoang-tu-huyet-tich-hau-833.png",
+    "u-minh-thien-sat-te-dan-833.png",
+    "cot-gioi-kinh-quan-phu-dieu-co-tich-827.png"
+  ],
+  "summary": "Đoàn chuẩn bị yết kiến, đi lễ tại Thánh Sơn; Hàn Lập phát hiện cổ văn quen thuộc và chịu một dị tượng thoáng qua trước hai pho tượng.",
+  "notes": "- Hai hoàng tử cùng lễ phục tím, Tam hoa quan ba minh châu, Thạch không minh châu. Hàn vẫn V2 teal/trâm xanh, Huyết Tích Hầu giữ model áo đỏ mới, khác Huyết Hàn.\n- Hai xe tách theo lễ nghi: vàng một sư tử cho hoàng tử; xe thường lớn hơn cho Hàn/Huyết. Dân ngồi tế tự, không chào đoàn.\n- Tượng U Minh trắng, Thiên Sát đen 12đầu/24tay; sheet đã sửa số lượng trước sử dụng. Đai ngọc cùng hệ cổ văn phù điêu827; chưa giải mã. Sửa trang3 bỏ đạo cụ trên tay Hàn và số trang, trang4 trả đai về tượng đá đen.\n- Hắc quang chỉ cảm nhận riêng Hàn trong tích tắc, hắn lùi một bước rồi che giấu bằng lý do lo yết kiến. Cuối chương bốn người lên tế đàn pháp trận bầu dục, chưa gặp Ma Chủ/chưa cứu Đề Hồn.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-822-833/833p1.png",
+    "/tmp/comic-generated-822-833/833p2.png",
+    "/tmp/comic-generated-822-833/833p3.png",
+    "/tmp/comic-generated-822-833/833p4.png",
+    "/tmp/comic-generated-822-833/833p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}
