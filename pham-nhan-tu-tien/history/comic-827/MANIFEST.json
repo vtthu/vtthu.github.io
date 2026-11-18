@@ -1,0 +1,50 @@
+{
+  "chapter": 827,
+  "title": "Điểm duyệt",
+  "images": [
+    "/tmp/comic-batch-822-833/a4-827/trang-01.png",
+    "/tmp/comic-batch-822-833/a4-827/trang-02.png",
+    "/tmp/comic-batch-822-833/a4-827/trang-03.png",
+    "/tmp/comic-batch-822-833/a4-827/trang-04.png",
+    "/tmp/comic-batch-822-833/a4-827/trang-05.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "thach-pha-khong-hau-tim-xa-thu-825.png",
+    "cot-gioi-kinh-quan-phu-dieu-co-tich-827.png",
+    "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+    "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+  ],
+  "summary": "Hàn Lập kiểm kê cốt giới, dung hợp Khô Cốt pháp tắc trong hồ lô, lưu cổ văn lạ và đọc sách mượn để tìm cách cứu Đề Hồn.",
+  "notes": "- Tám Kinh Quan nhỏ đã bị nghiền hết; sửa trang 2 bỏ trụ thừa ngoài hồ lô. Cầu xương chưa được phóng thích chiến đấu.\n- Phù điêu ba đầu sáu tay chỉ hiện mười hai tư thế, cổ văn chưa hiểu; chép vào ngọc giản riêng, không tu luyện hay hóa thân.\n- Giải Đạo Nhân giữ model kim loại vàng áo vàng, nhận cốt giới. Hàn cảm thấy giám sát nhưng không đối chất.\n- Thạch nói chuyện ở cửa sân, chưa vào. Noãn Ngọc còn chống 10–20 năm; chỉ đang thu mua. Sách bìa kim loại da thú chỉ đọc không sao chép; Thạch mới bắt đầu bế quan.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-822-833/827p1.png",
+    "/tmp/comic-generated-822-833/827p2.png",
+    "/tmp/comic-generated-822-833/827p3.png",
+    "/tmp/comic-generated-822-833/827p4.png",
+    "/tmp/comic-generated-822-833/827p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

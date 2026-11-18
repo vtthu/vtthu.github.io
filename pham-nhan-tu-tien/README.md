@@ -85,6 +85,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 827: Điểm duyệt](chapters/827/): 5 trang, hoàn thành; [PDF A4](chapters/827/chuong-827.pdf)
+
 - [Chương 826: Huynh đệ tình thâm](chapters/826/): 5 trang, hoàn thành; [PDF A4](chapters/826/chuong-826.pdf)
 
 - [Chương 825: Giải vây](chapters/825/): 5 trang, hoàn thành; [PDF A4](chapters/825/chuong-825.pdf)

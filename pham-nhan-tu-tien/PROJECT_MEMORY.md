@@ -2042,3 +2042,15 @@ Nguồn: file CHUONG 826.txt do người dùng đính kèm. Mỗi PNG một tran
 - La Trá Tỳ Bà vẫn do Thạch giữ, Tam ca từ chối nhận hai lần. Đã sửa mặt trẻ sạch râu và người nói/trang phục ở trang 1–2.
 - Hầu tím là thân ngoại hóa thân dạng bóng rắn, khác gián điệp xám; không thêm nhân vật rắn sống.
 - Hoa Chi trúc tím khác sân Trường Đình trúc xanh. Đề Hồn giữ hồng y model DH794, chưa tỉnh.
+
+
+## Đăng ký đạo cụ trước 827
+models/cot-gioi-kinh-quan-phu-dieu-co-tich-827.png: cốt giới đen; đúng tám Kinh Quan trắng cao nửa xích; cốt bài trắng Khô Cốt Chân Kinh; phù điêu đen lòng bàn tay đúng ba đầu sáu tay với mười hai tư thế và cổ văn chưa đọc được. Đây là tượng chạm không phải Hàn hóa thân, khác Thiên Sát mười hai đầu hai mươi bốn tay833. Tám cầu năng lượng hợp một cầu có hư ảnh xương; cổ tịch mượn bìa kim loại/trang da thú chỉ đọc không sao chép. Đơn vị mét trên ảnh là ước lệ.
+
+
+## Chương 827 — Điểm duyệt: hoàn thành 5 trang
+Nguồn: file CHUONG 827.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/827/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Tám Kinh Quan nhỏ đã bị nghiền hết; sửa trang 2 bỏ trụ thừa ngoài hồ lô. Cầu xương chưa được phóng thích chiến đấu.
+- Phù điêu ba đầu sáu tay chỉ hiện mười hai tư thế, cổ văn chưa hiểu; chép vào ngọc giản riêng, không tu luyện hay hóa thân.
+- Giải Đạo Nhân giữ model kim loại vàng áo vàng, nhận cốt giới. Hàn cảm thấy giám sát nhưng không đối chất.
+- Thạch nói chuyện ở cửa sân, chưa vào. Noãn Ngọc còn chống 10–20 năm; chỉ đang thu mua. Sách bìa kim loại da thú chỉ đọc không sao chép; Thạch mới bắt đầu bế quan.
