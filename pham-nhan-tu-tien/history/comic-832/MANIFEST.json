@@ -1,0 +1,52 @@
+{
+  "chapter": 832,
+  "title": "Xuất quan",
+  "images": [
+    "/tmp/comic-batch-822-833/a4-832/trang-01.png",
+    "/tmp/comic-batch-822-833/a4-832/trang-02.png",
+    "/tmp/comic-batch-822-833/a4-832/trang-03.png",
+    "/tmp/comic-batch-822-833/a4-832/trang-04.png",
+    "/tmp/comic-batch-822-833/a4-832/trang-05.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "thach-pha-khong-hau-tim-xa-thu-825.png",
+    "tien-linh-cac-tieu-nhi-thach-pha-khong-hac-y-829.png",
+    "kinh-vat-phuong-dai-chuong-quy-doc-muc-830.png",
+    "cao-phong-thinh-nguyen-kien-thien-nhai-831.png",
+    "han-lap-ngu-hanh-thach-kinh-tuong-832.png",
+    "de-hon-hong-y-van-son-nhieu-nhan-su-794.png"
+  ],
+  "summary": "Hàn Lập từ chối Cao Phong sau lời nhắc, bế quan mười năm rồi gặp Thạch đã tiến Thái Ất; tiếng chuông báo đại sự và phân thân truyền tin xuất hiện.",
+  "notes": "- Không theo Cao Phong về nhà. Nữ đại chưởng quỹ đổi bạch y nhưng giữ cùng tóc trắng/face, chưa lộ danh tính.\n- Năm pháp vật đều vàng, cây chỉ phôi thai; sửa trang 3 bỏ mắt vàng trên mặt Hàn, thay bằng bảo vật nằm trong tay. Không thay mắt hay model V2.\n- Thạch đã xuất quan hơn nửa tháng, tu vi Thái Ất; kế hoạch xin Ma Chủ cứu Đề Hồn chưa thực hiện, Đề Hồn vẫn hôn mê.\n- Hơn nửa năm sau sóng chuông bạc tẩy nguyên khí; Thạch cuối chương chỉ kính tượng bạc hơi mờ 1–2 thành thực lực. Ma Chủ chỉ hồi tưởng bằng suy nghĩ, không vẽ chân dung mới.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-822-833/832p1.png",
+    "/tmp/comic-generated-822-833/832p2.png",
+    "/tmp/comic-generated-822-833/832p3.png",
+    "/tmp/comic-generated-822-833/832p4.png",
+    "/tmp/comic-generated-822-833/832p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

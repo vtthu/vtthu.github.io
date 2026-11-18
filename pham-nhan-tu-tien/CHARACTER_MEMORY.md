@@ -2309,3 +2309,15 @@ Nguồn: file CHUONG 831.txt do người dùng đính kèm. Mỗi PNG một tran
 - Ký ức thành đen/sông xanh/cầu vòm chưa xác định; Tích Lân Không Cảnh chỉ được hỏi, chưa đi tới. Giải Đạo Nhân xin nâng hai đao, chưa hoàn thành.
 - Sau hơn mười ngày không còn người bám, vài tháng tìm tin ít kết quả. Lò Kiến Thiên Nhai đốt hương, không luyện đan.
 - Khang đại sư đang bế quan không gặp mặt, không chữa Đề Hồn. Cao Phong giữ model mới áo tím tóc đen mắt tím sao, chưa rõ lai lịch.
+
+
+## Đăng ký biến thể trước832
+models/han-lap-ngu-hanh-thach-kinh-tuong-832.png: Hàn giữ HL V2, năm pháp vật thời gian ĐỀU VÀNG: cát dưới thân/lửa bên trái cơ thể/bình trên đầu/luân sau lưng/cây bên phải mới phôi thai bằng tơ vàng. Không dùng lửa đỏ cây xanh của sơ đồ khái niệm795, không cho cây thành hình hoàn chỉnh. Thạch sau Thái Ất vẫn TXK652 tóc bạc áo tím, phân thân là hình chiếu BẠC HƠI MỜ cùng mặt áo, chỉ 1–2 thành thực lực để truyền tin, không phải bản thể mới. Sóng chuông bạc từ đỉnh Thánh Sơn, không gây hại mà tẩy nguyên khí.
+
+
+## Chương 832 — Xuất quan: hoàn thành 5 trang
+Nguồn: file CHUONG 832.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/832/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Không theo Cao Phong về nhà. Nữ đại chưởng quỹ đổi bạch y nhưng giữ cùng tóc trắng/face, chưa lộ danh tính.
+- Năm pháp vật đều vàng, cây chỉ phôi thai; sửa trang 3 bỏ mắt vàng trên mặt Hàn, thay bằng bảo vật nằm trong tay. Không thay mắt hay model V2.
+- Thạch đã xuất quan hơn nửa tháng, tu vi Thái Ất; kế hoạch xin Ma Chủ cứu Đề Hồn chưa thực hiện, Đề Hồn vẫn hôn mê.
+- Hơn nửa năm sau sóng chuông bạc tẩy nguyên khí; Thạch cuối chương chỉ kính tượng bạc hơi mờ 1–2 thành thực lực. Ma Chủ chỉ hồi tưởng bằng suy nghĩ, không vẽ chân dung mới.
