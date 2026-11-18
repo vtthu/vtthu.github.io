@@ -85,6 +85,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 829: Không cần đi theo](chapters/829/): 5 trang, hoàn thành; [PDF A4](chapters/829/chuong-829.pdf)
+
 - [Chương 828: Sơ thám phường thị](chapters/828/): 5 trang, hoàn thành; [PDF A4](chapters/828/chuong-828.pdf)
 
 - [Chương 827: Điểm duyệt](chapters/827/): 5 trang, hoàn thành; [PDF A4](chapters/827/chuong-827.pdf)

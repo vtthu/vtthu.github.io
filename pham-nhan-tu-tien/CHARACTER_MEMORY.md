@@ -2273,3 +2273,15 @@ Nguồn: file CHUONG 828.txt do người dùng đính kèm. Mỗi PNG một tran
 - Hồ Tinh Tinh giữ model áo đen, chỉ hiển lộ Hợp Thể sơ kỳ ở đây. Không thêm tai hoặc đuôi hồ.
 - Lân Xa hai bánh không mui, hai thú một sừng; đã sửa trang 4 bỏ mui sinh sai. Hai bờ trái Ma Ha/phải Lạc Già, cầu trắng hình vòm.
 - Đề Hồn chưa tỉnh, Thạch còn bế quan. Cuối chương mới ở khu vực cầu, chưa vào cửa hàng.
+
+
+## Đăng ký trước 829
+models/tien-linh-cac-tieu-nhi-thach-pha-khong-hac-y-829.png: TL829 tiểu nhị nam trẻ mặt tròn sạch râu tóc đen búi trâm gỗ, đạo bào lam nhạt đai xanh đậm. Tiên Linh Các ba tầng kiểu Tiên giới, trận tụ linh trong sảnh. Chỉ hai vật liệu không nêu tên, không gán giống cụ thể. Thạch Phá Không đúng mặt TPK825 nhưng đổi áo ĐEN khi vẽ tranh, vẫn trông ba mươi; chữ tuổi25 trên sheet là sai lệch chú thích, không thay tuổi nguồn. Tranh cô phong đen/bóng người mờ/bão/sét trắng. Bỏ chi tiết đảo nổi trang trí phía xa trên sheet khi dựng thành Dạ Dương.
+
+
+## Chương 829 — Không cần đi theo: hoàn thành 5 trang
+Nguồn: file CHUONG 829.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/829/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Các hoàng tử/công chúa chỉ được nhắc không thêm chân dung. Quảng Nguyên tại Đế Giang chỉ là chi nhánh, tổng bộ ở Thông Dịch Viên.
+- Hồ Tinh Tinh thật sự quay về, không lén theo. Cuối chương mới lộ Kim Tiên sơ kỳ.
+- Tiên Linh Các có sẵn hai vật liệu; chỉ hứa gom gần nửa, Hàn chọn đợi mười năm, chưa nhận đợt điều hàng. Phí chuyển gấp +1/10 chỉ là phương án không chọn.
+- Tam ca chuyển áo đen đúng biến thể829 nhưng vẫn mặt TPK825 sạch râu; tranh cô phong đen/sét trắng.

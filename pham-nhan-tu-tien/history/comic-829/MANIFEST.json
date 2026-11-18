@@ -1,0 +1,49 @@
+{
+  "chapter": 829,
+  "title": "Không cần đi theo",
+  "images": [
+    "/tmp/comic-batch-822-833/a4-829/trang-01.png",
+    "/tmp/comic-batch-822-833/a4-829/trang-02.png",
+    "/tmp/comic-batch-822-833/a4-829/trang-03.png",
+    "/tmp/comic-batch-822-833/a4-829/trang-04.png",
+    "/tmp/comic-batch-822-833/a4-829/trang-05.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "ho-tinh-tinh-lan-xa-de-giang-828.png",
+    "tien-linh-cac-tieu-nhi-thach-pha-khong-hac-y-829.png",
+    "thach-pha-khong-hau-tim-xa-thu-825.png",
+    "la-thiet-bat-hoang-tu-voi-ma-than-823.png"
+  ],
+  "summary": "Hàn Lập cho Hồ Tinh Tinh quay về, một mình tìm Tiên Linh Các và đặt vật liệu; Tam hoàng tử nghe báo cáo về thái độ cảnh giác của hắn.",
+  "notes": "- Các hoàng tử/công chúa chỉ được nhắc không thêm chân dung. Quảng Nguyên tại Đế Giang chỉ là chi nhánh, tổng bộ ở Thông Dịch Viên.\n- Hồ Tinh Tinh thật sự quay về, không lén theo. Cuối chương mới lộ Kim Tiên sơ kỳ.\n- Tiên Linh Các có sẵn hai vật liệu; chỉ hứa gom gần nửa, Hàn chọn đợi mười năm, chưa nhận đợt điều hàng. Phí chuyển gấp +1/10 chỉ là phương án không chọn.\n- Tam ca chuyển áo đen đúng biến thể829 nhưng vẫn mặt TPK825 sạch râu; tranh cô phong đen/sét trắng.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-822-833/829p1.png",
+    "/tmp/comic-generated-822-833/829p2.png",
+    "/tmp/comic-generated-822-833/829p3.png",
+    "/tmp/comic-generated-822-833/829p4.png",
+    "/tmp/comic-generated-822-833/829p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}
