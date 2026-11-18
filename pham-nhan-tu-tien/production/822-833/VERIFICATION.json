@@ -1,0 +1,72 @@
+{
+  "status": "completed",
+  "verified_at_utc": "2026-11-18T19:29:00.108326+00:00",
+  "chapters": 12,
+  "PNG_pages": 59,
+  "PDFs_A4": 12,
+  "pages_per_chapter": [
+    4,
+    5
+  ],
+  "PNG_pixels": [
+    1055,
+    1492
+  ],
+  "source_identical_to_user_uploads": true,
+  "PDF_page_counts_and_A4_verified": true,
+  "all_PNG_decodes_verified": true,
+  "ZIP_integrity_verified_locally": true,
+  "root_website_untouched": true,
+  "existing_model_files_unchanged": true,
+  "old_archive_paths_and_chapter_records_preserved": true,
+  "new_model_images": [
+    {
+      "path": "models/cao-phong-thinh-nguyen-kien-thien-nhai-831.png",
+      "sha256": "a6863ea70df210e431ba2ae959a9391a10a1efdc94e1444c546c0e161a1a326c"
+    },
+    {
+      "path": "models/cot-gioi-kinh-quan-phu-dieu-co-tich-827.png",
+      "sha256": "7f76f5959e641217f210e94ef716a7bab47964dec8d491d43985b0686b84099c"
+    },
+    {
+      "path": "models/da-duong-si-kim-dai-thien-kinh-822.png",
+      "sha256": "22aeaac70b5bd25c347483039a5e947eacd1b7ed279ed132cd1a44d5187fb704"
+    },
+    {
+      "path": "models/han-lap-ngu-hanh-thach-kinh-tuong-832.png",
+      "sha256": "212c28bc4def26fd0cc9899df12f0d94c2e4f3f241772c1d4c77ffdbd5f78436"
+    },
+    {
+      "path": "models/han-lap-tinh-quang-chan-linh-hu-anh-824.png",
+      "sha256": "cbaa0788ab6789c44c1197534bb206fb1307cf0c0d9b4323bfa06b0e011b235a"
+    },
+    {
+      "path": "models/ho-tinh-tinh-lan-xa-de-giang-828.png",
+      "sha256": "c52f92b4fb5ece5320ac77a25db427e4a2a49b07c78efca5f3b37928f3a5c1c1"
+    },
+    {
+      "path": "models/kinh-vat-phuong-dai-chuong-quy-doc-muc-830.png",
+      "sha256": "c3e96833cc633540c1ba52a736cba95c7ff5f15f74f5dd5c893e3f3f238f4187"
+    },
+    {
+      "path": "models/la-thiet-bat-hoang-tu-voi-ma-than-823.png",
+      "sha256": "8e4896d85601baf336ca734d1e4b380a7a06c7f608b0e4b683f6495d3a206d49"
+    },
+    {
+      "path": "models/le-phuc-hai-hoang-tu-huyet-tich-hau-833.png",
+      "sha256": "165366ac77fdaba8941fc02c190de5a5dd5845f110c813601a180d39b986d313"
+    },
+    {
+      "path": "models/thach-pha-khong-hau-tim-xa-thu-825.png",
+      "sha256": "d3272b9e3256a8c2ef651d8dab8df33198b4f7eb99eaeaf4746a6379841cc6a7"
+    },
+    {
+      "path": "models/tien-linh-cac-tieu-nhi-thach-pha-khong-hac-y-829.png",
+      "sha256": "3e9a88512ecbbfa41482918ce68282d37c0bbb224103efcc0c3a8f3187c44bd2"
+    },
+    {
+      "path": "models/u-minh-thien-sat-te-dan-833.png",
+      "sha256": "ddf81ac5e5024d08aac8bf16fd33bec981033430c2e12be6102de4dd29745cfc"
+    }
+  ]
+}

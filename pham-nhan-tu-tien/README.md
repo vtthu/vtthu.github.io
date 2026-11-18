@@ -1,6 +1,10 @@
 # Phàm Nhân Tu Tiên — Kho truyện và bộ nhớ dự án
 
-## Đợt mới nhất: chương 794–807
+## Đợt mới nhất: chương 822–833
+
+[Đọc lần lượt 12 chương](production/822-833/README.md): **59 trang PNG, 12 PDF A4**, đã đẩy từng chương.
+
+## Đợt chương 794–807
 
 [Mục lục và tiến độ](production/794-807/README.md): **794–806 hoàn thành, 60 PNG/13 PDF A4**; 807 có **1/5 trang nháp**, tạm dừng vì hạn mức tạo ảnh.
 

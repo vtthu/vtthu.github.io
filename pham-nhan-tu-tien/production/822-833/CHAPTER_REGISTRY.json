@@ -1,0 +1,707 @@
+[
+  {
+    "chapter": 822,
+    "title": "Trị thế",
+    "status": "completed",
+    "pages": 5,
+    "chapter_commit": "9ff4a138e5718eae2884c1044eb7fea8a1e47376",
+    "source_sha256": "2a1152e8c75974eb0e77d69ce5f9f4f0891bf092aa53e8b7232443c47dc28189",
+    "source_bytes": 15148,
+    "models": [
+      "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+      "da-duong-si-kim-dai-thien-kinh-822.png"
+    ],
+    "continuity_notes": "- Nguồn chương 823 nói rõ cả hai giải ngụy trang trước cổng bắc: 822 giữ HLCT798 lão giả áo xám mũ đen và TXCT798 thư sinh trẻ áo xanh xám, không thay HL-01 V2. Sau giải 823 mới về gương mặt thật.\n- Tam hoàng tử, phụ hoàng, các anh chị và Lỗ đạo hữu chỉ được nhắc; không tạo chân dung/thêm người sống. Quá khứ chỉ minh họa cảnh làng xóm và thương nghiệp, không gán gương mặt chưa đăng ký.\n- Kim Đao Mễ xét năm tuổi, không phân phẩm cấp; Long văn mới là tên trong ký ức đan phương, chưa tìm thấy hoặc thu được. Chưa luyện Kim Cương Thiết Cốt Đan.\n- Dạ Dương tường đen, bao cả núi trắng và một phần sông; ba khu vực nam/giữa/bắc, bắc bị núi che. Cuối chương hai người còn ngoài phía nam, chưa vào cổng hoặc giải ngụy trang.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c8beea32818847c6bfcede0ca706614f1bc3535495ad9ce2dd3073cf7c3f65d1"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "bb43dfa2e057eb6aa5f84629b89c6cd0f88ec675f307e110956cb446722f1b86"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "355905852ca440265187274c324315057b6194b36e97f8dcbd51936968c149a3"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "a5d94e5541e44666b6dad07d77d04bc3a8ca35b53b520b978c0aa4d376be65de"
+      },
+      {
+        "file": "trang-05.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "4c98101d6e16944e7873c428897efb5104bff39195531b5888327a732b3ceee3"
+      }
+    ]
+  },
+  {
+    "chapter": 823,
+    "title": "Bát hoàng tử",
+    "status": "completed",
+    "pages": 5,
+    "chapter_commit": "8f05f833929c6c4c73f4200097c904eb06996926",
+    "source_sha256": "c0545e8ee9c37c0c733a376c7030e22c37d1cf358bb61139a92646cdc0079b35",
+    "source_bytes": 15275,
+    "models": [
+      "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+      "han-lap-v2.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "da-duong-si-kim-dai-thien-kinh-822.png",
+      "la-thiet-bat-hoang-tu-voi-ma-than-823.png"
+    ],
+    "continuity_notes": "- Trang 1 và đầu trang 2 còn cải trang HLCT798/TXCT798. Từ trang 2 sau giải phép, Hàn trở về model V2 gốc tóc đen/trâm ngọc xanh/teal thêu trúc, Thạch TXK652 tóc bạc bào tím. Không thay mặt V2 hoặc dùng CT603 thay chân dung thật.\n- Tạo và gắn ảnh model LT823, BH823, lính P01/P02 trước khi xuất hiện. Bát da vàng cơ bắp cao hơn La Thiết, bào tím DÀI TAY; đã sửa trang 5 bỏ tay áo lệch mẫu. Không lẫn Bát với Tam hoặc Thạch.\n- Phong Thiên Lệnh đã bị hủy do cạn lực lần đưa hai người về Ma Vực, không tái tạo; ký ức chỉ ánh vụn. Lệnh bài ID hai kim long chưa tới 825, không cho có sớm.\n- Sửa trang 3: trước lệnh bắt, hai người chưa bị dây xích quấn; chỉ cuối trang dây xích mới lao tới. Thạch phá xích, ngân quang phá phong long năng lượng và phi đao đen đứt hai. La Thiết được Bát cứu trước khi trúng đầu, còn sống.\n- Cuối chương Bát giả thân thiện, Hàn nhớ cùng phe Đại ca, chưa có Tam ca giải vây. Không đưa tình tiết 824/825 lên sớm.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "7378979c8ca7f25a8be2eb8f21ad057073576028673805bc6f5b1f81fe495178"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "068b4e8d32fb912142925bab6fba1534dbefbaca0d7f81ccc9a67d4f6ee400cc"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "9aa73db976123ca84bc4100d79c215714be965b137f8edb62fa75f897b5eb6e2"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f30a4f60acac9aca71622a860589ff303ab4d7192ddead18bc84f7a5b6ea3c56"
+      },
+      {
+        "file": "trang-05.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d1e146ca466a62af58d296208f56af4919531fce1a7e93a726081d7661d1eb14"
+      }
+    ]
+  },
+  {
+    "chapter": 824,
+    "title": "Bất động",
+    "status": "completed",
+    "pages": 4,
+    "chapter_commit": "09e2e23eab295bac77f277aac96ca9f87f4e46d7",
+    "source_sha256": "6a2e1231150caf41a41d828f7408e1ec6eacc59b2412f56503cc981207dc8962",
+    "source_bytes": 9424,
+    "models": [
+      "han-lap-v2.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "da-duong-si-kim-dai-thien-kinh-822.png",
+      "la-thiet-bat-hoang-tu-voi-ma-than-823.png",
+      "han-lap-tinh-quang-chan-linh-hu-anh-824.png"
+    ],
+    "continuity_notes": "- Hàn Lập vẫn là người, giữ model V2; Chân Linh chỉ là hư ảnh năng lượng.\n- Hắc Thiến Ti bị phá trước, xích tím chỉ đứt ở trang 4.\n- Bát hoàng tử lùi ba bước; hai bên còn giữ pháp tướng cuối chương, Tam ca chưa xuất hiện.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "ba535fdf760828ff097b0b955b21063eb2e13a55a425113cd9fb0087821cc84e"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d30154695b1a1f48760d5d41ce35ca12aedd4735050863a4b9979940b3fa3f0e"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "303ca140065162b03a96b3ecaeb4109c0755e501e65e1337ccb6040a74a37b23"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "1cedabb1862a089d9da93a53a652737fa1af0feaad5e5e5347e670ffdb5e4ea4"
+      }
+    ]
+  },
+  {
+    "chapter": 825,
+    "title": "Giải vây",
+    "status": "completed",
+    "pages": 5,
+    "chapter_commit": "07dcd689e37405434ab8b4c6edc6ed8086ae65ff",
+    "source_sha256": "14b33fa6eda1001a683d4c7195979a99fc4fff85f6ed6cf99441a0c46f401e3f",
+    "source_bytes": 15725,
+    "models": [
+      "han-lap-v2.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "la-thiet-bat-hoang-tu-voi-ma-than-823.png",
+      "han-lap-tinh-quang-chan-linh-hu-anh-824.png",
+      "da-duong-si-kim-dai-thien-kinh-822.png",
+      "thach-pha-khong-hau-tim-xa-thu-825.png"
+    ],
+    "continuity_notes": "- Thạch Phá Không áo xanh bạc nhạt; người hầu tím, gián điệp xám và phu xe là ba model riêng, đã sửa trang 3 trả đúng mặt gián điệp.\n- Lệnh bài tím có hai kim long và mặt sau chân dung Hàn V2. Ba người qua gương đá xám không dị trạng.\n- Hàn ngồi ngoài cạnh phu xe; hai hoàng tử trong xe. Chưa cứu Đề Hồn hoặc gặp Đại Tế Tự.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "dd519bc51eafb2e0e8da0197e50270913ffefacf2aabd36edd8d5e8c6c784f1e"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "730206f3b38436a0a3158cbd005b38cf0757e363dabf005f98e86317da315440"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "2faaaa807ddfb84280cd44b75ca91579861be44f4aa8344699fe3f3d6c14b8ec"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "597ccb42d9cad301d1b79ffb406593921a8637cbea36003a7ca274d0f7ed3560"
+      },
+      {
+        "file": "trang-05.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "60b521af956047d37c2d84fdd336f7835fe9f4749cea3ffae1bcc7d0261dbfb8"
+      }
+    ]
+  },
+  {
+    "chapter": 826,
+    "title": "Huynh đệ tình thâm",
+    "status": "completed",
+    "pages": 5,
+    "chapter_commit": "442a8d2b2ec7073be134110422612f50e79a013e",
+    "source_sha256": "5ff308941ecffed5a852c63d150df1552fde6bca70fbab3e01c2dcab8a1c7acb",
+    "source_bytes": 15959,
+    "models": [
+      "han-lap-v2.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "thach-pha-khong-hau-tim-xa-thu-825.png",
+      "lieu-ky-la-tra-cu-luan-song-dao-772.png",
+      "de-hon-hong-y-van-son-nhieu-nhan-su-794.png"
+    ],
+    "continuity_notes": "- Tam ca còn chưa Đại La, Thạch Xuyên Không chỉ được bố trí bảy ngày sau thử tiến Thái Ất, chưa thành công ở chương này.\n- La Trá Tỳ Bà vẫn do Thạch giữ, Tam ca từ chối nhận hai lần. Đã sửa mặt trẻ sạch râu và người nói/trang phục ở trang 1–2.\n- Hầu tím là thân ngoại hóa thân dạng bóng rắn, khác gián điệp xám; không thêm nhân vật rắn sống.\n- Hoa Chi trúc tím khác sân Trường Đình trúc xanh. Đề Hồn giữ hồng y model DH794, chưa tỉnh.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "e50e3ef588095b52e67da53cd99c3dc2980fe32fc2daf33cc8621bad55d9c0ba"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "9acdd868bde11544d04529d21421e62c9379d435091fb76681b5eea5f51a2438"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "6941fc7afc6be70c2e5c97761a32de976b171ada9fb3b37d5c94cd83759c7293"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "f95ba4208bc9e114957290224e20345aa5ceadd52c2108db5873f19d587bc5ef"
+      },
+      {
+        "file": "trang-05.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d9778ca597e10111d2fc91fcfd7598f45221b398fefd26d51807c765d87c24dc"
+      }
+    ]
+  },
+  {
+    "chapter": 827,
+    "title": "Điểm duyệt",
+    "status": "completed",
+    "pages": 5,
+    "chapter_commit": "d85cda849a826c5ef238698305667e07bdfe37c6",
+    "source_sha256": "edb04f21d10b681a899eb235fc7d907b67e0f276ac21657b56b6288cd9a18af6",
+    "source_bytes": 15305,
+    "models": [
+      "han-lap-v2.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "thach-pha-khong-hau-tim-xa-thu-825.png",
+      "cot-gioi-kinh-quan-phu-dieu-co-tich-827.png",
+      "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+      "luc-lang-tran-huyen-thien-ho-lo-thanh-truc-567.png"
+    ],
+    "continuity_notes": "- Tám Kinh Quan nhỏ đã bị nghiền hết; sửa trang 2 bỏ trụ thừa ngoài hồ lô. Cầu xương chưa được phóng thích chiến đấu.\n- Phù điêu ba đầu sáu tay chỉ hiện mười hai tư thế, cổ văn chưa hiểu; chép vào ngọc giản riêng, không tu luyện hay hóa thân.\n- Giải Đạo Nhân giữ model kim loại vàng áo vàng, nhận cốt giới. Hàn cảm thấy giám sát nhưng không đối chất.\n- Thạch nói chuyện ở cửa sân, chưa vào. Noãn Ngọc còn chống 10–20 năm; chỉ đang thu mua. Sách bìa kim loại da thú chỉ đọc không sao chép; Thạch mới bắt đầu bế quan.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "feed8751bc60902d325c0f653a1092dad7d4a6043e4d3827e3b95185b31b53a8"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "4d752a2230d797e361bbf092f210851ecfdc9e0bdd652eb0195a2554c7fe9419"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "a6c8d1a64e374127550e4302a673f6796b23b2953f78f0f2ac36bea37c4ca5e2"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "071ecb23fec2189c9f9d4466dec99168602d1c5f506aaaaeb09040fd59ad548d"
+      },
+      {
+        "file": "trang-05.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "39c92749d3e5a5f3d1c723e904d9f2692151d21c0c72a65f9fdb2ee7538469f4"
+      }
+    ]
+  },
+  {
+    "chapter": 828,
+    "title": "Sơ thám phường thị",
+    "status": "completed",
+    "pages": 5,
+    "chapter_commit": "d31d0c0354fe4d19816771d3fe22f9787fe28325",
+    "source_sha256": "398840c5d85608beef080872e242b7d3c146497f4d07e8fc2953db2c9b81ed7d",
+    "source_bytes": 15642,
+    "models": [
+      "han-lap-v2.png",
+      "thach-pha-khong-hau-tim-xa-thu-825.png",
+      "cot-gioi-kinh-quan-phu-dieu-co-tich-827.png",
+      "de-hon-hong-y-van-son-nhieu-nhan-su-794.png",
+      "ho-tinh-tinh-lan-xa-de-giang-828.png"
+    ],
+    "continuity_notes": "- Minh họa Tạo Vật/Hóa Linh chỉ là nội dung sách, không phải Hàn luyện thành. Sau ba năm công pháp Đại Ngũ Hành vẫn tầng thứ nhất.\n- Hồ Tinh Tinh giữ model áo đen, chỉ hiển lộ Hợp Thể sơ kỳ ở đây. Không thêm tai hoặc đuôi hồ.\n- Lân Xa hai bánh không mui, hai thú một sừng; đã sửa trang 4 bỏ mui sinh sai. Hai bờ trái Ma Ha/phải Lạc Già, cầu trắng hình vòm.\n- Đề Hồn chưa tỉnh, Thạch còn bế quan. Cuối chương mới ở khu vực cầu, chưa vào cửa hàng.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "64007492a86a5f43f857478e23648607ff2271a65a9d779f434e8651ebc8d9a7"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "baa4d30b03a3c941c6ccb59dbb9b4013bbb7584bcf638e38537d85b1ada49bdc"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b2a53a05e71c1a9ad105092939c9adf705ae704eba842380e79984353b8dcecd"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "86b70a58d6c6368a2b2ad0f320fa210aeafa6113529cf70d3d896441210950e2"
+      },
+      {
+        "file": "trang-05.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "3a002f910d6e0face227cd7eb23a551710ea83b9513e89ba84037cd0888475ef"
+      }
+    ]
+  },
+  {
+    "chapter": 829,
+    "title": "Không cần đi theo",
+    "status": "completed",
+    "pages": 5,
+    "chapter_commit": "ed103ca19d5030b613a39a105ea3acda8a1bb6d0",
+    "source_sha256": "d7ad5905a606c5c84cc2a5f098a3fccd0a4c801f23cd643c70ad109335836097",
+    "source_bytes": 14580,
+    "models": [
+      "han-lap-v2.png",
+      "ho-tinh-tinh-lan-xa-de-giang-828.png",
+      "tien-linh-cac-tieu-nhi-thach-pha-khong-hac-y-829.png",
+      "thach-pha-khong-hau-tim-xa-thu-825.png",
+      "la-thiet-bat-hoang-tu-voi-ma-than-823.png"
+    ],
+    "continuity_notes": "- Các hoàng tử/công chúa chỉ được nhắc không thêm chân dung. Quảng Nguyên tại Đế Giang chỉ là chi nhánh, tổng bộ ở Thông Dịch Viên.\n- Hồ Tinh Tinh thật sự quay về, không lén theo. Cuối chương mới lộ Kim Tiên sơ kỳ.\n- Tiên Linh Các có sẵn hai vật liệu; chỉ hứa gom gần nửa, Hàn chọn đợi mười năm, chưa nhận đợt điều hàng. Phí chuyển gấp +1/10 chỉ là phương án không chọn.\n- Tam ca chuyển áo đen đúng biến thể829 nhưng vẫn mặt TPK825 sạch râu; tranh cô phong đen/sét trắng.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "194a8d15e20c8765617797a7cc310cd4ba2d85f1163bcc5d6a06076bff563f3d"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "e231d1bfa1ab859ea88b41aac41229def058a7214226c15b8c58ac0adfb3e1c4"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "e2a9b0c7743ab8c8319dc13041bd22516e5fc132bbe03b00fc6a5ff9816f212b"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "1793669283006f0d617b01e0b106863cd21602c9d4bd5c5459f684a51d66ab50"
+      },
+      {
+        "file": "trang-05.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b01cda96ad2bb635219a6bbb2a8a923a2df1a7ff8b1d5134f42d17c2644f5eda"
+      }
+    ]
+  },
+  {
+    "chapter": 830,
+    "title": "Tuệ nhãn nhận chân giả lấy được",
+    "status": "completed",
+    "pages": 5,
+    "chapter_commit": "918bc007ff3d4f8d4132d508b21cd243bf6f5afe",
+    "source_sha256": "7c9278adf145371ecf06d26fb7638b89efe3f97537030aaf0827f7a4329b7516",
+    "source_bytes": 14239,
+    "models": [
+      "han-lap-v2.png",
+      "ho-tinh-tinh-lan-xa-de-giang-828.png",
+      "tien-linh-cac-tieu-nhi-thach-pha-khong-hac-y-829.png",
+      "thach-pha-khong-hau-tim-xa-thu-825.png",
+      "kinh-vat-phuong-dai-chuong-quy-doc-muc-830.png"
+    ],
+    "continuity_notes": "- Sửa trang 1 trả đúng tạo hình nữ Hồ Tinh Tinh ở cảnh cáo lui, không lẫn tiểu nhị nam.\n- Kinh Vật Phường hai quầy riêng; hai tiểu nhị KV01/KV02 và đại chưởng quỹ giữ model mới, danh tính bà chưa lộ. Giáp bạc kín, không thay mặt/tóc.\n- Bản đồ50 + sách300 =350; thi thể Hôi Tiên Kim Tiên đã chết từ trước cộng500 đổi Độc Mục. Không phải cấp Thái Ất, không có giết mới.\n- Cuối chương Hàn mua Lân Xa riêng, về Trường Đình bóc vỏ đá lộ mắt vàng; chưa khẳng định biến dị hoặc cứu Đề Hồn.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "d94d7c4440152c5636edc04cf00a56b829026ba6328d5d01ea56012f414d20a5"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c301e4a2e5b4a5742bfcd97281df0740c5e63df4c2218ed21703473bad34e8be"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "47b274f0ffd4fbea7981a0dc09e82cea731fc215b67f2a7a8dc2186288097b62"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "9e8d307d17abaad334e3d98b7730d9e829a32c0def5f07653f9d9bc56b5f6397"
+      },
+      {
+        "file": "trang-05.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "542881a125cd493c5c0551d2ce81e3bd1f9c652c2232f707bc098e8fe0efdcbd"
+      }
+    ]
+  },
+  {
+    "chapter": 831,
+    "title": "Tìm thầy hỏi thuốc",
+    "status": "completed",
+    "pages": 5,
+    "chapter_commit": "93e1046e5dbb6da9967c67f2b84863d6b263e5a4",
+    "source_sha256": "ab8c7e07f0bd665c27e703f865fa552b018b6a740e48d9d0e0b90bc8b4283cb0",
+    "source_bytes": 14563,
+    "models": [
+      "han-lap-v2.png",
+      "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+      "lieu-ky-la-tra-cu-luan-song-dao-772.png",
+      "kinh-vat-phuong-dai-chuong-quy-doc-muc-830.png",
+      "thach-pha-khong-hau-tim-xa-thu-825.png",
+      "ho-tinh-tinh-lan-xa-de-giang-828.png",
+      "cao-phong-thinh-nguyen-kien-thien-nhai-831.png"
+    ],
+    "continuity_notes": "- Sửa đầu trang 1: nhãn cầu đã lộ toàn màu vàng, không mọc lại lớp đá; thu vào túi, chỉ nghi biến dị chưa xác nhận.\n- Ký ức thành đen/sông xanh/cầu vòm chưa xác định; Tích Lân Không Cảnh chỉ được hỏi, chưa đi tới. Giải Đạo Nhân xin nâng hai đao, chưa hoàn thành.\n- Sau hơn mười ngày không còn người bám, vài tháng tìm tin ít kết quả. Lò Kiến Thiên Nhai đốt hương, không luyện đan.\n- Khang đại sư đang bế quan không gặp mặt, không chữa Đề Hồn. Cao Phong giữ model mới áo tím tóc đen mắt tím sao, chưa rõ lai lịch.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "fc1b2e804693269d3383045255109a2e8fa712aee47186bb3a18d7160d7c1c32"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "e35b15165bb1fd082832810f511be5b6e7d5b70a938b413087b97b4ed6d91aae"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "9c4e65c660f196455476ee064c7b106cfd3a33a50c609c5b2b11a3fe6e6c356e"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "4699ba92b1183e0a97acec27688df59306a1bcdb9155208735e43fc116d27f98"
+      },
+      {
+        "file": "trang-05.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c93d2c6507a87225cabfeee251e4ddb8392284a5dc11ad4f8329caa51ab0da2c"
+      }
+    ]
+  },
+  {
+    "chapter": 832,
+    "title": "Xuất quan",
+    "status": "completed",
+    "pages": 5,
+    "chapter_commit": "3623a6d188b204509ab984d2c1b818211f9657d2",
+    "source_sha256": "8437f23855e22ae088ed7dcf25137c66e5baf41e3f54a7cb579544f0c7a377cc",
+    "source_bytes": 15848,
+    "models": [
+      "han-lap-v2.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "thach-pha-khong-hau-tim-xa-thu-825.png",
+      "tien-linh-cac-tieu-nhi-thach-pha-khong-hac-y-829.png",
+      "kinh-vat-phuong-dai-chuong-quy-doc-muc-830.png",
+      "cao-phong-thinh-nguyen-kien-thien-nhai-831.png",
+      "han-lap-ngu-hanh-thach-kinh-tuong-832.png",
+      "de-hon-hong-y-van-son-nhieu-nhan-su-794.png"
+    ],
+    "continuity_notes": "- Không theo Cao Phong về nhà. Nữ đại chưởng quỹ đổi bạch y nhưng giữ cùng tóc trắng/face, chưa lộ danh tính.\n- Năm pháp vật đều vàng, cây chỉ phôi thai; sửa trang 3 bỏ mắt vàng trên mặt Hàn, thay bằng bảo vật nằm trong tay. Không thay mắt hay model V2.\n- Thạch đã xuất quan hơn nửa tháng, tu vi Thái Ất; kế hoạch xin Ma Chủ cứu Đề Hồn chưa thực hiện, Đề Hồn vẫn hôn mê.\n- Hơn nửa năm sau sóng chuông bạc tẩy nguyên khí; Thạch cuối chương chỉ kính tượng bạc hơi mờ 1–2 thành thực lực. Ma Chủ chỉ hồi tưởng bằng suy nghĩ, không vẽ chân dung mới.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "853318c3fc1b4cf9386d6511bb90ed14c7483df46b06d488c9f76fe004554d6b"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "a673c821a0d36c92514a7e6bf93c0a1afeaf1dfb338be1dc764d2cd8b93143dd"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "8f4e309f6e6b1180fa244de621d6abec5952c73db2dc8f299e9e0eabb5c531df"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "c9688fed4a485a6f523e12f69807d39a678e6c80e62743fdf50389fe96a34f56"
+      },
+      {
+        "file": "trang-05.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "7dbc5880615ede29ced09f7eaa33e2fb32cdd391ea86372e5aea0571cbc8628e"
+      }
+    ]
+  },
+  {
+    "chapter": 833,
+    "title": "Yết kiến",
+    "status": "completed",
+    "pages": 5,
+    "chapter_commit": "db8903a2f6d2a18e6e5c29a544eb8bc3d3197de2",
+    "source_sha256": "5eee66b6c0b63db27ffe521989749ac1dd6cca69048157ed80d3ee0c271035ee",
+    "source_bytes": 12127,
+    "models": [
+      "han-lap-v2.png",
+      "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+      "han-lap-ngu-hanh-thach-kinh-tuong-832.png",
+      "le-phuc-hai-hoang-tu-huyet-tich-hau-833.png",
+      "u-minh-thien-sat-te-dan-833.png",
+      "cot-gioi-kinh-quan-phu-dieu-co-tich-827.png"
+    ],
+    "continuity_notes": "- Hai hoàng tử cùng lễ phục tím, Tam hoa quan ba minh châu, Thạch không minh châu. Hàn vẫn V2 teal/trâm xanh, Huyết Tích Hầu giữ model áo đỏ mới, khác Huyết Hàn.\n- Hai xe tách theo lễ nghi: vàng một sư tử cho hoàng tử; xe thường lớn hơn cho Hàn/Huyết. Dân ngồi tế tự, không chào đoàn.\n- Tượng U Minh trắng, Thiên Sát đen 12đầu/24tay; sheet đã sửa số lượng trước sử dụng. Đai ngọc cùng hệ cổ văn phù điêu827; chưa giải mã. Sửa trang3 bỏ đạo cụ trên tay Hàn và số trang, trang4 trả đai về tượng đá đen.\n- Hắc quang chỉ cảm nhận riêng Hàn trong tích tắc, hắn lùi một bước rồi che giấu bằng lý do lo yết kiến. Cuối chương bốn người lên tế đàn pháp trận bầu dục, chưa gặp Ma Chủ/chưa cứu Đề Hồn.",
+    "pngs": [
+      {
+        "file": "trang-01.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "b04c233cddcc54cf966caa26a4c6409d874c01478b6aca9999f9e1fe20bbbd7d"
+      },
+      {
+        "file": "trang-02.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "1225cfdb6af113e8f94bac55c57b5a5fa654c342db07071a1eb51dfd21fa9aaf"
+      },
+      {
+        "file": "trang-03.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "9e5cab0bda6575ef75048cba24af7c7a37d0fc30ba90005a61b4e23e45ddd88a"
+      },
+      {
+        "file": "trang-04.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "5e9804a3eac44f65634b4efc18e3c61dae73466c881f3638ea7fe2b6854e27a8"
+      },
+      {
+        "file": "trang-05.png",
+        "pixels": [
+          1055,
+          1492
+        ],
+        "sha256": "ef6f8c36e821955d97bfd708e791a49e7410110ed613fe73d112ea407b62fde7"
+      }
+    ]
+  }
+]

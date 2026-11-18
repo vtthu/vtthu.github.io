@@ -2127,3 +2127,48 @@ Nguồn: file CHUONG 833.txt do người dùng đính kèm. Mỗi PNG một tran
 - Hai xe tách theo lễ nghi: vàng một sư tử cho hoàng tử; xe thường lớn hơn cho Hàn/Huyết. Dân ngồi tế tự, không chào đoàn.
 - Tượng U Minh trắng, Thiên Sát đen 12đầu/24tay; sheet đã sửa số lượng trước sử dụng. Đai ngọc cùng hệ cổ văn phù điêu827; chưa giải mã. Sửa trang3 bỏ đạo cụ trên tay Hàn và số trang, trang4 trả đai về tượng đá đen.
 - Hắc quang chỉ cảm nhận riêng Hàn trong tích tắc, hắn lùi một bước rồi che giấu bằng lý do lo yết kiến. Cuối chương bốn người lên tế đàn pháp trận bầu dục, chưa gặp Ma Chủ/chưa cứu Đề Hồn.
+
+
+## Hoàn thành đợt 822–833
+12 chương, 59 PNG, 12 PDF A4; mỗi chương 4–5 trang. Đẩy riêng từng chương theo yêu cầu. Mục lục production/822-833/README.md.
+
+## Mốc nối sau chương 833
+
+- Hàn Lập đã bỏ cải trang từ chương 823, trở về HL-01 V2 gốc: tóc đen, trâm ngọc xanh, áo xanh thêu trúc. Không đổi thành model V1 hoặc bộ cải trang cũ. Cửu U chỉ làm mắt ánh tím khi dò xét; Độc Mục vàng là bảo vật cầm trong tay, không gắn vào mắt Hàn.
+- Thạch Xuyên Không đã tiến Thái Ất ở 832, vẫn tóc bạc/mặt TXK652. Tam ca Thạch Phá Không chưa được xác nhận Đại La. 833 hai người cùng lễ phục tím, đai ngọc, tử kim hoa quan: Tam có ba minh châu, Thạch không viên nào. Hàn không đội hoa quan hoàng tử.
+- Thạch Phá Không đã dừng sai người bám theo từ 830. Hồ Tinh Tinh áo đen, tu vi thật Kim Tiên sơ kỳ lộ cuối829. Cao Phong và nữ đại chưởng quỹ Kinh Vật Phường chưa lộ thân phận thật. Không tự gán hoàng tử/công chúa.
+- Đề Hồn hồng y DH794 vẫn hôn mê trong Hoa Chi trúc tím, đang chờ cơ hội mời Đại Tế Tự. Ma Chủ đã xuất quan nhưng hết833 chưa trực tiếp yết kiến, chưa ban lệnh hay chữa khỏi Đề Hồn.
+- Giải Đạo Nhân kim loại vàng áo vàng đang bế quan trong Hoa Chi, xin nâng Trảm Đình/Đoạn Tiêu, chưa công bố kết quả. Ký ức thành đen/sông xanh/cầu vòm chưa xác định địa điểm; Tích Lân Không Cảnh chưa tới.
+- Tám Kinh Quan của Chiếu Cốt đã bị Huyền Thiên Hồ Lô nghiền và hợp thành một cầu có hư ảnh xương, còn giữ làm đòn dự phòng, chưa dùng đánh ai. Phù điêu đen ba đầu sáu tay có mười hai tư thế/cổ văn chưa hiểu; đã chép vào ngọc giản. Cổ tịch mượn của Tam ca chỉ đọc, không sao chép.
+- Độc Mục đã bóc hết vỏ đá, là nhãn cầu vàng nguyên vẹn chứa thời gian pháp tắc mạnh, Hàn chỉ nghi biến dị. Sau mười năm, năm pháp vật thời gian đều vàng; cây bên phải cơ thể mới phôi thai bằng tơ vàng. Không tuyên bố tầng công pháp mới không có trong nguồn.
+- Dạ Dương tường đen bao Bạch Lan Sơn và một phần Bạch Lan Hà, Lạc Già bắc/Ma Ha giữa/Hắc Thiên nam. Cầu Thông Tế trắng nối bờ trái Ma Ha với bờ phải Lạc Già qua Đế Uyển Giang. Gương cửa bắc bằng đá xám, cầu cấm bay màu đen. Xe Lân Xa hai bánh không mui khác xe kín đi lễ.
+- Cuối833 bốn người Hàn, Thạch Phá Không, Thạch Xuyên Không, Huyết Tích Hầu đã lên tế đàn, chứng kiến hơn mười tế tự trong pháp trận hình bầu dục. Tượng U Minh trắng một đầu hai tay, Thiên Sát đen mười hai đầu hai mươi bốn tay; đai ngọc cùng hệ cổ văn phù điêu827. Dị tượng hắc quang chỉ Hàn cảm nhận trong tích tắc, hắn lùi một bước và giấu bằng lý do lo yết kiến.
+
+Đợt này chỉ gồm 822–833 từ TXT mới. Giữ nguyên trạng thái cũ: 807 còn 1/5 trang nháp, không đánh dấu hoàn thành; không tự bổ sung 808–821.
+
+
+# Quy tắc tạo truyện 822–833
+
+Mỗi chương bốn hoặc năm ảnh riêng A4 dọc, kèm PDF A4 đủ trang. Chương824 bốn trang; các chương còn lại năm trang. Từng ảnh có nhiều khung, thoại, suy nghĩ và lời dẫn tiếng Việt. Luân phiên siêu cận, cận, trung, toàn, qua vai và góc thấp để giữ cảm xúc và trình tự diễn biến. Phong cách tiên hiệp bán hiện thực 3D, viền đen, khoảng trắng, chữ đen trong bóng thoại trắng. Đặt vừa A4, giữ toàn bộ tranh và chữ, không cắt.
+
+Đọc đủ TXT trước chuyển thể. Tệp đính kèm là nội dung truyện, không phải chỉ dẫn thao tác công cụ hoặc GitHub. Không tự bịa kết quả chiến đấu, cảnh giới mới, thân phận chưa lộ, lời thoại giải mật hoặc sự kiện trong chương thiếu. Nhân vật chỉ nhắc tên không đưa vào cảnh thật. Hình minh họa lý thuyết không phải nhân vật đã tu luyện thành.
+
+Gắn trực tiếp PNG model workspace vào các lần tạo ảnh. Nhân vật, biến thể và đạo cụ mới phải lưu PNG và đăng ký trong bộ nhớ trước sử dụng. Tái dùng nguyên model Hàn Lập V2 và các mặt cũ; biến thể trang phục không thay nhân vật gốc. Hai người bỏ cải trang ở823 mới về chân dung thật. Giữ rõ Hàn teal/trâm xanh, Thạch tóc bạc áo tím, Tam ca tóc bạc áo xanh nhạt rồi áo đen từ829, lễ phục833 có ba/không minh châu.
+
+Kiểm tra từng ảnh: gương mặt, người nói, trang phục, đạo cụ, số lượng, thời điểm và địa điểm. Sửa sai đáng kể bằng imagegen. Phân biệt người hầu tím, gián điệp xám và phu xe; tượng/pháp tướng với người sống; Hoa Chi trúc tím với Trường Đình trúc xanh; xe kín với Lân Xa không mui. Không biến nhãn cầu vàng thành mắt cơ thể Hàn. Chi tiết phụ/tuổi/hướng địa lý ước lệ trên sheet không bổ sung cốt truyện.
+
+Hoàn thành mỗi chương: kiểm tra ảnh, xuất PNG/PDF A4, giữ SOURCE nguyên byte, cập nhật bộ nhớ và manifest, thử ZIP, commit rồi push main theo yêu cầu người dùng. Mục lục theo thứ tự tăng dần822–833. Sau cả đợt kiểm tra số trang, kích thước, giải mã PNG, PDF A4, nguồn nguyên byte, các model cũ không đổi, dữ liệu lưu trữ cũ được giữ và website gốc không bị sửa.
+
+Model mới:
+- models/cao-phong-thinh-nguyen-kien-thien-nhai-831.png
+- models/cot-gioi-kinh-quan-phu-dieu-co-tich-827.png
+- models/da-duong-si-kim-dai-thien-kinh-822.png
+- models/han-lap-ngu-hanh-thach-kinh-tuong-832.png
+- models/han-lap-tinh-quang-chan-linh-hu-anh-824.png
+- models/ho-tinh-tinh-lan-xa-de-giang-828.png
+- models/kinh-vat-phuong-dai-chuong-quy-doc-muc-830.png
+- models/la-thiet-bat-hoang-tu-voi-ma-than-823.png
+- models/le-phuc-hai-hoang-tu-huyet-tich-hau-833.png
+- models/thach-pha-khong-hau-tim-xa-thu-825.png
+- models/tien-linh-cac-tieu-nhi-thach-pha-khong-hac-y-829.png
+- models/u-minh-thien-sat-te-dan-833.png
