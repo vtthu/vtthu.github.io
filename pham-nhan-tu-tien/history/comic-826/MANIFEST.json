@@ -1,0 +1,49 @@
+{
+  "chapter": 826,
+  "title": "Huynh đệ tình thâm",
+  "images": [
+    "/tmp/comic-batch-822-833/a4-826/trang-01.png",
+    "/tmp/comic-batch-822-833/a4-826/trang-02.png",
+    "/tmp/comic-batch-822-833/a4-826/trang-03.png",
+    "/tmp/comic-batch-822-833/a4-826/trang-04.png",
+    "/tmp/comic-batch-822-833/a4-826/trang-05.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "thach-pha-khong-hau-tim-xa-thu-825.png",
+    "lieu-ky-la-tra-cu-luan-song-dao-772.png",
+    "de-hon-hong-y-van-son-nhieu-nhan-su-794.png"
+  ],
+  "summary": "Hai huynh đệ nói về quyền kế thừa và chuyến đi; Tam hoàng tử âm thầm bố trí giám sát, trong khi Hàn Lập kiểm tra Đề Hồn còn hôn mê.",
+  "notes": "- Tam ca còn chưa Đại La, Thạch Xuyên Không chỉ được bố trí bảy ngày sau thử tiến Thái Ất, chưa thành công ở chương này.\n- La Trá Tỳ Bà vẫn do Thạch giữ, Tam ca từ chối nhận hai lần. Đã sửa mặt trẻ sạch râu và người nói/trang phục ở trang 1–2.\n- Hầu tím là thân ngoại hóa thân dạng bóng rắn, khác gián điệp xám; không thêm nhân vật rắn sống.\n- Hoa Chi trúc tím khác sân Trường Đình trúc xanh. Đề Hồn giữ hồng y model DH794, chưa tỉnh.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-822-833/826p1.png",
+    "/tmp/comic-generated-822-833/826p2.png",
+    "/tmp/comic-generated-822-833/826p3.png",
+    "/tmp/comic-generated-822-833/826p4.png",
+    "/tmp/comic-generated-822-833/826p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

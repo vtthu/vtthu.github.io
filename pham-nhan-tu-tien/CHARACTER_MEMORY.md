@@ -2241,3 +2241,11 @@ Nguồn: file CHUONG 825.txt do người dùng đính kèm. Mỗi PNG một tran
 - Thạch Phá Không áo xanh bạc nhạt; người hầu tím, gián điệp xám và phu xe là ba model riêng, đã sửa trang 3 trả đúng mặt gián điệp.
 - Lệnh bài tím có hai kim long và mặt sau chân dung Hàn V2. Ba người qua gương đá xám không dị trạng.
 - Hàn ngồi ngoài cạnh phu xe; hai hoàng tử trong xe. Chưa cứu Đề Hồn hoặc gặp Đại Tế Tự.
+
+
+## Chương 826 — Huynh đệ tình thâm: hoàn thành 5 trang
+Nguồn: file CHUONG 826.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/826/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Tam ca còn chưa Đại La, Thạch Xuyên Không chỉ được bố trí bảy ngày sau thử tiến Thái Ất, chưa thành công ở chương này.
+- La Trá Tỳ Bà vẫn do Thạch giữ, Tam ca từ chối nhận hai lần. Đã sửa mặt trẻ sạch râu và người nói/trang phục ở trang 1–2.
+- Hầu tím là thân ngoại hóa thân dạng bóng rắn, khác gián điệp xám; không thêm nhân vật rắn sống.
+- Hoa Chi trúc tím khác sân Trường Đình trúc xanh. Đề Hồn giữ hồng y model DH794, chưa tỉnh.
