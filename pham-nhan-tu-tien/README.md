@@ -85,6 +85,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 823: Bát hoàng tử](chapters/823/): 5 trang, hoàn thành; [PDF A4](chapters/823/chuong-823.pdf)
+
 - [Chương 822: Trị thế](chapters/822/): 5 trang, hoàn thành; [PDF A4](chapters/822/chuong-822.pdf)
 
 - [Chương 806: Phong hồn](chapters/806/): 5 trang, hoàn thành; [PDF A4](chapters/806/chuong-806.pdf)

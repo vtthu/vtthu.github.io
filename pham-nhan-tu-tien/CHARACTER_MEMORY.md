@@ -2202,3 +2202,17 @@ Nguồn: file CHUONG 822.txt do người dùng đính kèm. Mỗi PNG một tran
 - Tam hoàng tử, phụ hoàng, các anh chị và Lỗ đạo hữu chỉ được nhắc; không tạo chân dung/thêm người sống. Quá khứ chỉ minh họa cảnh làng xóm và thương nghiệp, không gán gương mặt chưa đăng ký.
 - Kim Đao Mễ xét năm tuổi, không phân phẩm cấp; Long văn mới là tên trong ký ức đan phương, chưa tìm thấy hoặc thu được. Chưa luyện Kim Cương Thiết Cốt Đan.
 - Dạ Dương tường đen, bao cả núi trắng và một phần sông; ba khu vực nam/giữa/bắc, bắc bị núi che. Cuối chương hai người còn ngoài phía nam, chưa vào cổng hoặc giải ngụy trang.
+
+
+## Đăng ký nhân vật mới trước chương 823–824
+models/la-thiet-bat-hoang-tu-voi-ma-than-823.png: LT823 La Thiết nam trưởng thành to lớn râu quai nón, giáp nặng tím đen/mũ tím; P01/P02 lính giáp tím mặt riêng không râu/quai nón; BH823 Bát hoàng tử cao cơ bắp da vàng kim bào tím, tóc đen trâm tím, không dùng Lỗ Đồng béo hoặc Thạch tóc bạc. 824 pháp tướng vàng đầu VOI thân NGƯỜI đúng hai tay hai chân/hai ngà/vòi dài, không voi thịt thật.
+Xích thường tím và xích đội trưởng thô hơn, phi đao đen nguyên/đứt hai. Hắc Thiến Ti theo nguồn là ĐỐM ĐEN cỡ đồng tiền trên dây xích sinh tơ đen, không tuyên bố vật liệu đồng xu/không thêm bảo vật; khi vẽ dùng dấu đen phẳng trên xích, bỏ phụ kiện dạng đồng xu trang trí trên sheet.
+
+
+## Chương 823 — Bát hoàng tử: hoàn thành 5 trang
+Nguồn: file CHUONG 823.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/823/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Trang 1 và đầu trang 2 còn cải trang HLCT798/TXCT798. Từ trang 2 sau giải phép, Hàn trở về model V2 gốc tóc đen/trâm ngọc xanh/teal thêu trúc, Thạch TXK652 tóc bạc bào tím. Không thay mặt V2 hoặc dùng CT603 thay chân dung thật.
+- Tạo và gắn ảnh model LT823, BH823, lính P01/P02 trước khi xuất hiện. Bát da vàng cơ bắp cao hơn La Thiết, bào tím DÀI TAY; đã sửa trang 5 bỏ tay áo lệch mẫu. Không lẫn Bát với Tam hoặc Thạch.
+- Phong Thiên Lệnh đã bị hủy do cạn lực lần đưa hai người về Ma Vực, không tái tạo; ký ức chỉ ánh vụn. Lệnh bài ID hai kim long chưa tới 825, không cho có sớm.
+- Sửa trang 3: trước lệnh bắt, hai người chưa bị dây xích quấn; chỉ cuối trang dây xích mới lao tới. Thạch phá xích, ngân quang phá phong long năng lượng và phi đao đen đứt hai. La Thiết được Bát cứu trước khi trúng đầu, còn sống.
+- Cuối chương Bát giả thân thiện, Hàn nhớ cùng phe Đại ca, chưa có Tam ca giải vây. Không đưa tình tiết 824/825 lên sớm.

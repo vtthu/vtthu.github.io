@@ -1,0 +1,49 @@
+{
+  "chapter": 823,
+  "title": "Bát hoàng tử",
+  "images": [
+    "/tmp/comic-batch-822-833/a4-823/trang-01.png",
+    "/tmp/comic-batch-822-833/a4-823/trang-02.png",
+    "/tmp/comic-batch-822-833/a4-823/trang-03.png",
+    "/tmp/comic-batch-822-833/a4-823/trang-04.png",
+    "/tmp/comic-batch-822-833/a4-823/trang-05.png"
+  ],
+  "models": [
+    "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+    "han-lap-v2.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "da-duong-si-kim-dai-thien-kinh-822.png",
+    "la-thiet-bat-hoang-tu-voi-ma-than-823.png"
+  ],
+  "summary": "Hai người giải ngụy trang ở cửa bắc Dạ Dương Thành. La Thiết lấy việc thiếu tín vật làm khó Thạch Xuyên Không; Bát hoàng tử ngăn đòn cuối và xuất hiện.",
+  "notes": "- Trang 1 và đầu trang 2 còn cải trang HLCT798/TXCT798. Từ trang 2 sau giải phép, Hàn trở về model V2 gốc tóc đen/trâm ngọc xanh/teal thêu trúc, Thạch TXK652 tóc bạc bào tím. Không thay mặt V2 hoặc dùng CT603 thay chân dung thật.\n- Tạo và gắn ảnh model LT823, BH823, lính P01/P02 trước khi xuất hiện. Bát da vàng cơ bắp cao hơn La Thiết, bào tím DÀI TAY; đã sửa trang 5 bỏ tay áo lệch mẫu. Không lẫn Bát với Tam hoặc Thạch.\n- Phong Thiên Lệnh đã bị hủy do cạn lực lần đưa hai người về Ma Vực, không tái tạo; ký ức chỉ ánh vụn. Lệnh bài ID hai kim long chưa tới 825, không cho có sớm.\n- Sửa trang 3: trước lệnh bắt, hai người chưa bị dây xích quấn; chỉ cuối trang dây xích mới lao tới. Thạch phá xích, ngân quang phá phong long năng lượng và phi đao đen đứt hai. La Thiết được Bát cứu trước khi trúng đầu, còn sống.\n- Cuối chương Bát giả thân thiện, Hàn nhớ cùng phe Đại ca, chưa có Tam ca giải vây. Không đưa tình tiết 824/825 lên sớm.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-822-833/823p1.png",
+    "/tmp/comic-generated-822-833/823p2.png",
+    "/tmp/comic-generated-822-833/823p3.png",
+    "/tmp/comic-generated-822-833/823p4.png",
+    "/tmp/comic-generated-822-833/823p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}
