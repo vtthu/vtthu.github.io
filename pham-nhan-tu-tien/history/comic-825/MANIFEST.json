@@ -1,0 +1,50 @@
+{
+  "chapter": 825,
+  "title": "Giải vây",
+  "images": [
+    "/tmp/comic-batch-822-833/a4-825/trang-01.png",
+    "/tmp/comic-batch-822-833/a4-825/trang-02.png",
+    "/tmp/comic-batch-822-833/a4-825/trang-03.png",
+    "/tmp/comic-batch-822-833/a4-825/trang-04.png",
+    "/tmp/comic-batch-822-833/a4-825/trang-05.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "la-thiet-bat-hoang-tu-voi-ma-than-823.png",
+    "han-lap-tinh-quang-chan-linh-hu-anh-824.png",
+    "da-duong-si-kim-dai-thien-kinh-822.png",
+    "thach-pha-khong-hau-tim-xa-thu-825.png"
+  ],
+  "summary": "Thạch Phá Không hóa giải xung đột cửa thành, cấp tín vật cho Hàn Lập và đưa hai người về phủ; việc cứu Đề Hồn gặp trở ngại chính trị.",
+  "notes": "- Thạch Phá Không áo xanh bạc nhạt; người hầu tím, gián điệp xám và phu xe là ba model riêng, đã sửa trang 3 trả đúng mặt gián điệp.\n- Lệnh bài tím có hai kim long và mặt sau chân dung Hàn V2. Ba người qua gương đá xám không dị trạng.\n- Hàn ngồi ngoài cạnh phu xe; hai hoàng tử trong xe. Chưa cứu Đề Hồn hoặc gặp Đại Tế Tự.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-822-833/825p1.png",
+    "/tmp/comic-generated-822-833/825p2.png",
+    "/tmp/comic-generated-822-833/825p3.png",
+    "/tmp/comic-generated-822-833/825p4.png",
+    "/tmp/comic-generated-822-833/825p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

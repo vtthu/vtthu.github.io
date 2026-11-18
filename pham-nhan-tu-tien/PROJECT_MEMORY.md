@@ -2023,3 +2023,14 @@ Nguồn: file CHUONG 824.txt do người dùng đính kèm. Mỗi PNG một tran
 - Hàn Lập vẫn là người, giữ model V2; Chân Linh chỉ là hư ảnh năng lượng.
 - Hắc Thiến Ti bị phá trước, xích tím chỉ đứt ở trang 4.
 - Bát hoàng tử lùi ba bước; hai bên còn giữ pháp tướng cuối chương, Tam ca chưa xuất hiện.
+
+
+## Đăng ký trước chương 825
+models/thach-pha-khong-hau-tim-xa-thu-825.png: TPK825 Thạch Phá Không tóc bạc, mặt giống TXK652 nhưng trưởng thành, áo xanh bạc nhạt; biến thể áo đen chỉ từ cảnh vẽ tranh829. Hầu tím HT825 trẻ thấp gầy mặt dài tái, khác GX825 gián điệp áo xám cầm mâm tím và PX825 phu xe áo xám mũ đen. Xe825 xanh đen kín mái rèm một thú kéo theo thiết kế, số/chủng thú là lựa chọn minh họa không khẳng định nguyên tác. Phủ Lạc Hành tử kim hai sư đá; Trường Đình Uyển trúc XANH, khác Hoa Chi trúc TÍM. Chữ tuổi GX trên sheet là ước lệ tạo hình, không dữ kiện truyện.
+
+
+## Chương 825 — Giải vây: hoàn thành 5 trang
+Nguồn: file CHUONG 825.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/825/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Thạch Phá Không áo xanh bạc nhạt; người hầu tím, gián điệp xám và phu xe là ba model riêng, đã sửa trang 3 trả đúng mặt gián điệp.
+- Lệnh bài tím có hai kim long và mặt sau chân dung Hàn V2. Ba người qua gương đá xám không dị trạng.
+- Hàn ngồi ngoài cạnh phu xe; hai hoàng tử trong xe. Chưa cứu Đề Hồn hoặc gặp Đại Tế Tự.
