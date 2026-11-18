@@ -1,0 +1,49 @@
+{
+  "chapter": 830,
+  "title": "Tuệ nhãn nhận chân giả lấy được",
+  "images": [
+    "/tmp/comic-batch-822-833/a4-830/trang-01.png",
+    "/tmp/comic-batch-822-833/a4-830/trang-02.png",
+    "/tmp/comic-batch-822-833/a4-830/trang-03.png",
+    "/tmp/comic-batch-822-833/a4-830/trang-04.png",
+    "/tmp/comic-batch-822-833/a4-830/trang-05.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "ho-tinh-tinh-lan-xa-de-giang-828.png",
+    "tien-linh-cac-tieu-nhi-thach-pha-khong-hac-y-829.png",
+    "thach-pha-khong-hau-tim-xa-thu-825.png",
+    "kinh-vat-phuong-dai-chuong-quy-doc-muc-830.png"
+  ],
+  "summary": "Tam hoàng tử dừng giám sát; Hàn Lập mua bản đồ, đổi lấy Thái Phỉ Độc Mục rồi phát hiện nhãn cầu vàng ẩn sau lớp đá.",
+  "notes": "- Sửa trang 1 trả đúng tạo hình nữ Hồ Tinh Tinh ở cảnh cáo lui, không lẫn tiểu nhị nam.\n- Kinh Vật Phường hai quầy riêng; hai tiểu nhị KV01/KV02 và đại chưởng quỹ giữ model mới, danh tính bà chưa lộ. Giáp bạc kín, không thay mặt/tóc.\n- Bản đồ50 + sách300 =350; thi thể Hôi Tiên Kim Tiên đã chết từ trước cộng500 đổi Độc Mục. Không phải cấp Thái Ất, không có giết mới.\n- Cuối chương Hàn mua Lân Xa riêng, về Trường Đình bóc vỏ đá lộ mắt vàng; chưa khẳng định biến dị hoặc cứu Đề Hồn.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-822-833/830p1.png",
+    "/tmp/comic-generated-822-833/830p2.png",
+    "/tmp/comic-generated-822-833/830p3.png",
+    "/tmp/comic-generated-822-833/830p4.png",
+    "/tmp/comic-generated-822-833/830p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

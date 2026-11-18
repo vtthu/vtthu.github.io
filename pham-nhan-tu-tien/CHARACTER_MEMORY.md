@@ -2285,3 +2285,15 @@ Nguồn: file CHUONG 829.txt do người dùng đính kèm. Mỗi PNG một tran
 - Hồ Tinh Tinh thật sự quay về, không lén theo. Cuối chương mới lộ Kim Tiên sơ kỳ.
 - Tiên Linh Các có sẵn hai vật liệu; chỉ hứa gom gần nửa, Hàn chọn đợi mười năm, chưa nhận đợt điều hàng. Phí chuyển gấp +1/10 chỉ là phương án không chọn.
 - Tam ca chuyển áo đen đúng biến thể829 nhưng vẫn mặt TPK825 sạch râu; tranh cô phong đen/sét trắng.
+
+
+## Đăng ký trước 830
+models/kinh-vat-phuong-dai-chuong-quy-doc-muc-830.png: KV01 nam áo nâu đai xanh rêu mắt buồn ngủ; KV02 nam áo xanh đen tóc mái mặt tròn đọc tiểu thuyết tình cảm bìa xanh, không phải công pháp. Đại chưởng quỹ nữ trưởng thành cao tóc trắng buộc cao ngân quan, giáp bạc kín; biến thể832 bạch y cùng mặt tóc, chưa lộ tên hoặc thân phận. Độc Mục là cầu xám phong trong lọ, lộ toàn nhãn cầu vàng sau lớp đá vỡ, không máu me. Map ngọc giản đen/Phong Vật Chí sách đen/gương bạc. Thi thể Hôi Tiên áo trắng đã chết từ trước, không thêm người sống/cảnh giết mới, che kín không máu. Giá theo nguồn: bản đồ50+sách300=350, đổi thi thể Kim Tiên cộng500 để nhận Độc Mục giá niêm3500.
+
+
+## Chương 830 — Tuệ nhãn nhận chân giả lấy được: hoàn thành 5 trang
+Nguồn: file CHUONG 830.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/830/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Sửa trang 1 trả đúng tạo hình nữ Hồ Tinh Tinh ở cảnh cáo lui, không lẫn tiểu nhị nam.
+- Kinh Vật Phường hai quầy riêng; hai tiểu nhị KV01/KV02 và đại chưởng quỹ giữ model mới, danh tính bà chưa lộ. Giáp bạc kín, không thay mặt/tóc.
+- Bản đồ50 + sách300 =350; thi thể Hôi Tiên Kim Tiên đã chết từ trước cộng500 đổi Độc Mục. Không phải cấp Thái Ất, không có giết mới.
+- Cuối chương Hàn mua Lân Xa riêng, về Trường Đình bóc vỏ đá lộ mắt vàng; chưa khẳng định biến dị hoặc cứu Đề Hồn.
