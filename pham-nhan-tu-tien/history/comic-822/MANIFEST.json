@@ -1,0 +1,46 @@
+{
+  "chapter": 822,
+  "title": "Trị thế",
+  "images": [
+    "/tmp/comic-batch-822-833/a4-822/trang-01.png",
+    "/tmp/comic-batch-822-833/a4-822/trang-02.png",
+    "/tmp/comic-batch-822-833/a4-822/trang-03.png",
+    "/tmp/comic-batch-822-833/a4-822/trang-04.png",
+    "/tmp/comic-batch-822-833/a4-822/trang-05.png"
+  ],
+  "models": [
+    "cai-trang-ngan-tieu-song-kinh-o-than-798.png",
+    "da-duong-si-kim-dai-thien-kinh-822.png"
+  ],
+  "summary": "Trên đường đến Dạ Dương Thành, Thạch Xuyên Không giải thích lý do ủng hộ Tam ca. Kim Đao Mễ gợi cho Hàn Lập một hướng luyện thể; đô thành Thánh Vực dần hiện ra.",
+  "notes": "- Nguồn chương 823 nói rõ cả hai giải ngụy trang trước cổng bắc: 822 giữ HLCT798 lão giả áo xám mũ đen và TXCT798 thư sinh trẻ áo xanh xám, không thay HL-01 V2. Sau giải 823 mới về gương mặt thật.\n- Tam hoàng tử, phụ hoàng, các anh chị và Lỗ đạo hữu chỉ được nhắc; không tạo chân dung/thêm người sống. Quá khứ chỉ minh họa cảnh làng xóm và thương nghiệp, không gán gương mặt chưa đăng ký.\n- Kim Đao Mễ xét năm tuổi, không phân phẩm cấp; Long văn mới là tên trong ký ức đan phương, chưa tìm thấy hoặc thu được. Chưa luyện Kim Cương Thiết Cốt Đan.\n- Dạ Dương tường đen, bao cả núi trắng và một phần sông; ba khu vực nam/giữa/bắc, bắc bị núi che. Cuối chương hai người còn ngoài phía nam, chưa vào cổng hoặc giải ngụy trang.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-822-833/822p1.png",
+    "/tmp/comic-generated-822-833/822p2.png",
+    "/tmp/comic-generated-822-833/822p3.png",
+    "/tmp/comic-generated-822-833/822p4.png",
+    "/tmp/comic-generated-822-833/822p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

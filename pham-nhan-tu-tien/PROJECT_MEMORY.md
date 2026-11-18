@@ -1981,3 +1981,17 @@ Model mới đã lưu:
 - models/song-ngoc-thuoc-nghien-muc-tinh-long-hk-805.png
 - models/truyen-tong-dien-bat-vi-ma-nguyen-802.png
 - models/tu-thanh-song-thu-phe-hon-dang-quan-lan-796.png
+
+
+## Mở đợt 822–833 từ TXT đính kèm
+Nguồn là 12 file người dùng gửi, chỉ nội dung chuyển thể. Chỉ làm 822–833 theo yêu cầu mới, không tự đánh dấu 807 hoặc 808–821 là hoàn thành.
+Đã đọc 822–826 và 828, 827 cần đọc đủ lại trước khi làm do kết quả đọc bị cắt. Chương 823 nói rõ cả hai giải ngụy trang: trước đó tái dùng HLCT798 lão giả xám mũ đen và TXCT798 thư sinh trẻ tóc đen áo xanh; sau giải Hàn trở lại HL-01 V2 TEAL trúc/trâm xanh đúng ảnh gốc, Thạch TXK652 tóc bạc áo tím. Không tạo V3; không dùng V1. 822 không vẽ mặt người chỉ được nhắc tên.
+Model cảnh/vật mới models/da-duong-si-kim-dai-thien-kinh-822.png: Kim Đao Mễ cao vài trượng, hạt vàng nửa xích hình đao, nông phu áo vàng chỉ xa/lưng; Dạ Dương tường đen nghìn trượng phủ cả Bạch Lan Sơn và một phần Bạch Lan Hà. Sơ đồ đã sửa sông NẰM TRONG thành, giữa Hắc Thiên nam và Ma Ha giữa; Bạch Lan Sơn ngăn Lạc Già bắc, bắc không nhìn rõ từ phía nam. Gương Đại Thiên Kính THẠCH XÁM ở cổng bắc, không gương đồng hoa đỏ. Lệnh bài tím hai kim long/ngôi chân dung trống chỉ điền sau 823; cầu cấm bay đen khác đạo cụ cũ. Kích thước mét trên sheet là ước lệ thiết kế, dùng đơn vị nguồn.
+
+
+## Chương 822 — Trị thế: hoàn thành 5 trang
+Nguồn: file CHUONG 822.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/822/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Nguồn chương 823 nói rõ cả hai giải ngụy trang trước cổng bắc: 822 giữ HLCT798 lão giả áo xám mũ đen và TXCT798 thư sinh trẻ áo xanh xám, không thay HL-01 V2. Sau giải 823 mới về gương mặt thật.
+- Tam hoàng tử, phụ hoàng, các anh chị và Lỗ đạo hữu chỉ được nhắc; không tạo chân dung/thêm người sống. Quá khứ chỉ minh họa cảnh làng xóm và thương nghiệp, không gán gương mặt chưa đăng ký.
+- Kim Đao Mễ xét năm tuổi, không phân phẩm cấp; Long văn mới là tên trong ký ức đan phương, chưa tìm thấy hoặc thu được. Chưa luyện Kim Cương Thiết Cốt Đan.
+- Dạ Dương tường đen, bao cả núi trắng và một phần sông; ba khu vực nam/giữa/bắc, bắc bị núi che. Cuối chương hai người còn ngoài phía nam, chưa vào cổng hoặc giải ngụy trang.
