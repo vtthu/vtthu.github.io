@@ -1,0 +1,49 @@
+{
+  "chapter": 828,
+  "title": "Sơ thám phường thị",
+  "images": [
+    "/tmp/comic-batch-822-833/a4-828/trang-01.png",
+    "/tmp/comic-batch-822-833/a4-828/trang-02.png",
+    "/tmp/comic-batch-822-833/a4-828/trang-03.png",
+    "/tmp/comic-batch-822-833/a4-828/trang-04.png",
+    "/tmp/comic-batch-822-833/a4-828/trang-05.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "thach-pha-khong-hau-tim-xa-thu-825.png",
+    "cot-gioi-kinh-quan-phu-dieu-co-tich-827.png",
+    "de-hon-hong-y-van-son-nhieu-nhan-su-794.png",
+    "ho-tinh-tinh-lan-xa-de-giang-828.png"
+  ],
+  "summary": "Hàn Lập đọc về Linh Vực, bế quan ba năm rồi quyết định ra ngoài; Hồ Tinh Tinh dẫn hắn tới Đế Giang Phường.",
+  "notes": "- Minh họa Tạo Vật/Hóa Linh chỉ là nội dung sách, không phải Hàn luyện thành. Sau ba năm công pháp Đại Ngũ Hành vẫn tầng thứ nhất.\n- Hồ Tinh Tinh giữ model áo đen, chỉ hiển lộ Hợp Thể sơ kỳ ở đây. Không thêm tai hoặc đuôi hồ.\n- Lân Xa hai bánh không mui, hai thú một sừng; đã sửa trang 4 bỏ mui sinh sai. Hai bờ trái Ma Ha/phải Lạc Già, cầu trắng hình vòm.\n- Đề Hồn chưa tỉnh, Thạch còn bế quan. Cuối chương mới ở khu vực cầu, chưa vào cửa hàng.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-822-833/828p1.png",
+    "/tmp/comic-generated-822-833/828p2.png",
+    "/tmp/comic-generated-822-833/828p3.png",
+    "/tmp/comic-generated-822-833/828p4.png",
+    "/tmp/comic-generated-822-833/828p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

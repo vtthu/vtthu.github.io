@@ -2054,3 +2054,15 @@ Nguồn: file CHUONG 827.txt do người dùng đính kèm. Mỗi PNG một tran
 - Phù điêu ba đầu sáu tay chỉ hiện mười hai tư thế, cổ văn chưa hiểu; chép vào ngọc giản riêng, không tu luyện hay hóa thân.
 - Giải Đạo Nhân giữ model kim loại vàng áo vàng, nhận cốt giới. Hàn cảm thấy giám sát nhưng không đối chất.
 - Thạch nói chuyện ở cửa sân, chưa vào. Noãn Ngọc còn chống 10–20 năm; chỉ đang thu mua. Sách bìa kim loại da thú chỉ đọc không sao chép; Thạch mới bắt đầu bế quan.
+
+
+## Đăng ký trước chương 828
+models/ho-tinh-tinh-lan-xa-de-giang-828.png: HTT828 Hồ Tinh Tinh dáng nhỏ, tóc đen trâm hoa bạc, áo đen kín, không tai/đuôi hồ. Chương828 chỉ HIỂN LỘ khí tức Hợp Thể sơ kỳ, không phải chưa đạt Kim Tiên: cuối829 lộ tu vi thật Kim Tiên sơ kỳ. Câu “chưa phải Kim Tiên” trên sheet chỉ là trạng thái được biết, không dữ kiện tu vi thật. Lân Xa đen tơ vàng HAI bánh KHÔNG mui, một ghế ba người, đúng hai thú giống ngựa có một sừng/vảy. Đế Uyển Giang nối hai bờ trái Ma Ha/phải Lạc Già bằng cầu trắng hình vòm; chú thích tây/đông chỉ bố cục hình, không xác nhận hướng địa lý nguyên tác.
+
+
+## Chương 828 — Sơ thám phường thị: hoàn thành 5 trang
+Nguồn: file CHUONG 828.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/828/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Minh họa Tạo Vật/Hóa Linh chỉ là nội dung sách, không phải Hàn luyện thành. Sau ba năm công pháp Đại Ngũ Hành vẫn tầng thứ nhất.
+- Hồ Tinh Tinh giữ model áo đen, chỉ hiển lộ Hợp Thể sơ kỳ ở đây. Không thêm tai hoặc đuôi hồ.
+- Lân Xa hai bánh không mui, hai thú một sừng; đã sửa trang 4 bỏ mui sinh sai. Hai bờ trái Ma Ha/phải Lạc Già, cầu trắng hình vòm.
+- Đề Hồn chưa tỉnh, Thạch còn bế quan. Cuối chương mới ở khu vực cầu, chưa vào cửa hàng.
