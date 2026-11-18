@@ -1,0 +1,43 @@
+{
+  "chapter": 824,
+  "title": "Bất động",
+  "images": [
+    "/tmp/comic-batch-822-833/a4-824/trang-01.png",
+    "/tmp/comic-batch-822-833/a4-824/trang-02.png",
+    "/tmp/comic-batch-822-833/a4-824/trang-03.png",
+    "/tmp/comic-batch-822-833/a4-824/trang-04.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "da-duong-si-kim-dai-thien-kinh-822.png",
+    "la-thiet-bat-hoang-tu-voi-ma-than-823.png",
+    "han-lap-tinh-quang-chan-linh-hu-anh-824.png"
+  ],
+  "summary": "Hàn Lập đứng vững trước hai lần gia tăng sức kéo; Bát hoàng tử triệu pháp tướng đầu voi, xiềng xích cuối cùng đứt tung.",
+  "notes": "- Hàn Lập vẫn là người, giữ model V2; Chân Linh chỉ là hư ảnh năng lượng.\n- Hắc Thiến Ti bị phá trước, xích tím chỉ đứt ở trang 4.\n- Bát hoàng tử lùi ba bước; hai bên còn giữ pháp tướng cuối chương, Tam ca chưa xuất hiện.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-822-833/824p1.png",
+    "/tmp/comic-generated-822-833/824p2.png",
+    "/tmp/comic-generated-822-833/824p3.png",
+    "/tmp/comic-generated-822-833/824p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

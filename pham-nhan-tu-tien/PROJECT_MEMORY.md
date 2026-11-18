@@ -2009,3 +2009,17 @@ Nguồn: file CHUONG 823.txt do người dùng đính kèm. Mỗi PNG một tran
 - Phong Thiên Lệnh đã bị hủy do cạn lực lần đưa hai người về Ma Vực, không tái tạo; ký ức chỉ ánh vụn. Lệnh bài ID hai kim long chưa tới 825, không cho có sớm.
 - Sửa trang 3: trước lệnh bắt, hai người chưa bị dây xích quấn; chỉ cuối trang dây xích mới lao tới. Thạch phá xích, ngân quang phá phong long năng lượng và phi đao đen đứt hai. La Thiết được Bát cứu trước khi trúng đầu, còn sống.
 - Cuối chương Bát giả thân thiện, Hàn nhớ cùng phe Đại ca, chưa có Tam ca giải vây. Không đưa tình tiết 824/825 lên sớm.
+
+
+## Tham chiếu hiệu ứng mới trước 824
+models/han-lap-tinh-quang-chan-linh-hu-anh-824.png: Hàn giữ nguyên model V2 TEAL/trâm xanh, 36 tinh điểm trên áo ngực bụng và quang màng hộ thể. Không giáp vật lý mới, không lột áo. Chân Long/Thải Phượng/Cự Viên là HƯ ẢNH NĂNG LƯỢNG quanh Hàn, không Han hóa thân/không thú sống khác; Cự Viên theo mẫu Sơn Nhạc Cự Viên cũ một đầu hai tay. Nguồn nói tám–chín hư ảnh, chỉ nêu tên ba; sáu hình còn lại giữ ánh mờ, không thêm tên/chủng mới. Sơ đồ mũi tên chỉ minh họa, không bổ sung pháp môn.
+
+
+Cập nhật đọc nguồn đợt 822–833: đã đọc đủ cả 12 TXT; chương 827 đã đọc riêng lại toàn bộ sau khi đầu ra gộp bị cắt. Ghi chú trước rằng 827 còn cần đọc chỉ là trạng thái cũ. Kế hoạch chi tiết lưu trong /workspace/comic-batch-822-833/SOURCE_PLAN.md; không coi các kế hoạch là ảnh đã hoàn thành.
+
+
+## Chương 824 — Bất động: hoàn thành 4 trang
+Nguồn: file CHUONG 824.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/824/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Hàn Lập vẫn là người, giữ model V2; Chân Linh chỉ là hư ảnh năng lượng.
+- Hắc Thiến Ti bị phá trước, xích tím chỉ đứt ở trang 4.
+- Bát hoàng tử lùi ba bước; hai bên còn giữ pháp tướng cuối chương, Tam ca chưa xuất hiện.
