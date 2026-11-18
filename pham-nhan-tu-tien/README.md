@@ -85,6 +85,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 831: Tìm thầy hỏi thuốc](chapters/831/): 5 trang, hoàn thành; [PDF A4](chapters/831/chuong-831.pdf)
+
 - [Chương 830: Tuệ nhãn nhận chân giả lấy được](chapters/830/): 5 trang, hoàn thành; [PDF A4](chapters/830/chuong-830.pdf)
 
 - [Chương 829: Không cần đi theo](chapters/829/): 5 trang, hoàn thành; [PDF A4](chapters/829/chuong-829.pdf)

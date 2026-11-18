@@ -1,0 +1,51 @@
+{
+  "chapter": 831,
+  "title": "Tìm thầy hỏi thuốc",
+  "images": [
+    "/tmp/comic-batch-822-833/a4-831/trang-01.png",
+    "/tmp/comic-batch-822-833/a4-831/trang-02.png",
+    "/tmp/comic-batch-822-833/a4-831/trang-03.png",
+    "/tmp/comic-batch-822-833/a4-831/trang-04.png",
+    "/tmp/comic-batch-822-833/a4-831/trang-05.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+    "lieu-ky-la-tra-cu-luan-song-dao-772.png",
+    "kinh-vat-phuong-dai-chuong-quy-doc-muc-830.png",
+    "thach-pha-khong-hau-tim-xa-thu-825.png",
+    "ho-tinh-tinh-lan-xa-de-giang-828.png",
+    "cao-phong-thinh-nguyen-kien-thien-nhai-831.png"
+  ],
+  "summary": "Giải Đạo Nhân kể ký ức vụn rồi bế quan; Hàn Lập tìm thầy thuốc chưa gặp Khang đại sư, sau đó được Cao Phong tiếp cận.",
+  "notes": "- Sửa đầu trang 1: nhãn cầu đã lộ toàn màu vàng, không mọc lại lớp đá; thu vào túi, chỉ nghi biến dị chưa xác nhận.\n- Ký ức thành đen/sông xanh/cầu vòm chưa xác định; Tích Lân Không Cảnh chỉ được hỏi, chưa đi tới. Giải Đạo Nhân xin nâng hai đao, chưa hoàn thành.\n- Sau hơn mười ngày không còn người bám, vài tháng tìm tin ít kết quả. Lò Kiến Thiên Nhai đốt hương, không luyện đan.\n- Khang đại sư đang bế quan không gặp mặt, không chữa Đề Hồn. Cao Phong giữ model mới áo tím tóc đen mắt tím sao, chưa rõ lai lịch.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-822-833/831p1.png",
+    "/tmp/comic-generated-822-833/831p2.png",
+    "/tmp/comic-generated-822-833/831p3.png",
+    "/tmp/comic-generated-822-833/831p4.png",
+    "/tmp/comic-generated-822-833/831p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}

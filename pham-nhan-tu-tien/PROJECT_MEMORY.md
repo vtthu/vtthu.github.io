@@ -2090,3 +2090,15 @@ Nguồn: file CHUONG 830.txt do người dùng đính kèm. Mỗi PNG một tran
 - Kinh Vật Phường hai quầy riêng; hai tiểu nhị KV01/KV02 và đại chưởng quỹ giữ model mới, danh tính bà chưa lộ. Giáp bạc kín, không thay mặt/tóc.
 - Bản đồ50 + sách300 =350; thi thể Hôi Tiên Kim Tiên đã chết từ trước cộng500 đổi Độc Mục. Không phải cấp Thái Ất, không có giết mới.
 - Cuối chương Hàn mua Lân Xa riêng, về Trường Đình bóc vỏ đá lộ mắt vàng; chưa khẳng định biến dị hoặc cứu Đề Hồn.
+
+
+## Đăng ký trước 831
+models/cao-phong-thinh-nguyen-kien-thien-nhai-831.png: CP831 Cao Phong nam cao tóc đen búi cao áo tím viền đen, mắt tím đậm ánh sao, thân phận chưa rõ, không đội vương miện/không gán hoàng tử. TN831 chưởng quỹ nam trung niên hơi mập cẩm bào xanh đậm hoa vàng, ria/râu cằm ngắn, khác Lỗ Đồng/Kim Tê. Kiến Thiên Nhai quảng trường trắng/lò đồng xanh mười trượng đốt huân hương không luyện đan, bảy đường dọc bảy ngang. Khang đại sư chỉ được nhắc đang bế quan, không tạo chân dung. Ký ức Giải Đạo Nhân thành đen/sông xanh/cầu vòm là nơi CHƯA xác định, không nhận là Thông Tế Cầu.
+
+
+## Chương 831 — Tìm thầy hỏi thuốc: hoàn thành 5 trang
+Nguồn: file CHUONG 831.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/831/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Sửa đầu trang 1: nhãn cầu đã lộ toàn màu vàng, không mọc lại lớp đá; thu vào túi, chỉ nghi biến dị chưa xác nhận.
+- Ký ức thành đen/sông xanh/cầu vòm chưa xác định; Tích Lân Không Cảnh chỉ được hỏi, chưa đi tới. Giải Đạo Nhân xin nâng hai đao, chưa hoàn thành.
+- Sau hơn mười ngày không còn người bám, vài tháng tìm tin ít kết quả. Lò Kiến Thiên Nhai đốt hương, không luyện đan.
+- Khang đại sư đang bế quan không gặp mặt, không chữa Đề Hồn. Cao Phong giữ model mới áo tím tóc đen mắt tím sao, chưa rõ lai lịch.
