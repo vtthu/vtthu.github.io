@@ -2196,3 +2196,8 @@ Nguồn: file CHUONG 849.txt do người dùng đính kèm. Mỗi PNG một tran
 Nguồn: file CHUONG 850.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/850/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Chỉ thuần một Phù Hành Điểu. Cả ba qua đêm trên đảo cũ.
 - Hàn thử nuốt hai thú hạch, điểm huyền khiếu ở đùi mới có dấu hiệu khai mở. Thạch mới lấy tinh hạch nhỏ để thử.
+
+
+## Chương 851 — Hoàn Toàn Không Có Tung Tích: hoàn thành 4 trang
+Nguồn: file CHUONG 851.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/851/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Chỉ một Phù Hành Điểu đưa từng người qua lần đầu. Về sau mất cả ba chim. Đạp Không Quy đầu trâu đưa nhóm tới Hạc Cốc.
