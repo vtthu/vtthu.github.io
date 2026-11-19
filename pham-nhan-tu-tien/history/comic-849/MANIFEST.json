@@ -1,0 +1,43 @@
+{
+  "chapter": 849,
+  "title": "Ba Người Đi Bắt Chim",
+  "images": [
+    "/tmp/comic-batch-847-858/a4-849/trang-01.png",
+    "/tmp/comic-batch-847-858/a4-849/trang-02.png",
+    "/tmp/comic-batch-847-858/a4-849/trang-03.png",
+    "/tmp/comic-batch-847-858/a4-849/trang-04.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+    "bach-giap-giai-hoi-lan-848.png",
+    "phu-hanh-dieu-849.png"
+  ],
+  "summary": "Ba người phát hiện bầy chim có thể vượt vực hắc vụ, đuổi theo đến sườn núi và tìm cách bắt một con.",
+  "notes": "- Dùng mẫu Phù Hành Điểu đã lưu. Lông xanh, cổ xám trắng, khí huyệt dưới chân tạo phản lực.\n- Thạch bị đá văng, Hàn lên được lưng chim. Chương kết khi mỏ chim lao tới mắt trái Hàn, chưa thuần phục hoặc vượt vực.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-847-858/849p1.png",
+    "/tmp/comic-generated-847-858/849p2.png",
+    "/tmp/comic-generated-847-858/849p3.png",
+    "/tmp/comic-generated-847-858/849p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

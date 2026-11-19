@@ -2184,3 +2184,9 @@ Nguồn: file CHUONG 847.txt do người dùng đính kèm. Mỗi PNG một tran
 Nguồn: file CHUONG 848.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/848/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Dùng model cũ của ba nhân vật và ảnh tham chiếu Bạch Giáp Giải mới.
 - Thần thức bị giới hạn. Giải Đạo Nhân tiết kiệm Tiên Nguyên Thạch. Cuối chương ba người mới tới mép đảo.
+
+
+## Chương 849 — Ba Người Đi Bắt Chim: hoàn thành 4 trang
+Nguồn: file CHUONG 849.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/849/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Dùng mẫu Phù Hành Điểu đã lưu. Lông xanh, cổ xám trắng, khí huyệt dưới chân tạo phản lực.
+- Thạch bị đá văng, Hàn lên được lưng chim. Chương kết khi mỏ chim lao tới mắt trái Hàn, chưa thuần phục hoặc vượt vực.
