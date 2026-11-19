@@ -2178,3 +2178,9 @@ Model mới:
 Nguồn: file CHUONG 847.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/847/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Từ Phúc mở cửa một chiều bằng ấn đen. Hàn Lập V2, Thạch Xuyên Không TXK652 và Giải Đạo Nhân GDN-01 dùng ảnh mẫu đã lưu.
 - Trong bí cảnh, cả nhóm dùng sức thân thể và binh khí. Kết chương thu hai thú hạch.
+
+
+## Chương 848 — Đường Dài Đằng Đẵng: hoàn thành 4 trang
+Nguồn: file CHUONG 848.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/848/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Dùng model cũ của ba nhân vật và ảnh tham chiếu Bạch Giáp Giải mới.
+- Thần thức bị giới hạn. Giải Đạo Nhân tiết kiệm Tiên Nguyên Thạch. Cuối chương ba người mới tới mép đảo.

@@ -1,0 +1,43 @@
+{
+  "chapter": 848,
+  "title": "Đường Dài Đằng Đẵng",
+  "images": [
+    "/tmp/comic-batch-847-858/a4-848/trang-01.png",
+    "/tmp/comic-batch-847-858/a4-848/trang-02.png",
+    "/tmp/comic-batch-847-858/a4-848/trang-03.png",
+    "/tmp/comic-batch-847-858/a4-848/trang-04.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+    "tu-phuc-tich-lan-di-thu-847.png",
+    "bach-giap-giai-hoi-lan-848.png"
+  ],
+  "summary": "Ba người phát hiện công dụng của thú hạch, định hướng bằng bản đồ da thú và đến vực hắc vụ sau khi gặp đàn Bạch Giáp Giải.",
+  "notes": "- Dùng model cũ của ba nhân vật và ảnh tham chiếu Bạch Giáp Giải mới.\n- Thần thức bị giới hạn. Giải Đạo Nhân tiết kiệm Tiên Nguyên Thạch. Cuối chương ba người mới tới mép đảo.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-847-858/848p1.png",
+    "/tmp/comic-generated-847-858/848p2.png",
+    "/tmp/comic-generated-847-858/848p3.png",
+    "/tmp/comic-generated-847-858/848p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
