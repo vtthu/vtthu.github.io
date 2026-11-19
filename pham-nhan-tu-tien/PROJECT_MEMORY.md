@@ -2190,3 +2190,9 @@ Nguồn: file CHUONG 848.txt do người dùng đính kèm. Mỗi PNG một tran
 Nguồn: file CHUONG 849.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/849/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Dùng mẫu Phù Hành Điểu đã lưu. Lông xanh, cổ xám trắng, khí huyệt dưới chân tạo phản lực.
 - Thạch bị đá văng, Hàn lên được lưng chim. Chương kết khi mỏ chim lao tới mắt trái Hàn, chưa thuần phục hoặc vượt vực.
+
+
+## Chương 850 — Diệu Dụng: hoàn thành 4 trang
+Nguồn: file CHUONG 850.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/850/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Chỉ thuần một Phù Hành Điểu. Cả ba qua đêm trên đảo cũ.
+- Hàn thử nuốt hai thú hạch, điểm huyền khiếu ở đùi mới có dấu hiệu khai mở. Thạch mới lấy tinh hạch nhỏ để thử.

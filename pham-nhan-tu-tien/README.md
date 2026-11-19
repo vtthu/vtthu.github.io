@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 850: Diệu Dụng](chapters/850/): 4 trang, hoàn thành; [PDF A4](chapters/850/chuong-850.pdf)
+
 - [Chương 849: Ba Người Đi Bắt Chim](chapters/849/): 4 trang, hoàn thành; [PDF A4](chapters/849/chuong-849.pdf)
 
 - [Chương 848: Đường Dài Đằng Đẵng](chapters/848/): 4 trang, hoàn thành; [PDF A4](chapters/848/chuong-848.pdf)
