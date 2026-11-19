@@ -2424,3 +2424,9 @@ Nguồn: file CHUONG 850.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 851 — Hoàn Toàn Không Có Tung Tích: hoàn thành 4 trang
 Nguồn: file CHUONG 851.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/851/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Chỉ một Phù Hành Điểu đưa từng người qua lần đầu. Về sau mất cả ba chim. Đạp Không Quy đầu trâu đưa nhóm tới Hạc Cốc.
+
+
+## Chương 852 — Manh Mối: hoàn thành 4 trang
+Nguồn: file CHUONG 852.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/852/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Chưa gặp lại Tử Linh. Thêm model Thần Dương, thợ săn và lân hổ chín gai.
+- Model riêng models/than-duong-852.png giữ đúng mặt vuông, búi đen ngắn, da nâu, giáp xương, không xăm má. Thợ săn trẻ có hình xăm sừng trâu là người khác.

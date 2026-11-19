@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 852: Manh Mối](chapters/852/): 4 trang, hoàn thành; [PDF A4](chapters/852/chuong-852.pdf)
+
 - [Chương 851: Hoàn Toàn Không Có Tung Tích](chapters/851/): 4 trang, hoàn thành; [PDF A4](chapters/851/chuong-851.pdf)
 
 - [Chương 850: Diệu Dụng](chapters/850/): 4 trang, hoàn thành; [PDF A4](chapters/850/chuong-850.pdf)
