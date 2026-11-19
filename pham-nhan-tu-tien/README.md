@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 847: Có Vào Không Ra](chapters/847/): 4 trang, hoàn thành; [PDF A4](chapters/847/chuong-847.pdf)
+
 - [Chương 833: Yết kiến](chapters/833/): 5 trang, hoàn thành; [PDF A4](chapters/833/chuong-833.pdf)
 
 - [Chương 832: Xuất quan](chapters/832/): 5 trang, hoàn thành; [PDF A4](chapters/832/chuong-832.pdf)

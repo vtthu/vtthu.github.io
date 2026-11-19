@@ -1,0 +1,43 @@
+{
+  "chapter": 847,
+  "title": "Có Vào Không Ra",
+  "images": [
+    "/tmp/comic-batch-847-858/a4-847/trang-01.png",
+    "/tmp/comic-batch-847-858/a4-847/trang-02.png",
+    "/tmp/comic-batch-847-858/a4-847/trang-03.png",
+    "/tmp/comic-batch-847-858/a4-847/trang-04.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "ho-tam-thach-xuyen-khong-nhiet-hoa-652.png",
+    "giai-dao-nhan-hoa-chi-bat-nguyen-624.png",
+    "lieu-ky-la-tra-cu-luan-song-dao-772.png",
+    "tu-phuc-tich-lan-di-thu-847.png"
+  ],
+  "summary": "Hàn Lập và Thạch Xuyên Không qua cửa một chiều vào Tích Lân Không Cảnh. Ở đảo hoang, cả hai cùng Giải Đạo Nhân chống lại hai dị thú và thu được thú hạch.",
+  "notes": "- Từ Phúc mở cửa một chiều bằng ấn đen. Hàn Lập V2, Thạch Xuyên Không TXK652 và Giải Đạo Nhân GDN-01 dùng ảnh mẫu đã lưu.\n- Trong bí cảnh, cả nhóm dùng sức thân thể và binh khí. Kết chương thu hai thú hạch.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-847-858/847p1.png",
+    "/tmp/comic-generated-847-858/847p2.png",
+    "/tmp/comic-generated-847-858/847p3.png",
+    "/tmp/comic-generated-847-858/847p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

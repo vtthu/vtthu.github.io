@@ -2172,3 +2172,9 @@ Model mới:
 - models/thach-pha-khong-hau-tim-xa-thu-825.png
 - models/tien-linh-cac-tieu-nhi-thach-pha-khong-hac-y-829.png
 - models/u-minh-thien-sat-te-dan-833.png
+
+
+## Chương 847 — Có Vào Không Ra: hoàn thành 4 trang
+Nguồn: file CHUONG 847.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/847/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Từ Phúc mở cửa một chiều bằng ấn đen. Hàn Lập V2, Thạch Xuyên Không TXK652 và Giải Đạo Nhân GDN-01 dùng ảnh mẫu đã lưu.
+- Trong bí cảnh, cả nhóm dùng sức thân thể và binh khí. Kết chương thu hai thú hạch.
