@@ -5390,23 +5390,49 @@
           1492
         ]
       }
+    },
+    {
+      "chapter": 861,
+      "pages": 4,
+      "directory": "chapters/861",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/861/chuong-861.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1492
+        ],
+        "trang-02.png": [
+          1055,
+          1492
+        ],
+        "trang-03.png": [
+          1055,
+          1492
+        ],
+        "trang-04.png": [
+          1055,
+          1492
+        ]
+      }
     }
   ],
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 516569,
-      "sha256": "91fd8920feeeb093ae81d55a58c16739be70252d12666fb31e75b6206d6ab011"
+      "bytes": 517069,
+      "sha256": "56269f9fb4835fc33818a3e98268e797b8c074a3a687bea69688a4873935421b"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 462785,
-      "sha256": "a48d9bc7e6398d489d60d26d2a046a70d79a415794fce0bce3bf80ce651e1a09"
+      "bytes": 463285,
+      "sha256": "c3bf124e5735099cffe2d19f2cf018f6a756eda68d7204dcc68c92f0e763550f"
     },
     {
       "path": "README.md",
-      "bytes": 25769,
-      "sha256": "384619cce6541ef37189fa5f6da3817a82f392eeaf2bd9d5d488d22b9d28b58f"
+      "bytes": 25903,
+      "sha256": "91729e87a0476dd2ae784b87ea4e9e083dddd4bf3ceccc828646278c567d0c3a"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -13009,6 +13035,41 @@
       "sha256": "1f9592bce040aa8635f88570f3486a0ac462e7a87954ff8c7b179d46aa53ff8c"
     },
     {
+      "path": "chapters/861/README.md",
+      "bytes": 561,
+      "sha256": "949c84c311561e96d763c7106f2cf426ff7897313fd393548f06c70d7e568f0c"
+    },
+    {
+      "path": "chapters/861/SOURCE.txt",
+      "bytes": 16316,
+      "sha256": "99223a6391a8521113c9e03a807b1c76509a8aff23a2f3bd47170c6d5f19edca"
+    },
+    {
+      "path": "chapters/861/chuong-861.pdf",
+      "bytes": 17728582,
+      "sha256": "c3d2e06d072ff73155db753dc21c9c60892d454441904fd7e046c6a9e472378a"
+    },
+    {
+      "path": "chapters/861/trang-01.png",
+      "bytes": 3457909,
+      "sha256": "8a7f5874805a866e736d519f52fa80485ac6a2a429e55358c98fa76cf38993a4"
+    },
+    {
+      "path": "chapters/861/trang-02.png",
+      "bytes": 3725920,
+      "sha256": "f33bd6550ce986e363d49a34e9802b1da3d6a533af456e03774fbb018fe3cdbc"
+    },
+    {
+      "path": "chapters/861/trang-03.png",
+      "bytes": 3505957,
+      "sha256": "e52fbcae04ef2c3e5835d79c39071387ddcd832f8ec6874e042607eab7f78eba"
+    },
+    {
+      "path": "chapters/861/trang-04.png",
+      "bytes": 3489920,
+      "sha256": "98e5d7c7eca2696afcbb51cce9dee3f1deb054ff50bcca87a2225a991912a9f5"
+    },
+    {
       "path": "drafts/468/README.md",
       "bytes": 844,
       "sha256": "ec62133989ea1c23b6d2d938d8724bded7fcb5238871fe86b25f6132cb2c74c7"
@@ -16549,6 +16610,26 @@
       "sha256": "c456b55debe854fa6983bfdaa5b28baadd55f87cde145bf2743bb166222d4ac8"
     },
     {
+      "path": "history/comic-861/CHARACTER_MEMORY.md",
+      "bytes": 517069,
+      "sha256": "56269f9fb4835fc33818a3e98268e797b8c074a3a687bea69688a4873935421b"
+    },
+    {
+      "path": "history/comic-861/MANIFEST.json",
+      "bytes": 1199,
+      "sha256": "64f9ededf55ee92d10ab726e16b7bb98672f4dee041d73bad6b84daed283ec95"
+    },
+    {
+      "path": "history/comic-861/PROJECT_MEMORY.md",
+      "bytes": 463285,
+      "sha256": "c3bf124e5735099cffe2d19f2cf018f6a756eda68d7204dcc68c92f0e763550f"
+    },
+    {
+      "path": "history/comic-861/README.md",
+      "bytes": 495,
+      "sha256": "1e252b6324edcec508949c6b2f14007b7c115434c89edf35ae618d068dd0523f"
+    },
+    {
       "path": "history/comic-summary-465-470/CHARACTER_MEMORY.md",
       "bytes": 45781,
       "sha256": "79205f469e487ab72667d25ae1746c9e1bd990aed72046842aa6e81c970e951f"
@@ -16852,6 +16933,11 @@
       "path": "models/han-lap-hac-phong-nhan-vat-520.png",
       "bytes": 2653595,
       "sha256": "59262b4291724c330b6538d7344235b9e6c3ab281554a1aeec3536b6b5ece009"
+    },
+    {
+      "path": "models/han-lap-huyen-dau-si-mat-seo-861.png",
+      "bytes": 2661785,
+      "sha256": "489cf292ebf595d69aa94ff3d4aa2fb0a88d639f44e63eb3c6cdea344d9f5aaa"
     },
     {
       "path": "models/han-lap-le-dao-huu-cai-trang-603.png",

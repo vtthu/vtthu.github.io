@@ -1,0 +1,41 @@
+{
+  "chapter": 861,
+  "title": "Chương 861: Chuyển Hóa Hấp Thu",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-861/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-861/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-861/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-861/trang-04.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "dong-phu-tam-phap-chuong-thien-binh-547.png"
+  ],
+  "summary": "Hàn Lập đổi ba hạch Tháp La Thú, đẩy lui Mặt Sẹo và phát hiện Chưởng Thiên Bình giúp điều hòa Tinh Thần chi lực.",
+  "notes": "- Bộ Huyền Đấu Sĩ chỉ thay y phục, giữ gương mặt Hàn Lập V2 và trâm ngọc. Huyền khiếu thứ hai đang khai mở.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/861p1.png",
+    "/tmp/comic-generated-860-877/861p2.png",
+    "/tmp/comic-generated-860-877/861p3.png",
+    "/tmp/comic-generated-860-877/861p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
