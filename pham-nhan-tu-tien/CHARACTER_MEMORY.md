@@ -2445,3 +2445,8 @@ Nguồn: file CHUONG 861.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 862 — Chương 862: Tiếng Hò Hét Vang Khắp Nơi: hoàn thành 4 trang
 Nguồn: file CHUONG 862.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/862/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Phân biệt Độc Long một mắt, quản sự một sừng và vị khán giả một sừng. Trận đấu chưa diễn ra ở cuối chương.
+
+
+## Chương 863 — Chương 863: Không Thể Đánh Tiếp Rồi: hoàn thành 4 trang
+Nguồn: file CHUONG 863.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/863/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Hai đồng tử nằm trong cùng một mắt. Hổ Bí chứng kiến trận đấu từ khán đài.

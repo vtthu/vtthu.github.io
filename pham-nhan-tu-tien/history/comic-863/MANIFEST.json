@@ -1,0 +1,42 @@
+{
+  "chapter": 863,
+  "title": "Chương 863: Không Thể Đánh Tiếp Rồi",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-863/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-863/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-863/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-863/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "doc-long-doc-giac-ho-lan-thu-862.png",
+    "ho-bi-863.png",
+    "than-duong-852.png"
+  ],
+  "summary": "Hàn Lập đấu Hổ Lân Thú và buộc nó hiện đồng tử thứ hai.",
+  "notes": "- Hai đồng tử nằm trong cùng một mắt. Hổ Bí chứng kiến trận đấu từ khán đài.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/863p1.png",
+    "/tmp/comic-generated-860-877/863p2.png",
+    "/tmp/comic-generated-860-877/863p3.png",
+    "/tmp/comic-generated-860-877/863p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
