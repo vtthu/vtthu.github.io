@@ -1,0 +1,41 @@
+{
+  "chapter": 872,
+  "title": "Đánh Cược",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-872/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-872/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-872/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-872/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "doc-long-doc-giac-ho-lan-thu-862.png",
+    "cot-thien-tam-thien-cot-minh-870.png"
+  ],
+  "summary": "Hàn Lập và Độc Long giao đấu sau khi đặt cược.",
+  "notes": "- Giữ Độc Long một mắt, hình xăm gấu xanh.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/872p1.png",
+    "/tmp/comic-generated-860-877/872p2.png",
+    "/tmp/comic-generated-860-877/872p3.png",
+    "/tmp/comic-generated-860-877/872p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

@@ -2490,3 +2490,8 @@ Nguồn: file CHUONG 870.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 871 — Lên Đài Xem Thực Hư: hoàn thành 4 trang
 Nguồn: file CHUONG 871.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/871/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Hàn Lập đối thoại dưới danh xưng Lệ Phi Vũ.
+
+
+## Chương 872 — Đánh Cược: hoàn thành 4 trang
+Nguồn: file CHUONG 872.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/872/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Giữ Độc Long một mắt, hình xăm gấu xanh.
