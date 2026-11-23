@@ -1,0 +1,40 @@
+{
+  "chapter": 862,
+  "title": "Chương 862: Tiếng Hò Hét Vang Khắp Nơi",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-862/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-862/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-862/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-862/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "doc-long-doc-giac-ho-lan-thu-862.png"
+  ],
+  "summary": "Độc Long hoãn việc tìm Hàn Lập. Hàn Lập mở huyền khiếu thứ hai của công pháp và bước ra đấu trường đón trận đầu.",
+  "notes": "- Phân biệt Độc Long một mắt, quản sự một sừng và vị khán giả một sừng. Trận đấu chưa diễn ra ở cuối chương.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/862p1.png",
+    "/tmp/comic-generated-860-877/862p2.png",
+    "/tmp/comic-generated-860-877/862p3.png",
+    "/tmp/comic-generated-860-877/862p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 862: Chương 862: Tiếng Hò Hét Vang Khắp Nơi](chapters/862/): 4 trang, hoàn thành; [PDF A4](chapters/862/chuong-862.pdf)
+
 - [Chương 861: Chương 861: Chuyển Hóa Hấp Thu](chapters/861/): 4 trang, hoàn thành; [PDF A4](chapters/861/chuong-861.pdf)
 
 - [Chương 860: Chương 860: Huyền Đấu Sĩ Và Huyền Đấu Trường](chapters/860/): 5 trang, hoàn thành; [PDF A4](chapters/860/chuong-860.pdf)
