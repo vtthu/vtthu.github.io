@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 867: Khiêu Chiến Tiếp](chapters/867/): 4 trang, hoàn thành; [PDF A4](chapters/867/chuong-867.pdf)
+
 - [Chương 866: Âm Thầm Hãm Hại](chapters/866/): 4 trang, hoàn thành; [PDF A4](chapters/866/chuong-866.pdf)
 
 - [Chương 865: Huyết Trì](chapters/865/): 4 trang, hoàn thành; [PDF A4](chapters/865/chuong-865.pdf)

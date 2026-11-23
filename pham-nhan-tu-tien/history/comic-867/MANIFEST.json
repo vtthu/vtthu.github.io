@@ -1,0 +1,43 @@
+{
+  "chapter": 867,
+  "title": "Khiêu Chiến Tiếp",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-867/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-867/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-867/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-867/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "tran-lam-giap-si-huyet-tri-865.png",
+    "thuc-tam-trung-thien-tinh-boi-thong-son-vien-866.png",
+    "doc-long-doc-giac-ho-lan-thu-862.png",
+    "than-duong-852.png"
+  ],
+  "summary": "Hàn Lập mượn Thiên Tinh Bối, tiếp tục khai khiếu rồi trở lại đấu trường.",
+  "notes": "- Thiên Tinh Bối đặt trong hộp đen. Hàn Lập mở 41 huyền khiếu trước trận gặp Thông Sơn Viên.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/867p1.png",
+    "/tmp/comic-generated-860-877/867p2.png",
+    "/tmp/comic-generated-860-877/867p3.png",
+    "/tmp/comic-generated-860-877/867p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
