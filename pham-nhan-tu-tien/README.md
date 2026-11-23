@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 865: Huyết Trì](chapters/865/): 4 trang, hoàn thành; [PDF A4](chapters/865/chuong-865.pdf)
+
 - [Chương 864: Chương 864: Ngoài Dự Liệu](chapters/864/): 4 trang, hoàn thành; [PDF A4](chapters/864/chuong-864.pdf)
 
 - [Chương 863: Chương 863: Không Thể Đánh Tiếp Rồi](chapters/863/): 4 trang, hoàn thành; [PDF A4](chapters/863/chuong-863.pdf)

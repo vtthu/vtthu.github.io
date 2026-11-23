@@ -2455,3 +2455,8 @@ Nguồn: file CHUONG 863.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 864 — Chương 864: Ngoài Dự Liệu: hoàn thành 4 trang
 Nguồn: file CHUONG 864.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/864/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Giữ nhận dạng riêng của Đỗ Thanh Dương, Thần Dương và Hổ Bí.
+
+
+## Chương 865 — Huyết Trì: hoàn thành 4 trang
+Nguồn: file CHUONG 865.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/865/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Trần Lâm có hoa văn xoắn bên trái mặt.
