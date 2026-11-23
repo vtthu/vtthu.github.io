@@ -1,0 +1,43 @@
+{
+  "chapter": 866,
+  "title": "Âm Thầm Hãm Hại",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-866/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-866/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-866/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-866/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "tran-lam-giap-si-huyet-tri-865.png",
+    "quan-su-ao-xam-hac-kiep-trung-860.png",
+    "thuc-tam-trung-thien-tinh-boi-thong-son-vien-866.png",
+    "dong-phu-tam-phap-chuong-thien-binh-547.png"
+  ],
+  "summary": "Ba Thực Tâm Trùng tập kích lúc Hàn Lập khai khiếu. Trần Lâm nhận ra loài trùng và giải thích mối nguy.",
+  "notes": "- Ảnh tham chiếu 866: dùng phần trái cho Thực Tâm Trùng, phần giữa cho Thiên Tinh Bối. Thông Sơn Viên dùng ảnh chuẩn chương 868.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/866p1.png",
+    "/tmp/comic-generated-860-877/866p2.png",
+    "/tmp/comic-generated-860-877/866p3.png",
+    "/tmp/comic-generated-860-877/866p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
