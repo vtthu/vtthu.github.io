@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 860: Chương 860: Huyền Đấu Sĩ Và Huyền Đấu Trường](chapters/860/): 5 trang, hoàn thành; [PDF A4](chapters/860/chuong-860.pdf)
+
 - [Chương 852: Manh Mối](chapters/852/): 4 trang, hoàn thành; [PDF A4](chapters/852/chuong-852.pdf)
 
 - [Chương 851: Hoàn Toàn Không Có Tung Tích](chapters/851/): 4 trang, hoàn thành; [PDF A4](chapters/851/chuong-851.pdf)

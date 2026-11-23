@@ -2430,3 +2430,8 @@ Nguồn: file CHUONG 851.txt do người dùng đính kèm. Mỗi PNG một tran
 Nguồn: file CHUONG 852.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/852/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Chưa gặp lại Tử Linh. Thêm model Thần Dương, thợ săn và lân hổ chín gai.
 - Model riêng models/than-duong-852.png giữ đúng mặt vuông, búi đen ngắn, da nâu, giáp xương, không xăm má. Thợ săn trẻ có hình xăm sừng trâu là người khác.
+
+
+## Chương 860 — Chương 860: Huyền Đấu Sĩ Và Huyền Đấu Trường: hoàn thành 5 trang
+Nguồn: file CHUONG 860.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/860/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
+- Hàn Lập giữ tạo hình V2. Thêm mẫu thanh niên áo xám, Hắc Kiếp Trùng và lệnh bài hai mặt.

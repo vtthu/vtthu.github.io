@@ -1,0 +1,47 @@
+{
+  "chapter": 860,
+  "title": "Chương 860: Huyền Đấu Sĩ Và Huyền Đấu Trường",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-860/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-860/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-860/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-860/trang-04.png",
+    "/tmp/comic-batch-860-877/a4-860/trang-05.png"
+  ],
+  "models": [
+    "han-lap-v2.png",
+    "than-duong-852.png",
+    "quan-su-ao-xam-hac-kiep-trung-860.png"
+  ],
+  "summary": "Hàn Lập phát hiện Hắc Kiếp Trùng, nhận số 332 và tìm hiểu cách dùng Huyền điểm trong Huyền Đấu Trường.",
+  "notes": "- Hàn Lập giữ tạo hình V2. Thêm mẫu thanh niên áo xám, Hắc Kiếp Trùng và lệnh bài hai mặt.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/860p1.png",
+    "/tmp/comic-generated-860-877/860p2.png",
+    "/tmp/comic-generated-860-877/860p3.png",
+    "/tmp/comic-generated-860-877/860p4.png",
+    "/tmp/comic-generated-860-877/860p5.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ],
+    "trang-05.png": [
+      1055,
+      1492
+    ]
+  }
+}
