@@ -2470,3 +2470,8 @@ Nguồn: file CHUONG 866.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 867 — Khiêu Chiến Tiếp: hoàn thành 4 trang
 Nguồn: file CHUONG 867.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/867/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Thiên Tinh Bối đặt trong hộp đen. Hàn Lập mở 41 huyền khiếu trước trận gặp Thông Sơn Viên.
+
+
+## Chương 868 — Hoặc Sống Hoặc Chết: hoàn thành 4 trang
+Nguồn: file CHUONG 868.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/868/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Thông Sơn Viên có da xanh phủ vảy, tay dài và sẹo cũ.

@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 868: Hoặc Sống Hoặc Chết](chapters/868/): 4 trang, hoàn thành; [PDF A4](chapters/868/chuong-868.pdf)
+
 - [Chương 867: Khiêu Chiến Tiếp](chapters/867/): 4 trang, hoàn thành; [PDF A4](chapters/867/chuong-867.pdf)
 
 - [Chương 866: Âm Thầm Hãm Hại](chapters/866/): 4 trang, hoàn thành; [PDF A4](chapters/866/chuong-866.pdf)
