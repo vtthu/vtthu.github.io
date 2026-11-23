@@ -1,0 +1,43 @@
+{
+  "chapter": 869,
+  "title": "Thanh Danh Lên Cao",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-869/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-869/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-869/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-869/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "thong-son-vien-lan-giap-868.png",
+    "doc-long-doc-giac-ho-lan-thu-862.png",
+    "tran-lam-giap-si-huyet-tri-865.png",
+    "than-duong-852.png"
+  ],
+  "summary": "Hàn Lập đánh bại Thông Sơn Viên, chữa thương và tiếp tục luyện công.",
+  "notes": "- Giữ thiết kế Thông Sơn Viên chương 868.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/869p1.png",
+    "/tmp/comic-generated-860-877/869p2.png",
+    "/tmp/comic-generated-860-877/869p3.png",
+    "/tmp/comic-generated-860-877/869p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

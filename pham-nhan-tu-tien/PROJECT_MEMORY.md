@@ -2252,3 +2252,8 @@ Nguồn: file CHUONG 867.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 868 — Hoặc Sống Hoặc Chết: hoàn thành 4 trang
 Nguồn: file CHUONG 868.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/868/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Thông Sơn Viên có da xanh phủ vảy, tay dài và sẹo cũ.
+
+
+## Chương 869 — Thanh Danh Lên Cao: hoàn thành 4 trang
+Nguồn: file CHUONG 869.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/869/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Giữ thiết kế Thông Sơn Viên chương 868.
