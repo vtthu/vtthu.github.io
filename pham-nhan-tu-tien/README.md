@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 870: Cốt Thiên Tầm Mời](chapters/870/): 4 trang, hoàn thành; [PDF A4](chapters/870/chuong-870.pdf)
+
 - [Chương 869: Thanh Danh Lên Cao](chapters/869/): 4 trang, hoàn thành; [PDF A4](chapters/869/chuong-869.pdf)
 
 - [Chương 868: Hoặc Sống Hoặc Chết](chapters/868/): 4 trang, hoàn thành; [PDF A4](chapters/868/chuong-868.pdf)

@@ -2480,3 +2480,8 @@ Nguồn: file CHUONG 868.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 869 — Thanh Danh Lên Cao: hoàn thành 4 trang
 Nguồn: file CHUONG 869.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/869/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Giữ thiết kế Thông Sơn Viên chương 868.
+
+
+## Chương 870 — Cốt Thiên Tầm Mời: hoàn thành 4 trang
+Nguồn: file CHUONG 870.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/870/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Cốt Thiên Tầm mặc vàng, Diêu Ly mặc tím. Độc Long có một mắt và hình xăm gấu xanh.
