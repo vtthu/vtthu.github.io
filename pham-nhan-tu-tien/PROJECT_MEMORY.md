@@ -2262,3 +2262,8 @@ Nguồn: file CHUONG 869.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 870 — Cốt Thiên Tầm Mời: hoàn thành 4 trang
 Nguồn: file CHUONG 870.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/870/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Cốt Thiên Tầm mặc vàng, Diêu Ly mặc tím. Độc Long có một mắt và hình xăm gấu xanh.
+
+
+## Chương 871 — Lên Đài Xem Thực Hư: hoàn thành 4 trang
+Nguồn: file CHUONG 871.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/871/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Hàn Lập đối thoại dưới danh xưng Lệ Phi Vũ.

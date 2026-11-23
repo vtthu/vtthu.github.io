@@ -1,0 +1,41 @@
+{
+  "chapter": 871,
+  "title": "Lên Đài Xem Thực Hư",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-871/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-871/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-871/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-871/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "doc-long-doc-giac-ho-lan-thu-862.png",
+    "cot-thien-tam-thien-cot-minh-870.png"
+  ],
+  "summary": "Độc Long tìm Hàn Lập. Hai người đến đài đấu để thử thực lực.",
+  "notes": "- Hàn Lập đối thoại dưới danh xưng Lệ Phi Vũ.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/871p1.png",
+    "/tmp/comic-generated-860-877/871p2.png",
+    "/tmp/comic-generated-860-877/871p3.png",
+    "/tmp/comic-generated-860-877/871p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

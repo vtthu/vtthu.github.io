@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 871: Lên Đài Xem Thực Hư](chapters/871/): 4 trang, hoàn thành; [PDF A4](chapters/871/chuong-871.pdf)
+
 - [Chương 870: Cốt Thiên Tầm Mời](chapters/870/): 4 trang, hoàn thành; [PDF A4](chapters/870/chuong-870.pdf)
 
 - [Chương 869: Thanh Danh Lên Cao](chapters/869/): 4 trang, hoàn thành; [PDF A4](chapters/869/chuong-869.pdf)
