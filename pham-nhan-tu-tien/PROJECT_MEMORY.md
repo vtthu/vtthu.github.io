@@ -2227,3 +2227,8 @@ Nguồn: file CHUONG 862.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 863 — Chương 863: Không Thể Đánh Tiếp Rồi: hoàn thành 4 trang
 Nguồn: file CHUONG 863.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/863/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Hai đồng tử nằm trong cùng một mắt. Hổ Bí chứng kiến trận đấu từ khán đài.
+
+
+## Chương 864 — Chương 864: Ngoài Dự Liệu: hoàn thành 4 trang
+Nguồn: file CHUONG 864.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/864/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Giữ nhận dạng riêng của Đỗ Thanh Dương, Thần Dương và Hổ Bí.
