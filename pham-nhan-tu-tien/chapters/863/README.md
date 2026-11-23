@@ -1,4 +1,4 @@
-# Chương 863: Chương 863: Không Thể Đánh Tiếp Rồi
+# Chương 863: Không Thể Đánh Tiếp Rồi
 
 4 trang PNG riêng, tỉ lệ A4 dọc; chuyển thể từ văn bản người dùng đính kèm, có thoại, suy nghĩ và lời dẫn. Dùng model tham chiếu trong bộ nhớ dự án.
 

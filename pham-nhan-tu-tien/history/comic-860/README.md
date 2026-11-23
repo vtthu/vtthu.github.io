@@ -1,4 +1,4 @@
-# Chương 860: Chương 860: Huyền Đấu Sĩ Và Huyền Đấu Trường
+# Chương 860: Huyền Đấu Sĩ Và Huyền Đấu Trường
 
 5 trang PNG riêng, tỉ lệ A4 dọc; chuyển thể từ văn bản người dùng đính kèm, có thoại, suy nghĩ và lời dẫn. Dùng model tham chiếu trong bộ nhớ dự án.
 

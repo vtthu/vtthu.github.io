@@ -1,4 +1,4 @@
-# Chương 862: Chương 862: Tiếng Hò Hét Vang Khắp Nơi
+# Chương 862: Tiếng Hò Hét Vang Khắp Nơi
 
 4 trang PNG riêng, tỉ lệ A4 dọc; chuyển thể từ văn bản người dùng đính kèm, có thoại, suy nghĩ và lời dẫn. Dùng model tham chiếu trong bộ nhớ dự án.
 

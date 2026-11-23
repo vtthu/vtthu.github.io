@@ -2432,21 +2432,21 @@ Nguồn: file CHUONG 852.txt do người dùng đính kèm. Mỗi PNG một tran
 - Model riêng models/than-duong-852.png giữ đúng mặt vuông, búi đen ngắn, da nâu, giáp xương, không xăm má. Thợ săn trẻ có hình xăm sừng trâu là người khác.
 
 
-## Chương 860 — Chương 860: Huyền Đấu Sĩ Và Huyền Đấu Trường: hoàn thành 5 trang
+## Chương 860 — Huyền Đấu Sĩ Và Huyền Đấu Trường: hoàn thành 5 trang
 Nguồn: file CHUONG 860.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/860/ gồm 5 PNG, PDF A4, SOURCE.txt và README.
 - Hàn Lập giữ tạo hình V2. Thêm mẫu thanh niên áo xám, Hắc Kiếp Trùng và lệnh bài hai mặt.
 
 
-## Chương 861 — Chương 861: Chuyển Hóa Hấp Thu: hoàn thành 4 trang
+## Chương 861 — Chuyển Hóa Hấp Thu: hoàn thành 4 trang
 Nguồn: file CHUONG 861.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/861/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Bộ Huyền Đấu Sĩ chỉ thay y phục, giữ gương mặt Hàn Lập V2 và trâm ngọc. Huyền khiếu thứ hai đang khai mở.
 
 
-## Chương 862 — Chương 862: Tiếng Hò Hét Vang Khắp Nơi: hoàn thành 4 trang
+## Chương 862 — Tiếng Hò Hét Vang Khắp Nơi: hoàn thành 4 trang
 Nguồn: file CHUONG 862.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/862/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Phân biệt Độc Long một mắt, quản sự một sừng và vị khán giả một sừng. Trận đấu chưa diễn ra ở cuối chương.
 
 
-## Chương 863 — Chương 863: Không Thể Đánh Tiếp Rồi: hoàn thành 4 trang
+## Chương 863 — Không Thể Đánh Tiếp Rồi: hoàn thành 4 trang
 Nguồn: file CHUONG 863.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/863/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Hai đồng tử nằm trong cùng một mắt. Hổ Bí chứng kiến trận đấu từ khán đài.

@@ -5681,18 +5681,18 @@
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 521519,
-      "sha256": "0af7d056a216b2fa4021b1b6250c22eb3ec84d40db30d1a00b4fe309e0ddf2ef"
+      "bytes": 521449,
+      "sha256": "f4661587581e22d0f22442d7e86a384a21d0179650e38f6ab6bf4dd9849c055a"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 467735,
-      "sha256": "8958a8cf8a3c325eec55a15b112008d9d7f172caea43d5231a340355c7b8b9fb"
+      "bytes": 467665,
+      "sha256": "24bd938fdb519d5365935512a9dd298bcfe4fe9672e44c6443b969714886f40a"
     },
     {
       "path": "README.md",
-      "bytes": 27147,
-      "sha256": "7984e1a0fc1e380fbf285f7c6a419b1e501ec19926af02de2aad342c9614b264"
+      "bytes": 27077,
+      "sha256": "7a65fd8cdf7c8a4241378f17a094cda46f80fd3b4e38afb1fbb22f65281f3b4e"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -13256,8 +13256,8 @@
     },
     {
       "path": "chapters/860/README.md",
-      "bytes": 600,
-      "sha256": "feba517b5477f0ba942171d704a4469bc83c2e67a526094f655c9292fe711e58"
+      "bytes": 586,
+      "sha256": "a58d902d31174411b479348ce3645d1f300c89b3db916522715295b1f9d55bad"
     },
     {
       "path": "chapters/860/SOURCE.txt",
@@ -13296,8 +13296,8 @@
     },
     {
       "path": "chapters/861/README.md",
-      "bytes": 561,
-      "sha256": "949c84c311561e96d763c7106f2cf426ff7897313fd393548f06c70d7e568f0c"
+      "bytes": 547,
+      "sha256": "317477ec0bb39d8a2be20f2ba3ee84a40d21f7d7669cf0f828d1112bd8354ef7"
     },
     {
       "path": "chapters/861/SOURCE.txt",
@@ -13331,8 +13331,8 @@
     },
     {
       "path": "chapters/862/README.md",
-      "bytes": 578,
-      "sha256": "15418bdce18f1a498b17ed6909b586c7d70f52e0595fe57c0d94a7146d9d0eb2"
+      "bytes": 564,
+      "sha256": "f8ca9b128b93a58dd74c717c42943f55e2c2a77f1bd8642fff54791da885ad05"
     },
     {
       "path": "chapters/862/SOURCE.txt",
@@ -13366,8 +13366,8 @@
     },
     {
       "path": "chapters/863/README.md",
-      "bytes": 501,
-      "sha256": "cc2260537da8179e3925e49959b531237f630c1644716c7ca1ee519296e60ccb"
+      "bytes": 487,
+      "sha256": "154d6f8fb6525ed5c7075f8abb344fa45c570ee32f53cb6fbe630cf535c5e64a"
     },
     {
       "path": "chapters/863/SOURCE.txt",
@@ -13401,8 +13401,8 @@
     },
     {
       "path": "chapters/864/README.md",
-      "bytes": 528,
-      "sha256": "bd36e3c0364927fa92b9e295fc53f244b41cb3cd4b5a5d9391b530d8640c284c"
+      "bytes": 514,
+      "sha256": "3dad9ae3be48808dee0c3626c2378bdf062bbe25ccb5e2536e90a94b6543ec69"
     },
     {
       "path": "chapters/864/SOURCE.txt",
@@ -17201,108 +17201,108 @@
     },
     {
       "path": "history/comic-860/CHARACTER_MEMORY.md",
-      "bytes": 516569,
-      "sha256": "91fd8920feeeb093ae81d55a58c16739be70252d12666fb31e75b6206d6ab011"
+      "bytes": 516555,
+      "sha256": "c2c4471dafc6d7d996bdae0fc414e99e533eb34f5ce6591ef3f6f7684c7c5548"
     },
     {
       "path": "history/comic-860/MANIFEST.json",
-      "bytes": 1312,
-      "sha256": "05627d1d63f059fca411cafb2320855efb8156b601698a6553c1aef6ccb55613"
+      "bytes": 1298,
+      "sha256": "16bba9bf200b389bd3bacb02d3726538e19cc5d9bbd9a3f98bb6f6d7baad6cc4"
     },
     {
       "path": "history/comic-860/PROJECT_MEMORY.md",
-      "bytes": 462785,
-      "sha256": "a48d9bc7e6398d489d60d26d2a046a70d79a415794fce0bce3bf80ce651e1a09"
+      "bytes": 462771,
+      "sha256": "d2835f2edb2240da678c08b9509d48ae595b9f53f0973e0fd84646696722f6a3"
     },
     {
       "path": "history/comic-860/README.md",
-      "bytes": 508,
-      "sha256": "c456b55debe854fa6983bfdaa5b28baadd55f87cde145bf2743bb166222d4ac8"
+      "bytes": 494,
+      "sha256": "834ee59815d7496a87512f1a92a8ff5e6c64529ef69c317010021eb63141ddda"
     },
     {
       "path": "history/comic-861/CHARACTER_MEMORY.md",
-      "bytes": 517069,
-      "sha256": "56269f9fb4835fc33818a3e98268e797b8c074a3a687bea69688a4873935421b"
+      "bytes": 517041,
+      "sha256": "215aa62051e7bda7e4596cba7eb1fff41a9fda0dea841ea5a12b09950b871a4d"
     },
     {
       "path": "history/comic-861/MANIFEST.json",
-      "bytes": 1199,
-      "sha256": "64f9ededf55ee92d10ab726e16b7bb98672f4dee041d73bad6b84daed283ec95"
+      "bytes": 1185,
+      "sha256": "b65fcd2641d1969096c14009bebb599e341b23593a555d6b2d9e30b8f6cd725f"
     },
     {
       "path": "history/comic-861/PROJECT_MEMORY.md",
-      "bytes": 463285,
-      "sha256": "c3bf124e5735099cffe2d19f2cf018f6a756eda68d7204dcc68c92f0e763550f"
+      "bytes": 463257,
+      "sha256": "08266d6eb1796f5c7022cdcb698e29608998744fad845a2a42874e567967a32c"
     },
     {
       "path": "history/comic-861/README.md",
-      "bytes": 495,
-      "sha256": "1e252b6324edcec508949c6b2f14007b7c115434c89edf35ae618d068dd0523f"
+      "bytes": 481,
+      "sha256": "ad3c486883f286b7732607c82b774450f89394fb8c32403800437b43f499974b"
     },
     {
       "path": "history/comic-862/CHARACTER_MEMORY.md",
-      "bytes": 517588,
-      "sha256": "b2667f14b1408b2b06fd689f9916a848f5cf759e79aaecd1aacbfe903db257fa"
+      "bytes": 517546,
+      "sha256": "17d644e2963781a72eb1646e671dd1a29966abde0f074b54b82016df93ac9fe6"
     },
     {
       "path": "history/comic-862/MANIFEST.json",
-      "bytes": 1196,
-      "sha256": "32f1c355f6df873c90041cac1717b3e176507d14cfab5ffd877fa6fa3cd38499"
+      "bytes": 1182,
+      "sha256": "7aa20d3898a4a97a7c1113a825f1cf0b7fea44f3e71e48089e5f4c5104ad6289"
     },
     {
       "path": "history/comic-862/PROJECT_MEMORY.md",
-      "bytes": 463804,
-      "sha256": "0c7c7418760c7877946bb30ad5cf245ace5471b88d96e8864b588de28bb54e73"
+      "bytes": 463762,
+      "sha256": "e4fe4afddea67d66352f62b6841fe6f38c23c416e0cc69bceb8b88f6a553cf54"
     },
     {
       "path": "history/comic-862/README.md",
-      "bytes": 512,
-      "sha256": "f70d1aeb8ba018516c6e4d643ea39f140887d1299578ee64142b573e1bb2b985"
+      "bytes": 498,
+      "sha256": "fee5117edb01203fd200a92d63194ff90f54d726591cb50d34ddace880cfbd42"
     },
     {
       "path": "history/comic-863/CHARACTER_MEMORY.md",
-      "bytes": 518061,
-      "sha256": "61dcbe71473a3037027aab104f450d95bc55cadfe01e9c20d4a6654ca848fb62"
+      "bytes": 518005,
+      "sha256": "037e728e780384cd435236a8c2f7fc4e0a7e515f6b6216482bed7ea9da3fec1f"
     },
     {
       "path": "history/comic-863/MANIFEST.json",
-      "bytes": 1121,
-      "sha256": "b83d4efb532e06f353b238b862501f7d10793c250a8346663291f375b3989f37"
+      "bytes": 1107,
+      "sha256": "02e3889d4efe76aaf37d1bab2164807187d6b7a5382b70899836f0939cbc8123"
     },
     {
       "path": "history/comic-863/PROJECT_MEMORY.md",
-      "bytes": 464277,
-      "sha256": "9a22bcc3388e30951f8d98b500076fe64507325760285f56830193c217fa30d0"
+      "bytes": 464221,
+      "sha256": "0f7fa352e3dfd2e00f7047fe35c9a59c4f1c6753fe15a09560fa7cab2dbf5faf"
     },
     {
       "path": "history/comic-863/README.md",
-      "bytes": 435,
-      "sha256": "5dd840bb05628444c35aa03bcd2fe3dffd216266cc80fc79eb90a4640e36e930"
+      "bytes": 421,
+      "sha256": "d30dc953e8efae986aafa58846a9fc22a1f397604d51f0ac4366f40a80455724"
     },
     {
       "path": "history/comic-864/CHARACTER_MEMORY.md",
-      "bytes": 518499,
-      "sha256": "468f6568ee36f0778e89336678e203b1e00275316e006d76b40490b81fcbcf77"
+      "bytes": 518429,
+      "sha256": "b822c680faaa98bef3764cf4ad506c1edda32c1b1fb8e1160df2e8c8856e26cf"
     },
     {
       "path": "history/comic-864/MANIFEST.json",
-      "bytes": 1157,
-      "sha256": "e646f8aa3e575f49b8499b47bd1c58136538ce42e5e0a060f77333f973021713"
+      "bytes": 1143,
+      "sha256": "ee8e1ab16f20deee94b44dfd2188819b51be70053d3af720c5d8e7f09f52ad2f"
     },
     {
       "path": "history/comic-864/PROJECT_MEMORY.md",
-      "bytes": 464715,
-      "sha256": "db1e3189a00be36afa7f10efea3a25b7bc9ca87f004f5bb184aacc4f962aefc7"
+      "bytes": 464645,
+      "sha256": "473f679947a7f47c6aea4bbc5218aa95273eefd10ef9287a8fa6f608fecffd46"
     },
     {
       "path": "history/comic-864/README.md",
-      "bytes": 462,
-      "sha256": "1f0e07b798052512f3cb6596db7d0847bf6b0af8b1e9695d0fc5164329192a74"
+      "bytes": 448,
+      "sha256": "871cd564d02cce1cdd3d7e85f31f6b25a5df38dc16ea2da7bdc792db85794676"
     },
     {
       "path": "history/comic-865/CHARACTER_MEMORY.md",
-      "bytes": 518884,
-      "sha256": "5a3d18a689d6bbcd4d4d8fa71e3d36f2aec4fd3cbcaebda86bd626c7d9752862"
+      "bytes": 518814,
+      "sha256": "5b0c77a28e8122b49b2a4e8f35e12227266ab483897107f94b5c5da9fd9d6ece"
     },
     {
       "path": "history/comic-865/MANIFEST.json",
@@ -17311,8 +17311,8 @@
     },
     {
       "path": "history/comic-865/PROJECT_MEMORY.md",
-      "bytes": 465100,
-      "sha256": "c9189ae91aae29d92e269f7aa49a90d185b419ad374bcf0a24ab7957ee752ef8"
+      "bytes": 465030,
+      "sha256": "1c35ccb158d8429cd18dbb297e0a6620531d097fae04771aafb7ca6d84a7314c"
     },
     {
       "path": "history/comic-865/README.md",
@@ -17321,8 +17321,8 @@
     },
     {
       "path": "history/comic-866/CHARACTER_MEMORY.md",
-      "bytes": 519384,
-      "sha256": "5a6d8e99a91c6a2c3978065c308435449be82318a6c8fe6aff5d796c3abe542d"
+      "bytes": 519314,
+      "sha256": "dc72e71abd418ab4a5cb867a73e38700b21c7c4fc5531ff3e3967454d791ebf8"
     },
     {
       "path": "history/comic-866/MANIFEST.json",
@@ -17331,8 +17331,8 @@
     },
     {
       "path": "history/comic-866/PROJECT_MEMORY.md",
-      "bytes": 465600,
-      "sha256": "c1abb7fa65852bcdfc32e0331926282e5bc851769275ce5f6805e7d997964621"
+      "bytes": 465530,
+      "sha256": "df53f3935a901b8d2ea3a90439680b620bf9a9d2cea2381044f15848fb730644"
     },
     {
       "path": "history/comic-866/README.md",
@@ -17341,8 +17341,8 @@
     },
     {
       "path": "history/comic-867/CHARACTER_MEMORY.md",
-      "bytes": 519847,
-      "sha256": "1243f23819952f04951eef038ec56ef9090d588800fbb55da4d6a6727b3b66e2"
+      "bytes": 519777,
+      "sha256": "13afb13d96721c01a2d6698fd7f81da7f64f6c597419913a2c701b50b8785f06"
     },
     {
       "path": "history/comic-867/MANIFEST.json",
@@ -17351,8 +17351,8 @@
     },
     {
       "path": "history/comic-867/PROJECT_MEMORY.md",
-      "bytes": 466063,
-      "sha256": "010e3892d588d6d18c715fe66fa02421a20e013f82995b921ad1b0ddf60263c7"
+      "bytes": 465993,
+      "sha256": "8448f91835c7605fb582e79fc3e1717b0812cc58bc0b7f5e69abc780c970d260"
     },
     {
       "path": "history/comic-867/README.md",
@@ -17361,8 +17361,8 @@
     },
     {
       "path": "history/comic-868/CHARACTER_MEMORY.md",
-      "bytes": 520264,
-      "sha256": "8d607ebdf4c27962a78aed21771aa9d16dd87351ddf265fd98ba98ba8aab947d"
+      "bytes": 520194,
+      "sha256": "4a8a5f6bc8393be9f4b7830bdf122d27186ad92f75144cfc86ad51182c0fddb9"
     },
     {
       "path": "history/comic-868/MANIFEST.json",
@@ -17371,8 +17371,8 @@
     },
     {
       "path": "history/comic-868/PROJECT_MEMORY.md",
-      "bytes": 466480,
-      "sha256": "ddaec51b195f9e59a9e7c1a01f3e50246e692f9c00cc35543d46cfb3afc91254"
+      "bytes": 466410,
+      "sha256": "c24a2794f7b5064d985de4cc91d6f55f10da8fe8e39a3a4e9c270e56c264a2b8"
     },
     {
       "path": "history/comic-868/README.md",
@@ -17381,8 +17381,8 @@
     },
     {
       "path": "history/comic-869/CHARACTER_MEMORY.md",
-      "bytes": 520657,
-      "sha256": "3facdfc8f111f631c3f59f5e5517beef3f6f65a3e2d90e6f3d8eda2fdc203c28"
+      "bytes": 520587,
+      "sha256": "f34833cd59d2266f22ff482f445ba27bd02777739506fd5b758d0885b651a6bf"
     },
     {
       "path": "history/comic-869/MANIFEST.json",
@@ -17391,8 +17391,8 @@
     },
     {
       "path": "history/comic-869/PROJECT_MEMORY.md",
-      "bytes": 466873,
-      "sha256": "49ba8811a485e375b7eb8c2042703eebe53189f3613d3af25c60d4b98826a5a6"
+      "bytes": 466803,
+      "sha256": "6742dfe31ce73511c62496fcb6fc8b4363f02e876033a97b090cf6e014e6448e"
     },
     {
       "path": "history/comic-869/README.md",
@@ -17401,8 +17401,8 @@
     },
     {
       "path": "history/comic-870/CHARACTER_MEMORY.md",
-      "bytes": 521112,
-      "sha256": "b534eeceb869011517f4d2ce81dab4cff3540f1343cfb6790240a42b3c55fce6"
+      "bytes": 521042,
+      "sha256": "7b1659fedcdf91bd7f5e04598bd53a7d65621e871546f90012fdcb76123933fb"
     },
     {
       "path": "history/comic-870/MANIFEST.json",
@@ -17411,8 +17411,8 @@
     },
     {
       "path": "history/comic-870/PROJECT_MEMORY.md",
-      "bytes": 467328,
-      "sha256": "b36dc58db1390b646344477e4d540a73ff671d248a9941756a28ca182581ad7f"
+      "bytes": 467258,
+      "sha256": "d9fad7cc8b523c2a23830b57d7423059e6efa4f72a0db57fea6a97222949e1ab"
     },
     {
       "path": "history/comic-870/README.md",
@@ -17421,8 +17421,8 @@
     },
     {
       "path": "history/comic-871/CHARACTER_MEMORY.md",
-      "bytes": 521519,
-      "sha256": "0af7d056a216b2fa4021b1b6250c22eb3ec84d40db30d1a00b4fe309e0ddf2ef"
+      "bytes": 521449,
+      "sha256": "f4661587581e22d0f22442d7e86a384a21d0179650e38f6ab6bf4dd9849c055a"
     },
     {
       "path": "history/comic-871/MANIFEST.json",
@@ -17431,8 +17431,8 @@
     },
     {
       "path": "history/comic-871/PROJECT_MEMORY.md",
-      "bytes": 467735,
-      "sha256": "8958a8cf8a3c325eec55a15b112008d9d7f172caea43d5231a340355c7b8b9fb"
+      "bytes": 467665,
+      "sha256": "24bd938fdb519d5365935512a9dd298bcfe4fe9672e44c6443b969714886f40a"
     },
     {
       "path": "history/comic-871/README.md",

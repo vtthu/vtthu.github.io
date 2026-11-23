@@ -103,15 +103,15 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 - [Chương 865: Huyết Trì](chapters/865/): 4 trang, hoàn thành; [PDF A4](chapters/865/chuong-865.pdf)
 
-- [Chương 864: Chương 864: Ngoài Dự Liệu](chapters/864/): 4 trang, hoàn thành; [PDF A4](chapters/864/chuong-864.pdf)
+- [Chương 864: Ngoài Dự Liệu](chapters/864/): 4 trang, hoàn thành; [PDF A4](chapters/864/chuong-864.pdf)
 
-- [Chương 863: Chương 863: Không Thể Đánh Tiếp Rồi](chapters/863/): 4 trang, hoàn thành; [PDF A4](chapters/863/chuong-863.pdf)
+- [Chương 863: Không Thể Đánh Tiếp Rồi](chapters/863/): 4 trang, hoàn thành; [PDF A4](chapters/863/chuong-863.pdf)
 
-- [Chương 862: Chương 862: Tiếng Hò Hét Vang Khắp Nơi](chapters/862/): 4 trang, hoàn thành; [PDF A4](chapters/862/chuong-862.pdf)
+- [Chương 862: Tiếng Hò Hét Vang Khắp Nơi](chapters/862/): 4 trang, hoàn thành; [PDF A4](chapters/862/chuong-862.pdf)
 
-- [Chương 861: Chương 861: Chuyển Hóa Hấp Thu](chapters/861/): 4 trang, hoàn thành; [PDF A4](chapters/861/chuong-861.pdf)
+- [Chương 861: Chuyển Hóa Hấp Thu](chapters/861/): 4 trang, hoàn thành; [PDF A4](chapters/861/chuong-861.pdf)
 
-- [Chương 860: Chương 860: Huyền Đấu Sĩ Và Huyền Đấu Trường](chapters/860/): 5 trang, hoàn thành; [PDF A4](chapters/860/chuong-860.pdf)
+- [Chương 860: Huyền Đấu Sĩ Và Huyền Đấu Trường](chapters/860/): 5 trang, hoàn thành; [PDF A4](chapters/860/chuong-860.pdf)
 
 - [Chương 852: Manh Mối](chapters/852/): 4 trang, hoàn thành; [PDF A4](chapters/852/chuong-852.pdf)
 
