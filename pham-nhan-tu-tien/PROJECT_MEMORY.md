@@ -2272,3 +2272,8 @@ Nguồn: file CHUONG 871.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 872 — Đánh Cược: hoàn thành 4 trang
 Nguồn: file CHUONG 872.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/872/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Giữ Độc Long một mắt, hình xăm gấu xanh.
+
+
+## Chương 873 — Tai Họa Ngầm: hoàn thành 4 trang
+Nguồn: file CHUONG 873.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/873/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Diêu Ly được gọi tên ở chương này; giữ y phục tím và nét mặt riêng theo ảnh tham chiếu.

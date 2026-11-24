@@ -1,0 +1,42 @@
+{
+  "chapter": 873,
+  "title": "Tai Họa Ngầm",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-873/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-873/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-873/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-873/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "doc-long-doc-giac-ho-lan-thu-862.png",
+    "cot-thien-tam-thien-cot-minh-870.png",
+    "tran-lam-giap-si-huyet-tri-865.png"
+  ],
+  "summary": "Hàn Lập tìm ra chỗ dồn ứ trong cơ thể Độc Long khi hai người giao đấu.",
+  "notes": "- Diêu Ly được gọi tên ở chương này; giữ y phục tím và nét mặt riêng theo ảnh tham chiếu.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/873p1.png",
+    "/tmp/comic-generated-860-877/873p2.png",
+    "/tmp/comic-generated-860-877/873p3.png",
+    "/tmp/comic-generated-860-877/873p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
