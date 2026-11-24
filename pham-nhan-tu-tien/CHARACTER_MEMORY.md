@@ -2535,3 +2535,8 @@ Nguồn: file CHUONG 879.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 880 — Hắc Kiếp Thạch: hoàn thành 4 trang
 Nguồn: file CHUONG 880.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/880/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Chưa lộ hình dạng Hắc Kiếp Thạch. Giải Đạo Nhân mặc áo vàng, đầu mặt kim loại vàng, không tóc. Người tung chưởng chưa lộ diện.
+
+
+## Chương 881 — Đến Giờ: hoàn thành 4 trang
+Nguồn: file CHUONG 881.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/881/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Đỗ Thanh Dương và bốn đội trưởng đứng chờ cạnh thạch đài năm cánh. Chính Thần Dương tập kích Hàn Lập. Giải Đạo Nhân vẫn im lặng. Cuối chương huyết trận chưa khởi động.
