@@ -2520,3 +2520,8 @@ Nguồn: file CHUONG 876.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 877 — Trùng Kích Bình Cảnh: hoàn thành 4 trang
 Nguồn: file CHUONG 877.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/877/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Phí Tinh Trì là 100 Huyền điểm, từ 118 còn 18. Người giữ có tóc và lông mày trắng.
+
+
+## Chương 878 — Phong Thư Và Cái Bình: hoàn thành 4 trang
+Nguồn: file CHUONG 878.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/878/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Phong thư nằm cạnh lọ đỏ và Thiên Tinh Bối vẫn nguyên. Chưa rõ người để thư. Người trông Tinh Trì có tóc và mày trắng.
