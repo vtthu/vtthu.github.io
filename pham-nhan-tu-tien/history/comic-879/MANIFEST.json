@@ -1,0 +1,41 @@
+{
+  "chapter": 879,
+  "title": "Thủ Đoạn Phi Thường",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-879/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-879/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-879/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-879/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "quan-su-ao-xam-hac-kiep-trung-860.png",
+    "dong-phu-tam-phap-chuong-thien-binh-547.png"
+  ],
+  "summary": "Hàn Lập cất chất lỏng đỏ vào Chưởng Thiên Bình rồi tìm Chúc Tiết Sơn để xác minh lời cảnh báo.",
+  "notes": "- Chúc Tiết Sơn chính là quản sự áo xám chương 860, dùng cốt kiếm trắng. Chưởng Thiên Bình màu xanh sẫm, không nhầm với lọ đỏ.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/879p1.png",
+    "/tmp/comic-generated-860-877/879p2.png",
+    "/tmp/comic-generated-860-877/879p3.png",
+    "/tmp/comic-generated-860-877/879p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

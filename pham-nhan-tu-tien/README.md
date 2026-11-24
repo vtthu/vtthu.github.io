@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 879: Thủ Đoạn Phi Thường](chapters/879/): 4 trang, hoàn thành; [PDF A4](chapters/879/chuong-879.pdf)
+
 - [Chương 878: Phong Thư Và Cái Bình](chapters/878/): 4 trang, hoàn thành; [PDF A4](chapters/878/chuong-878.pdf)
 
 - [Chương 877: Trùng Kích Bình Cảnh](chapters/877/): 4 trang, hoàn thành; [PDF A4](chapters/877/chuong-877.pdf)

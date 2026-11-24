@@ -2302,3 +2302,8 @@ Nguồn: file CHUONG 877.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 878 — Phong Thư Và Cái Bình: hoàn thành 4 trang
 Nguồn: file CHUONG 878.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/878/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Phong thư nằm cạnh lọ đỏ và Thiên Tinh Bối vẫn nguyên. Chưa rõ người để thư. Người trông Tinh Trì có tóc và mày trắng.
+
+
+## Chương 879 — Thủ Đoạn Phi Thường: hoàn thành 4 trang
+Nguồn: file CHUONG 879.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/879/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Chúc Tiết Sơn chính là quản sự áo xám chương 860, dùng cốt kiếm trắng. Chưởng Thiên Bình màu xanh sẫm, không nhầm với lọ đỏ.
