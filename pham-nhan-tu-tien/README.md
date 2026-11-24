@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 876: Trao Đổi Công Pháp](chapters/876/): 4 trang, hoàn thành; [PDF A4](chapters/876/chuong-876.pdf)
+
 - [Chương 875: Thuật Bế Khiếu](chapters/875/): 4 trang, hoàn thành; [PDF A4](chapters/875/chuong-875.pdf)
 
 - [Chương 874: Mặt Sẹo Chết](chapters/874/): 4 trang, hoàn thành; [PDF A4](chapters/874/chuong-874.pdf)

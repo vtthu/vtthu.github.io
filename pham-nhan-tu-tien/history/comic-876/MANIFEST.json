@@ -1,0 +1,45 @@
+{
+  "chapter": 876,
+  "title": "Trao Đổi Công Pháp",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-876/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-876/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-876/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-876/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "doc-long-doc-giac-ho-lan-thu-862.png",
+    "ho-bi-863.png",
+    "than-duong-852.png",
+    "tran-lam-giap-si-huyet-tri-865.png",
+    "cot-thien-tam-thien-cot-minh-870.png",
+    "bon-doi-truong-huyen-thanh-875.png"
+  ],
+  "summary": "Hàn Lập và Cốt Thiên Tầm trao đổi công pháp luyện thể.",
+  "notes": "- Giữ nhận dạng của Độc Long, Hổ Bí, Thần Dương, Trần Lâm và Cốt Thiên Tầm.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/876p1.png",
+    "/tmp/comic-generated-860-877/876p2.png",
+    "/tmp/comic-generated-860-877/876p3.png",
+    "/tmp/comic-generated-860-877/876p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

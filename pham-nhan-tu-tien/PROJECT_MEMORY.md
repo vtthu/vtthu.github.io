@@ -2287,3 +2287,8 @@ Nguồn: file CHUONG 874.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 875 — Thuật Bế Khiếu: hoàn thành 4 trang
 Nguồn: file CHUONG 875.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/875/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Chỉ biểu lộ 43 huyền khiếu. Giữ riêng ảnh Ô Lân Tượng, cốt thương và tượng ba đầu sáu tay. Bốn đội trưởng chưa nêu tên có bảng tham chiếu riêng theo thứ tự xuất hiện.
+
+
+## Chương 876 — Trao Đổi Công Pháp: hoàn thành 4 trang
+Nguồn: file CHUONG 876.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/876/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Giữ nhận dạng của Độc Long, Hổ Bí, Thần Dương, Trần Lâm và Cốt Thiên Tầm.
