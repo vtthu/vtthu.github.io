@@ -2282,3 +2282,8 @@ Nguồn: file CHUONG 873.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 874 — Mặt Sẹo Chết: hoàn thành 4 trang
 Nguồn: file CHUONG 874.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/874/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Mặt Sẹo có sẹo chéo; Độc Long có hình xăm gấu xanh và một mắt. Quản sự áo xám ở chương 860 về sau lộ tên là Chúc Tiết Sơn.
+
+
+## Chương 875 — Thuật Bế Khiếu: hoàn thành 4 trang
+Nguồn: file CHUONG 875.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/875/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Chỉ biểu lộ 43 huyền khiếu. Giữ riêng ảnh Ô Lân Tượng, cốt thương và tượng ba đầu sáu tay. Bốn đội trưởng chưa nêu tên có bảng tham chiếu riêng theo thứ tự xuất hiện.
