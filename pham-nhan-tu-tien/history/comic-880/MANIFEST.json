@@ -1,0 +1,42 @@
+{
+  "chapter": 880,
+  "title": "Hắc Kiếp Thạch",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-880/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-880/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-880/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-880/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "quan-su-ao-xam-hac-kiep-trung-860.png",
+    "do-thanh-duong-858.png",
+    "giai-dao-nhan-gdn01.png"
+  ],
+  "summary": "Chúc Tiết Sơn tiết lộ tác dụng của Hắc Kiếp Thạch. Hàn Lập trở về phòng và bất ngờ bị tập kích.",
+  "notes": "- Chưa lộ hình dạng Hắc Kiếp Thạch. Giải Đạo Nhân mặc áo vàng, đầu mặt kim loại vàng, không tóc. Người tung chưởng chưa lộ diện.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/880p1.png",
+    "/tmp/comic-generated-860-877/880p2.png",
+    "/tmp/comic-generated-860-877/880p3.png",
+    "/tmp/comic-generated-860-877/880p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
