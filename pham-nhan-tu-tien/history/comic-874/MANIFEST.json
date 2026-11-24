@@ -1,0 +1,43 @@
+{
+  "chapter": 874,
+  "title": "Mặt Sẹo Chết",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-874/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-874/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-874/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-874/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "doc-long-doc-giac-ho-lan-thu-862.png",
+    "quan-su-ao-xam-hac-kiep-trung-860.png",
+    "thuc-tam-trung-thien-tinh-boi-thong-son-vien-866.png",
+    "tran-lam-giap-si-huyet-tri-865.png"
+  ],
+  "summary": "Hàn Lập và Độc Long thỏa thuận việc chữa trị và tìm người. Tin Mặt Sẹo chết khiến cả khu Cửu chấn động.",
+  "notes": "- Mặt Sẹo có sẹo chéo; Độc Long có hình xăm gấu xanh và một mắt. Quản sự áo xám ở chương 860 về sau lộ tên là Chúc Tiết Sơn.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/874p1.png",
+    "/tmp/comic-generated-860-877/874p2.png",
+    "/tmp/comic-generated-860-877/874p3.png",
+    "/tmp/comic-generated-860-877/874p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

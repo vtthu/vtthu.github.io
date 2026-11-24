@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 874: Mặt Sẹo Chết](chapters/874/): 4 trang, hoàn thành; [PDF A4](chapters/874/chuong-874.pdf)
+
 - [Chương 873: Tai Họa Ngầm](chapters/873/): 4 trang, hoàn thành; [PDF A4](chapters/873/chuong-873.pdf)
 
 - [Chương 872: Đánh Cược](chapters/872/): 4 trang, hoàn thành; [PDF A4](chapters/872/chuong-872.pdf)
