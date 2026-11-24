@@ -2292,3 +2292,8 @@ Nguồn: file CHUONG 875.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 876 — Trao Đổi Công Pháp: hoàn thành 4 trang
 Nguồn: file CHUONG 876.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/876/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Giữ nhận dạng của Độc Long, Hổ Bí, Thần Dương, Trần Lâm và Cốt Thiên Tầm.
+
+
+## Chương 877 — Trùng Kích Bình Cảnh: hoàn thành 4 trang
+Nguồn: file CHUONG 877.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/877/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Phí Tinh Trì là 100 Huyền điểm, từ 118 còn 18. Người giữ có tóc và lông mày trắng.

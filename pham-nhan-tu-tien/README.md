@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 877: Trùng Kích Bình Cảnh](chapters/877/): 4 trang, hoàn thành; [PDF A4](chapters/877/chuong-877.pdf)
+
 - [Chương 876: Trao Đổi Công Pháp](chapters/876/): 4 trang, hoàn thành; [PDF A4](chapters/876/chuong-876.pdf)
 
 - [Chương 875: Thuật Bế Khiếu](chapters/875/): 4 trang, hoàn thành; [PDF A4](chapters/875/chuong-875.pdf)

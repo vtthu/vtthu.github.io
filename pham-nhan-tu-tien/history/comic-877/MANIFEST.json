@@ -1,0 +1,42 @@
+{
+  "chapter": 877,
+  "title": "Trùng Kích Bình Cảnh",
+  "images": [
+    "/tmp/comic-batch-860-877/a4-877/trang-01.png",
+    "/tmp/comic-batch-860-877/a4-877/trang-02.png",
+    "/tmp/comic-batch-860-877/a4-877/trang-03.png",
+    "/tmp/comic-batch-860-877/a4-877/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "cot-thien-tam-thien-cot-minh-870.png",
+    "tinh-tri-thu-ve-877.png",
+    "dong-phu-tam-phap-chuong-thien-binh-547.png"
+  ],
+  "summary": "Hàn Lập vào Tinh Trì, hấp thu tinh thần chi lực và khai mở thêm huyền khiếu.",
+  "notes": "- Phí Tinh Trì là 100 Huyền điểm, từ 118 còn 18. Người giữ có tóc và lông mày trắng.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-860-877/877p1.png",
+    "/tmp/comic-generated-860-877/877p2.png",
+    "/tmp/comic-generated-860-877/877p3.png",
+    "/tmp/comic-generated-860-877/877p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
