@@ -1,0 +1,43 @@
+{
+  "chapter": 915,
+  "title": "Có Mục Đích Riêng",
+  "images": [
+    "/tmp/comic-batch-914-922/a4-915/trang-01.png",
+    "/tmp/comic-batch-914-922/a4-915/trang-02.png",
+    "/tmp/comic-batch-914-922/a4-915/trang-03.png",
+    "/tmp/comic-batch-914-922/a4-915/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "cot-thien-tam-thien-cot-minh-870.png",
+    "than-duong-852.png",
+    "sa-tam-hien-vien-hanh-dich-lap-nhai-phuong-thien-914.png",
+    "phuong-thien-ach-quai-nam-tu-mui-ung-914.png"
+  ],
+  "summary": "Thần Dương báo tin quân Khôi Thành. Hai bên bày trận ngoài Huyền Thành và giằng co.",
+  "notes": "- Giữ tên Huyền Thành, Thanh Dương Thành và Khôi Thành phân biệt. Đội quân chưa giao chiến.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-914-922/915p1.png",
+    "/tmp/comic-generated-914-922/915p2.png",
+    "/tmp/comic-generated-914-922/915p3.png",
+    "/tmp/comic-generated-914-922/915p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

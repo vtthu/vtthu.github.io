@@ -2545,3 +2545,8 @@ Nguồn: file CHUONG 881.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 914 — Đột Nhiên Gián Đoạn: hoàn thành 4 trang
 Nguồn: file CHUONG 914.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/914/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Phương Thiền theo hai cột phải của mẫu Sa Tâm và đồng hành, giữ mặt heo ở cả hai trạng thái. Mẫu Ách Quái và nam tử mũi ưng chỉ dùng hai cột phải của bảng ba nhân vật. Lục Hoa phu nhân là nam.
+
+
+## Chương 915 — Có Mục Đích Riêng: hoàn thành 4 trang
+Nguồn: file CHUONG 915.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/915/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Giữ tên Huyền Thành, Thanh Dương Thành và Khôi Thành phân biệt. Đội quân chưa giao chiến.

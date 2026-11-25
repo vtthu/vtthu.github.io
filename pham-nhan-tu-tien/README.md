@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 915: Có Mục Đích Riêng](chapters/915/): 4 trang, hoàn thành; [PDF A4](chapters/915/chuong-915.pdf)
+
 - [Chương 914: Đột Nhiên Gián Đoạn](chapters/914/): 4 trang, hoàn thành; [PDF A4](chapters/914/chuong-914.pdf)
 
 - [Chương 881: Đến Giờ](chapters/881/): 4 trang, hoàn thành; [PDF A4](chapters/881/chuong-881.pdf)
