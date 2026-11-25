@@ -2337,3 +2337,8 @@ Nguồn: file CHUONG 916.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 917 — Đại Khư: hoàn thành 4 trang
 Nguồn: file CHUONG 917.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/917/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Thạch Xuyên Không tóc ngắn xoăn trắng, mắt tím, áo đen, mặt nạ xương trắng nửa dưới, không giao tiếp. Phong Vô Trần băng tay phải.
+
+
+## Chương 918 — Nghi Hoặc: hoàn thành 4 trang
+Nguồn: file CHUONG 918.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/918/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Khôi lỗi Dực Lân Điểu và Song Đầu Lân Chuẩn sống là hai loài tạo hình riêng. Ô Lân Tượng khôi lỗi có lõi phát sáng trước ngực.
