@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 919: Xâm Nhập Hiểm Cảnh](chapters/919/): 4 trang, hoàn thành; [PDF A4](chapters/919/chuong-919.pdf)
+
 - [Chương 918: Nghi Hoặc](chapters/918/): 4 trang, hoàn thành; [PDF A4](chapters/918/chuong-918.pdf)
 
 - [Chương 917: Đại Khư](chapters/917/): 4 trang, hoàn thành; [PDF A4](chapters/917/chuong-917.pdf)

@@ -2565,3 +2565,8 @@ Nguồn: file CHUONG 917.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 918 — Nghi Hoặc: hoàn thành 4 trang
 Nguồn: file CHUONG 918.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/918/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Khôi lỗi Dực Lân Điểu và Song Đầu Lân Chuẩn sống là hai loài tạo hình riêng. Ô Lân Tượng khôi lỗi có lõi phát sáng trước ngực.
+
+
+## Chương 919 — Xâm Nhập Hiểm Cảnh: hoàn thành 4 trang
+Nguồn: file CHUONG 919.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/919/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Thú khôi lỗi mở lại khe núi. Hai đoàn đi hướng đông dọc Hắc Uyên, chưa vượt vực.
