@@ -1,0 +1,45 @@
+{
+  "chapter": 922,
+  "title": "Cùng Tạo Tinh Chu",
+  "images": [
+    "/tmp/comic-batch-914-922/a4-922/trang-01.png",
+    "/tmp/comic-batch-914-922/a4-922/trang-02.png",
+    "/tmp/comic-batch-914-922/a4-922/trang-03.png",
+    "/tmp/comic-batch-914-922/a4-922/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "cot-thien-tam-thien-cot-minh-870.png",
+    "phuong-thien-ach-quai-nam-tu-mui-ung-914.png",
+    "ton-do-luc-hoa-tan-nguyen-phu-kien-914.png",
+    "sa-tam-hien-vien-hanh-dich-lap-nhai-phuong-thien-914.png",
+    "trac-qua-lan-thu-doan-tham-hiem-918.png",
+    "lu-cuong-luong-phiet-tinh-lan-but-922.png"
+  ],
+  "summary": "Hai thành bắt đầu chế tác Tinh Chuẩn phi chu. Hàn Lập học khắc văn tinh thần bằng Tinh Lan bút.",
+  "notes": "- Lữ Cương cao gầy tóc vàng; Lương Phiệt thấp mập. Bút xương đầu nhọn, đầu kia có nang trong chứa tinh dịch bạc. Phi chu chưa hoàn thành.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-914-922/922p1.png",
+    "/tmp/comic-generated-914-922/922p2.png",
+    "/tmp/comic-generated-914-922/922p3.png",
+    "/tmp/comic-generated-914-922/922p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
