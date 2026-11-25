@@ -2347,3 +2347,8 @@ Nguồn: file CHUONG 918.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 919 — Xâm Nhập Hiểm Cảnh: hoàn thành 4 trang
 Nguồn: file CHUONG 919.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/919/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Thú khôi lỗi mở lại khe núi. Hai đoàn đi hướng đông dọc Hắc Uyên, chưa vượt vực.
+
+
+## Chương 920 — Hợp Tác: hoàn thành 4 trang
+Nguồn: file CHUONG 920.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/920/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Hàn Lập khoác áo đen, giữ khuôn mặt và trâm ngọc của V2. Cốt Thiên Tầm khoác thêm áo da thú.

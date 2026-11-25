@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 920: Hợp Tác](chapters/920/): 4 trang, hoàn thành; [PDF A4](chapters/920/chuong-920.pdf)
+
 - [Chương 919: Xâm Nhập Hiểm Cảnh](chapters/919/): 4 trang, hoàn thành; [PDF A4](chapters/919/chuong-919.pdf)
 
 - [Chương 918: Nghi Hoặc](chapters/918/): 4 trang, hoàn thành; [PDF A4](chapters/918/chuong-918.pdf)

@@ -1,0 +1,45 @@
+{
+  "chapter": 920,
+  "title": "Hợp Tác",
+  "images": [
+    "/tmp/comic-batch-914-922/a4-920/trang-01.png",
+    "/tmp/comic-batch-914-922/a4-920/trang-02.png",
+    "/tmp/comic-batch-914-922/a4-920/trang-03.png",
+    "/tmp/comic-batch-914-922/a4-920/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "cot-thien-tam-thien-cot-minh-870.png",
+    "sa-tam-hien-vien-hanh-dich-lap-nhai-phuong-thien-914.png",
+    "trac-qua-lan-thu-doan-tham-hiem-918.png",
+    "khoi-thanh-doan-thong-lan-mang-920-ref.png",
+    "phuong-thien-ach-quai-nam-tu-mui-ung-914.png",
+    "ton-do-luc-hoa-tan-nguyen-phu-kien-914.png"
+  ],
+  "summary": "Ách Quái và Sa Tâm cho hai đội xen kẽ vượt vùng núi băng hỏa.",
+  "notes": "- Hàn Lập khoác áo đen, giữ khuôn mặt và trâm ngọc của V2. Cốt Thiên Tầm khoác thêm áo da thú.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-914-922/920p1.png",
+    "/tmp/comic-generated-914-922/920p2.png",
+    "/tmp/comic-generated-914-922/920p3.png",
+    "/tmp/comic-generated-914-922/920p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
