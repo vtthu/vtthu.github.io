@@ -2550,3 +2550,8 @@ Nguồn: file CHUONG 914.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 915 — Có Mục Đích Riêng: hoàn thành 4 trang
 Nguồn: file CHUONG 915.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/915/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Giữ tên Huyền Thành, Thanh Dương Thành và Khôi Thành phân biệt. Đội quân chưa giao chiến.
+
+
+## Chương 916 — Sợ Bóng Sợ Gió Một Hồi: hoàn thành 4 trang
+Nguồn: file CHUONG 916.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/916/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Nam tử mũi ưng lộ tên Thiệu Ưng. Sa Tâm áo trắng, mạng đen; Giải Đạo Nhân đầu kim loại vàng, không tóc.

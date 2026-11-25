@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 916: Sợ Bóng Sợ Gió Một Hồi](chapters/916/): 4 trang, hoàn thành; [PDF A4](chapters/916/chuong-916.pdf)
+
 - [Chương 915: Có Mục Đích Riêng](chapters/915/): 4 trang, hoàn thành; [PDF A4](chapters/915/chuong-915.pdf)
 
 - [Chương 914: Đột Nhiên Gián Đoạn](chapters/914/): 4 trang, hoàn thành; [PDF A4](chapters/914/chuong-914.pdf)

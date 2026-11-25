@@ -1,0 +1,44 @@
+{
+  "chapter": 916,
+  "title": "Sợ Bóng Sợ Gió Một Hồi",
+  "images": [
+    "/tmp/comic-batch-914-922/a4-916/trang-01.png",
+    "/tmp/comic-batch-914-922/a4-916/trang-02.png",
+    "/tmp/comic-batch-914-922/a4-916/trang-03.png",
+    "/tmp/comic-batch-914-922/a4-916/trang-04.png"
+  ],
+  "models": [
+    "phuong-thien-ach-quai-nam-tu-mui-ung-914.png",
+    "sa-tam-hien-vien-hanh-dich-lap-nhai-phuong-thien-914.png",
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "cot-thien-tam-thien-cot-minh-870.png",
+    "than-duong-852.png",
+    "giai-dao-nhan-gdn01.png"
+  ],
+  "summary": "Sa Tâm thương lượng với Ách Quái. Hai thành đồng ý hợp tác và đại quân rút lui.",
+  "notes": "- Nam tử mũi ưng lộ tên Thiệu Ưng. Sa Tâm áo trắng, mạng đen; Giải Đạo Nhân đầu kim loại vàng, không tóc.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-914-922/916p1.png",
+    "/tmp/comic-generated-914-922/916p2.png",
+    "/tmp/comic-generated-914-922/916p3.png",
+    "/tmp/comic-generated-914-922/916p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
