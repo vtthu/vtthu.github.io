@@ -1,0 +1,43 @@
+{
+  "chapter": 921,
+  "title": "Đặc Lập Độc Hành (Hành Động Khác Biệt)",
+  "images": [
+    "/tmp/comic-batch-914-922/a4-921/trang-01.png",
+    "/tmp/comic-batch-914-922/a4-921/trang-02.png",
+    "/tmp/comic-batch-914-922/a4-921/trang-03.png",
+    "/tmp/comic-batch-914-922/a4-921/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "cot-thien-tam-thien-cot-minh-870.png",
+    "sa-tam-hien-vien-hanh-dich-lap-nhai-phuong-thien-914.png",
+    "trac-qua-lan-thu-doan-tham-hiem-918.png",
+    "khoi-thanh-doan-thong-lan-mang-920-ref.png"
+  ],
+  "summary": "Hàn Lập cứu hai nữ tử Khôi Thành. Trác Qua đưa thú hạch cảm tạ.",
+  "notes": "- Hai nữ tử váy đen mạng mỏng, một người búi cao, một người tóc xõa. Đoạn Thông tay phải lớn quấn băng.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-914-922/921p1.png",
+    "/tmp/comic-generated-914-922/921p2.png",
+    "/tmp/comic-generated-914-922/921p3.png",
+    "/tmp/comic-generated-914-922/921p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
