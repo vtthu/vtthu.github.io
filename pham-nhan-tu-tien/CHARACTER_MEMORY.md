@@ -2540,3 +2540,8 @@ Nguồn: file CHUONG 880.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 881 — Đến Giờ: hoàn thành 4 trang
 Nguồn: file CHUONG 881.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/881/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Đỗ Thanh Dương và bốn đội trưởng đứng chờ cạnh thạch đài năm cánh. Chính Thần Dương tập kích Hàn Lập. Giải Đạo Nhân vẫn im lặng. Cuối chương huyết trận chưa khởi động.
+
+
+## Chương 914 — Đột Nhiên Gián Đoạn: hoàn thành 4 trang
+Nguồn: file CHUONG 914.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/914/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Phương Thiền theo hai cột phải của mẫu Sa Tâm và đồng hành, giữ mặt heo ở cả hai trạng thái. Mẫu Ách Quái và nam tử mũi ưng chỉ dùng hai cột phải của bảng ba nhân vật. Lục Hoa phu nhân là nam.

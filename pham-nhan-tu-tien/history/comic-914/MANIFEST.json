@@ -1,0 +1,44 @@
+{
+  "chapter": 914,
+  "title": "Đột Nhiên Gián Đoạn",
+  "images": [
+    "/tmp/comic-batch-914-922/a4-914/trang-01.png",
+    "/tmp/comic-batch-914-922/a4-914/trang-02.png",
+    "/tmp/comic-batch-914-922/a4-914/trang-03.png",
+    "/tmp/comic-batch-914-922/a4-914/trang-04.png"
+  ],
+  "models": [
+    "cot-thien-tam-thien-cot-minh-870.png",
+    "sa-tam-hien-vien-hanh-dich-lap-nhai-phuong-thien-914.png",
+    "phuong-thien-ach-quai-nam-tu-mui-ung-914.png",
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "than-duong-852.png",
+    "ton-do-luc-hoa-tan-nguyen-phu-kien-914.png"
+  ],
+  "summary": "Cốt Thiên Tầm thắng Phương Thiền. Tin khẩn buộc Ách Quái tạm dừng hội võ năm thành.",
+  "notes": "- Phương Thiền theo hai cột phải của mẫu Sa Tâm và đồng hành, giữ mặt heo ở cả hai trạng thái. Mẫu Ách Quái và nam tử mũi ưng chỉ dùng hai cột phải của bảng ba nhân vật. Lục Hoa phu nhân là nam.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-914-922/914p1.png",
+    "/tmp/comic-generated-914-922/914p2.png",
+    "/tmp/comic-generated-914-922/914p3.png",
+    "/tmp/comic-generated-914-922/914p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

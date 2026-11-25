@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 914: Đột Nhiên Gián Đoạn](chapters/914/): 4 trang, hoàn thành; [PDF A4](chapters/914/chuong-914.pdf)
+
 - [Chương 881: Đến Giờ](chapters/881/): 4 trang, hoàn thành; [PDF A4](chapters/881/chuong-881.pdf)
 
 - [Chương 880: Hắc Kiếp Thạch](chapters/880/): 4 trang, hoàn thành; [PDF A4](chapters/880/chuong-880.pdf)
