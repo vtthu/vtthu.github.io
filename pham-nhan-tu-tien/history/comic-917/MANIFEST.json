@@ -1,0 +1,45 @@
+{
+  "chapter": 917,
+  "title": "Đại Khư",
+  "images": [
+    "/tmp/comic-batch-914-922/a4-917/trang-01.png",
+    "/tmp/comic-batch-914-922/a4-917/trang-02.png",
+    "/tmp/comic-batch-914-922/a4-917/trang-03.png",
+    "/tmp/comic-batch-914-922/a4-917/trang-04.png"
+  ],
+  "models": [
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "cot-thien-tam-thien-cot-minh-870.png",
+    "than-duong-852.png",
+    "sa-tam-hien-vien-hanh-dich-lap-nhai-phuong-thien-914.png",
+    "giai-dao-nhan-gdn01.png",
+    "chu-huynh-muoi-phong-vo-tran-thach-xuyen-khong-917.png",
+    "phuong-thien-ach-quai-nam-tu-mui-ung-914.png"
+  ],
+  "summary": "Thần Dương mời ba người thăm dò Đại Khư. Hàn Lập gặp lại Thạch Xuyên Không trên quảng trường.",
+  "notes": "- Thạch Xuyên Không tóc ngắn xoăn trắng, mắt tím, áo đen, mặt nạ xương trắng nửa dưới, không giao tiếp. Phong Vô Trần băng tay phải.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-914-922/917p1.png",
+    "/tmp/comic-generated-914-922/917p2.png",
+    "/tmp/comic-generated-914-922/917p3.png",
+    "/tmp/comic-generated-914-922/917p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}
