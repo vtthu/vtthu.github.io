@@ -2367,3 +2367,8 @@ Nguồn: file CHUONG 922.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 935 — Chân Tướng?: hoàn thành 4 trang
 Nguồn: file CHUONG 935.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/935/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Dùng lại Hàn Lập và Thạch Xuyên Không từ các bảng tham chiếu đã lưu. Bổ sung bảng Thạch Trảm Phong, Đỗ Nguyên, nữ tử cầm cốt tiên và Ma Viên.
+
+
+## Chương 936 — Bất Hòa: hoàn thành 4 trang
+Nguồn: file CHUONG 936.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/936/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Dùng lại bảng 935 và Cốt Thiên Tầm từ chương 870. Giữ tóc trắng xoăn ngắn của Thạch Xuyên Không sau khi mặt nạ vỡ.
