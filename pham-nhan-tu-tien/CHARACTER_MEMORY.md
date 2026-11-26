@@ -2625,3 +2625,8 @@ Nguồn: file CHUONG 941.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 942 — Thoát Khốn: hoàn thành 4 trang
 Nguồn: file CHUONG 942.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/942/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Giữ tạo hình của khôi lỗi mặt sói, hổ, rắn, viên và hai nhân vật chính.
+
+
+## Chương 943 — Toà Tế Đàn Thứ Hai: hoàn thành 4 trang
+Nguồn: file CHUONG 943.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/943/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Bổ sung bảng Phù Linh và mẫu U Minh Điện để dùng lại ở chương tiếp theo.
