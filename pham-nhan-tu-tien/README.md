@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 938: Dị Động](chapters/938/): 4 trang, hoàn thành; [PDF A4](chapters/938/chuong-938.pdf)
+
 - [Chương 937: Thánh Hài](chapters/937/): 4 trang, hoàn thành; [PDF A4](chapters/937/chuong-937.pdf)
 
 - [Chương 936: Bất Hòa](chapters/936/): 4 trang, hoàn thành; [PDF A4](chapters/936/chuong-936.pdf)

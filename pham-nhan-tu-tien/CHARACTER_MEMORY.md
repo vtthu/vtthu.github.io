@@ -2600,3 +2600,8 @@ Nguồn: file CHUONG 936.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 937 — Thánh Hài: hoàn thành 4 trang
 Nguồn: file CHUONG 937.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/937/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Giữ mẫu Cốt Thiên Tầm, Hàn Lập, Thạch Xuyên Không và Phương Thiên Ách.
+
+
+## Chương 938 — Dị Động: hoàn thành 4 trang
+Nguồn: file CHUONG 938.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/938/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Bổ sung bảng tượng đá và Thiên Lôi Lực Sĩ để đồng nhất hình dạng ngôi điện và khôi lỗi ở các chương tiếp theo.
