@@ -2397,3 +2397,8 @@ Nguồn: file CHUONG 940.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 941 — Bao Vây Chặn Đánh: hoàn thành 4 trang
 Nguồn: file CHUONG 941.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/941/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Bổ sung hai bảng tham chiếu cho bốn khôi lỗi mặt thú và chìa khóa đỏ.
+
+
+## Chương 942 — Thoát Khốn: hoàn thành 4 trang
+Nguồn: file CHUONG 942.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/942/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Giữ tạo hình của khôi lỗi mặt sói, hổ, rắn, viên và hai nhân vật chính.
