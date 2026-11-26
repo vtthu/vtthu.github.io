@@ -2610,3 +2610,8 @@ Nguồn: file CHUONG 938.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 939 — Tầng Tầng Ngăn Chặn: hoàn thành 4 trang
 Nguồn: file CHUONG 939.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/939/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Dùng lại mẫu tượng đá và khôi lỗi chương 938 làm tham chiếu trực tiếp.
+
+
+## Chương 940 — Chiếc Chìa Khóa Màu Máu: hoàn thành 4 trang
+Nguồn: file CHUONG 940.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/940/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Dùng lại mẫu khôi lỗi và giữ Thạch Xuyên Không cầm trượng tím đen.
