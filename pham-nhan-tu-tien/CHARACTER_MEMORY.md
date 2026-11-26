@@ -2595,3 +2595,8 @@ Nguồn: file CHUONG 935.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 936 — Bất Hòa: hoàn thành 4 trang
 Nguồn: file CHUONG 936.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/936/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Dùng lại bảng 935 và Cốt Thiên Tầm từ chương 870. Giữ tóc trắng xoăn ngắn của Thạch Xuyên Không sau khi mặt nạ vỡ.
+
+
+## Chương 937 — Thánh Hài: hoàn thành 4 trang
+Nguồn: file CHUONG 937.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/937/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Giữ mẫu Cốt Thiên Tầm, Hàn Lập, Thạch Xuyên Không và Phương Thiên Ách.

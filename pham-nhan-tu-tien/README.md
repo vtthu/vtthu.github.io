@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 937: Thánh Hài](chapters/937/): 4 trang, hoàn thành; [PDF A4](chapters/937/chuong-937.pdf)
+
 - [Chương 936: Bất Hòa](chapters/936/): 4 trang, hoàn thành; [PDF A4](chapters/936/chuong-936.pdf)
 
 - [Chương 935: Chân Tướng?](chapters/935/): 4 trang, hoàn thành; [PDF A4](chapters/935/chuong-935.pdf)
