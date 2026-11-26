@@ -1,0 +1,42 @@
+{
+  "chapter": 941,
+  "title": "Bao Vây Chặn Đánh",
+  "images": [
+    "/tmp/comic-batch-935-944/a4-941/trang-01.png",
+    "/tmp/comic-batch-935-944/a4-941/trang-02.png",
+    "/tmp/comic-batch-935-944/a4-941/trang-03.png",
+    "/tmp/comic-batch-935-944/a4-941/trang-04.png"
+  ],
+  "models": [
+    "chu-huynh-muoi-phong-vo-tran-thach-xuyen-khong-917.png",
+    "cu-vien-khoi-loi-chia-khoa-huyet-ngoc-941.png",
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "khau-loi-soi-ho-ran-941.png"
+  ],
+  "summary": "Hàn Lập và Thạch Xuyên Không bị các khôi lỗi mặt thú bao vây. Từng đòn phản công mở ra cơ hội phá vòng vây.",
+  "notes": "- Bổ sung hai bảng tham chiếu cho bốn khôi lỗi mặt thú và chìa khóa đỏ.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-935-944/941p1.png",
+    "/tmp/comic-generated-935-944/941p2.png",
+    "/tmp/comic-generated-935-944/941p3.png",
+    "/tmp/comic-generated-935-944/941p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

@@ -2392,3 +2392,8 @@ Nguồn: file CHUONG 939.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 940 — Chiếc Chìa Khóa Màu Máu: hoàn thành 4 trang
 Nguồn: file CHUONG 940.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/940/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Dùng lại mẫu khôi lỗi và giữ Thạch Xuyên Không cầm trượng tím đen.
+
+
+## Chương 941 — Bao Vây Chặn Đánh: hoàn thành 4 trang
+Nguồn: file CHUONG 941.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/941/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Bổ sung hai bảng tham chiếu cho bốn khôi lỗi mặt thú và chìa khóa đỏ.

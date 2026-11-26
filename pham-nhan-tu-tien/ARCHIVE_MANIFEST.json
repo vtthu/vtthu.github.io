@@ -6326,23 +6326,49 @@
           1492
         ]
       }
+    },
+    {
+      "chapter": 941,
+      "pages": 4,
+      "directory": "chapters/941",
+      "edition": "user-uploaded-text-adaptation",
+      "original_model_reference": true,
+      "pdf": "chapters/941/chuong-941.pdf",
+      "png_sizes": {
+        "trang-01.png": [
+          1055,
+          1492
+        ],
+        "trang-02.png": [
+          1055,
+          1492
+        ],
+        "trang-03.png": [
+          1055,
+          1492
+        ],
+        "trang-04.png": [
+          1055,
+          1492
+        ]
+      }
     }
   ],
   "files": [
     {
       "path": "CHARACTER_MEMORY.md",
-      "bytes": 533656,
-      "sha256": "7e2b9e8c63ce9c6e7dd5de328fb82de94f13be5cd6a08f5ec933ae92a344164d"
+      "bytes": 534091,
+      "sha256": "808dc8f0ea694ed840bcdf4798dd28c13112e9bec75175666f1aeb70cbb92571"
     },
     {
       "path": "PROJECT_MEMORY.md",
-      "bytes": 479872,
-      "sha256": "7b45d39441c1de884e3f2832aaa5fd4046a73d47bffdb7a828e91768ad3e79dd"
+      "bytes": 480307,
+      "sha256": "bf67450fd426cac511f7857e71f1da7cfe6ca9cf87e6fd0b97df5309410e9296"
     },
     {
       "path": "README.md",
-      "bytes": 30018,
-      "sha256": "1705668dc0769bd19a0b180f909f4a4ea4f20340cce8bb2f8713ff9a9a830366"
+      "bytes": 30137,
+      "sha256": "ceff3d7cab53ae27a68ae111e2f5614697a50405ee8d0018e031dd2684a60b8b"
     },
     {
       "path": "chapters/441/trang-01.png",
@@ -15205,6 +15231,41 @@
       "sha256": "ad15c4ccd658fd27218f87aae19a85feed8388b61563333b0bb71806c59247f1"
     },
     {
+      "path": "chapters/941/README.md",
+      "bytes": 539,
+      "sha256": "fb11d23b854e7ae81c4426c4df70fa464c0eea068ee909752347e1d823b090aa"
+    },
+    {
+      "path": "chapters/941/SOURCE.txt",
+      "bytes": 17859,
+      "sha256": "3f20668e7c604b0ca83ad8bc6f903799369e64c9f9103ed4a517b4efb35b3ad7"
+    },
+    {
+      "path": "chapters/941/chuong-941.pdf",
+      "bytes": 20251908,
+      "sha256": "81869630560adb9ac839af4d0617a452d82202177edad1dec62db9f58a7c72be"
+    },
+    {
+      "path": "chapters/941/trang-01.png",
+      "bytes": 3987440,
+      "sha256": "a06a3cb38d0888618a7faa73987e87fc8aff6ec5f243a2cc29c504415a5c71db"
+    },
+    {
+      "path": "chapters/941/trang-02.png",
+      "bytes": 4110894,
+      "sha256": "64b8028b61447e810b3ac708ed5233e92bf0e75e9b0b03651acf1697a0d97322"
+    },
+    {
+      "path": "chapters/941/trang-03.png",
+      "bytes": 4103448,
+      "sha256": "bb2f789beb04b6c1a1920620f3c47ff1b7f308d6170a8516dc635cc21e320190"
+    },
+    {
+      "path": "chapters/941/trang-04.png",
+      "bytes": 3999055,
+      "sha256": "f35faa48fabe74ac99de0d0ab3aa01c8207e4824a2a9891ae02b371de6410b73"
+    },
+    {
       "path": "drafts/468/README.md",
       "bytes": 844,
       "sha256": "ec62133989ea1c23b6d2d938d8724bded7fcb5238871fe86b25f6132cb2c74c7"
@@ -19465,6 +19526,26 @@
       "sha256": "9b59ae761b7fb07a785862395af339ce81112cec57a2670b1926e8d23e2ad568"
     },
     {
+      "path": "history/comic-941/CHARACTER_MEMORY.md",
+      "bytes": 534091,
+      "sha256": "808dc8f0ea694ed840bcdf4798dd28c13112e9bec75175666f1aeb70cbb92571"
+    },
+    {
+      "path": "history/comic-941/MANIFEST.json",
+      "bytes": 1204,
+      "sha256": "7175b5e1a8da25eb663afed7398bc52908b214213aac2771695861531cc1bddc"
+    },
+    {
+      "path": "history/comic-941/PROJECT_MEMORY.md",
+      "bytes": 480307,
+      "sha256": "bf67450fd426cac511f7857e71f1da7cfe6ca9cf87e6fd0b97df5309410e9296"
+    },
+    {
+      "path": "history/comic-941/README.md",
+      "bytes": 473,
+      "sha256": "254a78ba9468751b2388ba5f58581ae84693c1b3d6a95e38ec8ff369c81f65ac"
+    },
+    {
       "path": "history/comic-summary-465-470/CHARACTER_MEMORY.md",
       "bytes": 45781,
       "sha256": "79205f469e487ab72667d25ae1746c9e1bd990aed72046842aa6e81c970e951f"
@@ -19653,6 +19734,11 @@
       "path": "models/cu-vien-duoc-vien-nhi-chi-625.png",
       "bytes": 3092405,
       "sha256": "c4af433e5eedc880dd1325baec613c601eb4e688a51b2cf119460b93aab5f564"
+    },
+    {
+      "path": "models/cu-vien-khoi-loi-chia-khoa-huyet-ngoc-941.png",
+      "bytes": 2069279,
+      "sha256": "0d43be6b3f144a5e0d1151fb10dfe08ee6b1846ca7addf91692b10f342854000"
     },
     {
       "path": "models/cua-thai-at-lang-mo-truyen-tin-phi-yen-478.png",
@@ -19933,6 +20019,11 @@
       "path": "models/khac-don-bach-cot-tu-kim-tien-556.png",
       "bytes": 3129190,
       "sha256": "62f15386bde5e814c4ccc738832988a8a3ee5879d0c7dde16ace9e77171b13f4"
+    },
+    {
+      "path": "models/khau-loi-soi-ho-ran-941.png",
+      "bytes": 2550649,
+      "sha256": "d4eebb6bedaa7063bca75df7cdb7d31dd2d3a8df3413eaabaa5f1c9665ea4860"
     },
     {
       "path": "models/kho-lac-thao-hoa-tam-thach-dan-tuu-604.png",

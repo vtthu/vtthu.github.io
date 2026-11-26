@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 941: Bao Vây Chặn Đánh](chapters/941/): 4 trang, hoàn thành; [PDF A4](chapters/941/chuong-941.pdf)
+
 - [Chương 940: Chiếc Chìa Khóa Màu Máu](chapters/940/): 4 trang, hoàn thành; [PDF A4](chapters/940/chuong-940.pdf)
 
 - [Chương 939: Tầng Tầng Ngăn Chặn](chapters/939/): 4 trang, hoàn thành; [PDF A4](chapters/939/chuong-939.pdf)
