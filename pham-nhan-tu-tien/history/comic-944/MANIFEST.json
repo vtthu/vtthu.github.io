@@ -1,0 +1,41 @@
+{
+  "chapter": 944,
+  "title": "Thần Niệm Chém Phù Linh",
+  "images": [
+    "/tmp/comic-batch-935-944/a4-944/trang-01.png",
+    "/tmp/comic-batch-935-944/a4-944/trang-02.png",
+    "/tmp/comic-batch-935-944/a4-944/trang-03.png",
+    "/tmp/comic-batch-935-944/a4-944/trang-04.png"
+  ],
+  "models": [
+    "chu-huynh-muoi-phong-vo-tran-thach-xuyen-khong-917.png",
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "phu-linh-thien-khoi-huyen-tuong-943.png"
+  ],
+  "summary": "Hàn Lập thử sức mạnh thần niệm trước các Phù Linh. Một Phù Linh giáp trụ cầm kích xuất hiện khi trận đấu chưa ngã ngũ.",
+  "notes": "- Dùng lại Phù Linh từ bảng chương 943 và phân biệt ba Phù Linh thường với Phù Linh giáp trụ cầm kích.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-935-944/944p1.png",
+    "/tmp/comic-generated-935-944/944p2.png",
+    "/tmp/comic-generated-935-944/944p3.png",
+    "/tmp/comic-generated-935-944/944p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

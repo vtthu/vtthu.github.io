@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 944: Thần Niệm Chém Phù Linh](chapters/944/): 4 trang, hoàn thành; [PDF A4](chapters/944/chuong-944.pdf)
+
 - [Chương 943: Toà Tế Đàn Thứ Hai](chapters/943/): 4 trang, hoàn thành; [PDF A4](chapters/943/chuong-943.pdf)
 
 - [Chương 942: Thoát Khốn](chapters/942/): 4 trang, hoàn thành; [PDF A4](chapters/942/chuong-942.pdf)

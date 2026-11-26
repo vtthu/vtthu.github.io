@@ -2630,3 +2630,8 @@ Nguồn: file CHUONG 942.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 943 — Toà Tế Đàn Thứ Hai: hoàn thành 4 trang
 Nguồn: file CHUONG 943.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/943/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Bổ sung bảng Phù Linh và mẫu U Minh Điện để dùng lại ở chương tiếp theo.
+
+
+## Chương 944 — Thần Niệm Chém Phù Linh: hoàn thành 4 trang
+Nguồn: file CHUONG 944.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/944/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Dùng lại Phù Linh từ bảng chương 943 và phân biệt ba Phù Linh thường với Phù Linh giáp trụ cầm kích.
