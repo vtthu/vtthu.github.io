@@ -2585,3 +2585,8 @@ Nguồn: file CHUONG 921.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 922 — Cùng Tạo Tinh Chu: hoàn thành 4 trang
 Nguồn: file CHUONG 922.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/922/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Lữ Cương cao gầy tóc vàng; Lương Phiệt thấp mập. Bút xương đầu nhọn, đầu kia có nang trong chứa tinh dịch bạc. Phi chu chưa hoàn thành.
+
+
+## Chương 935 — Chân Tướng?: hoàn thành 4 trang
+Nguồn: file CHUONG 935.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/935/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Dùng lại Hàn Lập và Thạch Xuyên Không từ các bảng tham chiếu đã lưu. Bổ sung bảng Thạch Trảm Phong, Đỗ Nguyên, nữ tử cầm cốt tiên và Ma Viên.

@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 935: Chân Tướng?](chapters/935/): 4 trang, hoàn thành; [PDF A4](chapters/935/chuong-935.pdf)
+
 - [Chương 922: Cùng Tạo Tinh Chu](chapters/922/): 4 trang, hoàn thành; [PDF A4](chapters/922/chuong-922.pdf)
 
 - [Chương 921: Đặc Lập Độc Hành (Hành Động Khác Biệt)](chapters/921/): 4 trang, hoàn thành; [PDF A4](chapters/921/chuong-921.pdf)
