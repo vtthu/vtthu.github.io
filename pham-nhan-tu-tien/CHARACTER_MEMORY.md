@@ -2605,3 +2605,8 @@ Nguồn: file CHUONG 937.txt do người dùng đính kèm. Mỗi PNG một tran
 ## Chương 938 — Dị Động: hoàn thành 4 trang
 Nguồn: file CHUONG 938.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/938/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
 - Bổ sung bảng tượng đá và Thiên Lôi Lực Sĩ để đồng nhất hình dạng ngôi điện và khôi lỗi ở các chương tiếp theo.
+
+
+## Chương 939 — Tầng Tầng Ngăn Chặn: hoàn thành 4 trang
+Nguồn: file CHUONG 939.txt do người dùng đính kèm. Mỗi PNG một trang A4 dọc; có thoại, suy nghĩ và lời dẫn. Gắn trực tiếp PNG model gốc tương ứng trong các lần tạo. Bộ chính chapters/939/ gồm 4 PNG, PDF A4, SOURCE.txt và README.
+- Dùng lại mẫu tượng đá và khôi lỗi chương 938 làm tham chiếu trực tiếp.

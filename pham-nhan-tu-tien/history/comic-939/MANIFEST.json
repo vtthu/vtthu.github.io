@@ -1,0 +1,41 @@
+{
+  "chapter": 939,
+  "title": "Tầng Tầng Ngăn Chặn",
+  "images": [
+    "/tmp/comic-batch-935-944/a4-939/trang-01.png",
+    "/tmp/comic-batch-935-944/a4-939/trang-02.png",
+    "/tmp/comic-batch-935-944/a4-939/trang-03.png",
+    "/tmp/comic-batch-935-944/a4-939/trang-04.png"
+  ],
+  "models": [
+    "chu-huynh-muoi-phong-vo-tran-thach-xuyen-khong-917.png",
+    "han-lap-huyen-dau-si-mat-seo-861.png",
+    "than-dien-thien-loi-luc-si-938.png"
+  ],
+  "summary": "Các tượng đá lần lượt thức dậy. Hàn Lập và Thạch Xuyên Không đối mặt với khôi lỗi quỷ có cánh và cây trượng tím đen.",
+  "notes": "- Dùng lại mẫu tượng đá và khôi lỗi chương 938 làm tham chiếu trực tiếp.",
+  "raw_generated_images": [
+    "/tmp/comic-generated-935-944/939p1.png",
+    "/tmp/comic-generated-935-944/939p2.png",
+    "/tmp/comic-generated-935-944/939p3.png",
+    "/tmp/comic-generated-935-944/939p4.png"
+  ],
+  "png_sizes": {
+    "trang-01.png": [
+      1055,
+      1492
+    ],
+    "trang-02.png": [
+      1055,
+      1492
+    ],
+    "trang-03.png": [
+      1055,
+      1492
+    ],
+    "trang-04.png": [
+      1055,
+      1492
+    ]
+  }
+}

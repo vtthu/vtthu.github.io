@@ -89,6 +89,8 @@ Kho lưu các chương truyện, bản nháp được ghi rõ trạng thái, ả
 
 ## Các chương
 
+- [Chương 939: Tầng Tầng Ngăn Chặn](chapters/939/): 4 trang, hoàn thành; [PDF A4](chapters/939/chuong-939.pdf)
+
 - [Chương 938: Dị Động](chapters/938/): 4 trang, hoàn thành; [PDF A4](chapters/938/chuong-938.pdf)
 
 - [Chương 937: Thánh Hài](chapters/937/): 4 trang, hoàn thành; [PDF A4](chapters/937/chuong-937.pdf)
